@@ -1,0 +1,6 @@
+frida==15.1.24
+frida-tools==10.6.2
+matplotlib==3.6.0
+networkx==3.1
+pytesseract==0.3.10
+uiautomator2==2.16.25

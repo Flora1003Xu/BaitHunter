@@ -1,0 +1,17 @@
+/dumpjson/
+/__pycache__/
+/PrivacyData/
+/Log/
+/.idea/
+/SavedInstance/
+*.pyc
+.DS_Store
+/Screenshot/
+/svgSaveDir/
+/collectData/
+tmp.txt
+/venv
+profile.stats
+/tests/utilsTest/OCRUtilsTest/collectData/
+*zip
+/services/mislead_detector/mislead_res/
