@@ -25,6 +25,8 @@ Create a yaml file for your dataset in /data, you can copy coco.yaml and modify 
 python train.py
 ```
 
+Our training subset is located in /label_data_org.
+
 ### Test Detection
 
 ```

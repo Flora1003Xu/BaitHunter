@@ -16,11 +16,15 @@ python voc_label.py //文件中classes需要替换为标注的类别名称
 /data下创建自己数据集的yaml文件，可复制coco.yaml并将train、val、test字段修改为上述代码运行后生成的三个文本文件（.txt）的相对路径
 
 ### 训练
+
 ```
 python train.py
 ```
 
+我们的一个训练子集放在/label_data_org下
+
 ### 测试检测
+
 ```
 python detect.py
 ```
