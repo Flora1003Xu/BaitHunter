@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+          "click_id": "20",
+          "click_content": "取消",
+          "group": [
+            {
+              "content_id": "20",
+              "content": "取消"
+            },
+            {
+              "content_id": "21",
+              "content": "完成"
+            },
+            {
+              "content_id": "22",
+              "content": "音乐歌单"
+            },
+            {
+              "content_id": "23",
+              "content": "视频歌单G"
+            },
+            {
+              "content_id": "24",
+              "content": "什么是视频歌单"
+            },
+            {
+              "content_id": "25",
+              "content": "输入新建歌单标题"
+            },
+            {
+              "content_id": "26",
+              "content": "0/40"
+            },
+            {
+              "content_id": "27",
+              "content": "设置为隐私歌单"
+            }
+          ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>shark</folder>
+	<filename>72f0ea306b81151c2ce89cc95108949773a3fce0d4e0aa0bd01c75b93994633e.png</filename>
+	<path>C:\Users\86136\PycharmProjects\pythonProject\result_final\shark\72f0ea306b81151c2ce89cc95108949773a3fce0d4e0aa0bd01c75b93994633e.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>295</ymin>
+			<xmax>1063</xmax>
+			<ymax>1304</ymax>
+		</bndbox>
+	</object>
+</annotation>

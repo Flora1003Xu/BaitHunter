@@ -1,0 +1,607 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                218,
+                68
+            ],
+            "bottom_right": [
+                696,
+                191
+            ],
+            "content": "我的积分",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18584946762408008,
+            "font_size": 64,
+            "top_left": [
+                440,
+                129
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                218,
+                68
+            ],
+            "bottom_right": [
+                955,
+                191
+            ],
+            "content": "积分规则",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18584946762408008,
+            "font_size": 64,
+            "top_left": [
+                699,
+                129
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                218,
+                68
+            ],
+            "bottom_right": [
+                636,
+                510
+            ],
+            "content": "积分明细>",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18814253708406095,
+            "font_size": 36,
+            "top_left": [
+                456,
+                467
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                157,
+                761
+            ],
+            "content": "今日",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0845301728503766,
+            "font_size": 29,
+            "top_left": [
+                99,
+                717
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                215,
+                761
+            ],
+            "content": "明日",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0845301728503766,
+            "font_size": 29,
+            "top_left": [
+                157,
+                717
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                331,
+                761
+            ],
+            "content": "7.26",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05155050813908231,
+            "font_size": 29,
+            "top_left": [
+                215,
+                717
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                448,
+                761
+            ],
+            "content": "7.27",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05155050813908231,
+            "font_size": 29,
+            "top_left": [
+                332,
+                717
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                565,
+                761
+            ],
+            "content": "7.28",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05155050813908231,
+            "font_size": 29,
+            "top_left": [
+                449,
+                717
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                682,
+                761
+            ],
+            "content": "7.29",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05155050813908231,
+            "font_size": 29,
+            "top_left": [
+                566,
+                717
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                799,
+                761
+            ],
+            "content": "7.30",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05155050813908231,
+            "font_size": 29,
+            "top_left": [
+                683,
+                717
+            ]
+        },
+        {
+            "bg_color": [
+                237,
+                239,
+                241
+            ],
+            "bottom_right": [
+                706,
+                890
+            ],
+            "content": "明日签到领2积分",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14609553884831308,
+            "font_size": 44,
+            "top_left": [
+                354,
+                829
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                227,
+                1075
+            ],
+            "content": "新手任务",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24944222933144286,
+            "font_size": 50,
+            "top_left": [
+                27,
+                1022
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                353,
+                1174
+            ],
+            "content": "绑定微信",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0845301728503766,
+            "font_size": 42,
+            "top_left": [
+                185,
+                1126
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                218,
+                68
+            ],
+            "bottom_right": [
+                991,
+                1195
+            ],
+            "content": "去绑定",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.319209129883546,
+            "font_size": 41,
+            "top_left": [
+                868,
+                1153
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                294,
+                1226
+            ],
+            "content": "+5积分",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.044004077260275436,
+            "font_size": 27,
+            "top_left": [
+                186,
+                1184
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                465,
+                1320
+            ],
+            "content": "设置头像和昵称",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0845301728503766,
+            "font_size": 40,
+            "top_left": [
+                185,
+                1272
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                766,
+                1350
+            ],
+            "content": "去设置",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24028491936191002,
+            "font_size": 227,
+            "top_left": [
+                85,
+                1291
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                298,
+                1372
+            ],
+            "content": "+5积分",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.044004077260275436,
+            "font_size": 28,
+            "top_left": [
+                186,
+                1329
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                228,
+                1538
+            ],
+            "content": "每日任多",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24944222933144286,
+            "font_size": 50,
+            "top_left": [
+                28,
+                1482
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                268,
+                1638
+            ],
+            "content": "记账",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0845301728503766,
+            "font_size": 41,
+            "top_left": [
+                186,
+                1593
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                218,
+                68
+            ],
+            "bottom_right": [
+                991,
+                1658
+            ],
+            "content": "去记账",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.319209129883546,
+            "font_size": 41,
+            "top_left": [
+                868,
+                1613
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                297,
+                1685
+            ],
+            "content": "+1积分",
+            "content_id": "22",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.044004077260275436,
+            "font_size": 28,
+            "top_left": [
+                185,
+                1647
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                425,
+                1783
+            ],
+            "content": "观看广告视频",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0845301728503766,
+            "font_size": 40,
+            "top_left": [
+                185,
+                1738
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                218,
+                68
+            ],
+            "bottom_right": [
+                979,
+                1803
+            ],
+            "content": "去看看",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.319209129883546,
+            "font_size": 37,
+            "top_left": [
+                868,
+                1758
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                297,
+                1835
+            ],
+            "content": "+1积分",
+            "content_id": "25",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.044004077260275436,
+            "font_size": 28,
+            "top_left": [
+                185,
+                1795
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                464,
+                1999
+            ],
+            "content": "积分抽奖",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0845301728503766,
+            "font_size": 109,
+            "top_left": [
+                28,
+                1952
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                900,
+                1999
+            ],
+            "content": "中奖记录",
+            "content_id": "27",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004848583689317304,
+            "font_size": 109,
+            "top_left": [
+                464,
+                1952
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                406,
+                2246
+            ],
+            "content": "幸运大转盘",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0845301728503766,
+            "font_size": 58,
+            "top_left": [
+                116,
+                2202
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                583,
+                2246
+            ],
+            "content": "大乐经",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0845301728503766,
+            "font_size": 58,
+            "top_left": [
+                409,
+                2202
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                816,
+                2246
+            ],
+            "content": "积分夺宝",
+            "content_id": "30",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 58,
+            "top_left": [
+                584,
+                2202
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "22c1e6f9560736221e4944e80a08722b5be216e0e544a6e1a1f73672a01cead7"
+}

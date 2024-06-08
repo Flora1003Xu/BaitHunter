@@ -1,0 +1,1187 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                516,
+                271
+            ],
+            "content": "178******38",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1242478833300514,
+            "font_size": 42,
+            "top_left": [
+                54,
+                224
+            ]
+        },
+        {
+            "bg_color": [
+                30,
+                31,
+                36
+            ],
+            "bottom_right": [
+                979,
+                271
+            ],
+            "content": "清理缓存等工具移到这了",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10666685482365915,
+            "font_size": 42,
+            "top_left": [
+                517,
+                224
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                255,
+                252
+            ],
+            "bottom_right": [
+                446,
+                339
+            ],
+            "content": "已识别本机号码,可一键登录",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09454526630107968,
+            "font_size": 31,
+            "top_left": [
+                43,
+                295
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                636,
+                419
+            ],
+            "content": "其他登录方式",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18325723246712766,
+            "font_size": 37,
+            "top_left": [
+                414,
+                373
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                250,
+                230
+            ],
+            "bottom_right": [
+                751,
+                545
+            ],
+            "content": "DU会员超值省钱权益,尊享身份特权",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18583497330320342,
+            "font_size": 41,
+            "top_left": [
+                54,
+                497
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                250,
+                230
+            ],
+            "bottom_right": [
+                964,
+                545
+            ],
+            "content": "立享特权",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1819579989524425,
+            "font_size": 41,
+            "top_left": [
+                759,
+                497
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                207,
+                739
+            ],
+            "content": "消息",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 53,
+            "top_left": [
+                101,
+                695
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                313,
+                739
+            ],
+            "content": "收藏",
+            "content_id": "8",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 53,
+            "top_left": [
+                207,
+                695
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                419,
+                739
+            ],
+            "content": "历史",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 53,
+            "top_left": [
+                313,
+                695
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                525,
+                739
+            ],
+            "content": "书架",
+            "content_id": "10",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 53,
+            "top_left": [
+                419,
+                695
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                790,
+                739
+            ],
+            "content": "文件/下载",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 53,
+            "top_left": [
+                525,
+                695
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                209,
+                924
+            ],
+            "content": "订单",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 54,
+            "top_left": [
+                101,
+                880
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                317,
+                924
+            ],
+            "content": "网盘",
+            "content_id": "13",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 54,
+            "top_left": [
+                209,
+                880
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                533,
+                924
+            ],
+            "content": "创作中心",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 54,
+            "top_left": [
+                317,
+                880
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                641,
+                924
+            ],
+            "content": "赞过",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 54,
+            "top_left": [
+                533,
+                880
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                749,
+                924
+            ],
+            "content": "更多",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 54,
+            "top_left": [
+                641,
+                880
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                414,
+                1109
+            ],
+            "content": "C",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "font_size": 117,
+            "top_left": [
+                297,
+                1044
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                648,
+                1109
+            ],
+            "content": "DC",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "font_size": 117,
+            "top_left": [
+                414,
+                1044
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                232,
+                1161
+            ],
+            "content": "活动提现",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 40,
+            "top_left": [
+                72,
+                1116
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                354,
+                1161
+            ],
+            "content": "卡券包",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 40,
+            "top_left": [
+                234,
+                1116
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                515,
+                1161
+            ],
+            "content": "百度闪付",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 40,
+            "top_left": [
+                355,
+                1116
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                717,
+                1161
+            ],
+            "content": "度小满钱包",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 40,
+            "top_left": [
+                517,
+                1116
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                799,
+                1161
+            ],
+            "content": "钱包",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 40,
+            "top_left": [
+                719,
+                1116
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                199,
+                1201
+            ],
+            "content": "秒到账",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 37,
+            "top_left": [
+                88,
+                1158
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                349,
+                1201
+            ],
+            "content": "限时优惠",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 37,
+            "top_left": [
+                201,
+                1158
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                500,
+                1201
+            ],
+            "content": "银行借款",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 37,
+            "top_left": [
+                352,
+                1158
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                688,
+                1201
+            ],
+            "content": "借款享免息",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 37,
+            "top_left": [
+                503,
+                1158
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                839,
+                1201
+            ],
+            "content": "查看余额",
+            "content_id": "28",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04739084187135621,
+            "font_size": 37,
+            "top_left": [
+                691,
+                1158
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                786,
+                1365
+            ],
+            "content": "且",
+            "content_id": "29",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "font_size": 90,
+            "top_left": [
+                696,
+                1300
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                254,
+                255
+            ],
+            "bottom_right": [
+                876,
+                1365
+            ],
+            "content": "可",
+            "content_id": "30",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007736911698213625,
+            "font_size": 90,
+            "top_left": [
+                786,
+                1300
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                252,
+                1415
+            ],
+            "content": "马上提问",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 45,
+            "top_left": [
+                72,
+                1368
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                388,
+                1415
+            ],
+            "content": "问医生",
+            "content_id": "32",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 45,
+            "top_left": [
+                253,
+                1368
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                524,
+                1415
+            ],
+            "content": "问情感",
+            "content_id": "33",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03219593202388456,
+            "font_size": 45,
+            "top_left": [
+                389,
+                1368
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                660,
+                1415
+            ],
+            "content": "同城答",
+            "content_id": "34",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 45,
+            "top_left": [
+                525,
+                1368
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                796,
+                1415
+            ],
+            "content": "问一问",
+            "content_id": "35",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 45,
+            "top_left": [
+                661,
+                1368
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                226,
+                1455
+            ],
+            "content": "限时特惠",
+            "content_id": "36",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 38,
+            "top_left": [
+                74,
+                1412
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                379,
+                1455
+            ],
+            "content": "百度健康",
+            "content_id": "37",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 38,
+            "top_left": [
+                227,
+                1412
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                532,
+                1455
+            ],
+            "content": "专业疏导",
+            "content_id": "38",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 38,
+            "top_left": [
+                380,
+                1412
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                685,
+                1455
+            ],
+            "content": "等你回答",
+            "content_id": "39",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 38,
+            "top_left": [
+                533,
+                1412
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                838,
+                1455
+            ],
+            "content": "专家在线",
+            "content_id": "40",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 38,
+            "top_left": [
+                686,
+                1412
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                165,
+                1612
+            ],
+            "content": "苏宁易购",
+            "content_id": "41",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2225843227236664,
+            "font_size": 13,
+            "top_left": [
+                113,
+                1590
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                568,
+                1653
+            ],
+            "content": "58",
+            "content_id": "42",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.38886935276174817,
+            "font_size": 36,
+            "top_left": [
+                496,
+                1593
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                220,
+                1725
+            ],
+            "content": "苏宁易购",
+            "content_id": "43",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 37,
+            "top_left": [
+                72,
+                1681
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                334,
+                1725
+            ],
+            "content": "希财网",
+            "content_id": "44",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 37,
+            "top_left": [
+                223,
+                1681
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                484,
+                1725
+            ],
+            "content": "58同城",
+            "content_id": "45",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 37,
+            "top_left": [
+                336,
+                1681
+            ]
+        },
+        {
+            "bg_color": [
+                213,
+                213,
+                214
+            ],
+            "bottom_right": [
+                672,
+                1725
+            ],
+            "content": "8684.",
+            "content_id": "46",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1002263487553868,
+            "font_size": 37,
+            "top_left": [
+                487,
+                1681
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                861,
+                1725
+            ],
+            "content": "我的小程序",
+            "content_id": "47",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07931050217791383,
+            "font_size": 37,
+            "top_left": [
+                676,
+                1681
+            ]
+        },
+        {
+            "bg_color": [
+                245,
+                246,
+                249
+            ],
+            "bottom_right": [
+                431,
+                1860
+            ],
+            "content": "经常使用",
+            "content_id": "48",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07056305826599352,
+            "font_size": 100,
+            "top_left": [
+                31,
+                1815
+            ]
+        },
+        {
+            "bg_color": [
+                245,
+                246,
+                249
+            ],
+            "bottom_right": [
+                933,
+                1860
+            ],
+            "content": "管理卡片",
+            "content_id": "49",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.001062319649153304,
+            "font_size": 100,
+            "top_left": [
+                433,
+                1815
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                241,
+                1990
+            ],
+            "content": "便民服务",
+            "content_id": "50",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 43,
+            "top_left": [
+                69,
+                1930
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                241,
+                2198
+            ],
+            "content": "快递服务",
+            "content_id": "51",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "font_size": 39,
+            "top_left": [
+                85,
+                2154
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                398,
+                2198
+            ],
+            "content": "车主服务",
+            "content_id": "52",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "font_size": 39,
+            "top_left": [
+                242,
+                2154
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                555,
+                2198
+            ],
+            "content": "教育考试",
+            "content_id": "53",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "font_size": 39,
+            "top_left": [
+                399,
+                2154
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                673,
+                2198
+            ],
+            "content": "公积金",
+            "content_id": "54",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "font_size": 39,
+            "top_left": [
+                556,
+                2154
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                830,
+                2198
+            ],
+            "content": "社保服务",
+            "content_id": "55",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "font_size": 39,
+            "top_left": [
+                674,
+                2154
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                249,
+                2349
+            ],
+            "content": "百度",
+            "content_id": "56",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 81,
+            "top_left": [
+                87,
+                2308
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                411,
+                2349
+            ],
+            "content": "视频",
+            "content_id": "57",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02664484085678637,
+            "font_size": 81,
+            "top_left": [
+                249,
+                2308
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                573,
+                2349
+            ],
+            "content": "商块",
+            "content_id": "58",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18325723246712766,
+            "font_size": 81,
+            "top_left": [
+                411,
+                2308
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                735,
+                2349
+            ],
+            "content": "我的",
+            "content_id": "59",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18325723246712766,
+            "font_size": 81,
+            "top_left": [
+                573,
+                2308
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "9e976badf9759d240af85929a99c7d1aedec2185459122ad9cf9a1ca31a3bdb5"
+}

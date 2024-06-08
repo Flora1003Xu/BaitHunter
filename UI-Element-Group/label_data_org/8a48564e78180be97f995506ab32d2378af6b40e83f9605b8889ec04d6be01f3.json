@@ -1,0 +1,427 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                16,
+                13,
+                11
+            ],
+            "bottom_right": [
+                639,
+                197
+            ],
+            "content": "高考词汇",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11878390924601853,
+            "font_size": 50,
+            "top_left": [
+                439,
+                135
+            ]
+        },
+        {
+            "bg_color": [
+                16,
+                13,
+                11
+            ],
+            "bottom_right": [
+                537,
+                325
+            ],
+            "content": "单词数4135",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11880228696991194,
+            "font_size": 32,
+            "top_left": [
+                313,
+                280
+            ]
+        },
+        {
+            "bg_color": [
+                16,
+                13,
+                11
+            ],
+            "bottom_right": [
+                976,
+                398
+            ],
+            "content": "完整收录高考基础词汇和高分词汇,适合全",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09777975227338533,
+            "font_size": 35,
+            "top_left": [
+                311,
+                351
+            ]
+        },
+        {
+            "bg_color": [
+                16,
+                13,
+                11
+            ],
+            "bottom_right": [
+                494,
+                467
+            ],
+            "content": "国各地考生",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07977974303274336,
+            "font_size": 36,
+            "top_left": [
+                314,
+                422
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                347,
+                696
+            ],
+            "content": "已学单词",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5394270820175091,
+            "font_size": 62,
+            "top_left": [
+                99,
+                650
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                597,
+                696
+            ],
+            "content": "未学单词",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5394270820175091,
+            "font_size": 62,
+            "top_left": [
+                349,
+                650
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                847,
+                696
+            ],
+            "content": "已斩单词",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5394270820175091,
+            "font_size": 62,
+            "top_left": [
+                599,
+                650
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                509,
+                935
+            ],
+            "content": "stra",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016016040175090944,
+            "font_size": 127,
+            "top_left": [
+                1,
+                877
+            ]
+        },
+        {
+            "bg_color": [
+                230,
+                233,
+                238
+            ],
+            "bottom_right": [
+                893,
+                935
+            ],
+            "content": "回斩社",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06395231875833285,
+            "font_size": 127,
+            "top_left": [
+                512,
+                877
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                214,
+                1078
+            ],
+            "content": "zone",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1396205649495084,
+            "font_size": 43,
+            "top_left": [
+                42,
+                1018
+            ]
+        },
+        {
+            "bg_color": [
+                46,
+                47,
+                48
+            ],
+            "bottom_right": [
+                817,
+                1078
+            ],
+            "content": "《左滑可以\"斩”和\"收藏”哦",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03786138507866036,
+            "font_size": 43,
+            "top_left": [
+                215,
+                1018
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                179,
+                1213
+            ],
+            "content": "zipper",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1396205649495084,
+            "font_size": 23,
+            "top_left": [
+                41,
+                1166
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                103,
+                1352
+            ],
+            "content": "zip",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1396205649495084,
+            "font_size": 22,
+            "top_left": [
+                37,
+                1300
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                608,
+                1382
+            ],
+            "content": "知道了",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03786138507866036,
+            "font_size": 51,
+            "top_left": [
+                455,
+                1320
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                166,
+                1485
+            ],
+            "content": "zebra",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1396205649495084,
+            "font_size": 27,
+            "top_left": [
+                31,
+                1440
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                196,
+                1628
+            ],
+            "content": "yummy",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1396205649495084,
+            "font_size": 33,
+            "top_left": [
+                31,
+                1583
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                172,
+                1757
+            ],
+            "content": "youth",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1396205649495084,
+            "font_size": 29,
+            "top_left": [
+                27,
+                1725
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                254,
+                1899
+            ],
+            "content": "youngster",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1396205649495084,
+            "font_size": 25,
+            "top_left": [
+                29,
+                1860
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                180,
+                2041
+            ],
+            "content": "young",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1396205649495084,
+            "font_size": 30,
+            "top_left": [
+                30,
+                1998
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                184,
+                2175
+            ],
+            "content": "yogurt",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1396205649495084,
+            "font_size": 26,
+            "top_left": [
+                28,
+                2140
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                115,
+                2314
+            ],
+            "content": "yet",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1396205649495084,
+            "font_size": 29,
+            "top_left": [
+                28,
+                2274
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "8a48564e78180be97f995506ab32d2378af6b40e83f9605b8889ec04d6be01f3"
+}

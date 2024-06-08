@@ -1,0 +1,307 @@
+{
+    "ui_id": "44e39465769609b4e912eb0d8be473c0179556139ab889170cc828ff4cee43cb",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "设管",
+            "top_left": [
+                490,
+                143
+            ],
+            "bottom_right": [
+                574,
+                194
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876368392025519,
+            "bg_color": [
+                0,
+                185,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "帐号管理",
+            "top_left": [
+                84,
+                315
+            ],
+            "bottom_right": [
+                268,
+                376
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "手机号码",
+            "top_left": [
+                72,
+                465
+            ],
+            "bottom_right": [
+                284,
+                526
+            ],
+            "font_size": 53,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "178*xxx**38>",
+            "top_left": [
+                286,
+                465
+            ],
+            "bottom_right": [
+                922,
+                526
+            ],
+            "font_size": 53,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0044606974697206595,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "帐号安全",
+            "top_left": [
+                72,
+                617
+            ],
+            "bottom_right": [
+                268,
+                678
+            ],
+            "font_size": 49,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "消息通知",
+            "top_left": [
+                72,
+                801
+            ],
+            "bottom_right": [
+                268,
+                861
+            ],
+            "font_size": 49,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "隐私",
+            "top_left": [
+                72,
+                949
+            ],
+            "bottom_right": [
+                170,
+                1010
+            ],
+            "font_size": 49,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "通用",
+            "top_left": [
+                72,
+                1104
+            ],
+            "bottom_right": [
+                170,
+                1160
+            ],
+            "font_size": 49,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "辅助功能",
+            "top_left": [
+                72,
+                1250
+            ],
+            "bottom_right": [
+                268,
+                1312
+            ],
+            "font_size": 49,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "QQ免流量",
+            "top_left": [
+                73,
+                1438
+            ],
+            "bottom_right": [
+                283,
+                1493
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "个人信息收集清单",
+            "top_left": [
+                83,
+                1618
+            ],
+            "bottom_right": [
+                451,
+                1679
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "第三方个人信息共享清单",
+            "top_left": [
+                70,
+                1766
+            ],
+            "bottom_right": [
+                587,
+                1827
+            ],
+            "font_size": 47,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "个人信息保护设置",
+            "top_left": [
+                83,
+                1920
+            ],
+            "bottom_right": [
+                451,
+                1981
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "隐私政策摘要",
+            "top_left": [
+                83,
+                2072
+            ],
+            "bottom_right": [
+                353,
+                2133
+            ],
+            "font_size": 45,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "关于QQ与帮助",
+            "top_left": [
+                71,
+                2252
+            ],
+            "bottom_right": [
+                379,
+                2313
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

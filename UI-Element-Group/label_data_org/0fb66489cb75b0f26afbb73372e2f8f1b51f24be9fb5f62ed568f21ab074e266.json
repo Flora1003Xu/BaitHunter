@@ -1,0 +1,347 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                368,
+                222
+            ],
+            "content": "微博",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 66,
+            "top_left": [
+                236,
+                153
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                253,
+                253
+            ],
+            "bottom_right": [
+                333,
+                489
+            ],
+            "content": "蒋依依敖子逸国",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20201681137175445,
+            "font_size": 42,
+            "top_left": [
+                39,
+                423
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                922,
+                489
+            ],
+            "content": "Angelababy黄子韬.",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19543478293989186,
+            "font_size": 42,
+            "top_left": [
+                334,
+                423
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                106,
+                136
+            ],
+            "bottom_right": [
+                1063,
+                479
+            ],
+            "content": "新",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20303342742027702,
+            "font_size": 41,
+            "top_left": [
+                1022,
+                438
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                440,
+                607
+            ],
+            "content": "彭虽畅自己争取全",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 50,
+            "top_left": [
+                40,
+                548
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                494,
+                607
+            ],
+            "content": "新",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1979435092692198,
+            "font_size": 50,
+            "top_left": [
+                444,
+                548
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                894,
+                607
+            ],
+            "content": "整理父亲遗物发现",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20318165541737768,
+            "font_size": 50,
+            "top_left": [
+                494,
+                548
+            ]
+        },
+        {
+            "bg_color": [
+                156,
+                156,
+                156
+            ],
+            "bottom_right": [
+                473,
+                727
+            ],
+            "content": "牺牲消防员微信头.",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007729345318016806,
+            "font_size": 48,
+            "top_left": [
+                41,
+                665
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                907,
+                727
+            ],
+            "content": "易样千玺西安高铁.",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18153407927638204,
+            "font_size": 48,
+            "top_left": [
+                475,
+                665
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                468,
+                848
+            ],
+            "content": "女性词语归还女性国",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06029957480933231,
+            "font_size": 49,
+            "top_left": [
+                27,
+                790
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                1010,
+                848
+            ],
+            "content": "地铁2男子吵架大哥.圆",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 49,
+            "top_left": [
+                471,
+                790
+            ]
+        },
+        {
+            "bg_color": [
+                218,
+                218,
+                218
+            ],
+            "bottom_right": [
+                568,
+                969
+            ],
+            "content": "金智秀安普贤ins重叠医",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010106743388040889,
+            "font_size": 44,
+            "top_left": [
+                40,
+                908
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                792,
+                969
+            ],
+            "content": "微博热搜榜",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 44,
+            "top_left": [
+                572,
+                908
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                373,
+                1122
+            ],
+            "content": "热议话题",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12735952858164076,
+            "font_size": 86,
+            "top_left": [
+                29,
+                1062
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                720,
+                1122
+            ],
+            "content": "热门人物",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17116122790912028,
+            "font_size": 86,
+            "top_left": [
+                376,
+                1062
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                516,
+                1171
+            ],
+            "content": "安徽人最爱的美食有哪自",
+            "content_id": "16",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004090474246960426,
+            "font_size": 39,
+            "top_left": [
+                87,
+                1126
+            ]
+        },
+        {
+            "bg_color": [
+                215,
+                215,
+                215
+            ],
+            "bottom_right": [
+                834,
+                1171
+            ],
+            "content": "24小时最热人物",
+            "content_id": "17",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.002410980032007714,
+            "font_size": 39,
+            "top_left": [
+                522,
+                1126
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "0fb66489cb75b0f26afbb73372e2f8f1b51f24be9fb5f62ed568f21ab074e266"
+}

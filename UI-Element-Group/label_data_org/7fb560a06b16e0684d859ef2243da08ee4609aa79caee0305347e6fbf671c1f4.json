@@ -1,0 +1,447 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                889,
+                199
+            ],
+            "content": "百度网盘企业版.件极速传输工贝",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 49,
+            "top_left": [
+                154,
+                138
+            ]
+        },
+        {
+            "bg_color": [
+                216,
+                223,
+                236
+            ],
+            "bottom_right": [
+                620,
+                517
+            ],
+            "content": "认证功能升级收费预告",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19152927009467213,
+            "font_size": 58,
+            "top_left": [
+                40,
+                452
+            ]
+        },
+        {
+            "bg_color": [
+                225,
+                234,
+                246
+            ],
+            "bottom_right": [
+                505,
+                595
+            ],
+            "content": "新增多个功能模块助力企业更好",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08508934812234827,
+            "font_size": 33,
+            "top_left": [
+                43,
+                553
+            ]
+        },
+        {
+            "bg_color": [
+                221,
+                230,
+                241
+            ],
+            "bottom_right": [
+                505,
+                642
+            ],
+            "content": "的进行品牌宣传和产品推广;自",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0859040535173636,
+            "font_size": 33,
+            "top_left": [
+                43,
+                597
+            ]
+        },
+        {
+            "bg_color": [
+                229,
+                238,
+                249
+            ],
+            "bottom_right": [
+                506,
+                688
+            ],
+            "content": "【2023年1月】起网盘认证将启",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08744557910377819,
+            "font_size": 28,
+            "top_left": [
+                58,
+                643
+            ]
+        },
+        {
+            "bg_color": [
+                231,
+                239,
+                250
+            ],
+            "bottom_right": [
+                505,
+                738
+            ],
+            "content": "动收费,政府&公益组织持续免",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0883398096533041,
+            "font_size": 33,
+            "top_left": [
+                43,
+                693
+            ]
+        },
+        {
+            "bg_color": [
+                232,
+                241,
+                251
+            ],
+            "bottom_right": [
+                100,
+                785
+            ],
+            "content": "费。",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08961281308046547,
+            "font_size": 29,
+            "top_left": [
+                42,
+                738
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                694,
+                996
+            ],
+            "content": "功能升级介绍",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19843923153994306,
+            "font_size": 52,
+            "top_left": [
+                382,
+                935
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                747,
+                1087
+            ],
+            "content": "点击下方按钮尽快提交认证吧!",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06702171277971722,
+            "font_size": 32,
+            "top_left": [
+                299,
+                1042
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                101,
+                221
+            ],
+            "bottom_right": [
+                620,
+                1245
+            ],
+            "content": "立即认证",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19861638138396914,
+            "font_size": 41,
+            "top_left": [
+                456,
+                1199
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                503,
+                1714
+            ],
+            "content": "企业空间",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21202646617741017,
+            "font_size": 72,
+            "top_left": [
+                215,
+                1673
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                791,
+                1714
+            ],
+            "content": "官方品牌",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21202646617741017,
+            "font_size": 72,
+            "top_left": [
+                503,
+                1673
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                530,
+                1790
+            ],
+            "content": "50G企业版空间,认证账",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07136598165587116,
+            "font_size": 36,
+            "top_left": [
+                98,
+                1746
+            ]
+        },
+        {
+            "bg_color": [
+                240,
+                241,
+                242
+            ],
+            "bottom_right": [
+                928,
+                1790
+            ],
+            "content": "官方V标,企业名片,体",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06747104668752965,
+            "font_size": 36,
+            "top_left": [
+                532,
+                1746
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                532,
+                1829
+            ],
+            "content": "号极速下载",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07136598165587116,
+            "font_size": 69,
+            "top_left": [
+                187,
+                1784
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                809,
+                1829
+            ],
+            "content": "品牌形象",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07136598165587116,
+            "font_size": 69,
+            "top_left": [
+                533,
+                1784
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                478,
+                2252
+            ],
+            "content": "文件分享传输",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1934409908933608,
+            "font_size": 49,
+            "top_left": [
+                184,
+                2208
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                825,
+                2252
+            ],
+            "content": "企业号(New",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21202646617741017,
+            "font_size": 49,
+            "top_left": [
+                482,
+                2208
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                517,
+                2325
+            ],
+            "content": "支持分享展示V标,挂载",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07136598165587116,
+            "font_size": 38,
+            "top_left": [
+                99,
+                2281
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                937,
+                2325
+            ],
+            "content": "支持创建企业号点对点发",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07136598165587116,
+            "font_size": 38,
+            "top_left": [
+                519,
+                2281
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                571,
+                2360
+            ],
+            "content": "名片设置水印",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 69,
+            "top_left": [
+                157,
+                2318
+            ]
+        },
+        {
+            "bg_color": [
+                247,
+                247,
+                247
+            ],
+            "bottom_right": [
+                780,
+                2360
+            ],
+            "content": "送文件",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07134636769746366,
+            "font_size": 69,
+            "top_left": [
+                573,
+                2318
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "7fb560a06b16e0684d859ef2243da08ee4609aa79caee0305347e6fbf671c1f4"
+}

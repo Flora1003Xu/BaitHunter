@@ -1,0 +1,427 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                253,
+                251,
+                252
+            ],
+            "bottom_right": [
+                668,
+                181
+            ],
+            "content": "个人主页背景",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10489322239208893,
+            "font_size": 45,
+            "top_left": [
+                398,
+                120
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                249
+            ],
+            "bottom_right": [
+                611,
+                577
+            ],
+            "content": "编辑资料",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.009812502744402976,
+            "font_size": 39,
+            "top_left": [
+                455,
+                534
+            ]
+        },
+        {
+            "bg_color": [
+                149,
+                168,
+                248
+            ],
+            "bottom_right": [
+                768,
+                577
+            ],
+            "content": "申请认证",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12425931418330581,
+            "font_size": 39,
+            "top_left": [
+                612,
+                534
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                379,
+                684
+            ],
+            "content": "请别批塞C7",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08737744592073574,
+            "font_size": 30,
+            "top_left": [
+                199,
+                640
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                191
+            ],
+            "bottom_right": [
+                745,
+                797
+            ],
+            "content": "开通DU会员,畅享更多个性背景",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.164190637260052,
+            "font_size": 46,
+            "top_left": [
+                55,
+                753
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                245,
+                209
+            ],
+            "bottom_right": [
+                976,
+                797
+            ],
+            "content": "立即开通",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.161803444361992,
+            "font_size": 46,
+            "top_left": [
+                746,
+                753
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                112,
+                903
+            ],
+            "content": "全部",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 41,
+            "top_left": [
+                30,
+                854
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                359,
+                903
+            ],
+            "content": "DU会员专享",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05187553601836968,
+            "font_size": 41,
+            "top_left": [
+                113,
+                854
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                487,
+                903
+            ],
+            "content": "二次元",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 41,
+            "top_left": [
+                364,
+                854
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                571,
+                903
+            ],
+            "content": "萌宠",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 41,
+            "top_left": [
+                489,
+                854
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                736,
+                903
+            ],
+            "content": "节日节气",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 41,
+            "top_left": [
+                572,
+                854
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                821,
+                903
+            ],
+            "content": "艺术",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05435896591800769,
+            "font_size": 41,
+            "top_left": [
+                739,
+                854
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                386,
+                1214
+            ],
+            "content": "萌萌起司咕",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08863177764713898,
+            "font_size": 54,
+            "top_left": [
+                116,
+                1170
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                605,
+                1214
+            ],
+            "content": "兔兔出击",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 54,
+            "top_left": [
+                389,
+                1170
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                823,
+                1214
+            ],
+            "content": "鼠鼠我呀",
+            "content_id": "15",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 54,
+            "top_left": [
+                607,
+                1170
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                333,
+                1511
+            ],
+            "content": "不是花花",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 51,
+            "top_left": [
+                129,
+                1461
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                589,
+                1511
+            ],
+            "content": "我和好朋友",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 51,
+            "top_left": [
+                334,
+                1461
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                846,
+                1511
+            ],
+            "content": "幸福的猫猫",
+            "content_id": "18",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 51,
+            "top_left": [
+                591,
+                1461
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                358,
+                1800
+            ],
+            "content": "万籁俱寂",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 57,
+            "top_left": [
+                130,
+                1753
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                588,
+                1800
+            ],
+            "content": "鲸熙云落",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10451245084460851,
+            "font_size": 57,
+            "top_left": [
+                360,
+                1753
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                818,
+                1800
+            ],
+            "content": "小兔的梦",
+            "content_id": "21",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 57,
+            "top_left": [
+                590,
+                1753
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "48b94fad2d39fb0502858590e8333dce04cb5ba6320d22518951a6e848097cbd"
+}

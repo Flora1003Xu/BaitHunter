@@ -1,0 +1,224 @@
+{
+    "data": [
+      {
+        "click_id": "7",
+        "click_content": "快速估价",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "二手车别卖亏了"
+          },
+          {
+            "content_id": "6",
+            "content": "这里高价卖车,最快1天成交"
+          },
+          {
+            "content_id": "7",
+            "content": "快速估价"
+          }
+        ]
+      },
+      {
+        "click_id": "8",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "8",
+            "content": "安装"
+          },
+          {
+            "content_id": "9",
+            "content": "汽车新闻资讯"
+          },
+          {
+            "content_id": "11",
+            "content": "懂车帝夏测"
+          },
+          {
+            "content_id": "12",
+            "content": "5.3亿83M"
+          }
+        ]
+      },
+      {
+        "click_id": "17",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "17",
+            "content": "安装"
+          },
+          {
+            "content_id": "15",
+            "content": "搜狐视频《风月变》全网首播"
+          },
+          {
+            "content_id": "16",
+            "content": "搜狐"
+          },
+          {
+            "content_id": "18",
+            "content": "《为你逆光而来》热播中"
+          },
+          {
+            "content_id": "19",
+            "content": "视频"
+          },
+          {
+            "content_id": "20",
+            "content": "5.5亿127M"
+          }
+        ]
+      },
+      {
+        "click_id": "22",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "22",
+            "content": "安装"
+          },
+          {
+            "content_id": "21",
+            "content": "皮皮虾"
+          },
+          {
+            "content_id": "23",
+            "content": "年轻人聚集的内容互动社区"
+          },
+          {
+            "content_id": "24",
+            "content": "2.8亿151M"
+          }
+        ]
+      },
+      {
+        "click_id": "26",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "26",
+            "content": "安装"
+          },
+          {
+            "content_id": "25",
+            "content": "今日头条"
+          },
+          {
+            "content_id": "27",
+            "content": "搜高考报志愿上头条"
+          },
+          {
+            "content_id": "28",
+            "content": "72亿163M阅读榜今日TOP3"
+          }
+        ]
+      },
+      {
+        "click_id": "30",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "30",
+            "content": "安装"
+          },
+          {
+            "content_id": "29",
+            "content": "快看漫画偷偷藏不住.金米奖"
+          },
+          {
+            "content_id": "31",
+            "content": "1万部精品漫画,等就免费"
+          },
+          {
+            "content_id": "32",
+            "content": "偷偷藏不住"
+          },
+          {
+            "content_id": "33",
+            "content": "3.1亿84M"
+          }
+        ]
+      },
+      {
+        "click_id": "35",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "35",
+            "content": "安装"
+          },
+          {
+            "content_id": "34",
+            "content": "百度极速版"
+          },
+          {
+            "content_id": "36",
+            "content": "搜索资讯视频小说浏览器"
+          },
+          {
+            "content_id": "37",
+            "content": "11亿143M"
+          },
+          {
+            "content_id": "38",
+            "content": "领现金"
+          }
+        ]
+      },
+      {
+        "click_id": "44",
+        "click_content": "首页",
+        "group": [
+          {
+            "content_id": "44",
+            "content": "首页"
+          }
+        ]
+      },
+      {
+        "click_id": "45",
+        "click_content": "游戏",
+        "group": [
+          {
+            "content_id": "45",
+            "content": "游戏"
+          }
+        ]
+      },
+      {
+        "click_id": "46",
+        "click_content": "榜单",
+        "group": [
+          {
+            "content_id": "46",
+            "content": "榜单"
+          }
+        ]
+      },
+      {
+        "click_id": "47",
+        "click_content": "软件",
+        "group": [
+          {
+            "content_id": "47",
+            "content": "软件"
+          }
+        ]
+      },
+      {
+        "click_id": "48",
+        "click_content": "我的",
+        "group": [
+          {
+            "content_id": "48",
+            "content": "我的"
+          },
+          {
+            "content_id": "43",
+            "content": "66"
+          }
+        ]
+      }
+    ]
+}

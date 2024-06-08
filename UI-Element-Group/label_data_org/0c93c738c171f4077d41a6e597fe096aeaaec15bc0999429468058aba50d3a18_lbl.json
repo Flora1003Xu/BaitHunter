@@ -1,0 +1,33 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "输入您遇到的问题",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "输入您遇到的问题"
+          }
+        ]
+      },
+      {
+        "click_id": "16",
+        "click_content": "请简单描述您的问题或建议",
+        "group": [
+          {
+            "content_id": "16",
+            "content": "请简单描述您的问题或建议"
+          },
+          {
+            "content_id": "14",
+            "content": "问题描述"
+          },
+          {
+            "content_id": "15",
+            "content": "0/300"
+          }
+        ]
+      }
+    ]
+  }
+   

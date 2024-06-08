@@ -1,0 +1,187 @@
+{
+    "ui_id": "6f6f8e03c33396f23f4c260d741c5d04241db5797c350260414ac2ea02d184aa",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "立即登录",
+            "top_left": [
+                425,
+                637
+            ],
+            "bottom_right": [
+                653,
+                698
+            ],
+            "font_size": 57,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012815063533173675,
+            "bg_color": [
+                240,
+                240,
+                240
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "手机号登录时,需绑定您的微信或QQ账号以保证相关",
+            "top_left": [
+                69,
+                741
+            ],
+            "bottom_right": [
+                981,
+                788
+            ],
+            "font_size": 38,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004299928553678263,
+            "bg_color": [
+                143,
+                143,
+                143
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "功能可以正常使用",
+            "top_left": [
+                370,
+                809
+            ],
+            "bottom_right": [
+                690,
+                855
+            ],
+            "font_size": 40,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004299928553678263,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "178******38",
+            "top_left": [
+                309,
+                961
+            ],
+            "bottom_right": [
+                760,
+                1018
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19499487884345665,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "手机号登录",
+            "top_left": [
+                410,
+                1135
+            ],
+            "bottom_right": [
+                665,
+                1196
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19499487884345665,
+            "bg_color": [
+                19,
+                108,
+                233
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "其他手机号登录",
+            "top_left": [
+                354,
+                1294
+            ],
+            "bottom_right": [
+                711,
+                1355
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19499487884345665,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "我已阅读并同意用户协议和",
+            "top_left": [
+                309,
+                1517
+            ],
+            "bottom_right": [
+                765,
+                1563
+            ],
+            "font_size": 38,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00689082388159951,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "隐私政策以及中国移动认证服务条款",
+            "top_left": [
+                257,
+                1567
+            ],
+            "bottom_right": [
+                801,
+                1612
+            ],
+            "font_size": 34,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19499487884345665,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "其他登录方式",
+            "top_left": [
+                428,
+                2001
+            ],
+            "bottom_right": [
+                638,
+                2046
+            ],
+            "font_size": 35,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

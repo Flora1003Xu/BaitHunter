@@ -1,0 +1,407 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                101,
+                91,
+                84
+            ],
+            "bottom_right": [
+                892,
+                425
+            ],
+            "content": "里胶ONIP",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12980601440147926,
+            "font_size": 28,
+            "top_left": [
+                724,
+                379
+            ]
+        },
+        {
+            "bg_color": [
+                101,
+                94,
+                88
+            ],
+            "bottom_right": [
+                215,
+                821
+            ],
+            "content": "开用",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10111566912655451,
+            "font_size": 45,
+            "top_left": [
+                125,
+                744
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                92,
+                85
+            ],
+            "bottom_right": [
+                260,
+                821
+            ],
+            "content": "户",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10976702524079171,
+            "font_size": 45,
+            "top_left": [
+                215,
+                744
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                93,
+                86
+            ],
+            "bottom_right": [
+                395,
+                821
+            ],
+            "content": "登录得",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12888552355863256,
+            "font_size": 45,
+            "top_left": [
+                260,
+                744
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                92,
+                85
+            ],
+            "bottom_right": [
+                485,
+                821
+            ],
+            "content": "限时",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13738008004801247,
+            "font_size": 45,
+            "top_left": [
+                395,
+                744
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                101,
+                99
+            ],
+            "bottom_right": [
+                434,
+                1027
+            ],
+            "content": "西付费歌曲免费听",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12999434087843761,
+            "font_size": 38,
+            "top_left": [
+                130,
+                983
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                677,
+                1299
+            ],
+            "content": "中国移动提供认证服务",
+            "content_id": "7",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003533873262670655,
+            "font_size": 28,
+            "top_left": [
+                397,
+                1261
+            ]
+        },
+        {
+            "bg_color": [
+                97,
+                97,
+                98
+            ],
+            "bottom_right": [
+                305,
+                1439
+            ],
+            "content": "+355",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06986484054839467,
+            "font_size": 37,
+            "top_left": [
+                157,
+                1385
+            ]
+        },
+        {
+            "bg_color": [
+                97,
+                97,
+                98
+            ],
+            "bottom_right": [
+                713,
+                1439
+            ],
+            "content": "178****6438",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1494301715673507,
+            "font_size": 37,
+            "top_left": [
+                306,
+                1385
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                23,
+                23
+            ],
+            "bottom_right": [
+                667,
+                1645
+            ],
+            "content": "键登录翻",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2519834068103371,
+            "font_size": 54,
+            "top_left": [
+                451,
+                1583
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                632,
+                1776
+            ],
+            "content": "我已阅读并同意《服务条款》、",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14215177481753838,
+            "font_size": 33,
+            "top_left": [
+                170,
+                1729
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                840,
+                1776
+            ],
+            "content": "《隐私政策》",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13612900091422336,
+            "font_size": 33,
+            "top_left": [
+                642,
+                1729
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                715,
+                1827
+            ],
+            "content": "《中国移动认证服务协议)",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16408067337510415,
+            "font_size": 31,
+            "top_left": [
+                343,
+                1782
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                837,
+                1995
+            ],
+            "content": "服务协议和隐私政策等指引",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13161686151319837,
+            "font_size": 51,
+            "top_left": [
+                225,
+                1933
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                924,
+                2073
+            ],
+            "content": "进入下一步前,请阅读并同意网易云音乐的《服务条",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1465188094752766,
+            "font_size": 36,
+            "top_left": [
+                96,
+                2026
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                195,
+                2126
+            ],
+            "content": "款》、",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1465188094752766,
+            "font_size": 32,
+            "top_left": [
+                99,
+                2079
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                420,
+                2126
+            ],
+            "content": "《隐私政策》、",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1465188094752766,
+            "font_size": 32,
+            "top_left": [
+                196,
+                2079
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                253,
+                254
+            ],
+            "bottom_right": [
+                808,
+                2126
+            ],
+            "content": "《中国移动认证服务协议)",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14436699333156314,
+            "font_size": 32,
+            "top_left": [
+                424,
+                2079
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                450,
+                2277
+            ],
+            "content": "不同意",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21378480604608693,
+            "font_size": 69,
+            "top_left": [
+                243,
+                2218
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                58,
+                58
+            ],
+            "bottom_right": [
+                795,
+                2277
+            ],
+            "content": "同意并继续",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21378480604608693,
+            "font_size": 69,
+            "top_left": [
+                450,
+                2218
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "3e3102eed8e758c74c67675fe7c476973bf7aa78ddb84aff07d5cd93ff15f9d6"
+}

@@ -1,0 +1,407 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                179,
+                179,
+                179
+            ],
+            "bottom_right": [
+                722,
+                198
+            ],
+            "content": "钉钉数据共享情况.",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09487782951069497,
+            "font_size": 44,
+            "top_left": [
+                326,
+                136
+            ]
+        },
+        {
+            "bg_color": [
+                179,
+                179,
+                179
+            ],
+            "bottom_right": [
+                703,
+                366
+            ],
+            "content": "钉钉共享个人信息清单",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010934571172526872,
+            "font_size": 39,
+            "top_left": [
+                313,
+                321
+            ]
+        },
+        {
+            "bg_color": [
+                179,
+                179,
+                179
+            ],
+            "bottom_right": [
+                952,
+                512
+            ],
+            "content": "1.为保障我们服务的稳定运行、功能实现,使您能够使",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010934571172526872,
+            "font_size": 37,
+            "top_left": [
+                27,
+                466
+            ]
+        },
+        {
+            "bg_color": [
+                179,
+                179,
+                179
+            ],
+            "bottom_right": [
+                950,
+                569
+            ],
+            "content": "用和享受更多的服务及功能,我们的应用中会嵌入授权",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010934571172526872,
+            "font_size": 38,
+            "top_left": [
+                38,
+                523
+            ]
+        },
+        {
+            "bg_color": [
+                179,
+                179,
+                179
+            ],
+            "bottom_right": [
+                713,
+                627
+            ],
+            "content": "合作伙伴的SDK或其他类似的应用程序。",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010934571172526872,
+            "font_size": 36,
+            "top_left": [
+                29,
+                581
+            ]
+        },
+        {
+            "bg_color": [
+                179,
+                179,
+                179
+            ],
+            "bottom_right": [
+                952,
+                699
+            ],
+            "content": "2.我们会对授权合作伙伴获取有关信息的应用程序接口",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010934571172526872,
+            "font_size": 37,
+            "top_left": [
+                27,
+                653
+            ]
+        },
+        {
+            "bg_color": [
+                179,
+                179,
+                179
+            ],
+            "bottom_right": [
+                938,
+                755
+            ],
+            "content": "(API)、软件工具开发包(SDK)进行严格的安全检",
+            "content_id": "7",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010934571172526872,
+            "font_size": 34,
+            "top_left": [
+                54,
+                710
+            ]
+        },
+        {
+            "bg_color": [
+                172,
+                172,
+                172
+            ],
+            "bottom_right": [
+                964,
+                813
+            ],
+            "content": "测,并与授权合作伙伴约定严格的数据保护措施,令其",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010675650248532606,
+            "font_size": 39,
+            "top_left": [
+                28,
+                766
+            ]
+        },
+        {
+            "bg_color": [
+                130,
+                130,
+                130
+            ],
+            "bottom_right": [
+                963,
+                871
+            ],
+            "content": "按照本政策以及其他任何相关的保密和安全措施来处理",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010934571172526872,
+            "font_size": 39,
+            "top_left": [
+                27,
+                825
+            ]
+        },
+        {
+            "bg_color": [
+                179,
+                179,
+                179
+            ],
+            "bottom_right": [
+                852,
+                928
+            ],
+            "content": "个人信息。授权合作伙伴取得您单独同意的除外。",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010934571172526872,
+            "font_size": 37,
+            "top_left": [
+                38,
+                883
+            ]
+        },
+        {
+            "bg_color": [
+                179,
+                179,
+                179
+            ],
+            "bottom_right": [
+                952,
+                1000
+            ],
+            "content": "3.合作方具体的处理情况请参见合作方的隐私政策、官",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010934571172526872,
+            "font_size": 37,
+            "top_left": [
+                27,
+                955
+            ]
+        },
+        {
+            "bg_color": [
+                179,
+                179,
+                179
+            ],
+            "bottom_right": [
+                268,
+                1050
+            ],
+            "content": "网或明冬协i议",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010934571172526872,
+            "font_size": 34,
+            "top_left": [
+                30,
+                1013
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                922,
+                1285
+            ],
+            "content": "是否允许\"钉钉\"读写手机上的照片及",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 46,
+            "top_left": [
+                140,
+                1222
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                595,
+                1355
+            ],
+            "content": "文件",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 56,
+            "top_left": [
+                483,
+                1294
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                243,
+                1517
+            ],
+            "content": "相册",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 58,
+            "top_left": [
+                127,
+                1452
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                440,
+                1679
+            ],
+            "content": "社交应用文件",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 52,
+            "top_left": [
+                128,
+                1617
+            ]
+        },
+        {
+            "bg_color": [
+                195,
+                195,
+                195
+            ],
+            "bottom_right": [
+                581,
+                1869
+            ],
+            "content": "拒绝",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.009680005978331987,
+            "font_size": 49,
+            "top_left": [
+                483,
+                1808
+            ]
+        },
+        {
+            "bg_color": [
+                240,
+                240,
+                240
+            ],
+            "bottom_right": [
+                624,
+                2035
+            ],
+            "content": "始终允许",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011109927509743524,
+            "font_size": 49,
+            "top_left": [
+                428,
+                1974
+            ]
+        },
+        {
+            "bg_color": [
+                13,
+                132,
+                255
+            ],
+            "bottom_right": [
+                704,
+                2198
+            ],
+            "content": "仅在使用中允许",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.182370760249906,
+            "font_size": 48,
+            "top_left": [
+                368,
+                2136
+            ]
+        },
+        {
+            "bg_color": [
+                179,
+                179,
+                179
+            ],
+            "bottom_right": [
+                103,
+                2330
+            ],
+            "content": "使",
+            "content_id": "20",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010934571172526872,
+            "font_size": 65,
+            "top_left": [
+                38,
+                2282
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "178b804c338000e0ebb5028ac292d4284580d6bcbecc2ce164a9671e1e0a5f88"
+}

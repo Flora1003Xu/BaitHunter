@@ -1,0 +1,367 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                694,
+                198
+            ],
+            "content": "消息通知设置",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03644514605622759,
+            "font_size": 54,
+            "top_left": [
+                370,
+                136
+            ]
+        },
+        {
+            "bg_color": [
+                97,
+                97,
+                97
+            ],
+            "bottom_right": [
+                226,
+                331
+            ],
+            "content": "短信通知设置",
+            "content_id": "2",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0043774887417067695,
+            "font_size": 35,
+            "top_left": [
+                16,
+                293
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                181,
+                454
+            ],
+            "content": "营销短信",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 41,
+            "top_left": [
+                17,
+                408
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                51,
+                51
+            ],
+            "bottom_right": [
+                269,
+                602
+            ],
+            "content": "系统通知设置",
+            "content_id": "4",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0043774887417067695,
+            "font_size": 42,
+            "top_left": [
+                17,
+                557
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                469,
+                719
+            ],
+            "content": "消息接收",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 113,
+            "top_left": [
+                17,
+                673
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                922,
+                719
+            ],
+            "content": "已开启)",
+            "content_id": "6",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 113,
+            "top_left": [
+                470,
+                673
+            ]
+        },
+        {
+            "bg_color": [
+                97,
+                97,
+                97
+            ],
+            "bottom_right": [
+                320,
+                866
+            ],
+            "content": "京东内的通知方式",
+            "content_id": "7",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0043774887417067695,
+            "font_size": 38,
+            "top_left": [
+                16,
+                822
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                181,
+                983
+            ],
+            "content": "横幅提醒",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 41,
+            "top_left": [
+                17,
+                937
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                211,
+                1133
+            ],
+            "content": "声音损",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 65,
+            "top_left": [
+                16,
+                1072
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                601,
+                1133
+            ],
+            "content": "京东内的通知",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 65,
+            "top_left": [
+                211,
+                1072
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                851,
+                1217
+            ],
+            "content": "在你使用京东时,在App顶部以横幅的",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 37,
+            "top_left": [
+                185,
+                1171
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                147,
+                1274
+            ],
+            "content": "震动护",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 40,
+            "top_left": [
+                27,
+                1225
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                589,
+                1274
+            ],
+            "content": "通知方式,为你推送消息",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 40,
+            "top_left": [
+                149,
+                1225
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                53,
+                49
+            ],
+            "bottom_right": [
+                611,
+                1403
+            ],
+            "content": "我知道了",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22073987481683166,
+            "font_size": 39,
+            "top_left": [
+                455,
+                1357
+            ]
+        },
+        {
+            "bg_color": [
+                97,
+                97,
+                97
+            ],
+            "bottom_right": [
+                125,
+                1424
+            ],
+            "content": "你希望",
+            "content_id": "15",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0043774887417067695,
+            "font_size": 36,
+            "top_left": [
+                17,
+                1383
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                221,
+                1545
+            ],
+            "content": "午休免打扰",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 41,
+            "top_left": [
+                16,
+                1497
+            ]
+        },
+        {
+            "bg_color": [
+                96,
+                96,
+                96
+            ],
+            "bottom_right": [
+                423,
+                1711
+            ],
+            "content": "收消息,可开启午休免打扰",
+            "content_id": "17",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004306721988132558,
+            "font_size": 34,
+            "top_left": [
+                15,
+                1666
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                653,
+                1854
+            ],
+            "content": "清空全部消息",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 40,
+            "top_left": [
+                413,
+                1808
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "95e4ae94887cfcb0b42e45331db07eb2beacd73f918b87c0129351d0fbc03571"
+}

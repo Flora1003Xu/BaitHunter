@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+          "click_id": "7",
+          "click_content": "立即提现",
+          "group": [
+            {
+              "content_id": "3",
+              "content": "恭喜获得新用户专属红包"
+            },
+            {
+              "content_id": "4",
+              "content": "可提现"
+            },
+            {
+              "content_id": "5",
+              "content": "可提现至微信,现金秒到账"
+            },
+            {
+              "content_id": "7",
+              "content": "立即提现"
+            },
+            {
+              "content_id":"8",
+              "content":"2.70元"
+            }
+          ]
+        }
+    ]
+}

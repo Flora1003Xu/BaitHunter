@@ -1,0 +1,167 @@
+{
+    "ui_id": "21f4bb278df27ad5352fb2c2ba706ffd15a66c27a961b6a5d65f809a6ee3e5b0",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "解锁账号",
+            "top_left": [
+                440,
+                133
+            ],
+            "bottom_right": [
+                636,
+                194
+            ],
+            "font_size": 49,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "填写本人身份信息",
+            "top_left": [
+                30,
+                259
+            ],
+            "bottom_right": [
+                334,
+                305
+            ],
+            "font_size": 38,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "真实姓名请输入真实姓名",
+            "top_left": [
+                39,
+                385
+            ],
+            "bottom_right": [
+                567,
+                447
+            ],
+            "font_size": 48,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "证件号",
+            "top_left": [
+                41,
+                534
+            ],
+            "bottom_right": [
+                182,
+                590
+            ],
+            "font_size": 47,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "请输入身份证号",
+            "top_left": [
+                184,
+                534
+            ],
+            "bottom_right": [
+                513,
+                590
+            ],
+            "font_size": 47,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "已阅读并同意用户协议及隐私政策",
+            "top_left": [
+                52,
+                698
+            ],
+            "bottom_right": [
+                682,
+                742
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20307467621528777,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "确定",
+            "top_left": [
+                485,
+                830
+            ],
+            "bottom_right": [
+                581,
+                876
+            ],
+            "font_size": 48,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11331380116850236,
+            "bg_color": [
+                255,
+                171,
+                187
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "信息仅用于身份验证,我们将严格保护您的数据与隐私安全",
+            "top_left": [
+                38,
+                954
+            ],
+            "bottom_right": [
+                1000,
+                999
+            ],
+            "font_size": 37,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

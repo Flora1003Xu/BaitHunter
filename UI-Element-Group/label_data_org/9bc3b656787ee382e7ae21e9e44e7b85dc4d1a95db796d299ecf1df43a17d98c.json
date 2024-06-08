@@ -1,0 +1,967 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                122,
+                168,
+                217
+            ],
+            "bottom_right": [
+                333,
+                239
+            ],
+            "content": "PPalace",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3500674217123859,
+            "font_size": 21,
+            "top_left": [
+                186,
+                196
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                459,
+                239
+            ],
+            "content": "neArts",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24537738457583197,
+            "font_size": 21,
+            "top_left": [
+                333,
+                196
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                143,
+                542
+            ],
+            "content": "580",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20739028521249359,
+            "font_size": 38,
+            "top_left": [
+                29,
+                498
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                0,
+                0
+            ],
+            "bottom_right": [
+                79,
+                703
+            ],
+            "content": "目",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 37,
+            "top_left": [
+                42,
+                659
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                227,
+                703
+            ],
+            "content": "基础信息",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01377686459925904,
+            "font_size": 37,
+            "top_left": [
+                79,
+                659
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                97,
+                802
+            ],
+            "content": "去过",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 33,
+            "top_left": [
+                31,
+                755
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                329,
+                802
+            ],
+            "content": "3386人去过",
+            "content_id": "7",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 33,
+            "top_left": [
+                98,
+                755
+            ]
+        },
+        {
+            "bg_color": [
+                183,
+                183,
+                183
+            ],
+            "bottom_right": [
+                536,
+                885
+            ],
+            "content": "时长平均游玩时间1-2小时",
+            "content_id": "8",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033846749511449695,
+            "font_size": 39,
+            "top_left": [
+                29,
+                837
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                126,
+                963
+            ],
+            "content": "地址",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 48,
+            "top_left": [
+                30,
+                915
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                888,
+                966
+            ],
+            "content": "3301LyonStreetSanFrancisco,CA94123",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1382643339667682,
+            "font_size": 22,
+            "top_left": [
+                140,
+                924
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                121,
+                1043
+            ],
+            "content": "门票",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 40,
+            "top_left": [
+                41,
+                1000
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                201,
+                1043
+            ],
+            "content": "免费",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 40,
+            "top_left": [
+                121,
+                1000
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                970,
+                1127
+            ],
+            "content": "时间外部全天;内部有活动时开放,可登录官网查询",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 41,
+            "top_left": [
+                27,
+                1080
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                254,
+                254
+            ],
+            "bottom_right": [
+                107,
+                1256
+            ],
+            "content": "到达",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 38,
+            "top_left": [
+                31,
+                1208
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                753,
+                1256
+            ],
+            "content": "自驾前往;或乘30等公交车线路前往",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 38,
+            "top_left": [
+                107,
+                1208
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                126,
+                1334
+            ],
+            "content": "网址",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 42,
+            "top_left": [
+                42,
+                1289
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                97,
+                1417
+            ],
+            "content": "分类",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 33,
+            "top_left": [
+                31,
+                1370
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                956,
+                1417
+            ],
+            "content": "景点观光;艺术馆/展览中心,电影节,景点好评榜,穷。",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 33,
+            "top_left": [
+                98,
+                1370
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                90,
+                1497
+            ],
+            "content": "电话",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 24,
+            "top_left": [
+                42,
+                1452
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                402,
+                1497
+            ],
+            "content": "+415-886-1296",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13661785540955143,
+            "font_size": 24,
+            "top_left": [
+                90,
+                1452
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                352,
+                1590
+            ],
+            "content": "基础信息有错误?",
+            "content_id": "21",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "font_size": 39,
+            "top_left": [
+                40,
+                1545
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                430,
+                1590
+            ],
+            "content": "报钳",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14846157330282278,
+            "font_size": 39,
+            "top_left": [
+                352,
+                1545
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                936,
+                1649
+            ],
+            "content": "Mial1心",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06071535899064505,
+            "font_size": 14,
+            "top_left": [
+                852,
+                1635
+            ]
+        },
+        {
+            "bg_color": [
+                235,
+                237,
+                209
+            ],
+            "bottom_right": [
+                368,
+                1683
+            ],
+            "content": "EAStB",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10570581039576382,
+            "font_size": 11,
+            "top_left": [
+                313,
+                1644
+            ]
+        },
+        {
+            "bg_color": [
+                182,
+                229,
+                158
+            ],
+            "bottom_right": [
+                412,
+                1683
+            ],
+            "content": "each",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12368015882807162,
+            "font_size": 11,
+            "top_left": [
+                368,
+                1644
+            ]
+        },
+        {
+            "bg_color": [
+                182,
+                229,
+                158
+            ],
+            "bottom_right": [
+                250,
+                1682
+            ],
+            "content": "m",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15958622007264653,
+            "font_size": 173,
+            "top_left": [
+                77,
+                1677
+            ]
+        },
+        {
+            "bg_color": [
+                252,
+                252,
+                252
+            ],
+            "bottom_right": [
+                1075,
+                1726
+            ],
+            "content": "Bea",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05268848721347973,
+            "font_size": 13,
+            "top_left": [
+                1036,
+                1704
+            ]
+        },
+        {
+            "bg_color": [
+                230,
+                228,
+                224
+            ],
+            "bottom_right": [
+                738,
+                1734
+            ],
+            "content": "lfersons",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08806103909972231,
+            "font_size": 11,
+            "top_left": [
+                650,
+                1710
+            ]
+        },
+        {
+            "bg_color": [
+                230,
+                228,
+                224
+            ],
+            "bottom_right": [
+                656,
+                1747
+            ],
+            "content": "J",
+            "content_id": "29",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04789409423108901,
+            "font_size": 32,
+            "top_left": [
+                624,
+                1714
+            ]
+        },
+        {
+            "bg_color": [
+                208,
+                208,
+                208
+            ],
+            "bottom_right": [
+                1007,
+                1785
+            ],
+            "content": "UBER",
+            "content_id": "30",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11440009907328325,
+            "font_size": 21,
+            "top_left": [
+                923,
+                1749
+            ]
+        },
+        {
+            "bg_color": [
+                230,
+                228,
+                224
+            ],
+            "bottom_right": [
+                750,
+                1778
+            ],
+            "content": "BeachSI",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09096932272505434,
+            "font_size": 12,
+            "top_left": [
+                666,
+                1764
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                395,
+                1788
+            ],
+            "content": "101",
+            "content_id": "32",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10411204999070658,
+            "font_size": 9,
+            "top_left": [
+                368,
+                1765
+            ]
+        },
+        {
+            "bg_color": [
+                14,
+                140,
+                56
+            ],
+            "bottom_right": [
+                266,
+                1812
+            ],
+            "content": "437",
+            "content_id": "33",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1912360108500856,
+            "font_size": 13,
+            "top_left": [
+                227,
+                1790
+            ]
+        },
+        {
+            "bg_color": [
+                230,
+                228,
+                224
+            ],
+            "bottom_right": [
+                749,
+                1835
+            ],
+            "content": "NPoints",
+            "content_id": "34",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05862604959090114,
+            "font_size": 12,
+            "top_left": [
+                665,
+                1807
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                139,
+                1840
+            ],
+            "content": "/101",
+            "content_id": "35",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16779064739991503,
+            "font_size": 10,
+            "top_left": [
+                99,
+                1819
+            ]
+        },
+        {
+            "bg_color": [
+                182,
+                229,
+                158
+            ],
+            "bottom_right": [
+                495,
+                1901
+            ],
+            "content": "Or9EsAve",
+            "content_id": "36",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17461389761672497,
+            "font_size": 11,
+            "top_left": [
+                407,
+                1824
+            ]
+        },
+        {
+            "bg_color": [
+                230,
+                228,
+                224
+            ],
+            "bottom_right": [
+                680,
+                1896
+            ],
+            "content": "BayS",
+            "content_id": "37",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04482138290278234,
+            "font_size": 17,
+            "top_left": [
+                612,
+                1866
+            ]
+        },
+        {
+            "bg_color": [
+                230,
+                228,
+                224
+            ],
+            "bottom_right": [
+                817,
+                1919
+            ],
+            "content": "FranciscoSt",
+            "content_id": "38",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03514613657110369,
+            "font_size": 11,
+            "top_left": [
+                696,
+                1910
+            ]
+        },
+        {
+            "bg_color": [
+                241,
+                243,
+                243
+            ],
+            "bottom_right": [
+                210,
+                1938
+            ],
+            "content": "华特迪士尼家庭便物馆",
+            "content_id": "39",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12302676068442413,
+            "font_size": 21,
+            "top_left": [
+                0,
+                1900
+            ]
+        },
+        {
+            "bg_color": [
+                230,
+                228,
+                224
+            ],
+            "bottom_right": [
+                1072,
+                1932
+            ],
+            "content": "Chestnut5t",
+            "content_id": "40",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.055123203632194716,
+            "font_size": 11,
+            "top_left": [
+                962,
+                1915
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                597,
+                1949
+            ],
+            "content": "01",
+            "content_id": "41",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.236209026572166,
+            "font_size": 29,
+            "top_left": [
+                539,
+                1913
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                255,
+                255
+            ],
+            "bottom_right": [
+                236,
+                2061
+            ],
+            "content": "校",
+            "content_id": "42",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14677253185051686,
+            "font_size": 80,
+            "top_left": [
+                156,
+                2000
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                255,
+                254
+            ],
+            "bottom_right": [
+                476,
+                2061
+            ],
+            "content": "问路卡",
+            "content_id": "43",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14790748266169718,
+            "font_size": 80,
+            "top_left": [
+                236,
+                2000
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                717,
+                2061
+            ],
+            "content": "7导前",
+            "content_id": "44",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015589466872424088,
+            "font_size": 80,
+            "top_left": [
+                477,
+                2000
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                253,
+                253
+            ],
+            "bottom_right": [
+                98,
+                2065
+            ],
+            "content": "dioTheat",
+            "content_id": "45",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015593300865936003,
+            "font_size": 12,
+            "top_left": [
+                2,
+                2036
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                348,
+                2206
+            ],
+            "content": "金景点观光介绍",
+            "content_id": "46",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01377686459925904,
+            "font_size": 44,
+            "top_left": [
+                40,
+                2156
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                952,
+                2302
+            ],
+            "content": "最初为1915年的巴拿马太平洋世界博览会而建,如今",
+            "content_id": "47",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004569673605099024,
+            "font_size": 37,
+            "top_left": [
+                27,
+                2254
+            ]
+        },
+        {
+            "bg_color": [
+                138,
+                138,
+                138
+            ],
+            "bottom_right": [
+                945,
+                2358
+            ],
+            "content": "仿古罗马废墟的外形则是著名建筑师梅贝克(Bernard",
+            "content_id": "48",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004569673605099024,
+            "font_size": 34,
+            "top_left": [
+                27,
+                2310
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "9bc3b656787ee382e7ae21e9e44e7b85dc4d1a95db796d299ecf1df43a17d98c"
+}

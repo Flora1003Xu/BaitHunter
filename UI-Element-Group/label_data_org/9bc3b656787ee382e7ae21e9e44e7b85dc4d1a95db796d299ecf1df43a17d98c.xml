@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plan</folder>
+	<filename>9bc3b656787ee382e7ae21e9e44e7b85dc4d1a95db796d299ecf1df43a17d98c.png</filename>
+	<path>C:\Users\86136\PycharmProjects\pythonProject\result_final\plan\9bc3b656787ee382e7ae21e9e44e7b85dc4d1a95db796d299ecf1df43a17d98c.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>1641</ymin>
+			<xmax>1080</xmax>
+			<ymax>2082</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,267 @@
+{
+    "ui_id": "06dff332817d3d88baa4ec0dcfd67c57f57cd217f78b8f7b0813262f11aa564f",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "老伴儿",
+            "top_left": [
+                468,
+                136
+            ],
+            "bottom_right": [
+                744,
+                198
+            ],
+            "font_size": 92,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13789656902156475,
+            "bg_color": [
+                57,
+                45,
+                34
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "练唱",
+            "top_left": [
+                745,
+                136
+            ],
+            "bottom_right": [
+                929,
+                198
+            ],
+            "font_size": 92,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014989848873746941,
+            "bg_color": [
+                60,
+                46,
+                35
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "切换高质",
+            "top_left": [
+                455,
+                297
+            ],
+            "bottom_right": [
+                623,
+                343
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13878618981127092,
+            "bg_color": [
+                59,
+                46,
+                36
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "原版",
+            "top_left": [
+                343,
+                485
+            ],
+            "bottom_right": [
+                483,
+                538
+            ],
+            "font_size": 70,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1187760251145288,
+            "bg_color": [
+                71,
+                59,
+                48
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "原版曲风试听",
+            "top_left": [
+                343,
+                544
+            ],
+            "bottom_right": [
+                553,
+                588
+            ],
+            "font_size": 35,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0906782549880903,
+            "bg_color": [
+                70,
+                58,
+                47
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "万人合唱",
+            "top_left": [
+                753,
+                558
+            ],
+            "bottom_right": [
+                893,
+                602
+            ],
+            "font_size": 35,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13083378490951014,
+            "bg_color": [
+                77,
+                59,
+                49
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "女累了也无怨",
+            "top_left": [
+                381,
+                1547
+            ],
+            "bottom_right": [
+                693,
+                1607
+            ],
+            "font_size": 52,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14808435057975255,
+            "bg_color": [
+                73,
+                52,
+                41
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "音频",
+            "top_left": [
+                428,
+                1909
+            ],
+            "bottom_right": [
+                512,
+                1951
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21398122213551485,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "视频",
+            "top_left": [
+                512,
+                1909
+            ],
+            "bottom_right": [
+                596,
+                1951
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1280811480129837,
+            "bg_color": [
+                88,
+                66,
+                56
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "开始独唱",
+            "top_left": [
+                440,
+                2029
+            ],
+            "bottom_right": [
+                624,
+                2082
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21398122213551485,
+            "bg_color": [
+                229,
+                92,
+                23
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "合",
+            "top_left": [
+                156,
+                2222
+            ],
+            "bottom_right": [
+                253,
+                2283
+            ],
+            "font_size": 97,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10882797585042088,
+            "bg_color": [
+                69,
+                50,
+                40
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "独唱",
+            "top_left": [
+                253,
+                2222
+            ],
+            "bottom_right": [
+                447,
+                2283
+            ],
+            "font_size": 97,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.0148594480677034,
+            "bg_color": [
+                78,
+                56,
+                44
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "片段唱",
+            "top_left": [
+                448,
+                2222
+            ],
+            "bottom_right": [
+                739,
+                2283
+            ],
+            "font_size": 97,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1471135880034005,
+            "bg_color": [
+                93,
+                66,
+                52
+            ]
+        }
+    ]
+}

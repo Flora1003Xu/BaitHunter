@@ -1,0 +1,207 @@
+{
+    "ui_id": "77b8a99be760af8ecb5bfd44b3bca4349e7eb068ae647669c76e064991458aa3",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "帮助与设置",
+            "top_left": [
+                824,
+                139
+            ],
+            "bottom_right": [
+                1034,
+                186
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "登录后即可点赞喜欢的内容",
+            "top_left": [
+                283,
+                422
+            ],
+            "bottom_right": [
+                775,
+                477
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "178****6438",
+            "top_left": [
+                288,
+                533
+            ],
+            "bottom_right": [
+                816,
+                616
+            ],
+            "font_size": 48,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "认证服务由中国移动提供",
+            "top_left": [
+                327,
+                659
+            ],
+            "bottom_right": [
+                734,
+                704
+            ],
+            "font_size": 37,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "一键登录",
+            "top_left": [
+                453,
+                942
+            ],
+            "bottom_right": [
+                621,
+                987
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21339239646919766,
+            "bg_color": [
+                254,
+                44,
+                85
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "其他手机号码登录",
+            "top_left": [
+                368,
+                1079
+            ],
+            "bottom_right": [
+                696,
+                1137
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "已阅读并同意用户协议和隐私政策以及中国移动认",
+            "top_left": [
+                80,
+                1215
+            ],
+            "bottom_right": [
+                982,
+                1260
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20307467621528777,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "证服务条款,同时登录并使用抖音火山版(原\"火山小",
+            "top_left": [
+                138,
+                1276
+            ],
+            "bottom_right": [
+                978,
+                1320
+            ],
+            "font_size": 35,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20101488509065868,
+            "bg_color": [
+                237,
+                238,
+                238
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "视频”)和抖音",
+            "top_left": [
+                140,
+                1337
+            ],
+            "bottom_right": [
+                350,
+                1382
+            ],
+            "font_size": 30,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "其他方式登录",
+            "top_left": [
+                425,
+                2215
+            ],
+            "bottom_right": [
+                635,
+                2260
+            ],
+            "font_size": 35,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20307467621528777,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

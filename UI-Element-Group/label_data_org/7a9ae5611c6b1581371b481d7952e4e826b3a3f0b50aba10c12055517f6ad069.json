@@ -1,0 +1,207 @@
+{
+    "ui_id": "7a9ae5611c6b1581371b481d7952e4e826b3a3f0b50aba10c12055517f6ad069",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "消息中心",
+            "top_left": [
+                426,
+                135
+            ],
+            "bottom_right": [
+                638,
+                197
+            ],
+            "font_size": 53,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "设置",
+            "top_left": [
+                953,
+                154
+            ],
+            "bottom_right": [
+                1037,
+                197
+            ],
+            "font_size": 42,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "系统通知",
+            "top_left": [
+                227,
+                271
+            ],
+            "bottom_right": [
+                423,
+                333
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "暂无消息",
+            "top_left": [
+                227,
+                352
+            ],
+            "bottom_right": [
+                383,
+                396
+            ],
+            "font_size": 39,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004299928553678263,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "互动消息",
+            "top_left": [
+                225,
+                470
+            ],
+            "bottom_right": [
+                413,
+                527
+            ],
+            "font_size": 47,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "登录查看",
+            "top_left": [
+                227,
+                551
+            ],
+            "bottom_right": [
+                383,
+                596
+            ],
+            "font_size": 39,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004299928553678263,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "服务通知",
+            "top_left": [
+                226,
+                666
+            ],
+            "bottom_right": [
+                426,
+                727
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "登录查看",
+            "top_left": [
+                227,
+                751
+            ],
+            "bottom_right": [
+                383,
+                795
+            ],
+            "font_size": 39,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004299928553678263,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "活动消息",
+            "top_left": [
+                227,
+                866
+            ],
+            "bottom_right": [
+                411,
+                927
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "暂无消息",
+            "top_left": [
+                228,
+                944
+            ],
+            "bottom_right": [
+                380,
+                992
+            ],
+            "font_size": 38,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004299928553678263,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

@@ -1,0 +1,467 @@
+{
+    "ui_id": "50ec28e257be364b1ae5f655f51f93d8bcadf968fd93c91576cd701480ca8cf2",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "用户基本信息",
+            "top_left": [
+                382,
+                146
+            ],
+            "bottom_right": [
+                682,
+                207
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "别、出生日期时采集,主动绑定手机号、微信账号、微博账号、QQ",
+            "top_left": [
+                41,
+                356
+            ],
+            "bottom_right": [
+                1001,
+                403
+            ],
+            "font_size": 32,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006395978759485133,
+            "bg_color": [
+                246,
+                247,
+                249
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "帐号、搜狗通行证(邮箱)时采集,采集信息用于账号管理,个人",
+            "top_left": [
+                41,
+                407
+            ],
+            "bottom_right": [
+                998,
+                453
+            ],
+            "font_size": 33,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006395978759485133,
+            "bg_color": [
+                246,
+                247,
+                249
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "资产管理。前述采集信息当您处于登录时方可统计展示。",
+            "top_left": [
+                41,
+                453
+            ],
+            "bottom_right": [
+                866,
+                500
+            ],
+            "font_size": 33,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006395978759485133,
+            "bg_color": [
+                246,
+                247,
+                249
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "可能存在延时",
+            "top_left": [
+                44,
+                574
+            ],
+            "bottom_right": [
+                254,
+                617
+            ],
+            "font_size": 35,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008746429281921113,
+            "bg_color": [
+                246,
+                247,
+                249
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "头像",
+            "top_left": [
+                42,
+                720
+            ],
+            "bottom_right": [
+                140,
+                780
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "近6个月累计收集0条信总",
+            "top_left": [
+                41,
+                779
+            ],
+            "bottom_right": [
+                401,
+                824
+            ],
+            "font_size": 30,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "昵称",
+            "top_left": [
+                43,
+                922
+            ],
+            "bottom_right": [
+                139,
+                968
+            ],
+            "font_size": 48,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "近6个月累计收集0条信息",
+            "top_left": [
+                42,
+                972
+            ],
+            "bottom_right": [
+                402,
+                1016
+            ],
+            "font_size": 30,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "性别",
+            "top_left": [
+                42,
+                1106
+            ],
+            "bottom_right": [
+                140,
+                1170
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "近6个月累计收集0条信总",
+            "top_left": [
+                41,
+                1169
+            ],
+            "bottom_right": [
+                401,
+                1213
+            ],
+            "font_size": 30,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                153,
+                153,
+                153
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "出生日期",
+            "top_left": [
+                42,
+                1305
+            ],
+            "bottom_right": [
+                226,
+                1363
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "近6个月累计收集0条信息",
+            "top_left": [
+                41,
+                1363
+            ],
+            "bottom_right": [
+                413,
+                1410
+            ],
+            "font_size": 31,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "手机号",
+            "top_left": [
+                42,
+                1501
+            ],
+            "bottom_right": [
+                180,
+                1561
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "近6个月累计收集0条信息",
+            "top_left": [
+                42,
+                1557
+            ],
+            "bottom_right": [
+                402,
+                1602
+            ],
+            "font_size": 30,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "微信账号",
+            "top_left": [
+                42,
+                1693
+            ],
+            "bottom_right": [
+                222,
+                1755
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "近6个月累计收集0条信息",
+            "top_left": [
+                41,
+                1754
+            ],
+            "bottom_right": [
+                401,
+                1799
+            ],
+            "font_size": 30,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "微博账号",
+            "top_left": [
+                43,
+                1890
+            ],
+            "bottom_right": [
+                223,
+                1950
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010063293016094084,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "近6个月累计收集0条信息",
+            "top_left": [
+                41,
+                1949
+            ],
+            "bottom_right": [
+                413,
+                1996
+            ],
+            "font_size": 31,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "QQ账号",
+            "top_left": [
+                43,
+                2090
+            ],
+            "bottom_right": [
+                183,
+                2143
+            ],
+            "font_size": 35,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "21",
+            "content": "近6个月累计收集0条信息",
+            "top_left": [
+                42,
+                2142
+            ],
+            "bottom_right": [
+                402,
+                2187
+            ],
+            "font_size": 30,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "22",
+            "content": "搜狗通行证(邮箱",
+            "top_left": [
+                41,
+                2278
+            ],
+            "bottom_right": [
+                377,
+                2340
+            ],
+            "font_size": 42,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "23",
+            "content": "一1I2",
+            "top_left": [
+                127,
+                2338
+            ],
+            "bottom_right": [
+                283,
+                2360
+            ],
+            "font_size": 39,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

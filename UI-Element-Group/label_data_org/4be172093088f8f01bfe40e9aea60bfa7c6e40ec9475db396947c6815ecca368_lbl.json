@@ -1,0 +1,59 @@
+{
+    "data": [
+      {
+        "click_id": "1",
+        "click_content": "同城",
+        "group": [
+          {
+            "content_id": "1",
+            "content": "同城"
+          }
+        ]
+      },
+      {
+        "click_id": "8",
+        "click_content": "开启青少年模式",
+        "group": [
+          {
+            "content_id": "8",
+            "content": "开启青少年模式"
+          },
+          {
+            "content_id": "5",
+            "content": "青少年模式"
+          },
+          {
+            "content_id": "6",
+            "content": "精选自然科普、人文历史、热门动画等有趣有用视"
+          },
+          {
+            "content_id": "7",
+            "content": "频,合理控制观看时长,无广告放心看。"
+          }
+        ]
+      },
+      {
+        "click_id": "9",
+        "click_content": "我知道了",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "我知道了"
+          },
+          {
+            "content_id": "5",
+            "content": "青少年模式"
+          },
+          {
+            "content_id": "6",
+            "content": "精选自然科普、人文历史、热门动画等有趣有用视"
+          },
+          {
+            "content_id": "7",
+            "content": "频,合理控制观看时长,无广告放心看。"
+          }
+        ]
+      }
+    ]
+  }
+   

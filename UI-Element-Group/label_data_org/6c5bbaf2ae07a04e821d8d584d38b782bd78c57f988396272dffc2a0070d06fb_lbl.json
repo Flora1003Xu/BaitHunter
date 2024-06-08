@@ -1,0 +1,49 @@
+{
+    "data": [
+      {
+        "click_id": "13",
+        "click_content": "+关注",
+        "group": [
+          {
+            "content_id": "13",
+            "content": "+关注"
+          },
+          {
+            "content_id": "11",
+            "content": "粉丝数55万"
+          },
+          {
+            "content_id": "10",
+            "content": "时尚玩家"
+          },
+          {
+            "content_id": "9",
+            "content": "Thurman猫一杯"
+          }
+        ]
+      },
+      {
+        "click_id": "20",
+        "click_content": "+关注",
+        "group": [
+          {
+            "content_id": "20",
+            "content": "+关注"
+          },
+          {
+            "content_id": "17",
+            "content": "臭蛋的闲置"
+          },
+          {
+            "content_id": "18",
+            "content": "时尚玩家"
+          },
+          {
+            "content_id": "19",
+            "content": "粉丝数49.8万"
+          }
+        ]
+      }
+    ]
+  }
+   

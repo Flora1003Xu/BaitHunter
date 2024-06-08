@@ -1,0 +1,347 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                250,
+                250,
+                250
+            ],
+            "bottom_right": [
+                303,
+                192
+            ],
+            "content": "<返回",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011045149038946888,
+            "font_size": 92,
+            "top_left": [
+                27,
+                131
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                250,
+                250
+            ],
+            "bottom_right": [
+                488,
+                192
+            ],
+            "content": "提现",
+            "content_id": "2",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 92,
+            "top_left": [
+                304,
+                131
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                473,
+                287
+            ],
+            "content": "常见问题",
+            "content_id": "3",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004090474246960426,
+            "font_size": 114,
+            "top_left": [
+                17,
+                242
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                932,
+                287
+            ],
+            "content": "规则说明",
+            "content_id": "4",
+            "contrast": "不太强烈",
+            "contrast_dist": 8.345251266641082e-05,
+            "font_size": 114,
+            "top_left": [
+                476,
+                242
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                474,
+                370
+            ],
+            "content": "红包余额",
+            "content_id": "5",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0002254208795336359,
+            "font_size": 69,
+            "top_left": [
+                198,
+                326
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                821,
+                370
+            ],
+            "content": "本月审核中",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 69,
+            "top_left": [
+                476,
+                326
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                360,
+                476
+            ],
+            "content": "20",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2032805097934296,
+            "font_size": 37,
+            "top_left": [
+                286,
+                408
+            ]
+        },
+        {
+            "bg_color": [
+                219,
+                219,
+                219
+            ],
+            "bottom_right": [
+                689,
+                654
+            ],
+            "content": "连续30天未参与任务,未提现的收益将过期清零。",
+            "content_id": "8",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.00299808841571447,
+            "font_size": 27,
+            "top_left": [
+                68,
+                614
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                448,
+                711
+            ],
+            "content": "每个用户每天仅可提现一次。",
+            "content_id": "9",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004090474246960426,
+            "font_size": 29,
+            "top_left": [
+                71,
+                668
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                422,
+                766
+            ],
+            "content": "当前提现审核时长24小时。",
+            "content_id": "10",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004090474246960426,
+            "font_size": 27,
+            "top_left": [
+                71,
+                724
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                209,
+                902
+            ],
+            "content": "提现金额",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5777279818749106,
+            "font_size": 49,
+            "top_left": [
+                13,
+                855
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                367,
+                1061
+            ],
+            "content": "15元",
+            "content_id": "12",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0005816041453157098,
+            "font_size": 66,
+            "top_left": [
+                169,
+                1011
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                565,
+                1061
+            ],
+            "content": "20元",
+            "content_id": "13",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0005816041453157098,
+            "font_size": 66,
+            "top_left": [
+                367,
+                1011
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                763,
+                1061
+            ],
+            "content": "25元",
+            "content_id": "14",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0005816041453157098,
+            "font_size": 66,
+            "top_left": [
+                565,
+                1011
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                149,
+                1219
+            ],
+            "content": "提现至",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5777279818749106,
+            "font_size": 45,
+            "top_left": [
+                14,
+                1173
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                376,
+                1219
+            ],
+            "content": "微博钱包",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5875136840023925,
+            "font_size": 45,
+            "top_left": [
+                151,
+                1173
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                154,
+                21
+            ],
+            "bottom_right": [
+                637,
+                2217
+            ],
+            "content": "立即提现",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19515287338262427,
+            "font_size": 49,
+            "top_left": [
+                441,
+                2162
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "2e844d4e9cf323ae90f4d2c3eaf06af6bbd28d520a094e77f076347ebf23e66c"
+}

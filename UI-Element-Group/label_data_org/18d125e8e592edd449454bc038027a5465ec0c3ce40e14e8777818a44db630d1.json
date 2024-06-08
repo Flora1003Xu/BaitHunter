@@ -1,0 +1,247 @@
+{
+    "ui_id": "18d125e8e592edd449454bc038027a5465ec0c3ce40e14e8777818a44db630d1",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "腾讯个性化广告管理",
+            "top_left": [
+                325,
+                137
+            ],
+            "bottom_right": [
+                865,
+                198
+            ],
+            "font_size": 60,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15715379354307482,
+            "bg_color": [
+                0,
+                171,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "oe",
+            "top_left": [
+                868,
+                137
+            ],
+            "bottom_right": [
+                988,
+                198
+            ],
+            "font_size": 60,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0017758375230985902,
+            "bg_color": [
+                0,
+                168,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "马QQ授权登录",
+            "top_left": [
+                88,
+                276
+            ],
+            "bottom_right": [
+                725,
+                365
+            ],
+            "font_size": 91,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5955271794010897,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "支持QQ号/邮箱/手机号登录",
+            "top_left": [
+                68,
+                448
+            ],
+            "bottom_right": [
+                810,
+                515
+            ],
+            "font_size": 53,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "请输入密码",
+            "top_left": [
+                57,
+                603
+            ],
+            "bottom_right": [
+                367,
+                669
+            ],
+            "font_size": 62,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005807365975954755,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "登录",
+            "top_left": [
+                483,
+                820
+            ],
+            "bottom_right": [
+                583,
+                879
+            ],
+            "font_size": 50,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14716230407891315,
+            "bg_color": [
+                18,
+                183,
+                245
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "切换账号",
+            "top_left": [
+                440,
+                963
+            ],
+            "bottom_right": [
+                636,
+                1025
+            ],
+            "font_size": 49,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1548939603444473,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "腾讯广告将获得以下权限",
+            "top_left": [
+                70,
+                1188
+            ],
+            "bottom_right": [
+                499,
+                1233
+            ],
+            "font_size": 39,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00807522476665979,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "访问你的详细资料",
+            "top_left": [
+                97,
+                1296
+            ],
+            "bottom_right": [
+                465,
+                1341
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00807522476665979,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "心访问你的头像和昵称信息",
+            "top_left": [
+                97,
+                1408
+            ],
+            "bottom_right": [
+                577,
+                1452
+            ],
+            "font_size": 40,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00807522476665979,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "Copyright2010-2023Tencent.AllRightsReserved.",
+            "top_left": [
+                125,
+                1553
+            ],
+            "bottom_right": [
+                917,
+                1595
+            ],
+            "font_size": 18,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00807522476665979,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "Copyright2010-2023Tencent.AllRightsReserved.",
+            "top_left": [
+                155,
+                2277
+            ],
+            "bottom_right": [
+                903,
+                2319
+            ],
+            "font_size": 17,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0022663372467155484,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

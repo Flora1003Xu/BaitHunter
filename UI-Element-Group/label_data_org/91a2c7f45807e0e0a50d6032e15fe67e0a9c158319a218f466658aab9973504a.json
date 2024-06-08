@@ -1,0 +1,587 @@
+{
+    "ui_id": "91a2c7f45807e0e0a50d6032e15fe67e0a9c158319a218f466658aab9973504a",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "立即登录",
+            "top_left": [
+                170,
+                150
+            ],
+            "bottom_right": [
+                338,
+                207
+            ],
+            "font_size": 42,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.023935208402533156,
+            "bg_color": [
+                246,
+                247,
+                250
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "书签收藏",
+            "top_left": [
+                84,
+                337
+            ],
+            "bottom_right": [
+                272,
+                381
+            ],
+            "font_size": 47,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.023554904722179214,
+            "bg_color": [
+                246,
+                247,
+                250
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "历史记录",
+            "top_left": [
+                275,
+                337
+            ],
+            "bottom_right": [
+                463,
+                381
+            ],
+            "font_size": 47,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01213083949584495,
+            "bg_color": [
+                246,
+                247,
+                250
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "下载管理",
+            "top_left": [
+                466,
+                337
+            ],
+            "bottom_right": [
+                654,
+                381
+            ],
+            "font_size": 47,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.023554904722179214,
+            "bg_color": [
+                246,
+                247,
+                250
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "我的关注",
+            "top_left": [
+                657,
+                337
+            ],
+            "bottom_right": [
+                845,
+                381
+            ],
+            "font_size": 47,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02352759953288633,
+            "bg_color": [
+                245,
+                246,
+                249
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "夜间模式",
+            "top_left": [
+                74,
+                541
+            ],
+            "bottom_right": [
+                310,
+                585
+            ],
+            "font_size": 59,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.0113888981021424,
+            "bg_color": [
+                192,
+                192,
+                192
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "无痕浏览",
+            "top_left": [
+                311,
+                541
+            ],
+            "bottom_right": [
+                547,
+                585
+            ],
+            "font_size": 59,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "退出",
+            "top_left": [
+                548,
+                541
+            ],
+            "bottom_right": [
+                666,
+                585
+            ],
+            "font_size": 59,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00864350977217383,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "设置",
+            "top_left": [
+                666,
+                541
+            ],
+            "bottom_right": [
+                784,
+                585
+            ],
+            "font_size": 59,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003258714484836338,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "我的工具",
+            "top_left": [
+                70,
+                712
+            ],
+            "bottom_right": [
+                298,
+                774
+            ],
+            "font_size": 57,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "去实用工具箱查看更多)",
+            "top_left": [
+                301,
+                712
+            ],
+            "bottom_right": [
+                928,
+                774
+            ],
+            "font_size": 57,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "网站导航PDF合并PDF水印PDF签名",
+            "top_left": [
+                84,
+                937
+            ],
+            "bottom_right": [
+                787,
+                981
+            ],
+            "font_size": 37,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "最近使用",
+            "top_left": [
+                792,
+                937
+            ],
+            "bottom_right": [
+                940,
+                981
+            ],
+            "font_size": 37,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "明我的游戏",
+            "top_left": [
+                84,
+                1104
+            ],
+            "bottom_right": [
+                354,
+                1162
+            ],
+            "font_size": 54,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16105407229392468,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "我的放映厅",
+            "top_left": [
+                97,
+                1244
+            ],
+            "bottom_right": [
+                397,
+                1304
+            ],
+            "font_size": 60,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16105407229392468,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "我的小说",
+            "top_left": [
+                155,
+                1387
+            ],
+            "bottom_right": [
+                355,
+                1444
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "出我的体育",
+            "top_left": [
+                83,
+                1524
+            ],
+            "bottom_right": [
+                353,
+                1582
+            ],
+            "font_size": 54,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16105407229392468,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "福利中心",
+            "top_left": [
+                69,
+                1692
+            ],
+            "bottom_right": [
+                357,
+                1754
+            ],
+            "font_size": 72,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "百元现金等你来拿",
+            "top_left": [
+                357,
+                1692
+            ],
+            "bottom_right": [
+                933,
+                1754
+            ],
+            "font_size": 72,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "答题赚2500金币",
+            "top_left": [
+                70,
+                1830
+            ],
+            "bottom_right": [
+                349,
+                1875
+            ],
+            "font_size": 31,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "21",
+            "content": "去答题",
+            "top_left": [
+                855,
+                1856
+            ],
+            "bottom_right": [
+                966,
+                1900
+            ],
+            "font_size": 37,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1988803054797477,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "22",
+            "content": "挑战最全百科题目,赚钱涨知识",
+            "top_left": [
+                69,
+                1885
+            ],
+            "bottom_right": [
+                531,
+                1930
+            ],
+            "font_size": 33,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004299928553678263,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "23",
+            "content": "成就中心",
+            "top_left": [
+                71,
+                2050
+            ],
+            "bottom_right": [
+                355,
+                2112
+            ],
+            "font_size": 71,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "24",
+            "content": "集成就,换好礼>",
+            "top_left": [
+                355,
+                2050
+            ],
+            "bottom_right": [
+                923,
+                2112
+            ],
+            "font_size": 71,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "25",
+            "content": "首页",
+            "top_left": [
+                73,
+                2310
+            ],
+            "bottom_right": [
+                187,
+                2351
+            ],
+            "font_size": 57,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.00490550005574418,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "26",
+            "content": "免费小说",
+            "top_left": [
+                188,
+                2310
+            ],
+            "bottom_right": [
+                416,
+                2351
+            ],
+            "font_size": 57,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "27",
+            "content": "直达",
+            "top_left": [
+                418,
+                2310
+            ],
+            "bottom_right": [
+                532,
+                2351
+            ],
+            "font_size": 57,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "28",
+            "content": "文件",
+            "top_left": [
+                533,
+                2310
+            ],
+            "bottom_right": [
+                647,
+                2351
+            ],
+            "font_size": 57,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "29",
+            "content": "我的",
+            "top_left": [
+                648,
+                2310
+            ],
+            "bottom_right": [
+                762,
+                2351
+            ],
+            "font_size": 57,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.002347193542827789,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

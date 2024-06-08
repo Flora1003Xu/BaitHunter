@@ -1,0 +1,407 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                639,
+                204
+            ],
+            "content": "个人信息",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 50,
+            "top_left": [
+                439,
+                143
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                113,
+                356
+            ],
+            "content": "头像",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 42,
+            "top_left": [
+                29,
+                310
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                277,
+                519
+            ],
+            "content": "昵称",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21217641853484756,
+            "font_size": 123,
+            "top_left": [
+                31,
+                474
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                893,
+                519
+            ],
+            "content": "请输入昵称",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 123,
+            "top_left": [
+                278,
+                474
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                275,
+                687
+            ],
+            "content": "百度帐号",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21217641853484756,
+            "font_size": 61,
+            "top_left": [
+                31,
+                641
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                946,
+                687
+            ],
+            "content": "178*****438",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04923518859343405,
+            "font_size": 61,
+            "top_left": [
+                275,
+                641
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                183,
+                828
+            ],
+            "content": "网盘认证",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 38,
+            "top_left": [
+                31,
+                782
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                338,
+                828
+            ],
+            "content": "限时特惠",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21032354666519254,
+            "font_size": 38,
+            "top_left": [
+                186,
+                782
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                1038,
+                852
+            ],
+            "content": "去认证",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.061092886821180616,
+            "font_size": 47,
+            "top_left": [
+                897,
+                806
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                541,
+                885
+            ],
+            "content": "50G专属企业空间、官方标等权益",
+            "content_id": "10",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "font_size": 32,
+            "top_left": [
+                29,
+                839
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                475,
+                1015
+            ],
+            "content": "企业套餐",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 111,
+            "top_left": [
+                31,
+                970
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                922,
+                1015
+            ],
+            "content": "立即购买",
+            "content_id": "12",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 111,
+            "top_left": [
+                478,
+                970
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                194,
+                1182
+            ],
+            "content": "我的生日",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21217641853484756,
+            "font_size": 41,
+            "top_left": [
+                30,
+                1137
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                194,
+                1324
+            ],
+            "content": "个性签名",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21217641853484756,
+            "font_size": 41,
+            "top_left": [
+                30,
+                1280
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                167,
+                1371
+            ],
+            "content": "暂无签名",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 34,
+            "top_left": [
+                31,
+                1328
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                194,
+                1487
+            ],
+            "content": "个性标签",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21217641853484756,
+            "font_size": 41,
+            "top_left": [
+                30,
+                1442
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                267,
+                1539
+            ],
+            "content": "未设置个性标签",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 34,
+            "top_left": [
+                29,
+                1495
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                840,
+                1682
+            ],
+            "content": "我的二维码",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 162,
+            "top_left": [
+                30,
+                1621
+            ]
+        },
+        {
+            "bg_color": [
+                189,
+                189,
+                189
+            ],
+            "bottom_right": [
+                582,
+                1841
+            ],
+            "content": "尚未开通会员",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.009102449983440907,
+            "font_size": 92,
+            "top_left": [
+                30,
+                1796
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                954,
+                1841
+            ],
+            "content": "立即开通",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18923794533646454,
+            "font_size": 92,
+            "top_left": [
+                586,
+                1796
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "2b2970c1b6a97d8d6e5a3d8054e755d068e632869caca35ca488b571c69eb55b"
+}

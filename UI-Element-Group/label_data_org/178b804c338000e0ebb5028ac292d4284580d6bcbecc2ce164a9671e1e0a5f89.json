@@ -1,0 +1,207 @@
+{
+    "ui_id": "178b804c338000e0ebb5028ac292d4284580d6bcbecc2ce164a9671e1e0a5f88",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "存储权限使用说明",
+            "top_left": [
+                69,
+                179
+            ],
+            "bottom_right": [
+                453,
+                241
+            ],
+            "font_size": 48,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02269558798852445,
+            "bg_color": [
+                170,
+                168,
+                171
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "QQ浏览器需要获取”SD卡存储\"权限,你才可以使用文",
+            "top_left": [
+                68,
+                266
+            ],
+            "bottom_right": [
+                978,
+                309
+            ],
+            "font_size": 35,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.018633417869086257,
+            "bg_color": [
+                170,
+                168,
+                171
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "件、下载、保存图片、备份文件等功能。",
+            "top_left": [
+                68,
+                318
+            ],
+            "bottom_right": [
+                752,
+                368
+            ],
+            "font_size": 38,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.018633417869086257,
+            "bg_color": [
+                170,
+                168,
+                171
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "是否允许\"QQ浏览器”读写手机上的",
+            "top_left": [
+                154,
+                1224
+            ],
+            "bottom_right": [
+                902,
+                1284
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "照片及文件",
+            "top_left": [
+                411,
+                1295
+            ],
+            "bottom_right": [
+                666,
+                1356
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "相册",
+            "top_left": [
+                127,
+                1452
+            ],
+            "bottom_right": [
+                243,
+                1517
+            ],
+            "font_size": 58,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "社交应用文件",
+            "top_left": [
+                128,
+                1617
+            ],
+            "bottom_right": [
+                440,
+                1679
+            ],
+            "font_size": 52,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "拒绝",
+            "top_left": [
+                483,
+                1808
+            ],
+            "bottom_right": [
+                581,
+                1869
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011109927509743524,
+            "bg_color": [
+                240,
+                240,
+                240
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "始终允乡",
+            "top_left": [
+                428,
+                1974
+            ],
+            "bottom_right": [
+                624,
+                2035
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010579471737188042,
+            "bg_color": [
+                222,
+                222,
+                222
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "仅在使用中允许",
+            "top_left": [
+                368,
+                2136
+            ],
+            "bottom_right": [
+                704,
+                2198
+            ],
+            "font_size": 48,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.182370760249906,
+            "bg_color": [
+                13,
+                132,
+                255
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+          "click_id": "21",
+          "click_content": "确认协议并支付￥5",
+          "group": [
+            {
+              "content_id": "19",
+              "content": "支支付宝支付"
+            },
+            {
+              "content_id": "20",
+              "content": "微信支付"
+            },
+            {
+              "content_id": "21",
+              "content": "确认协议并支付￥5"
+            },
+            {
+              "content_id": "22",
+              "content": "开通前请阅读《会员服务协议》"
+            },
+            {
+              "content_id": "23",
+              "content": "明细"
+            }
+          ]
+        }
+    ]
+}

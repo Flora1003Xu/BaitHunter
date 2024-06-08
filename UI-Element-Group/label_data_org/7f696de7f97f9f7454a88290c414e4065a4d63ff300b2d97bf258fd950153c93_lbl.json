@@ -1,0 +1,34 @@
+{
+    "data": [
+      {
+        "click_id": "2",
+        "click_content": "中国大陆",
+        "group": [
+          {
+            "content_id": "2",
+            "content": "中国大陆"
+          },
+          {
+            "content_id": "3",
+            "content": "+86"
+          }
+        ]
+      },
+      {
+        "click_id": "10",
+        "click_content": "阿尔巴尼亚",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "阿尔巴尼亚"
+          },
+          {
+            "content_id": "11",
+            "content": "+355"
+          }
+        ]
+      }
+    ]
+  }
+   
+

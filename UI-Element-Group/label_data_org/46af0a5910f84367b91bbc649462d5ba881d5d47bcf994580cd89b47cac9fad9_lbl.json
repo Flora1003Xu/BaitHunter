@@ -1,0 +1,132 @@
+{
+    "data": [
+      {
+        "click_id": "13",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "8",
+            "content": "京东"
+          },
+          {
+            "content_id": "13",
+            "content": "安装"
+          }
+        ]
+      },
+      {
+        "click_id": "14",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "得物"
+          },
+          {
+            "content_id": "14",
+            "content": "安装"
+          }
+        ]
+      },
+      {
+        "click_id": "15",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "京喜特价"
+          },
+          {
+            "content_id": "15",
+            "content": "安装"
+          }
+        ]
+      },
+      {
+        "click_id": "16",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "11",
+            "content": "百度"
+          },
+          {
+            "content_id": "16",
+            "content": "安装"
+          }
+        ]
+      },
+      {
+        "click_id": "30",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "19",
+            "content": "5000"
+          },
+          {
+            "content_id": "20",
+            "content": "店庆"
+          },
+          {
+            "content_id": "25",
+            "content": "途虎养车"
+          },
+          {
+            "content_id": "30",
+            "content": "安装"
+          }
+        ]
+      },
+      {
+        "click_id": "29",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "21",
+            "content": "瓜子"
+          },
+          {
+            "content_id": "23",
+            "content": "在线看车"
+          },
+          {
+            "content_id": "24",
+            "content": "瓜子二手车"
+          },
+          {
+            "content_id": "29",
+            "content": "安装"
+          }
+        ]
+      },
+      {
+        "click_id": "31",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "26",
+            "content": "淘宝"
+          },
+          {
+            "content_id": "31",
+            "content": "安装"
+          }
+        ]
+      },
+      {
+        "click_id": "32",
+        "click_content": "安装",
+        "group": [
+          {
+            "content_id": "27",
+            "content": "闲鱼"
+          },
+          {
+            "content_id": "32",
+            "content": "安装"
+          }
+        ]
+      }
+    ]
+}

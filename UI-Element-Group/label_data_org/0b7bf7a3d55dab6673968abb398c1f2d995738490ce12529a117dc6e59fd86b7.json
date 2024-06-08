@@ -1,0 +1,327 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                89,
+                89,
+                89
+            ],
+            "bottom_right": [
+                858,
+                1051
+            ],
+            "content": "0",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02859983397393441,
+            "font_size": 80,
+            "top_left": [
+                778,
+                990
+            ]
+        },
+        {
+            "bg_color": [
+                88,
+                88,
+                88
+            ],
+            "bottom_right": [
+                674,
+                1265
+            ],
+            "content": "作业",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24568428627629108,
+            "font_size": 87,
+            "top_left": [
+                500,
+                1225
+            ]
+        },
+        {
+            "bg_color": [
+                89,
+                89,
+                89
+            ],
+            "bottom_right": [
+                848,
+                1265
+            ],
+            "content": "志思",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.31976124083839075,
+            "font_size": 87,
+            "top_left": [
+                674,
+                1225
+            ]
+        },
+        {
+            "bg_color": [
+                89,
+                89,
+                89
+            ],
+            "bottom_right": [
+                753,
+                1271
+            ],
+            "content": "日社",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3254794731425361,
+            "font_size": 22,
+            "top_left": [
+                709,
+                1231
+            ]
+        },
+        {
+            "bg_color": [
+                89,
+                89,
+                89
+            ],
+            "bottom_right": [
+                227,
+                1365
+            ],
+            "content": "夸克网盘",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02859983397393441,
+            "font_size": 35,
+            "top_left": [
+                87,
+                1319
+            ]
+        },
+        {
+            "bg_color": [
+                75,
+                75,
+                75
+            ],
+            "bottom_right": [
+                404,
+                1365
+            ],
+            "content": "夸克扫描王",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.027945949913495242,
+            "font_size": 35,
+            "top_left": [
+                229,
+                1319
+            ]
+        },
+        {
+            "bg_color": [
+                89,
+                89,
+                89
+            ],
+            "bottom_right": [
+                547,
+                1365
+            ],
+            "content": "夸克学习",
+            "content_id": "7",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02859983397393441,
+            "font_size": 35,
+            "top_left": [
+                407,
+                1319
+            ]
+        },
+        {
+            "bg_color": [
+                89,
+                89,
+                89
+            ],
+            "bottom_right": [
+                689,
+                1365
+            ],
+            "content": "夸克日报",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02859983397393441,
+            "font_size": 35,
+            "top_left": [
+                549,
+                1319
+            ]
+        },
+        {
+            "bg_color": [
+                89,
+                89,
+                89
+            ],
+            "bottom_right": [
+                831,
+                1365
+            ],
+            "content": "夸克高考",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02859983397393441,
+            "font_size": 35,
+            "top_left": [
+                691,
+                1319
+            ]
+        },
+        {
+            "bg_color": [
+                89,
+                89,
+                89
+            ],
+            "bottom_right": [
+                182,
+                1502
+            ],
+            "content": "DoC",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20713311254970584,
+            "font_size": 18,
+            "top_left": [
+                128,
+                1480
+            ]
+        },
+        {
+            "bg_color": [
+                80,
+                80,
+                80
+            ],
+            "bottom_right": [
+                248,
+                1580
+            ],
+            "content": "夸克文档",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02820485084073127,
+            "font_size": 40,
+            "top_left": [
+                88,
+                1538
+            ]
+        },
+        {
+            "bg_color": [
+                89,
+                89,
+                89
+            ],
+            "bottom_right": [
+                328,
+                1580
+            ],
+            "content": "更多",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02859983397393441,
+            "font_size": 40,
+            "top_left": [
+                248,
+                1538
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                412,
+                1937
+            ],
+            "content": "相机权限设置",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 57,
+            "top_left": [
+                70,
+                1872
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                927,
+                2048
+            ],
+            "content": "夸克需要相机权限为您提供服务,请在设置中开启",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 39,
+            "top_left": [
+                69,
+                1999
+            ]
+        },
+        {
+            "bg_color": [
+                251,
+                251,
+                251
+            ],
+            "bottom_right": [
+                441,
+                2234
+            ],
+            "content": "取消",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013473917610094505,
+            "font_size": 99,
+            "top_left": [
+                243,
+                2171
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                243,
+                255
+            ],
+            "bottom_right": [
+                738,
+                2234
+            ],
+            "content": "去设置",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2152499469635402,
+            "font_size": 99,
+            "top_left": [
+                441,
+                2171
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "0b7bf7a3d55dab6673968abb398c1f2d995738490ce12529a117dc6e59fd86b7"
+}

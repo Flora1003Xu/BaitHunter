@@ -1,0 +1,82 @@
+{
+    "data": [
+      {
+        "click_id": "17",
+        "click_content": "拒绝",
+        "group": [
+          {
+            "content_id": "13",
+            "content": "是否允许\"钉钉\"读写手机上的照片及"
+          },
+          {
+            "content_id": "14",
+            "content": "文件"
+          },
+          {
+            "content_id": "15",
+            "content": "相册"
+          },
+          {
+            "content_id": "16",
+            "content": "社交应用文件"
+          },
+          {
+            "content_id": "17",
+            "content": "拒绝"
+          }
+        ]
+      },
+      {
+        "click_id": "18",
+        "click_content": "始终允许",
+        "group": [
+          {
+            "content_id": "13",
+            "content": "是否允许\"钉钉\"读写手机上的照片及"
+          },
+          {
+            "content_id": "14",
+            "content": "文件"
+          },
+          {
+            "content_id": "15",
+            "content": "相册"
+          },
+          {
+            "content_id": "16",
+            "content": "社交应用文件"
+          },
+          {
+            "content_id": "18",
+            "content": "始终允许"
+          }
+        ]
+      },
+      {
+        "click_id": "19",
+        "click_content": "仅在使用中允许",
+        "group": [
+          {
+            "content_id": "13",
+            "content": "是否允许\"钉钉\"读写手机上的照片及"
+          },
+          {
+            "content_id": "14",
+            "content": "文件"
+          },
+          {
+            "content_id": "15",
+            "content": "相册"
+          },
+          {
+            "content_id": "16",
+            "content": "社交应用文件"
+          },
+          {
+            "content_id": "19",
+            "content": "仅在使用中允许"
+          }
+        ]
+      }
+    ]
+    }

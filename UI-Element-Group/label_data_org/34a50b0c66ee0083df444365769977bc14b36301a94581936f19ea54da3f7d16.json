@@ -1,0 +1,767 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                230,
+                245,
+                255
+            ],
+            "bottom_right": [
+                491,
+                263
+            ],
+            "content": "点击登录/注册",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.0456333105396421,
+            "font_size": 40,
+            "top_left": [
+                211,
+                203
+            ]
+        },
+        {
+            "bg_color": [
+                232,
+                246,
+                255
+            ],
+            "bottom_right": [
+                826,
+                288
+            ],
+            "content": "客服",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03753118040088022,
+            "font_size": 37,
+            "top_left": [
+                752,
+                247
+            ]
+        },
+        {
+            "bg_color": [
+                235,
+                247,
+                255
+            ],
+            "bottom_right": [
+                900,
+                288
+            ],
+            "content": "消息",
+            "content_id": "3",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0035242496239622097,
+            "font_size": 37,
+            "top_left": [
+                826,
+                247
+            ]
+        },
+        {
+            "bg_color": [
+                230,
+                242,
+                250
+            ],
+            "bottom_right": [
+                974,
+                288
+            ],
+            "content": "设置",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03429179912726744,
+            "font_size": 37,
+            "top_left": [
+                900,
+                247
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                312,
+                524
+            ],
+            "content": "全部订单",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 53,
+            "top_left": [
+                100,
+                479
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                471,
+                524
+            ],
+            "content": "待支付",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 53,
+            "top_left": [
+                312,
+                479
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                630,
+                524
+            ],
+            "content": "进行中",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 53,
+            "top_left": [
+                471,
+                479
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                789,
+                524
+            ],
+            "content": "已完成",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 53,
+            "top_left": [
+                630,
+                479
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                254,
+                691
+            ],
+            "content": "出行数拒",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 46,
+            "top_left": [
+                70,
+                624
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                321,
+                796
+            ],
+            "content": "-km",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 60,
+            "top_left": [
+                141,
+                754
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                441,
+                796
+            ],
+            "content": "-淇",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 60,
+            "top_left": [
+                321,
+                754
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                561,
+                796
+            ],
+            "content": "一千",
+            "content_id": "12",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 60,
+            "top_left": [
+                441,
+                754
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                741,
+                796
+            ],
+            "content": "-kg",
+            "content_id": "13",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033707501148888437,
+            "font_size": 60,
+            "top_left": [
+                561,
+                754
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                253,
+                853
+            ],
+            "content": "总里程",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 42,
+            "top_left": [
+                127,
+                808
+            ]
+        },
+        {
+            "bg_color": [
+                196,
+                197,
+                197
+            ],
+            "bottom_right": [
+                422,
+                853
+            ],
+            "content": "出行次数",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06966035469490446,
+            "font_size": 42,
+            "top_left": [
+                254,
+                808
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                634,
+                853
+            ],
+            "content": "消耗卡路里",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 42,
+            "top_left": [
+                424,
+                808
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                847,
+                853
+            ],
+            "content": "减少碳排放",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 42,
+            "top_left": [
+                637,
+                808
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                255,
+                1012
+            ],
+            "content": "精选服关",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 46,
+            "top_left": [
+                71,
+                950
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                239,
+                1217
+            ],
+            "content": "借钱",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 48,
+            "top_left": [
+                143,
+                1172
+            ]
+        },
+        {
+            "bg_color": [
+                201,
+                202,
+                202
+            ],
+            "bottom_right": [
+                431,
+                1217
+            ],
+            "content": "邀请车主",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0699122713740819,
+            "font_size": 48,
+            "top_left": [
+                239,
+                1172
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                624,
+                1217
+            ],
+            "content": "福利中心",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 48,
+            "top_left": [
+                432,
+                1172
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                817,
+                1217
+            ],
+            "content": "邀请乘客",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 48,
+            "top_left": [
+                625,
+                1172
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                281,
+                1432
+            ],
+            "content": "优惠卡券",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 42,
+            "top_left": [
+                113,
+                1387
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                493,
+                1432
+            ],
+            "content": "成为合伙人",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 42,
+            "top_left": [
+                283,
+                1387
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                663,
+                1432
+            ],
+            "content": "蚂蚁森林",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 42,
+            "top_left": [
+                495,
+                1387
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                833,
+                1432
+            ],
+            "content": "有哈有车",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 42,
+            "top_left": [
+                665,
+                1387
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                530,
+                1619
+            ],
+            "content": "我的游戏",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 115,
+            "top_left": [
+                70,
+                1557
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                876,
+                1619
+            ],
+            "content": "更多>",
+            "content_id": "28",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 115,
+            "top_left": [
+                531,
+                1557
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                80,
+                49
+            ],
+            "bottom_right": [
+                525,
+                1682
+            ],
+            "content": "免费加油",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23212774310506645,
+            "font_size": 29,
+            "top_left": [
+                409,
+                1651
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                231,
+                1839
+            ],
+            "content": "指尖捕鱼",
+            "content_id": "30",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 43,
+            "top_left": [
+                102,
+                1793
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                448,
+                1839
+            ],
+            "content": "捕鱼达人千",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 43,
+            "top_left": [
+                233,
+                1793
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                624,
+                1839
+            ],
+            "content": "君临传奇",
+            "content_id": "32",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 43,
+            "top_left": [
+                452,
+                1793
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                842,
+                1839
+            ],
+            "content": "传奇世界之",
+            "content_id": "33",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 43,
+            "top_left": [
+                627,
+                1793
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                203,
+                2344
+            ],
+            "content": "首所",
+            "content_id": "34",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 65,
+            "top_left": [
+                73,
+                2304
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                334,
+                2344
+            ],
+            "content": "车主",
+            "content_id": "35",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 65,
+            "top_left": [
+                204,
+                2304
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                465,
+                2344
+            ],
+            "content": "逛略",
+            "content_id": "36",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 65,
+            "top_left": [
+                335,
+                2304
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                596,
+                2344
+            ],
+            "content": "钱包",
+            "content_id": "37",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 65,
+            "top_left": [
+                466,
+                2304
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                727,
+                2344
+            ],
+            "content": "我的",
+            "content_id": "38",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 65,
+            "top_left": [
+                597,
+                2304
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "34a50b0c66ee0083df444365769977bc14b36301a94581936f19ea54da3f7d16"
+}

@@ -1,0 +1,207 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                764,
+                198
+            ],
+            "content": "限时专属福利,不领.",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 48,
+            "top_left": [
+                284,
+                136
+            ]
+        },
+        {
+            "bg_color": [
+                58,
+                26,
+                3
+            ],
+            "bottom_right": [
+                367,
+                329
+            ],
+            "content": "开在9分钟前领取",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.179750740184938,
+            "font_size": 39,
+            "top_left": [
+                55,
+                290
+            ]
+        },
+        {
+            "bg_color": [
+                38,
+                53,
+                26
+            ],
+            "bottom_right": [
+                692,
+                369
+            ],
+            "content": "课程+资料立即送",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11957090042089323,
+            "font_size": 46,
+            "top_left": [
+                324,
+                325
+            ]
+        },
+        {
+            "bg_color": [
+                75,
+                34,
+                8
+            ],
+            "bottom_right": [
+                926,
+                639
+            ],
+            "content": "还有咕咕机学习文具等实物奖励免费抽",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11872431741198565,
+            "font_size": 48,
+            "top_left": [
+                110,
+                581
+            ]
+        },
+        {
+            "bg_color": [
+                145,
+                132,
+                101
+            ],
+            "bottom_right": [
+                803,
+                1014
+            ],
+            "content": "您的奖品正在发放中",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1634235074067706,
+            "font_size": 61,
+            "top_left": [
+                254,
+                947
+            ]
+        },
+        {
+            "bg_color": [
+                146,
+                132,
+                103
+            ],
+            "bottom_right": [
+                683,
+                1090
+            ],
+            "content": "加福利官领奖吧",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12013127399626618,
+            "font_size": 43,
+            "top_left": [
+                382,
+                1036
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                652,
+                1766
+            ],
+            "content": "启动微信",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 57,
+            "top_left": [
+                424,
+                1703
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                816,
+                1877
+            ],
+            "content": "您即将打开微信,是否允许",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.020687443843525354,
+            "font_size": 48,
+            "top_left": [
+                240,
+                1815
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                469,
+                2034
+            ],
+            "content": "拒绝",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 122,
+            "top_left": [
+                225,
+                1975
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                714,
+                2034
+            ],
+            "content": "允许",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1882252753031526,
+            "font_size": 122,
+            "top_left": [
+                470,
+                1975
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "90f4d414ec94ec5bc5b5cf6fb7d6dda7f8f244c21d6aeeb2cff3746e7b98cf1d"
+}

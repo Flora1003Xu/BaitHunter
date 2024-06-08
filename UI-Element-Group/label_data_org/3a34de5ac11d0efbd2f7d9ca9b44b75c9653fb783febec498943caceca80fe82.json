@@ -1,0 +1,587 @@
+{
+    "ui_id": "3a34de5ac11d0efbd2f7d9ca9b44b75c9653fb783febec498943caceca80fe82",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "QQ浏览器",
+            "top_left": [
+                141,
+                162
+            ],
+            "bottom_right": [
+                311,
+                210
+            ],
+            "font_size": 34,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.037990227594664173,
+            "bg_color": [
+                209,
+                210,
+                211
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "多种收藏",
+            "top_left": [
+                91,
+                302
+            ],
+            "bottom_right": [
+                555,
+                421
+            ],
+            "font_size": 116,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15915111272904228,
+            "bg_color": [
+                52,
+                73,
+                106
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "不止网址随心收藏",
+            "top_left": [
+                82,
+                448
+            ],
+            "bottom_right": [
+                642,
+                517
+            ],
+            "font_size": 70,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15696858214900647,
+            "bg_color": [
+                252,
+                253,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "立即登录46分",
+            "top_left": [
+                270,
+                745
+            ],
+            "bottom_right": [
+                508,
+                784
+            ],
+            "font_size": 34,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2286212291084076,
+            "bg_color": [
+                232,
+                234,
+                235
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "48",
+            "top_left": [
+                255,
+                818
+            ],
+            "bottom_right": [
+                297,
+                860
+            ],
+            "font_size": 21,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.029158919574886623,
+            "bg_color": [
+                242,
+                242,
+                242
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "11",
+            "top_left": [
+                427,
+                825
+            ],
+            "bottom_right": [
+                467,
+                866
+            ],
+            "font_size": 20,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.054156658657711076,
+            "bg_color": [
+                246,
+                247,
+                249
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "历史记录",
+            "top_left": [
+                398,
+                862
+            ],
+            "bottom_right": [
+                530,
+                898
+            ],
+            "font_size": 33,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.032657900156476696,
+            "bg_color": [
+                203,
+                205,
+                206
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "下载管理",
+            "top_left": [
+                531,
+                862
+            ],
+            "bottom_right": [
+                663,
+                898
+            ],
+            "font_size": 33,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008970801274441302,
+            "bg_color": [
+                246,
+                247,
+                249
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "我的关注",
+            "top_left": [
+                664,
+                862
+            ],
+            "bottom_right": [
+                796,
+                898
+            ],
+            "font_size": 33,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03006507238115182,
+            "bg_color": [
+                246,
+                247,
+                249
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "书签收藏",
+            "top_left": [
+                214,
+                868
+            ],
+            "bottom_right": [
+                338,
+                909
+            ],
+            "font_size": 31,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013558765555278676,
+            "bg_color": [
+                252,
+                252,
+                252
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "书签收藏",
+            "top_left": [
+                454,
+                997
+            ],
+            "bottom_right": [
+                610,
+                1045
+            ],
+            "font_size": 39,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012002177030627555,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "书签",
+            "top_left": [
+                186,
+                1142
+            ],
+            "bottom_right": [
+                356,
+                1186
+            ],
+            "font_size": 85,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03456751876797889,
+            "bg_color": [
+                199,
+                199,
+                199
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "资讯",
+            "top_left": [
+                356,
+                1142
+            ],
+            "bottom_right": [
+                526,
+                1186
+            ],
+            "font_size": 85,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0035419340065581677,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "视频",
+            "top_left": [
+                526,
+                1142
+            ],
+            "bottom_right": [
+                696,
+                1186
+            ],
+            "font_size": 85,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.00019774495806282167,
+            "bg_color": [
+                254,
+                254,
+                254
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "小站",
+            "top_left": [
+                184,
+                1237
+            ],
+            "bottom_right": [
+                334,
+                1276
+            ],
+            "font_size": 75,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.002667955495568987,
+            "bg_color": [
+                253,
+                253,
+                253
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "小程序",
+            "top_left": [
+                335,
+                1237
+            ],
+            "bottom_right": [
+                560,
+                1276
+            ],
+            "font_size": 75,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.002347193542827789,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "其他",
+            "top_left": [
+                562,
+                1237
+            ],
+            "bottom_right": [
+                712,
+                1276
+            ],
+            "font_size": 75,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0016528772851749625,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "我的工具",
+            "top_left": [
+                202,
+                1433
+            ],
+            "bottom_right": [
+                366,
+                1473
+            ],
+            "font_size": 41,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03412957993927578,
+            "bg_color": [
+                254,
+                254,
+                254
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "去实用工具箱查看更多>",
+            "top_left": [
+                368,
+                1433
+            ],
+            "bottom_right": [
+                819,
+                1473
+            ],
+            "font_size": 41,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0015440876347857136,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "我的游戏礼包",
+            "top_left": [
+                211,
+                1553
+            ],
+            "bottom_right": [
+                451,
+                1596
+            ],
+            "font_size": 40,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1546417678313485,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "21",
+            "content": "点击立即体验",
+            "top_left": [
+                368,
+                1715
+            ],
+            "bottom_right": [
+                710,
+                1780
+            ],
+            "font_size": 57,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.205455834689287,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "22",
+            "content": "多种收藏",
+            "top_left": [
+                45,
+                1999
+            ],
+            "bottom_right": [
+                249,
+                2048
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18504156278025208,
+            "bg_color": [
+                248,
+                251,
+                254
+            ]
+        },
+        {
+            "content_id": "23",
+            "content": "文档格式",
+            "top_left": [
+                250,
+                1999
+            ],
+            "bottom_right": [
+                454,
+                2048
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.020287403572892524,
+            "bg_color": [
+                227,
+                229,
+                232
+            ]
+        },
+        {
+            "content_id": "24",
+            "content": "网址导航",
+            "top_left": [
+                455,
+                1999
+            ],
+            "bottom_right": [
+                659,
+                2048
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02365074472716511,
+            "bg_color": [
+                248,
+                250,
+                254
+            ]
+        },
+        {
+            "content_id": "25",
+            "content": "文件功能",
+            "top_left": [
+                660,
+                1999
+            ],
+            "bottom_right": [
+                864,
+                2048
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.020287403572892524,
+            "bg_color": [
+                245,
+                249,
+                254
+            ]
+        },
+        {
+            "content_id": "26",
+            "content": "随时找寻",
+            "top_left": [
+                44,
+                2054
+            ],
+            "bottom_right": [
+                248,
+                2101
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18504156278025208,
+            "bg_color": [
+                245,
+                249,
+                254
+            ]
+        },
+        {
+            "content_id": "27",
+            "content": "轻松转换",
+            "top_left": [
+                250,
+                2054
+            ],
+            "bottom_right": [
+                454,
+                2101
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.018128546525898955,
+            "bg_color": [
+                245,
+                249,
+                254
+            ]
+        },
+        {
+            "content_id": "28",
+            "content": "轻松上网",
+            "top_left": [
+                456,
+                2054
+            ],
+            "bottom_right": [
+                660,
+                2101
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.028298154548947765,
+            "bg_color": [
+                248,
+                251,
+                254
+            ]
+        },
+        {
+            "content_id": "29",
+            "content": "全新升级",
+            "top_left": [
+                662,
+                2054
+            ],
+            "bottom_right": [
+                866,
+                2101
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.022155383011055668,
+            "bg_color": [
+                245,
+                249,
+                254
+            ]
+        }
+    ]
+}

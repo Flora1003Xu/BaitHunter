@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "click_id": "5",
+            "click_content": "登录手机",
+            "group": [
+              {
+                "content_id": "4",
+                "content": "17*******38"
+              },
+              {
+                "content_id": "5",
+                "content": "登录手机"
+              }
+            ]
+        }
+    ]
+}

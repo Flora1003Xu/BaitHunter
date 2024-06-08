@@ -1,0 +1,87 @@
+{
+    "ui_id": "0d3aa102bcf2a4bb6a1a9a3e14dacd680c3145f6fa17597451bbdba012fd6e56",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "输入原手机号",
+            "top_left": [
+                395,
+                132
+            ],
+            "bottom_right": [
+                677,
+                195
+            ],
+            "font_size": 47,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "+86",
+            "top_left": [
+                42,
+                293
+            ],
+            "bottom_right": [
+                168,
+                352
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "输入原手机号码",
+            "top_left": [
+                170,
+                293
+            ],
+            "bottom_right": [
+                464,
+                352
+            ],
+            "font_size": 42,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.018319676971277933,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "忘记原手机号?点击这里找回帐号",
+            "top_left": [
+                39,
+                643
+            ],
+            "bottom_right": [
+                654,
+                695
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23069729185883525,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

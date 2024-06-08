@@ -1,0 +1,39 @@
+{
+    "data": [
+      {
+        "click_id": "1",
+        "click_content": "提建议",
+        "group": [
+          {
+            "content_id": "1",
+            "content": "提建议"
+          }
+        ]
+      },
+      {
+        "click_id": "7",
+        "click_content": "详细说说你遇到的具体问题,具体场景",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "详细说说你遇到的具体问题,具体场景"
+          },
+          {
+            "content_id": "6",
+            "content": "目前痛点"
+          }
+        ]
+      },
+      {
+        "click_id": "12",
+        "click_content": "发送",
+        "group": [
+          {
+            "content_id": "12",
+            "content": "发送"
+          }
+        ]
+      }
+    ]
+  }
+   

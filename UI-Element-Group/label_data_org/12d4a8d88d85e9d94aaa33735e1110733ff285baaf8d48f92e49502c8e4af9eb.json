@@ -1,0 +1,387 @@
+{
+    "ui_id": "12d4a8d88d85e9d94aaa33735e1110733ff285baaf8d48f92e49502c8e4af9eb",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "10",
+            "top_left": [
+                113,
+                114
+            ],
+            "bottom_right": [
+                141,
+                150
+            ],
+            "font_size": 14,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23123404999443553,
+            "bg_color": [
+                127,
+                39,
+                39
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "热门关注",
+            "top_left": [
+                178,
+                133
+            ],
+            "bottom_right": [
+                438,
+                199
+            ],
+            "font_size": 65,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.019495510481027545,
+            "bg_color": [
+                17,
+                17,
+                17
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "直播同城派对",
+            "top_left": [
+                438,
+                133
+            ],
+            "bottom_right": [
+                828,
+                199
+            ],
+            "font_size": 65,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.017211393494596636,
+            "bg_color": [
+                17,
+                17,
+                17
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "dolci-ngo",
+            "top_left": [
+                369,
+                680
+            ],
+            "bottom_right": [
+                495,
+                709
+            ],
+            "font_size": 14,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08764562346574246,
+            "bg_color": [
+                99,
+                90,
+                78
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "《发然的首)的年",
+            "top_left": [
+                39,
+                680
+            ],
+            "bottom_right": [
+                407,
+                766
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12812038549369836,
+            "bg_color": [
+                100,
+                90,
+                79
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "能",
+            "top_left": [
+                411,
+                680
+            ],
+            "bottom_right": [
+                457,
+                766
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1386097017388175,
+            "bg_color": [
+                69,
+                63,
+                57
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "我唱红色",
+            "top_left": [
+                314,
+                828
+            ],
+            "bottom_right": [
+                510,
+                877
+            ],
+            "font_size": 49,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2184038269506545,
+            "bg_color": [
+                100,
+                90,
+                77
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "你唱蓝色",
+            "top_left": [
+                328,
+                895
+            ],
+            "bottom_right": [
+                496,
+                940
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3169511996220761,
+            "bg_color": [
+                106,
+                93,
+                82
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "我听见你坑朝哈起又略",
+            "top_left": [
+                30,
+                1280
+            ],
+            "bottom_right": [
+                390,
+                1337
+            ],
+            "font_size": 36,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21988236024907235,
+            "bg_color": [
+                108,
+                68,
+                67
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "你晴雨难测道路是妙叁",
+            "top_left": [
+                83,
+                1373
+            ],
+            "bottom_right": [
+                433,
+                1421
+            ],
+            "font_size": 35,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3752738064945219,
+            "bg_color": [
+                77,
+                119,
+                127
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "上热门",
+            "top_left": [
+                71,
+                1708
+            ],
+            "bottom_right": [
+                194,
+                1754
+            ],
+            "font_size": 41,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.023382931257506515,
+            "bg_color": [
+                242,
+                242,
+                246
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "转发动态",
+            "top_left": [
+                196,
+                1708
+            ],
+            "bottom_right": [
+                360,
+                1754
+            ],
+            "font_size": 41,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.030624363448474697,
+            "bg_color": [
+                242,
+                242,
+                246
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "微信",
+            "top_left": [
+                363,
+                1708
+            ],
+            "bottom_right": [
+                445,
+                1754
+            ],
+            "font_size": 41,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.024855173824005965,
+            "bg_color": [
+                242,
+                242,
+                246
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "朋友圈",
+            "top_left": [
+                446,
+                1708
+            ],
+            "bottom_right": [
+                569,
+                1754
+            ],
+            "font_size": 41,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.023382931257506515,
+            "bg_color": [
+                242,
+                242,
+                246
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "QQ好友",
+            "top_left": [
+                571,
+                1708
+            ],
+            "bottom_right": [
+                735,
+                1754
+            ],
+            "font_size": 41,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.023382931257506515,
+            "bg_color": [
+                242,
+                242,
+                246
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "QQ空",
+            "top_left": [
+                738,
+                1708
+            ],
+            "bottom_right": [
+                861,
+                1754
+            ],
+            "font_size": 41,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008880262256610972,
+            "bg_color": [
+                242,
+                242,
+                246
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "私信给",
+            "top_left": [
+                44,
+                1833
+            ],
+            "bottom_right": [
+                182,
+                1894
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.030886679512861392,
+            "bg_color": [
+                242,
+                242,
+                246
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "联系人",
+            "top_left": [
+                71,
+                2085
+            ],
+            "bottom_right": [
+                182,
+                2131
+            ],
+            "font_size": 37,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.024194012624847414,
+            "bg_color": [
+                231,
+                231,
+                235
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "取消",
+            "top_left": [
+                497,
+                2260
+            ],
+            "bottom_right": [
+                581,
+                2304
+            ],
+            "font_size": 42,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02440632924415683,
+            "bg_color": [
+                242,
+                242,
+                246
+            ]
+        }
+    ]
+}

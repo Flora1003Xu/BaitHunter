@@ -1,0 +1,767 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                584,
+                210
+            ],
+            "content": "恭喜你被神秘优惠券砸中",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23636486743582794,
+            "font_size": 43,
+            "top_left": [
+                68,
+                150
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                239,
+                237
+            ],
+            "bottom_right": [
+                759,
+                305
+            ],
+            "content": "满5.1减5,限时可用",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22568081088696323,
+            "font_size": 56,
+            "top_left": [
+                143,
+                255
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                254,
+                254
+            ],
+            "bottom_right": [
+                933,
+                305
+            ],
+            "content": "去领取",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23599608276170211,
+            "font_size": 56,
+            "top_left": [
+                765,
+                255
+            ]
+        },
+        {
+            "bg_color": [
+                232,
+                16,
+                18
+            ],
+            "bottom_right": [
+                239,
+                583
+            ],
+            "content": "1200米",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24640486094558814,
+            "font_size": 42,
+            "top_left": [
+                29,
+                522
+            ]
+        },
+        {
+            "bg_color": [
+                251,
+                30,
+                36
+            ],
+            "bottom_right": [
+                201,
+                647
+            ],
+            "content": "量程",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24844606896723317,
+            "font_size": 66,
+            "top_left": [
+                69,
+                580
+            ]
+        },
+        {
+            "bg_color": [
+                216,
+                206,
+                203
+            ],
+            "bottom_right": [
+                254,
+                750
+            ],
+            "content": "观光测距",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24787597874018832,
+            "font_size": 60,
+            "top_left": [
+                14,
+                690
+            ]
+        },
+        {
+            "bg_color": [
+                226,
+                43,
+                27
+            ],
+            "bottom_right": [
+                254,
+                813
+            ],
+            "content": "高清视像",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23827287890021778,
+            "font_size": 60,
+            "top_left": [
+                14,
+                751
+            ]
+        },
+        {
+            "bg_color": [
+                210,
+                200,
+                199
+            ],
+            "bottom_right": [
+                224,
+                903
+            ],
+            "content": "键测角距",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04125881739945967,
+            "font_size": 38,
+            "top_left": [
+                72,
+                857
+            ]
+        },
+        {
+            "bg_color": [
+                247,
+                237,
+                236
+            ],
+            "bottom_right": [
+                212,
+                952
+            ],
+            "content": "精准测量",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04013064536043389,
+            "font_size": 39,
+            "top_left": [
+                56,
+                907
+            ]
+        },
+        {
+            "bg_color": [
+                209,
+                200,
+                203
+            ],
+            "bottom_right": [
+                212,
+                999
+            ],
+            "content": "小巧便携",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05508210582389395,
+            "font_size": 39,
+            "top_left": [
+                56,
+                953
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                107,
+                92
+            ],
+            "bottom_right": [
+                868,
+                1024
+            ],
+            "content": "回",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21651819059198615,
+            "font_size": 30,
+            "top_left": [
+                838,
+                981
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                246,
+                246
+            ],
+            "bottom_right": [
+                988,
+                1024
+            ],
+            "content": "使用说明",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2351980198659319,
+            "font_size": 30,
+            "top_left": [
+                868,
+                981
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                420,
+                1269
+            ],
+            "content": "首图",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 47,
+            "top_left": [
+                326,
+                1224
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                242,
+                242
+            ],
+            "bottom_right": [
+                514,
+                1269
+            ],
+            "content": "口碑",
+            "content_id": "14",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0021093852313705964,
+            "font_size": 47,
+            "top_left": [
+                420,
+                1224
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                242,
+                242
+            ],
+            "bottom_right": [
+                655,
+                1269
+            ],
+            "content": "详情>",
+            "content_id": "15",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0021093852313705964,
+            "font_size": 47,
+            "top_left": [
+                514,
+                1224
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                278,
+                1433
+            ],
+            "content": "3",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2299531758173696,
+            "font_size": 44,
+            "top_left": [
+                234,
+                1358
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                214,
+                1431
+            ],
+            "content": "预估到手羊",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2299531758173696,
+            "font_size": 34,
+            "top_left": [
+                44,
+                1387
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                589,
+                1431
+            ],
+            "content": "京东价￥389.00)",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23451988691414855,
+            "font_size": 34,
+            "top_left": [
+                215,
+                1387
+            ]
+        },
+        {
+            "bg_color": [
+                247,
+                247,
+                247
+            ],
+            "bottom_right": [
+                477,
+                1511
+            ],
+            "content": "118元券包未使用自动退",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22041137652005188,
+            "font_size": 35,
+            "top_left": [
+                57,
+                1467
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                234,
+                245
+            ],
+            "bottom_right": [
+                305,
+                1600
+            ],
+            "content": "领券立减10",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2299531758173696,
+            "font_size": 35,
+            "top_left": [
+                60,
+                1553
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                238
+            ],
+            "bottom_right": [
+                449,
+                1600
+            ],
+            "content": "立减12",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2299531758173696,
+            "font_size": 35,
+            "top_left": [
+                309,
+                1553
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                237,
+                243
+            ],
+            "bottom_right": [
+                696,
+                1600
+            ],
+            "content": "最高返37京豆",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2299531758173696,
+            "font_size": 35,
+            "top_left": [
+                451,
+                1553
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                240,
+                240
+            ],
+            "bottom_right": [
+                805,
+                1600
+            ],
+            "content": "加价购",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2170503094076737,
+            "font_size": 35,
+            "top_left": [
+                700,
+                1553
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                876,
+                1600
+            ],
+            "content": "领券",
+            "content_id": "24",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.026677894561918037,
+            "font_size": 35,
+            "top_left": [
+                806,
+                1553
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                993,
+                1696
+            ],
+            "content": "自京东京造测距仪望远镜手持高倍高清测量仪",
+            "content_id": "25",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 47,
+            "top_left": [
+                53,
+                1635
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                638,
+                1761
+            ],
+            "content": "便携高尔夫测高电子尺1200m",
+            "content_id": "26",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 39,
+            "top_left": [
+                53,
+                1701
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                550,
+                1832
+            ],
+            "content": "精准测量高清显示一键测角距",
+            "content_id": "27",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005137053927653663,
+            "font_size": 39,
+            "top_left": [
+                43,
+                1787
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                339,
+                1918
+            ],
+            "content": "此分享",
+            "content_id": "28",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004090474246960426,
+            "font_size": 70,
+            "top_left": [
+                129,
+                1872
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                551,
+                1918
+            ],
+            "content": "齿收藏",
+            "content_id": "29",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 70,
+            "top_left": [
+                341,
+                1872
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                833,
+                1918
+            ],
+            "content": "降价通知",
+            "content_id": "30",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005137053927653663,
+            "font_size": 70,
+            "top_left": [
+                553,
+                1872
+            ]
+        },
+        {
+            "bg_color": [
+                237,
+                237,
+                237
+            ],
+            "bottom_right": [
+                130,
+                2190
+            ],
+            "content": "送至",
+            "content_id": "31",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.00461752368527422,
+            "font_size": 43,
+            "top_left": [
+                44,
+                2143
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                518,
+                2190
+            ],
+            "content": "请选择你的收货地址",
+            "content_id": "32",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005137053927653663,
+            "font_size": 43,
+            "top_left": [
+                131,
+                2143
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                994,
+                2289
+            ],
+            "content": "领券购买",
+            "content_id": "33",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2248266803484875,
+            "font_size": 42,
+            "top_left": [
+                826,
+                2243
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                204,
+                0
+            ],
+            "bottom_right": [
+                695,
+                2310
+            ],
+            "content": "加入购物车",
+            "content_id": "34",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1862146374007331,
+            "font_size": 39,
+            "top_left": [
+                500,
+                2265
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                49,
+                40
+            ],
+            "bottom_right": [
+                994,
+                2337
+            ],
+            "content": "到手价￥379",
+            "content_id": "35",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22345687021096539,
+            "font_size": 24,
+            "top_left": [
+                826,
+                2289
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                124,
+                2341
+            ],
+            "content": "店铺",
+            "content_id": "36",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 41,
+            "top_left": [
+                42,
+                2301
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                206,
+                2341
+            ],
+            "content": "客服",
+            "content_id": "37",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 41,
+            "top_left": [
+                124,
+                2301
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                329,
+                2341
+            ],
+            "content": "购物车",
+            "content_id": "38",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 41,
+            "top_left": [
+                206,
+                2301
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "0d4919e32d244c6934f3913d6eb24dcd0ad39814016ffae4199f7608d2d13993"
+}

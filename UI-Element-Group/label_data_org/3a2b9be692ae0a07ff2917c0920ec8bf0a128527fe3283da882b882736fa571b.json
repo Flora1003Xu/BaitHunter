@@ -1,0 +1,407 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                197,
+                79
+            ],
+            "bottom_right": [
+                694,
+                241
+            ],
+            "content": "必背古诗",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06600318889954652,
+            "font_size": 78,
+            "top_left": [
+                382,
+                179
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                237,
+                205
+            ],
+            "bottom_right": [
+                482,
+                533
+            ],
+            "content": "已背诵0篇",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14478170493899628,
+            "font_size": 48,
+            "top_left": [
+                242,
+                489
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                237,
+                205
+            ],
+            "bottom_right": [
+                772,
+                533
+            ],
+            "content": "90分以上0",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04405019062007338,
+            "font_size": 48,
+            "top_left": [
+                484,
+                489
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                140,
+                783
+            ],
+            "content": "作者",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 55,
+            "top_left": [
+                30,
+                722
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                242,
+                1130
+            ],
+            "content": "李白",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 71,
+            "top_left": [
+                100,
+                1082
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                385,
+                1130
+            ],
+            "content": "杜甫",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 71,
+            "top_left": [
+                243,
+                1082
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                599,
+                1130
+            ],
+            "content": "白居易",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 71,
+            "top_left": [
+                386,
+                1082
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                743,
+                1130
+            ],
+            "content": "王维",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 71,
+            "top_left": [
+                601,
+                1082
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                141,
+                1262
+            ],
+            "content": "主题",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 50,
+            "top_left": [
+                41,
+                1199
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                316,
+                1550
+            ],
+            "content": "风景",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 93,
+            "top_left": [
+                130,
+                1502
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                503,
+                1550
+            ],
+            "content": "写物",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 93,
+            "top_left": [
+                317,
+                1502
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                690,
+                1550
+            ],
+            "content": "人物",
+            "content_id": "12",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 93,
+            "top_left": [
+                504,
+                1502
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                784,
+                1550
+            ],
+            "content": "四",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 93,
+            "top_left": [
+                691,
+                1502
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                407,
+                1735
+            ],
+            "content": "测一测",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 126,
+            "top_left": [
+                29,
+                1674
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                236,
+                210
+            ],
+            "bottom_right": [
+                911,
+                1735
+            ],
+            "content": "排行榜",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2704441726385927,
+            "font_size": 126,
+            "top_left": [
+                407,
+                1674
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                234,
+                193
+            ],
+            "bottom_right": [
+                354,
+                1870
+            ],
+            "content": "古诗词背诵",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13289604790033768,
+            "font_size": 51,
+            "top_left": [
+                99,
+                1808
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                234,
+                193
+            ],
+            "bottom_right": [
+                670,
+                1939
+            ],
+            "content": "小雨同学100分,战胜了99%的小朋友",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15435260809252635,
+            "font_size": 28,
+            "top_left": [
+                110,
+                1897
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                126,
+                64
+            ],
+            "bottom_right": [
+                366,
+                2045
+            ],
+            "content": "去背诵",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15102595512506062,
+            "font_size": 48,
+            "top_left": [
+                126,
+                1998
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                471,
+                2270
+            ],
+            "content": "必背古诗词",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 86,
+            "top_left": [
+                41,
+                2207
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                904,
+                2270
+            ],
+            "content": "五年级下册",
+            "content_id": "20",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 86,
+            "top_left": [
+                474,
+                2207
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "3a2b9be692ae0a07ff2917c0920ec8bf0a128527fe3283da882b882736fa571b"
+}

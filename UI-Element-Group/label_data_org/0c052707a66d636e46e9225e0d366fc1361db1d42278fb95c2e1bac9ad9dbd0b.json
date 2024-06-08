@@ -1,0 +1,347 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                638,
+                685
+            ],
+            "content": "温馨提示",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19647681938721365,
+            "font_size": 53,
+            "top_left": [
+                426,
+                624
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                893,
+                783
+            ],
+            "content": "欢迎使用百度网盘App!在你使用时,需要",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0826292472644087,
+            "font_size": 37,
+            "top_left": [
+                153,
+                736
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                894,
+                852
+            ],
+            "content": "连接数据网络或者WLAN网络,产生的流量",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0826292472644087,
+            "font_size": 37,
+            "top_left": [
+                154,
+                797
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                566,
+                917
+            ],
+            "content": "费用请咨询当地运营商",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0826292472644087,
+            "font_size": 41,
+            "top_left": [
+                156,
+                868
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                638,
+                1090
+            ],
+            "content": "温馨提示",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21217641853484756,
+            "font_size": 53,
+            "top_left": [
+                426,
+                1026
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                896,
+                1183
+            ],
+            "content": "百度网盘仅会将您的信息用于提供服务和改",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 39,
+            "top_left": [
+                155,
+                1139
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                838,
+                1253
+            ],
+            "content": "善体验,我们将全力保障您的信息安全。",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 38,
+            "top_left": [
+                154,
+                1207
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                250,
+                255
+            ],
+            "bottom_right": [
+                566,
+                1401
+            ],
+            "content": "拒绝并退出",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17119374396359935,
+            "font_size": 65,
+            "top_left": [
+                241,
+                1349
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                149,
+                255
+            ],
+            "bottom_right": [
+                698,
+                1401
+            ],
+            "content": "同意",
+            "content_id": "9",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 65,
+            "top_left": [
+                568,
+                1349
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                894,
+                1585
+            ],
+            "content": "议》全部条款,你同意并接受全部条款后再",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21284564222993932,
+            "font_size": 39,
+            "top_left": [
+                153,
+                1540
+            ]
+        },
+        {
+            "bg_color": [
+                97,
+                100,
+                102
+            ],
+            "bottom_right": [
+                581,
+                1798
+            ],
+            "content": "不同意并退出",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19372877893865764,
+            "font_size": 61,
+            "top_left": [
+                215,
+                1755
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                60,
+                102
+            ],
+            "bottom_right": [
+                703,
+                1798
+            ],
+            "content": "同意",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19372877893865764,
+            "font_size": 61,
+            "top_left": [
+                581,
+                1755
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                564,
+                2155
+            ],
+            "content": "百/",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.31287274969032225,
+            "font_size": 41,
+            "top_left": [
+                482,
+                2087
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                0,
+                1
+            ],
+            "bottom_right": [
+                688,
+                2155
+            ],
+            "content": "变网盘",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 41,
+            "top_left": [
+                565,
+                2087
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                750,
+                2198
+            ],
+            "content": "让美好永远陪件",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03346131783002983,
+            "font_size": 40,
+            "top_left": [
+                470,
+                2158
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                791,
+                2295
+            ],
+            "content": "2023Baidu.com,allrightsreservedCPG",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09936074710927635,
+            "font_size": 15,
+            "top_left": [
+                281,
+                2257
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                672,
+                2338
+            ],
+            "content": "百度智能云提供计算服乡",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06719498140509378,
+            "font_size": 26,
+            "top_left": [
+                386,
+                2297
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "0c052707a66d636e46e9225e0d366fc1361db1d42278fb95c2e1bac9ad9dbd0b"
+}

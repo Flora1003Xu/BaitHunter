@@ -1,0 +1,30 @@
+{
+    "data": [
+      {
+        "click_id": "22",
+        "click_content": "一键登录",
+        "group": [
+          {
+            "content_id": "20",
+            "content": "登录你的百度,精彩永相随"
+          },
+          {
+            "content_id": "21",
+            "content": "178******38"
+          },
+          {
+            "content_id": "22",
+            "content": "一键登录"
+          },
+          {
+            "content_id": "24",
+            "content": "阅读并同意百度用户协议隐私政策中国移动认证服务条"
+          },
+          {
+            "content_id": "25",
+            "content": "款和儿童个人信息保护声明"
+          }
+        ]
+      }
+    ]
+}

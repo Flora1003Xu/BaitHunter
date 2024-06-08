@@ -1,0 +1,84 @@
+{
+    "data": [
+      {
+        "click_id": "5",
+        "click_content": "一键登录",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "一键登录"
+          },
+          {
+            "content_id": "2",
+            "content": "登录后即可点赞喜欢的内容"
+          },
+          {
+            "content_id": "3",
+            "content": "178****6438"
+          },
+          {
+            "content_id": "4",
+            "content": "认证服务由中国移动提供"
+          },
+          {
+            "content_id": "7",
+            "content": "已阅读并同意用户协议和隐私政策以及中国移动认"
+          },
+          {
+            "content_id": "8",
+            "content": "证服务条款,同时登录并使用抖音火山版(原\"火山小"
+          },
+          {
+            "content_id": "9",
+            "content": "视频”)和抖音"
+          }
+        ]
+      },
+      {
+        "click_id": "6",
+        "click_content": "其他手机号码登录",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "其他手机号码登录"
+          },
+          {
+            "content_id": "2",
+            "content": "登录后即可点赞喜欢的内容"
+          },
+          {
+            "content_id": "3",
+            "content": "178****6438"
+          },
+          {
+            "content_id": "4",
+            "content": "认证服务由中国移动提供"
+          },
+          {
+            "content_id": "7",
+            "content": "已阅读并同意用户协议和隐私政策以及中国移动认"
+          },
+          {
+            "content_id": "8",
+            "content": "证服务条款,同时登录并使用抖音火山版(原\"火山小"
+          },
+          {
+            "content_id": "9",
+            "content": "视频”)和抖音"
+          }
+        ]
+      },
+      {
+        "click_id": "10",
+        "click_content": "其他方式登录",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "其他方式登录"
+          }
+        ]
+      }
+    ]
+  }
+   
+

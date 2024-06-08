@@ -1,0 +1,247 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                243,
+                243,
+                247
+            ],
+            "bottom_right": [
+                300,
+                214
+            ],
+            "content": "司",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5444119061821407,
+            "font_size": 36,
+            "top_left": [
+                264,
+                140
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                243,
+                247
+            ],
+            "bottom_right": [
+                336,
+                214
+            ],
+            "content": "所",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.54445823268612,
+            "font_size": 36,
+            "top_left": [
+                300,
+                140
+            ]
+        },
+        {
+            "bg_color": [
+                243,
+                244,
+                248
+            ],
+            "bottom_right": [
+                320,
+                223
+            ],
+            "content": "音乐艺人",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5476091978380371,
+            "font_size": 73,
+            "top_left": [
+                28,
+                159
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                243,
+                247
+            ],
+            "bottom_right": [
+                466,
+                223
+            ],
+            "content": "消息",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.54445823268612,
+            "font_size": 73,
+            "top_left": [
+                320,
+                159
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                251
+            ],
+            "bottom_right": [
+                753,
+                1378
+            ],
+            "content": "登录帐号,查看更多内容",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5444668157322794,
+            "font_size": 40,
+            "top_left": [
+                313,
+                1328
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                169,
+                255
+            ],
+            "bottom_right": [
+                581,
+                1488
+            ],
+            "content": "登录",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1583918106663115,
+            "font_size": 43,
+            "top_left": [
+                495,
+                1441
+            ]
+        },
+        {
+            "bg_color": [
+                240,
+                243,
+                251
+            ],
+            "bottom_right": [
+                764,
+                2151
+            ],
+            "content": "酷狗音乐就是歌多",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5448638535189888,
+            "font_size": 74,
+            "top_left": [
+                172,
+                2089
+            ]
+        },
+        {
+            "bg_color": [
+                240,
+                243,
+                251
+            ],
+            "bottom_right": [
+                843,
+                2151
+            ],
+            "content": "兰",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5448638535189888,
+            "font_size": 74,
+            "top_left": [
+                769,
+                2089
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                281,
+                2336
+            ],
+            "content": "音乐",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 83,
+            "top_left": [
+                115,
+                2288
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                448,
+                2336
+            ],
+            "content": "直播",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 83,
+            "top_left": [
+                282,
+                2288
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                615,
+                2336
+            ],
+            "content": "唱玩",
+            "content_id": "11",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 83,
+            "top_left": [
+                449,
+                2288
+            ]
+        },
+        {
+            "bg_color": [
+                238,
+                238,
+                238
+            ],
+            "bottom_right": [
+                699,
+                2336
+            ],
+            "content": "我",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442046452301625,
+            "font_size": 83,
+            "top_left": [
+                616,
+                2288
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "16a2c898cc686652a1c29ad390560ae3cf1adbe29d75b5ce2ac6a6796464f69e"
+}

@@ -1,0 +1,427 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                511,
+                228
+            ],
+            "content": "常规",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 41,
+            "top_left": [
+                429,
+                184
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                594,
+                228
+            ],
+            "content": "无痕",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 41,
+            "top_left": [
+                512,
+                184
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                725,
+                416
+            ],
+            "content": "15省份GDP出炉上海增长9.7%领跑",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 27,
+            "top_left": [
+                212,
+                378
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                676,
+                552
+            ],
+            "content": "15省份GDP出炉上海增长9.7%领跑",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07493834938704934,
+            "font_size": 29,
+            "top_left": [
+                125,
+                509
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                244,
+                657
+            ],
+            "content": "全部",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08965561776980298,
+            "font_size": 58,
+            "top_left": [
+                128,
+                611
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                361,
+                657
+            ],
+            "content": "资讯",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.029461216261562447,
+            "font_size": 58,
+            "top_left": [
+                245,
+                611
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                478,
+                657
+            ],
+            "content": "视频",
+            "content_id": "7",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008032315296728878,
+            "font_size": 58,
+            "top_left": [
+                362,
+                611
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                595,
+                657
+            ],
+            "content": "文档",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.036612252057114256,
+            "font_size": 58,
+            "top_left": [
+                479,
+                611
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                712,
+                657
+            ],
+            "content": "图片",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011419252726158392,
+            "font_size": 58,
+            "top_left": [
+                596,
+                611
+            ]
+        },
+        {
+            "bg_color": [
+                247,
+                65,
+                66
+            ],
+            "bottom_right": [
+                433,
+                773
+            ],
+            "content": "TOP2夸克热搜)",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24850167985254476,
+            "font_size": 34,
+            "top_left": [
+                127,
+                730
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                432,
+                1277
+            ],
+            "content": "海增长9.7%领跑",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24830900968803155,
+            "font_size": 34,
+            "top_left": [
+                126,
+                1224
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                933,
+                1341
+            ],
+            "content": "据国家统计局,初步核算,上半年国内生产总值593034",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08983453544058924,
+            "font_size": 30,
+            "top_left": [
+                123,
+                1298
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                936,
+                1393
+            ],
+            "content": "亿元,按不变价格计算,同比增长5.5%,比一季度加快1.",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2503353879335575,
+            "font_size": 29,
+            "top_left": [
+                124,
+                1351
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                899,
+                1444
+            ],
+            "content": "0个百分点。截至7月20日,至少已有广东、山东、浙",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07575128462363653,
+            "font_size": 31,
+            "top_left": [
+                124,
+                1398
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                612,
+                1513
+            ],
+            "content": "中国网财经1小时前",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02425743677436857,
+            "font_size": 54,
+            "top_left": [
+                126,
+                1469
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                882,
+                1513
+            ],
+            "content": "查看详情)",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.080306557162235,
+            "font_size": 54,
+            "top_left": [
+                612,
+                1469
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                653,
+                1660
+            ],
+            "content": "15省份GDP出炉上海增长9.7%",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24629625151591947,
+            "font_size": 31,
+            "top_left": [
+                126,
+                1615
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                569,
+                1716
+            ],
+            "content": "领跑特斯拉工厂功不可没!",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24895704358754814,
+            "font_size": 37,
+            "top_left": [
+                125,
+                1670
+            ]
+        },
+        {
+            "bg_color": [
+                153,
+                153,
+                153
+            ],
+            "bottom_right": [
+                366,
+                1780
+            ],
+            "content": "深港在线1小时前",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03569480574879946,
+            "font_size": 30,
+            "top_left": [
+                126,
+                1738
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                251,
+                255
+            ],
+            "bottom_right": [
+                636,
+                1890
+            ],
+            "content": "查看更多信息",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06356050881448994,
+            "font_size": 37,
+            "top_left": [
+                414,
+                1846
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                395,
+                2069
+            ],
+            "content": "夸克热搜。新闻",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.40241891746931596,
+            "font_size": 40,
+            "top_left": [
+                115,
+                2008
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "125a8140107a2da6a0dda2f7cc696bbe4c51acdbd9edcbd211372126ea530890"
+}

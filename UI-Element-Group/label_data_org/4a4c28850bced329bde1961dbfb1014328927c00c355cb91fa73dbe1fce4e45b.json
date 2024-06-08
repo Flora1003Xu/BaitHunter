@@ -1,0 +1,607 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                268,
+                171
+            ],
+            "content": "27-广州多云",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08726955340220277,
+            "font_size": 35,
+            "top_left": [
+                23,
+                144
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                224,
+                207
+            ],
+            "content": "28优",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08726955340220277,
+            "font_size": 27,
+            "top_left": [
+                143,
+                168
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                495,
+                325
+            ],
+            "content": "雷孙杨张豆豆官宣结如",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20179870215115614,
+            "font_size": 44,
+            "top_left": [
+                55,
+                264
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                402,
+                456
+            ],
+            "content": "推荐",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10584038627880318,
+            "font_size": 130,
+            "top_left": [
+                142,
+                394
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                792,
+                456
+            ],
+            "content": "惠生活",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03203644835133338,
+            "font_size": 130,
+            "top_left": [
+                402,
+                394
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                149,
+                454
+            ],
+            "content": "关注",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06118968521862588,
+            "font_size": 60,
+            "top_left": [
+                29,
+                406
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                269,
+                454
+            ],
+            "content": "热搜",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10584038627880318,
+            "font_size": 60,
+            "top_left": [
+                149,
+                406
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                629,
+                454
+            ],
+            "content": "广州小说娱乐",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.064158726403265,
+            "font_size": 60,
+            "top_left": [
+                269,
+                406
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                792,
+                555
+            ],
+            "content": "习近平主持中央财经委员会第二次会议",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10584038627880318,
+            "font_size": 45,
+            "top_left": [
+                27,
+                494
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                196,
+                595
+            ],
+            "content": "置顶央视网",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.28266254358633375,
+            "font_size": 33,
+            "top_left": [
+                31,
+                553
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                523,
+                660
+            ],
+            "content": "习近平会见美国前国务卿",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10584038627880318,
+            "font_size": 45,
+            "top_left": [
+                28,
+                602
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                185,
+                699
+            ],
+            "content": "置顶央视网",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.28266254358633375,
+            "font_size": 31,
+            "top_left": [
+                30,
+                656
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                836,
+                765
+            ],
+            "content": "在钓鱼台国宾馆,为基辛格准备一场午宴",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10584038627880318,
+            "font_size": 45,
+            "top_left": [
+                26,
+                703
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                151,
+                801
+            ],
+            "content": "央视新闻",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.049226382521933176,
+            "font_size": 30,
+            "top_left": [
+                31,
+                762
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                567,
+                869
+            ],
+            "content": "在大运村体验中国文化魅力",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10584038627880318,
+            "font_size": 45,
+            "top_left": [
+                27,
+                807
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                111,
+                907
+            ],
+            "content": "新华网",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.049226382521933176,
+            "font_size": 27,
+            "top_left": [
+                30,
+                868
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                547,
+                972
+            ],
+            "content": "家居消费为何成为\"潜力股。",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10584038627880318,
+            "font_size": 40,
+            "top_left": [
+                27,
+                910
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                139,
+                1010
+            ],
+            "content": "央视新闻",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.049226382521933176,
+            "font_size": 27,
+            "top_left": [
+                31,
+                971
+            ]
+        },
+        {
+            "bg_color": [
+                126,
+                126,
+                126
+            ],
+            "bottom_right": [
+                1036,
+                1127
+            ],
+            "content": "果然没让人失望!27国投票制裁中国,但德国抵",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10581855711071202,
+            "font_size": 46,
+            "top_left": [
+                24,
+                1066
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                468,
+                1193
+            ],
+            "content": "挡压力坚定支持中国",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10584038627880318,
+            "font_size": 49,
+            "top_left": [
+                27,
+                1131
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                698,
+                1485
+            ],
+            "content": "匠5评论",
+            "content_id": "21",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.049226382521933176,
+            "font_size": 167,
+            "top_left": [
+                30,
+                1440
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                867,
+                1485
+            ],
+            "content": "(",
+            "content_id": "22",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 167,
+            "top_left": [
+                700,
+                1440
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                612,
+                1592
+            ],
+            "content": "11血一加”本工山",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20124496413418808,
+            "font_size": 62,
+            "top_left": [
+                54,
+                1554
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                802,
+                1592
+            ],
+            "content": "A出的",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19497763820629893,
+            "font_size": 62,
+            "top_left": [
+                616,
+                1554
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                237,
+                179
+            ],
+            "bottom_right": [
+                797,
+                1684
+            ],
+            "content": "登录立享3天体验DU会员",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20631802335785646,
+            "font_size": 43,
+            "top_left": [
+                281,
+                1624
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                708,
+                1833
+            ],
+            "content": "178******38",
+            "content_id": "26",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "font_size": 31,
+            "top_left": [
+                367,
+                1791
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                225,
+                126
+            ],
+            "bottom_right": [
+                652,
+                1968
+            ],
+            "content": "登录领会员",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11009243184007156,
+            "font_size": 48,
+            "top_left": [
+                412,
+                1906
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                215,
+                98
+            ],
+            "bottom_right": [
+                229,
+                2129
+            ],
+            "content": "品",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16632806203777353,
+            "font_size": 48,
+            "top_left": [
+                181,
+                2086
+            ]
+        },
+        {
+            "bg_color": [
+                184,
+                184,
+                184
+            ],
+            "bottom_right": [
+                967,
+                2242
+            ],
+            "content": "阅读并同意中国移动认证服务协议、百度用户协议和隐私政",
+            "content_id": "29",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0023879883176671436,
+            "font_size": 34,
+            "top_left": [
+                83,
+                2197
+            ]
+        },
+        {
+            "bg_color": [
+                234,
+                234,
+                234
+            ],
+            "bottom_right": [
+                708,
+                2291
+            ],
+            "content": "策,首次登录将自动注册",
+            "content_id": "30",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0017758292975129687,
+            "font_size": 32,
+            "top_left": [
+                356,
+                2246
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "4a4c28850bced329bde1961dbfb1014328927c00c355cb91fa73dbe1fce4e45b"
+}

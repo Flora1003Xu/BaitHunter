@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kuaishou</folder>
+	<filename>29f3f16a63ef8cc2d83082884321b81a117e431ae3400241510065640176f8ad.png</filename>
+	<path>C:\Users\86136\PycharmProjects\pythonProject\result_final\kuaishou\29f3f16a63ef8cc2d83082884321b81a117e431ae3400241510065640176f8ad.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>648</ymin>
+			<xmax>950</xmax>
+			<ymax>1698</ymax>
+		</bndbox>
+	</object>
+</annotation>

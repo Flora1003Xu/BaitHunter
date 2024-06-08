@@ -1,0 +1,18 @@
+{
+    "data": [
+      {
+        "click_id": "6",
+        "click_content": "立即开通",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "开通DU会员,畅享更多个性背景"
+          },
+          {
+            "content_id": "6",
+            "content": "立即开通"
+          }
+        ]
+      }
+    ]
+}

@@ -1,0 +1,367 @@
+{
+    "ui_id": "32c3210588b4f0f8be2eea7bb3fa5aafd4746b157fd193f1b2593d9cb0f6c3ad",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "设置",
+            "top_left": [
+                483,
+                131
+            ],
+            "bottom_right": [
+                581,
+                192
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01337573429606224,
+            "bg_color": [
+                247,
+                247,
+                247
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "个人资料",
+            "top_left": [
+                84,
+                378
+            ],
+            "bottom_right": [
+                268,
+                440
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "地址管理",
+            "top_left": [
+                84,
+                539
+            ],
+            "bottom_right": [
+                268,
+                587
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                145,
+                145,
+                145
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "尺码小助手",
+            "top_left": [
+                85,
+                693
+            ],
+            "bottom_right": [
+                310,
+                746
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "账号",
+            "top_left": [
+                86,
+                853
+            ],
+            "bottom_right": [
+                168,
+                900
+            ],
+            "font_size": 41,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003561215554019151,
+            "bg_color": [
+                153,
+                153,
+                153
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "账号与安全",
+            "top_left": [
+                84,
+                979
+            ],
+            "bottom_right": [
+                309,
+                1041
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007054585729295689,
+            "bg_color": [
+                142,
+                142,
+                142
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "支付",
+            "top_left": [
+                85,
+                1134
+            ],
+            "bottom_right": [
+                301,
+                1197
+            ],
+            "font_size": 108,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007542811661909652,
+            "bg_color": [
+                152,
+                152,
+                152
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "免密支付等",
+            "top_left": [
+                302,
+                1134
+            ],
+            "bottom_right": [
+                842,
+                1197
+            ],
+            "font_size": 108,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006737464913071861,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "通用",
+            "top_left": [
+                85,
+                1299
+            ],
+            "bottom_right": [
+                169,
+                1346
+            ],
+            "font_size": 42,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003561215554019151,
+            "bg_color": [
+                247,
+                247,
+                247
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "图片视频",
+            "top_left": [
+                87,
+                1431
+            ],
+            "bottom_right": [
+                267,
+                1487
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "消息通知",
+            "top_left": [
+                85,
+                1579
+            ],
+            "bottom_right": [
+                317,
+                1641
+            ],
+            "font_size": 58,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "自动回复移到这里啦",
+            "top_left": [
+                320,
+                1579
+            ],
+            "bottom_right": [
+                842,
+                1641
+            ],
+            "font_size": 58,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "长辈模式",
+            "top_left": [
+                85,
+                1735
+            ],
+            "bottom_right": [
+                497,
+                1795
+            ],
+            "font_size": 103,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "未开启",
+            "top_left": [
+                497,
+                1735
+            ],
+            "bottom_right": [
+                806,
+                1795
+            ],
+            "font_size": 103,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "清除缓存",
+            "top_left": [
+                84,
+                1892
+            ],
+            "bottom_right": [
+                268,
+                1949
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "隐私",
+            "top_left": [
+                86,
+                2054
+            ],
+            "bottom_right": [
+                168,
+                2099
+            ],
+            "font_size": 41,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003561215554019151,
+            "bg_color": [
+                247,
+                247,
+                247
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "隐私设置",
+            "top_left": [
+                84,
+                2179
+            ],
+            "bottom_right": [
+                268,
+                2240
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "aa",
+            "top_left": [
+                99,
+                2339
+            ],
+            "bottom_right": [
+                141,
+                2361
+            ],
+            "font_size": 21,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

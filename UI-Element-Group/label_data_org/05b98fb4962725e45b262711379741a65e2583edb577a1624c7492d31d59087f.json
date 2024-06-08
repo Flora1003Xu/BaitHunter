@@ -1,0 +1,387 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                251,
+                251,
+                251
+            ],
+            "bottom_right": [
+                200,
+                201
+            ],
+            "content": "商品",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007652515157410388,
+            "font_size": 44,
+            "top_left": [
+                112,
+                136
+            ]
+        },
+        {
+            "bg_color": [
+                251,
+                251,
+                251
+            ],
+            "bottom_right": [
+                288,
+                201
+            ],
+            "content": "评价",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007652515157410388,
+            "font_size": 44,
+            "top_left": [
+                200,
+                136
+            ]
+        },
+        {
+            "bg_color": [
+                251,
+                251,
+                251
+            ],
+            "bottom_right": [
+                376,
+                201
+            ],
+            "content": "详情",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007652515157410388,
+            "font_size": 44,
+            "top_left": [
+                288,
+                136
+            ]
+        },
+        {
+            "bg_color": [
+                251,
+                251,
+                251
+            ],
+            "bottom_right": [
+                464,
+                201
+            ],
+            "content": "推着",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2300534607535703,
+            "font_size": 44,
+            "top_left": [
+                376,
+                136
+            ]
+        },
+        {
+            "bg_color": [
+                212,
+                212,
+                212
+            ],
+            "bottom_right": [
+                381,
+                324
+            ],
+            "content": "口测距望远镜",
+            "content_id": "5",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003130366487533524,
+            "font_size": 52,
+            "top_left": [
+                69,
+                274
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                246,
+                246
+            ],
+            "bottom_right": [
+                641,
+                324
+            ],
+            "content": "高尔夫测距",
+            "content_id": "6",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.001621984331333572,
+            "font_size": 52,
+            "top_left": [
+                381,
+                274
+            ]
+        },
+        {
+            "bg_color": [
+                140,
+                140,
+                140
+            ],
+            "bottom_right": [
+                901,
+                324
+            ],
+            "content": "电子望远镜",
+            "content_id": "7",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0044606974697206595,
+            "font_size": 52,
+            "top_left": [
+                641,
+                274
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                198,
+                584
+            ],
+            "content": "商品介经",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 43,
+            "top_left": [
+                26,
+                523
+            ]
+        },
+        {
+            "bg_color": [
+                142,
+                166,
+                212
+            ],
+            "bottom_right": [
+                668,
+                1157
+            ],
+            "content": "观光测距二合",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10455061918159131,
+            "font_size": 50,
+            "top_left": [
+                368,
+                1105
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                1021,
+                1782
+            ],
+            "content": "收起",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 41,
+            "top_left": [
+                939,
+                1738
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                253,
+                254
+            ],
+            "bottom_right": [
+                995,
+                1880
+            ],
+            "content": "8",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.017831849134814524,
+            "font_size": 30,
+            "top_left": [
+                965,
+                1841
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                253,
+                254
+            ],
+            "bottom_right": [
+                1008,
+                1916
+            ],
+            "content": "目录",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.0132421324757749,
+            "font_size": 28,
+            "top_left": [
+                952,
+                1877
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                1019,
+                2181
+            ],
+            "content": "顶部",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011752908966518668,
+            "font_size": 39,
+            "top_left": [
+                941,
+                2139
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                994,
+                2289
+            ],
+            "content": "领券购买",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2248266803484875,
+            "font_size": 42,
+            "top_left": [
+                826,
+                2243
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                204,
+                0
+            ],
+            "bottom_right": [
+                695,
+                2310
+            ],
+            "content": "加入购物车",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18636497583981065,
+            "font_size": 39,
+            "top_left": [
+                500,
+                2265
+            ]
+        },
+        {
+            "bg_color": [
+                249,
+                49,
+                40
+            ],
+            "bottom_right": [
+                994,
+                2337
+            ],
+            "content": "到手价￥379",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22339649157804806,
+            "font_size": 24,
+            "top_left": [
+                826,
+                2289
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                124,
+                2342
+            ],
+            "content": "店铺",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 41,
+            "top_left": [
+                42,
+                2300
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                206,
+                2342
+            ],
+            "content": "客服",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008315252544913018,
+            "font_size": 41,
+            "top_left": [
+                124,
+                2300
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                329,
+                2342
+            ],
+            "content": "购物车",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 41,
+            "top_left": [
+                206,
+                2300
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "05b98fb4962725e45b262711379741a65e2583edb577a1624c7492d31d59087f"
+}

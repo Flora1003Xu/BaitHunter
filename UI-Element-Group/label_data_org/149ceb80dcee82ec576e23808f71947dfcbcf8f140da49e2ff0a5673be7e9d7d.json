@@ -1,0 +1,627 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                253,
+                63,
+                51
+            ],
+            "bottom_right": [
+                799,
+                327
+            ],
+            "content": "广州市商务局美团外卖消费券",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.30142227912985564,
+            "font_size": 42,
+            "top_left": [
+                253,
+                281
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                101,
+                62
+            ],
+            "bottom_right": [
+                847,
+                527
+            ],
+            "content": "雪糕酒饮满59最高减39元",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1926037608243853,
+            "font_size": 49,
+            "top_left": [
+                210,
+                467
+            ]
+        },
+        {
+            "bg_color": [
+                35,
+                25,
+                71
+            ],
+            "bottom_right": [
+                580,
+                883
+            ],
+            "content": "C",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.31924856922889894,
+            "font_size": 41,
+            "top_left": [
+                539,
+                863
+            ]
+        },
+        {
+            "bg_color": [
+                28,
+                23,
+                62
+            ],
+            "bottom_right": [
+                608,
+                966
+            ],
+            "content": "MAGNUM",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.4237871929562229,
+            "font_size": 18,
+            "top_left": [
+                500,
+                937
+            ]
+        },
+        {
+            "bg_color": [
+                249,
+                51,
+                63
+            ],
+            "bottom_right": [
+                1074,
+                1064
+            ],
+            "content": "未成年人请勿饮酒",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13035062288201107,
+            "font_size": 26,
+            "top_left": [
+                866,
+                1025
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                51,
+                65
+            ],
+            "bottom_right": [
+                723,
+                1160
+            ],
+            "content": "限时抢红包",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21440405925745631,
+            "font_size": 74,
+            "top_left": [
+                353,
+                1093
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                231,
+                197
+            ],
+            "bottom_right": [
+                666,
+                1381
+            ],
+            "content": "点我抢6元无门",
+            "content_id": "7",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02367981650678106,
+            "font_size": 38,
+            "top_left": [
+                400,
+                1337
+            ]
+        },
+        {
+            "bg_color": [
+                251,
+                222,
+                177
+            ],
+            "bottom_right": [
+                934,
+                1410
+            ],
+            "content": "今日已抢完",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.027427399427060822,
+            "font_size": 36,
+            "top_left": [
+                754,
+                1364
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                237,
+                210
+            ],
+            "bottom_right": [
+                376,
+                1439
+            ],
+            "content": "满6可用",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06075332686718155,
+            "font_size": 54,
+            "top_left": [
+                160,
+                1397
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                235,
+                207
+            ],
+            "bottom_right": [
+                539,
+                1439
+            ],
+            "content": "已拾元",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13771208533709473,
+            "font_size": 54,
+            "top_left": [
+                377,
+                1397
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                51,
+                65
+            ],
+            "bottom_right": [
+                682,
+                1623
+            ],
+            "content": "闪购消费券",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21440405925745631,
+            "font_size": 60,
+            "top_left": [
+                382,
+                1559
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                229,
+                201
+            ],
+            "bottom_right": [
+                509,
+                1774
+            ],
+            "content": "满59可用",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19386090044711898,
+            "font_size": 56,
+            "top_left": [
+                229,
+                1727
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                237,
+                219
+            ],
+            "bottom_right": [
+                847,
+                1774
+            ],
+            "content": "满119可用",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18654598228643673,
+            "font_size": 56,
+            "top_left": [
+                511,
+                1727
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                243,
+                230
+            ],
+            "bottom_right": [
+                307,
+                1816
+            ],
+            "content": "￥18",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19332669727435084,
+            "font_size": 85,
+            "top_left": [
+                52,
+                1764
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                244,
+                231
+            ],
+            "bottom_right": [
+                563,
+                1816
+            ],
+            "content": "￥30",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22675906507063992,
+            "font_size": 85,
+            "top_left": [
+                308,
+                1764
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                33,
+                77
+            ],
+            "bottom_right": [
+                545,
+                1843
+            ],
+            "content": "立即抢",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22242509782992081,
+            "font_size": 86,
+            "top_left": [
+                287,
+                1802
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                241,
+                226
+            ],
+            "bottom_right": [
+                805,
+                1843
+            ],
+            "content": "立即抢",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21489040574141832,
+            "font_size": 86,
+            "top_left": [
+                547,
+                1802
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                246,
+                234
+            ],
+            "bottom_right": [
+                470,
+                1917
+            ],
+            "content": "7月高温补贴券",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05527298339691696,
+            "font_size": 45,
+            "top_left": [
+                155,
+                1876
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                249,
+                238
+            ],
+            "bottom_right": [
+                788,
+                1917
+            ],
+            "content": "7月高温补贴券",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23478437518180975,
+            "font_size": 45,
+            "top_left": [
+                473,
+                1876
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                51,
+                65
+            ],
+            "bottom_right": [
+                766,
+                2053
+            ],
+            "content": "券包一键领取",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21187631638236326,
+            "font_size": 69,
+            "top_left": [
+                352,
+                1985
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                239,
+                238
+            ],
+            "bottom_right": [
+                481,
+                2163
+            ],
+            "content": "￥30",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19399831954979732,
+            "font_size": 85,
+            "top_left": [
+                226,
+                2118
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                240,
+                236
+            ],
+            "bottom_right": [
+                738,
+                2163
+            ],
+            "content": "￥60",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.35649488930231515,
+            "font_size": 85,
+            "top_left": [
+                483,
+                2118
+            ]
+        },
+        {
+            "bg_color": [
+                249,
+                236,
+                236
+            ],
+            "bottom_right": [
+                317,
+                2211
+            ],
+            "content": "1A",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.34058581464592325,
+            "font_size": 116,
+            "top_left": [
+                85,
+                2165
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                239,
+                239
+            ],
+            "bottom_right": [
+                549,
+                2211
+            ],
+            "content": "1A",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2159528489744047,
+            "font_size": 116,
+            "top_left": [
+                317,
+                2165
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                237,
+                239
+            ],
+            "bottom_right": [
+                525,
+                2214
+            ],
+            "content": "满109可田",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21445868329709203,
+            "font_size": 49,
+            "top_left": [
+                231,
+                2174
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                239,
+                239
+            ],
+            "bottom_right": [
+                823,
+                2214
+            ],
+            "content": "满199可田",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.345830028703919,
+            "font_size": 49,
+            "top_left": [
+                529,
+                2174
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                204,
+                197
+            ],
+            "bottom_right": [
+                709,
+                2281
+            ],
+            "content": "屈臣氏",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2045866635308248,
+            "font_size": 27,
+            "top_left": [
+                628,
+                2244
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                265,
+                2348
+            ],
+            "content": "超值便利店",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10952998260582922,
+            "font_size": 44,
+            "top_left": [
+                45,
+                2302
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                487,
+                2348
+            ],
+            "content": "爱亲宠粉季",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12496051956986617,
+            "font_size": 44,
+            "top_left": [
+                267,
+                2302
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                665,
+                2348
+            ],
+            "content": "夏日防晒",
+            "content_id": "30",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11217673272670155,
+            "font_size": 44,
+            "top_left": [
+                489,
+                2302
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                886,
+                2348
+            ],
+            "content": "萌宠清凉季",
+            "content_id": "31",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008478183488787646,
+            "font_size": 44,
+            "top_left": [
+                666,
+                2302
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "149ceb80dcee82ec576e23808f71947dfcbcf8f140da49e2ff0a5673be7e9d7d"
+}

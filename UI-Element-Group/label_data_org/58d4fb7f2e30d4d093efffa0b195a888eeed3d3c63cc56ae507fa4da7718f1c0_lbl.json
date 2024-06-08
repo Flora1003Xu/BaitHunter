@@ -1,0 +1,72 @@
+{
+    "data": [
+      {
+        "click_id": "20",
+        "click_content": "度小满送新人福利 立即抢",
+        "group": [
+          {
+            "content_id": "19",
+            "content": "3个月网盘VIP免费送"
+          },
+          {
+            "content_id": "20",
+            "content": "度小满送新人福利 立即抢"
+          }
+        ]
+      },
+      {
+        "click_id": "27",
+        "click_content": "去备份0/5>",
+        "group": [
+          {
+            "content_id": "25",
+            "content": "备份5张照片"
+          },
+          {
+            "content_id": "26",
+            "content": "+50G容量"
+          },
+          {
+            "content_id": "27",
+            "content": "去备份0/5>"
+          }
+        ]
+      },
+      {
+        "click_id": "30",
+        "click_content": "去分享0/2>",
+        "group": [
+          {
+            "content_id": "28",
+            "content": "分享2个资源"
+          },
+          {
+            "content_id": "29",
+            "content": "+50G容量"
+          },
+          {
+            "content_id": "30",
+            "content": "去分享0/2>"
+          }
+        ]
+      },
+      {
+        "click_id": "36",
+        "click_content": "6折",
+        "group": [
+          {
+            "content_id": "31",
+            "content": "6折"
+          },
+          {
+            "content_id": "32",
+            "content": "暑期特惠!限时6折起"
+          },
+          {
+            "content_id": "36",
+            "content": "全场6折起"
+          }
+        ]
+      }
+    ]
+}

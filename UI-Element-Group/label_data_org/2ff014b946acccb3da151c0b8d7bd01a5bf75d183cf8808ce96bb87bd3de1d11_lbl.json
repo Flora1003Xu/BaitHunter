@@ -1,0 +1,146 @@
+{
+    "data": [
+      {
+        "click_id": "8",
+        "click_content": "立即签到",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "今日签到+5"
+          },
+          {
+            "content_id": "8",
+            "content": "立即签到"
+          },
+          {
+            "content_id": "9",
+            "content": "每日签到即可获得"
+          }
+        ]
+      },
+      {
+        "click_id": "11",
+        "click_content": "去背单词",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "完成今日计划+10"
+          },
+          {
+            "content_id": "11",
+            "content": "去背单词"
+          },
+          {
+            "content_id": "12",
+            "content": "每日24点前,完成当日学习计划"
+          }
+        ]
+      },
+      {
+        "click_id": "14",
+        "click_content": "还差3天",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "连续3天完成计划+50"
+          },
+          {
+            "content_id": "14",
+            "content": "还差3天"
+          },
+          {
+            "content_id": "15",
+            "content": "限完成当天领取,未领取或断开后任"
+          },
+          {
+            "content_id": "16",
+            "content": "务重启"
+          }
+        ]
+      },
+      {
+        "click_id": "18",
+        "click_content": "我的单词机",
+        "group": [
+          {
+            "content_id": "17",
+            "content": "NEW"
+          },
+          {
+            "content_id": "18",
+            "content": "我的单词机"
+          }
+        ]
+      },
+      {
+        "click_id": "19",
+        "click_content": "我的课程",
+        "group": [
+          {
+            "content_id": "19",
+            "content": "我的课程"
+          }
+        ]
+      },
+      {
+        "click_id": "21",
+        "click_content": "我的词汇量",
+        "group": [
+          {
+            "content_id": "21",
+            "content": "我的词汇量"
+          }
+        ]
+      },
+      {
+        "click_id": "22",
+        "click_content": "单词",
+        "group": [
+          {
+            "content_id": "22",
+            "content": "单词"
+          }
+        ]
+      },
+      {
+        "click_id": "23",
+        "click_content": "学习",
+        "group": [
+          {
+            "content_id": "23",
+            "content": "学习"
+          }
+        ]
+      },
+      {
+        "click_id": "24",
+        "click_content": "发现",
+        "group": [
+          {
+            "content_id": "24",
+            "content": "发现"
+          }
+        ]
+      },
+      {
+        "click_id": "25",
+        "click_content": "商城",
+        "group": [
+          {
+            "content_id": "25",
+            "content": "商城"
+          }
+        ]
+      },
+      {
+        "click_id": "26",
+        "click_content": "我",
+        "group": [
+          {
+            "content_id": "26",
+            "content": "我"
+          }
+        ]
+      }
+    ]
+}

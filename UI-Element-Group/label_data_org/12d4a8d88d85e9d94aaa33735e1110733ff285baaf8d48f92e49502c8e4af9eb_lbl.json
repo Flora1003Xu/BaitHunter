@@ -1,0 +1,29 @@
+{
+    "data": [
+      {
+        "click_id": "11",
+        "click_content": "上热门",
+        "group": [
+          {
+            "content_id": "11",
+            "content": "上热门"
+          }
+        ]
+      },
+      {
+        "click_id": "18",
+        "click_content": "联系人",
+        "group": [
+          {
+            "content_id": "18",
+            "content": "联系人"
+          },
+          {
+            "content_id": "17",
+            "content": "私信给"
+          }
+        ]
+      }
+    ]
+  }
+   

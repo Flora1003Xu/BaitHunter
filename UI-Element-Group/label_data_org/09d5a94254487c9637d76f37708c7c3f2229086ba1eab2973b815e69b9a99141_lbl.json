@@ -1,0 +1,50 @@
+{
+    "data": [
+        {
+          "click_id": "10",
+          "click_content": "立即开通",
+          "group": [
+            {
+              "content_id": "8",
+              "content": "首月15元起"
+            },
+            {
+              "content_id": "9",
+              "content": "开通VIP会员"
+            },
+            {
+              "content_id": "10",
+              "content": "立即开通"
+            }
+          ]
+        },
+        {
+          "click_id": "16",
+          "click_content": "免费领2个月VIP",
+          "group": [
+            {
+              "content_id": "15",
+              "content": "四钱包"
+            },
+            {
+              "content_id": "16",
+              "content": "免费领2个月VIP"
+            }
+          ]
+        },
+        {
+          "click_id": "25",
+          "click_content": "奇秀漫画TV助手)",
+          "group": [
+            {
+              "content_id": "24",
+              "content": "微服务"
+            },
+            {
+              "content_id": "25",
+              "content": "奇秀漫画TV助手)"
+            }
+          ]
+        }
+    ]
+}

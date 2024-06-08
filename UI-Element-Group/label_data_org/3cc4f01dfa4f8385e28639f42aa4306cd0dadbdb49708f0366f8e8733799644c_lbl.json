@@ -1,0 +1,48 @@
+{
+    "data": [
+      {
+        "click_id": "11",
+        "click_content": "确定",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "百度输入法"
+          },
+          {
+            "content_id": "9",
+            "content": "一键恢复所有设置项"
+          },
+          {
+            "content_id": "11",
+            "content": "确定"
+          },
+          {
+            "content_id": "13",
+            "content": "取消"
+          }
+        ]
+      },
+      {
+        "click_id": "13",
+        "click_content": "取消",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "百度输入法"
+          },
+          {
+            "content_id": "9",
+            "content": "一键恢复所有设置项"
+          },
+          {
+            "content_id": "11",
+            "content": "确定"
+          },
+          {
+            "content_id": "13",
+            "content": "取消"
+          }
+        ]
+      }
+    ]
+}

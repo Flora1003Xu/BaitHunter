@@ -1,0 +1,58 @@
+{
+    "data": [
+      {
+        "click_id": "15",
+        "click_content": "字母倒序",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "词书顺序"
+          },
+          {
+            "content_id": "13",
+            "content": "字母顺序"
+          },
+          {
+            "content_id": "15",
+            "content": "字母倒序"
+          }
+        ]
+      },
+      {
+        "click_id": "10",
+        "click_content": "词书顺序",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "词书顺序"
+          },
+          {
+            "content_id": "13",
+            "content": "字母顺序"
+          },
+          {
+            "content_id": "15",
+            "content": "字母倒序"
+          }
+        ]
+      },
+      {
+        "click_id": "13",
+        "click_content": "字母顺序",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "词书顺序"
+          },
+          {
+            "content_id": "13",
+            "content": "字母顺序"
+          },
+          {
+            "content_id": "15",
+            "content": "字母倒序"
+          }
+        ]
+      }
+    ]
+}

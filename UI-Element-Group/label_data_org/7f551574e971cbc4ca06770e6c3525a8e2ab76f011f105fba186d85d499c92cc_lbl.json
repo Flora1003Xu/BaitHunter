@@ -1,0 +1,32 @@
+{
+    "data": [
+      {
+        "click_id": "5",
+        "click_content": "立即同步",
+        "group": [
+          {
+            "content_id": "4",
+            "content": "同步你的数据,永久保存"
+          },
+          {
+            "content_id": "5",
+            "content": "立即同步"
+          }
+        ]
+      },
+      {
+        "click_id": "19",
+        "click_content": "点击揭晓",
+        "group": [
+          {
+            "content_id": "18",
+            "content": "请选择称想要的守护者"
+          },
+          {
+            "content_id": "19",
+            "content": "点击揭晓"
+          }
+        ]
+      }
+    ]
+}

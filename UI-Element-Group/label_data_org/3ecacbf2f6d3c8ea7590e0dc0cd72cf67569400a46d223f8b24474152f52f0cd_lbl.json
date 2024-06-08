@@ -1,0 +1,43 @@
+{
+    "data": [
+      {
+        "click_id": "7",
+        "click_content": "微信登录",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "微信登录"
+          },
+          {
+            "content_id": "1",
+            "content": "绑定社交账号"
+          },
+          {
+            "content_id": "2",
+            "content": "方便进行登录、提现等操作"
+          },
+          {
+            "content_id": "3",
+            "content": "17827106438"
+          },
+          {
+            "content_id": "4",
+            "content": "手机号验证通过"
+          },
+          {
+            "content_id": "5",
+            "content": "请绑定社交账号以完成登示"
+          },
+          {
+            "content_id": "6",
+            "content": "待绑定"
+          },
+          {
+            "content_id": "8",
+            "content": "使用QQ登录"
+          }
+        ]
+      }
+    ]
+  }
+   

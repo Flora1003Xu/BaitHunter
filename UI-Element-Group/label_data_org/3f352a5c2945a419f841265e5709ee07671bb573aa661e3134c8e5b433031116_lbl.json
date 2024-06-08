@@ -1,0 +1,57 @@
+{
+    "data": [
+      {
+        "click_id": "15",
+        "click_content": "粉丝抽奖",
+        "group": [
+          {
+            "content_id": "15",
+            "content": "粉丝抽奖"
+          },
+          {
+            "content_id": "16",
+            "content": "1个宝贝正在抽奖"
+          }
+        ]
+      },
+      {
+        "click_id": "19",
+        "click_content": "帖子",
+        "group": [
+          {
+            "content_id": "19",
+            "content": "帖子"
+          }
+        ]
+      },
+      {
+        "click_id": "22",
+        "click_content": "全部",
+        "group": [
+          {
+            "content_id": "22",
+            "content": "全部"
+          }
+        ]
+      },
+      {
+        "click_id": "28",
+        "click_content": "来自江苏的卖家",
+        "group": [
+          {
+            "content_id": "28",
+            "content": "来自江苏的卖家"
+          },
+          {
+            "content_id": "29",
+            "content": "好评"
+          },
+          {
+            "content_id": "30",
+            "content": "交易愉快,欢迎下次再来"
+          }
+        ]
+      }
+    ]
+  }
+   

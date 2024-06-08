@@ -1,0 +1,747 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                230,
+                45,
+                33
+            ],
+            "bottom_right": [
+                616,
+                256
+            ],
+            "content": "人",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23120057225297944,
+            "font_size": 63,
+            "top_left": [
+                553,
+                431
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                610,
+                552
+            ],
+            "content": "拼多多",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 52,
+            "top_left": [
+                454,
+                492
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                323,
+                659
+            ],
+            "content": "详情",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1904098450190474,
+            "font_size": 69,
+            "top_left": [
+                185,
+                612
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                600,
+                659
+            ],
+            "content": "论20万",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 69,
+            "top_left": [
+                324,
+                612
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                740,
+                659
+            ],
+            "content": "精选",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 69,
+            "top_left": [
+                602,
+                612
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                630,
+                1070
+            ],
+            "content": "安装过该应用的用户还喜欢",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "font_size": 48,
+            "top_left": [
+                54,
+                1008
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                595,
+                1130
+            ],
+            "content": "价",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2412457778836601,
+            "font_size": 82,
+            "top_left": [
+                513,
+                1124
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                222,
+                1337
+            ],
+            "content": "京东",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 60,
+            "top_left": [
+                102,
+                1289
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                342,
+                1337
+            ],
+            "content": "得物",
+            "content_id": "9",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 60,
+            "top_left": [
+                222,
+                1289
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                582,
+                1337
+            ],
+            "content": "京喜特价",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 60,
+            "top_left": [
+                342,
+                1289
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                703,
+                1337
+            ],
+            "content": "百度",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 60,
+            "top_left": [
+                583,
+                1289
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                823,
+                1337
+            ],
+            "content": "去哪",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 60,
+            "top_left": [
+                703,
+                1289
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                249,
+                1415
+            ],
+            "content": "安装",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14942040347823912,
+            "font_size": 74,
+            "top_left": [
+                101,
+                1373
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                397,
+                1415
+            ],
+            "content": "安装",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14942040347823912,
+            "font_size": 74,
+            "top_left": [
+                249,
+                1373
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                545,
+                1415
+            ],
+            "content": "安装",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14942040347823912,
+            "font_size": 74,
+            "top_left": [
+                397,
+                1373
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                693,
+                1415
+            ],
+            "content": "安装",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14942040347823912,
+            "font_size": 74,
+            "top_left": [
+                545,
+                1373
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                767,
+                1415
+            ],
+            "content": "安",
+            "content_id": "17",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 74,
+            "top_left": [
+                693,
+                1373
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                435,
+                1569
+            ],
+            "content": "热门时尚购物游戏",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "font_size": 49,
+            "top_left": [
+                43,
+                1507
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                37,
+                10
+            ],
+            "bottom_right": [
+                440,
+                1643
+            ],
+            "content": "5000",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23393076926147052,
+            "font_size": 26,
+            "top_left": [
+                310,
+                1608
+            ]
+        },
+        {
+            "bg_color": [
+                244,
+                52,
+                18
+            ],
+            "bottom_right": [
+                423,
+                1685
+            ],
+            "content": "店庆",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21903144828884274,
+            "font_size": 47,
+            "top_left": [
+                329,
+                1641
+            ]
+        },
+        {
+            "bg_color": [
+                42,
+                185,
+                50
+            ],
+            "bottom_right": [
+                198,
+                1710
+            ],
+            "content": "瓜子",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20454207779810787,
+            "font_size": 57,
+            "top_left": [
+                84,
+                1650
+            ]
+        },
+        {
+            "bg_color": [
+                238,
+                78,
+                52
+            ],
+            "bottom_right": [
+                1078,
+                1758
+            ],
+            "content": "16",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19031316797702552,
+            "font_size": 20,
+            "top_left": [
+                1038,
+                1719
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                236
+            ],
+            "bottom_right": [
+                211,
+                1767
+            ],
+            "content": "在线看车",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21021504508471578,
+            "font_size": 35,
+            "top_left": [
+                71,
+                1724
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                338,
+                1832
+            ],
+            "content": "瓜子二手车",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 56,
+            "top_left": [
+                58,
+                1788
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                562,
+                1832
+            ],
+            "content": "途虎养车",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 56,
+            "top_left": [
+                338,
+                1788
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                674,
+                1832
+            ],
+            "content": "淘宝",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 56,
+            "top_left": [
+                562,
+                1788
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                786,
+                1832
+            ],
+            "content": "闲鱼",
+            "content_id": "27",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 56,
+            "top_left": [
+                674,
+                1788
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                842,
+                1832
+            ],
+            "content": "阿",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 56,
+            "top_left": [
+                786,
+                1788
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                242,
+                1914
+            ],
+            "content": "安装",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14942040347823912,
+            "font_size": 71,
+            "top_left": [
+                100,
+                1870
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                384,
+                1914
+            ],
+            "content": "安装",
+            "content_id": "30",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14942040347823912,
+            "font_size": 71,
+            "top_left": [
+                242,
+                1870
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                526,
+                1914
+            ],
+            "content": "安装",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14942040347823912,
+            "font_size": 71,
+            "top_left": [
+                384,
+                1870
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                668,
+                1914
+            ],
+            "content": "安装",
+            "content_id": "32",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14942040347823912,
+            "font_size": 71,
+            "top_left": [
+                526,
+                1870
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                298,
+                2068
+            ],
+            "content": "猜你还喜欢",
+            "content_id": "33",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "font_size": 51,
+            "top_left": [
+                43,
+                2006
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                102,
+                103
+            ],
+            "bottom_right": [
+                439,
+                2245
+            ],
+            "content": "心的桂一H",
+            "content_id": "34",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2904036542394372,
+            "font_size": 28,
+            "top_left": [
+                299,
+                2222
+            ]
+        },
+        {
+            "bg_color": [
+                11,
+                174,
+                115
+            ],
+            "bottom_right": [
+                210,
+                2250
+            ],
+            "content": "提车帝户一",
+            "content_id": "35",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2775842928406991,
+            "font_size": 28,
+            "top_left": [
+                70,
+                2222
+            ]
+        },
+        {
+            "bg_color": [
+                11,
+                174,
+                115
+            ],
+            "bottom_right": [
+                634,
+                2321
+            ],
+            "content": "安装(25M)",
+            "content_id": "36",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14942040347823912,
+            "font_size": 32,
+            "top_left": [
+                410,
+                2267
+            ]
+        },
+        {
+            "bg_color": [
+                150,
+                150,
+                150
+            ],
+            "bottom_right": [
+                1077,
+                2328
+            ],
+            "content": "携程",
+            "content_id": "37",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003936958236605109,
+            "font_size": 34,
+            "top_left": [
+                1009,
+                2288
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "46af0a5910f84367b91bbc649462d5ba881d5d47bcf994580cd89b47cac9fad9"
+}

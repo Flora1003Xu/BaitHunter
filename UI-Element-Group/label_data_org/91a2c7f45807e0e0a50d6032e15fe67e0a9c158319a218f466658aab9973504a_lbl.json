@@ -1,0 +1,89 @@
+{
+    "data": [
+      {
+        "click_id": "2",
+        "click_content": "书签收藏",
+        "group": [
+          {
+            "content_id": "2",
+            "content": "书签收藏"
+          }
+        ]
+      },
+      {
+        "click_id": "6",
+        "click_content": "夜间模式",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "夜间模式"
+          }
+        ]
+      },
+      {
+        "click_id": "11",
+        "click_content": "去实用工具箱查看更多",
+        "group": [
+          {
+            "content_id": "11",
+            "content": "去实用工具箱查看更多"
+          },
+          {
+            "content_id": "10",
+            "content": "我的工具"
+          }
+        ]
+      },
+      {
+        "click_id": "15",
+        "click_content": "我的放映厅",
+        "group": [
+          {
+            "content_id": "15",
+            "content": "我的放映厅"
+          }
+        ]
+      },
+      {
+        "click_id": "21",
+        "click_content": "去答题",
+        "group": [
+          {
+            "content_id": "21",
+            "content": "去答题"
+          },
+          {
+            "content_id": "22",
+            "content": "挑战最全百科题目,赚钱涨知识"
+          },
+          {
+            "content_id": "20",
+            "content": "答题赚2500金币"
+          },
+          {
+            "content_id": "19",
+            "content": "百元现金等你来拿"
+          },
+          {
+            "content_id": "18",
+            "content": "福利中心"
+          }
+        ]
+      },
+      {
+        "click_id": "24",
+        "click_content": "集成就,换好礼>",
+        "group": [
+          {
+            "content_id": "24",
+            "content": "集成就,换好礼>"
+          },
+          {
+            "content_id": "23",
+            "content": "成就中心"
+          }
+        ]
+      }
+    ]
+  }
+   

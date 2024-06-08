@@ -1,0 +1,287 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                246,
+                220,
+                178
+            ],
+            "bottom_right": [
+                582,
+                162
+            ],
+            "content": "运动",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12087769360526394,
+            "font_size": 50,
+            "top_left": [
+                482,
+                101
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                242,
+                216
+            ],
+            "bottom_right": [
+                582,
+                312
+            ],
+            "content": "定数",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16854666084593214,
+            "font_size": 43,
+            "top_left": [
+                496,
+                267
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                234,
+                198
+            ],
+            "bottom_right": [
+                464,
+                317
+            ],
+            "content": "定时",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05336955706191312,
+            "font_size": 147,
+            "top_left": [
+                170,
+                271
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                759,
+                317
+            ],
+            "content": "自由",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16854666084593214,
+            "font_size": 147,
+            "top_left": [
+                465,
+                271
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                103,
+                26
+            ],
+            "bottom_right": [
+                624,
+                846
+            ],
+            "content": "开始跳绳",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16350067198052703,
+            "font_size": 46,
+            "top_left": [
+                440,
+                787
+            ]
+        },
+        {
+            "bg_color": [
+                252,
+                240,
+                214
+            ],
+            "bottom_right": [
+                240,
+                1105
+            ],
+            "content": "运动项目",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14807671973915756,
+            "font_size": 50,
+            "top_left": [
+                40,
+                1043
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                395,
+                1534
+            ],
+            "content": "摸球大作战",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 70,
+            "top_left": [
+                45,
+                1487
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                608,
+                1534
+            ],
+            "content": "开合跳",
+            "content_id": "8",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0006903728089885531,
+            "font_size": 70,
+            "top_left": [
+                398,
+                1487
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                333,
+                1584
+            ],
+            "content": "全身运动",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.018831044125861528,
+            "font_size": 72,
+            "top_left": [
+                45,
+                1541
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                622,
+                1584
+            ],
+            "content": "全身运动",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.020647982008091103,
+            "font_size": 72,
+            "top_left": [
+                334,
+                1541
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                333,
+                2029
+            ],
+            "content": "口算摸球",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 72,
+            "top_left": [
+                45,
+                1984
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                693,
+                2029
+            ],
+            "content": "原地直腿跳",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14876621608266521,
+            "font_size": 72,
+            "top_left": [
+                333,
+                1984
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                333,
+                2080
+            ],
+            "content": "全身运动",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.020647982008091103,
+            "font_size": 72,
+            "top_left": [
+                45,
+                2037
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                217
+            ],
+            "bottom_right": [
+                622,
+                2080
+            ],
+            "content": "全身运动",
+            "content_id": "14",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 72,
+            "top_left": [
+                334,
+                2037
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "6a07bbccb4a189fdc6e2781adf1627550ef63df1b0db08dbf84a462df4343028"
+}

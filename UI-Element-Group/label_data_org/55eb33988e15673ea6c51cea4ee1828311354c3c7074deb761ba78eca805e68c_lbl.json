@@ -1,0 +1,102 @@
+{
+    "data": [
+      {
+        "click_id": "8",
+        "click_content": "了解详情",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "服务于金融行业的数字化营销、数字化互动和数字"
+          },
+          {
+            "content_id": "7",
+            "content": "化安全的一站式金融行业解决方案"
+          },
+          {
+            "content_id": "8",
+            "content": "了解详情"
+          },
+          {
+            "content_id": "9",
+            "content": "在线咨询"
+          }
+        ]
+      },
+      {
+        "click_id": "9",
+        "click_content": "在线咨询",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "服务于金融行业的数字化营销、数字化互动和数字"
+          },
+          {
+            "content_id": "7",
+            "content": "化安全的一站式金融行业解决方案"
+          },
+          {
+            "content_id": "8",
+            "content": "了解详情"
+          },
+          {
+            "content_id": "9",
+            "content": "在线咨询"
+          }
+        ]
+      },
+      {
+        "click_id": "12",
+        "click_content": "月狐数据",
+        "group": [
+          {
+            "content_id": "12",
+            "content": "月狐数据"
+          }
+        ]
+      },
+      {
+        "click_id": "13",
+        "click_content": "新人福利",
+        "group": [
+          {
+            "content_id": "13",
+            "content": "新人福利"
+          }
+        ]
+      },
+      {
+        "click_id": "14",
+        "click_content": "新品尝鲜",
+        "group": [
+          {
+            "content_id": "14",
+            "content": "新品尝鲜"
+          }
+        ]
+      },
+      {
+        "click_id": "15",
+        "click_content": "解决方案",
+        "group": [
+          {
+            "content_id": "15",
+            "content": "解决方案"
+          }
+        ]
+      },
+      {
+        "click_id": "17",
+        "click_content": "通知服务",
+        "group": [
+          {
+            "content_id": "17",
+            "content": "通知服务"
+          },
+          {
+            "content_id": "18",
+            "content": "全方位触达您的用户"
+          }
+        ]
+      }
+    ]
+}

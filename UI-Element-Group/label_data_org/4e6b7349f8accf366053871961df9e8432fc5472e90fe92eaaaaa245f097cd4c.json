@@ -1,0 +1,187 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                666,
+                194
+            ],
+            "content": "登录-极光",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 51,
+            "top_left": [
+                411,
+                131
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                733,
+                618
+            ],
+            "content": "URORA极光",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22372393763435805,
+            "font_size": 44,
+            "top_left": [
+                425,
+                560
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                560,
+                912
+            ],
+            "content": "手机号/邮箱/用户名",
+            "content_id": "3",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0031210985049662833,
+            "font_size": 36,
+            "top_left": [
+                200,
+                866
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                296,
+                1087
+            ],
+            "content": "密码",
+            "content_id": "4",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0031210985049662833,
+            "font_size": 48,
+            "top_left": [
+                200,
+                1039
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                326,
+                1261
+            ],
+            "content": "验证码",
+            "content_id": "5",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0031210985049662833,
+            "font_size": 42,
+            "top_left": [
+                200,
+                1214
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                179,
+                156
+            ],
+            "bottom_right": [
+                584,
+                1448
+            ],
+            "content": "登录",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13353070624141772,
+            "font_size": 46,
+            "top_left": [
+                492,
+                1382
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                609,
+                1546
+            ],
+            "content": "下次自动登录",
+            "content_id": "7",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 71,
+            "top_left": [
+                183,
+                1508
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                893,
+                1546
+            ],
+            "content": "忘记密码",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13056805453689985,
+            "font_size": 71,
+            "top_left": [
+                609,
+                1508
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                688,
+                1667
+            ],
+            "content": "没有账号?立即注册",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13353070624141772,
+            "font_size": 34,
+            "top_left": [
+                382,
+                1623
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "4e6b7349f8accf366053871961df9e8432fc5472e90fe92eaaaaa245f097cd4c"
+}

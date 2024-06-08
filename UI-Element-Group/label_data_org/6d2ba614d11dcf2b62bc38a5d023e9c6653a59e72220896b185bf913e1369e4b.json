@@ -1,0 +1,787 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                167,
+                168,
+                161
+            ],
+            "bottom_right": [
+                255,
+                186
+            ],
+            "content": "贵州卫视",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24452717483023245,
+            "font_size": 39,
+            "top_left": [
+                99,
+                142
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                208,
+                134
+            ],
+            "bottom_right": [
+                1019,
+                203
+            ],
+            "content": "开通会员",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11073678816723667,
+            "font_size": 38,
+            "top_left": [
+                867,
+                156
+            ]
+        },
+        {
+            "bg_color": [
+                225,
+                230,
+                223
+            ],
+            "bottom_right": [
+                649,
+                664
+            ],
+            "content": "美食心愿订单",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19707054137598692,
+            "font_size": 23,
+            "top_left": [
+                511,
+                625
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                0,
+                0
+            ],
+            "bottom_right": [
+                1021,
+                767
+            ],
+            "content": "立省244元!",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23704450995827875,
+            "font_size": 20,
+            "top_left": [
+                881,
+                728
+            ]
+        },
+        {
+            "bg_color": [
+                251,
+                217,
+                158
+            ],
+            "bottom_right": [
+                600,
+                794
+            ],
+            "content": "【会员全年底价】火热预约中",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5524317275409828,
+            "font_size": 42,
+            "top_left": [
+                54,
+                732
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                219,
+                154
+            ],
+            "bottom_right": [
+                1004,
+                825
+            ],
+            "content": "立即前往",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10899647104333314,
+            "font_size": 41,
+            "top_left": [
+                840,
+                779
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                0,
+                0
+            ],
+            "bottom_right": [
+                239,
+                835
+            ],
+            "content": "查看更多权益",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5433037027248377,
+            "font_size": 35,
+            "top_left": [
+                29,
+                794
+            ]
+        },
+        {
+            "bg_color": [
+                37,
+                29,
+                17
+            ],
+            "bottom_right": [
+                77,
+                946
+            ],
+            "content": "巴",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5586820356949601,
+            "font_size": 33,
+            "top_left": [
+                44,
+                900
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                0,
+                0
+            ],
+            "bottom_right": [
+                242,
+                946
+            ],
+            "content": "热剧抢先看",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5573564733614561,
+            "font_size": 33,
+            "top_left": [
+                77,
+                900
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                0,
+                0
+            ],
+            "bottom_right": [
+                444,
+                946
+            ],
+            "content": "AD广告特权",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5613814469903202,
+            "font_size": 33,
+            "top_left": [
+                246,
+                900
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                0,
+                0
+            ],
+            "bottom_right": [
+                680,
+                946
+            ],
+            "content": "HD1080P",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5573564733614561,
+            "font_size": 33,
+            "top_left": [
+                449,
+                900
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                0,
+                0
+            ],
+            "bottom_right": [
+                818,
+                946
+            ],
+            "content": "专享缓存",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5573564733614561,
+            "font_size": 33,
+            "top_left": [
+                686,
+                900
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                127,
+                1073
+            ],
+            "content": "视频",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22588132316617487,
+            "font_size": 48,
+            "top_left": [
+                31,
+                1017
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                223,
+                1073
+            ],
+            "content": "讨论",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 48,
+            "top_left": [
+                127,
+                1017
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                367,
+                1073
+            ],
+            "content": "一起聊",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 48,
+            "top_left": [
+                223,
+                1017
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                847,
+                1073
+            ],
+            "content": "旦锦鲤魔盒点我发弹幕",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5722992018474075,
+            "font_size": 48,
+            "top_left": [
+                367,
+                1017
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                247,
+                243
+            ],
+            "bottom_right": [
+                246,
+                1167
+            ],
+            "content": "Ad",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016029904002819735,
+            "font_size": 95,
+            "top_left": [
+                56,
+                1120
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                247,
+                243
+            ],
+            "bottom_right": [
+                911,
+                1167
+            ],
+            "content": "领免广告卡广告",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2297335663762302,
+            "font_size": 95,
+            "top_left": [
+                246,
+                1120
+            ]
+        },
+        {
+            "bg_color": [
+                130,
+                130,
+                130
+            ],
+            "bottom_right": [
+                255,
+                1205
+            ],
+            "content": "日卡",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014861717620306853,
+            "font_size": 78,
+            "top_left": [
+                99,
+                1166
+            ]
+        },
+        {
+            "bg_color": [
+                146,
+                146,
+                146
+            ],
+            "bottom_right": [
+                412,
+                1205
+            ],
+            "content": "日卡",
+            "content_id": "20",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014291256408194355,
+            "font_size": 78,
+            "top_left": [
+                256,
+                1166
+            ]
+        },
+        {
+            "bg_color": [
+                30,
+                30,
+                30
+            ],
+            "bottom_right": [
+                569,
+                1205
+            ],
+            "content": "日卡",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20223522512202433,
+            "font_size": 78,
+            "top_left": [
+                413,
+                1166
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                726,
+                1205
+            ],
+            "content": "日卡",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21579623720066599,
+            "font_size": 78,
+            "top_left": [
+                570,
+                1166
+            ]
+        },
+        {
+            "bg_color": [
+                27,
+                27,
+                27
+            ],
+            "bottom_right": [
+                608,
+                1213
+            ],
+            "content": "7天体验卡",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15543247151386202,
+            "font_size": 28,
+            "top_left": [
+                468,
+                1171
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                247,
+                243
+            ],
+            "bottom_right": [
+                209,
+                1288
+            ],
+            "content": "补签",
+            "content_id": "24",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008673050199722237,
+            "font_size": 48,
+            "top_left": [
+                113,
+                1246
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                247,
+                243
+            ],
+            "bottom_right": [
+                305,
+                1288
+            ],
+            "content": "补签",
+            "content_id": "25",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011190436584771599,
+            "font_size": 48,
+            "top_left": [
+                209,
+                1246
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                247,
+                243
+            ],
+            "bottom_right": [
+                497,
+                1288
+            ],
+            "content": "立即抽取",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19379226771834313,
+            "font_size": 48,
+            "top_left": [
+                305,
+                1246
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                248,
+                191
+            ],
+            "bottom_right": [
+                641,
+                1288
+            ],
+            "content": "待抽取",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19427479625557467,
+            "font_size": 48,
+            "top_left": [
+                497,
+                1246
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                247,
+                243
+            ],
+            "bottom_right": [
+                785,
+                1288
+            ],
+            "content": "待抽取",
+            "content_id": "28",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011190436584771599,
+            "font_size": 48,
+            "top_left": [
+                641,
+                1246
+            ]
+        },
+        {
+            "bg_color": [
+                145,
+                145,
+                145
+            ],
+            "bottom_right": [
+                1047,
+                1373
+            ],
+            "content": "领免广告卡",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13256315013819323,
+            "font_size": 35,
+            "top_left": [
+                837,
+                1326
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                253,
+                249
+            ],
+            "bottom_right": [
+                1043,
+                1424
+            ],
+            "content": "华为mate50",
+            "content_id": "30",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18236203544536533,
+            "font_size": 23,
+            "top_left": [
+                882,
+                1386
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                245,
+                224
+            ],
+            "bottom_right": [
+                1032,
+                1566
+            ],
+            "content": "福袋0元抢",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17038754361992384,
+            "font_size": 25,
+            "top_left": [
+                882,
+                1527
+            ]
+        },
+        {
+            "bg_color": [
+                145,
+                145,
+                145
+            ],
+            "bottom_right": [
+                1054,
+                1623
+            ],
+            "content": "广告",
+            "content_id": "32",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19807957972122514,
+            "font_size": 32,
+            "top_left": [
+                990,
+                1577
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                1017,
+                1958
+            ],
+            "content": "著名烹美食家詹姆士与罗拉、王能能三人组成”寻鲜家族”,从贵阳",
+            "content_id": "33",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004680115997235896,
+            "font_size": 33,
+            "top_left": [
+                27,
+                1911
+            ]
+        },
+        {
+            "bg_color": [
+                249,
+                249,
+                249
+            ],
+            "bottom_right": [
+                382,
+                2019
+            ],
+            "content": "出发自驾游遍贵州九地,",
+            "content_id": "34",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0045122109516031,
+            "font_size": 32,
+            "top_left": [
+                30,
+                1974
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                995,
+                2019
+            ],
+            "content": "一起制作一份旅行手帐,并开设一家创意集",
+            "content_id": "35",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004680115997235896,
+            "font_size": 32,
+            "top_left": [
+                387,
+                1974
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                833,
+                2082
+            ],
+            "content": "合菜小店,每一地还将有飞行嘉宾投送他的\"美食订单”。",
+            "content_id": "36",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004680115997235896,
+            "font_size": 31,
+            "top_left": [
+                27,
+                2039
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                127,
+                2158
+            ],
+            "content": "43",
+            "content_id": "37",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 14,
+            "top_left": [
+                99,
+                2121
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                408,
+                2296
+            ],
+            "content": "正片",
+            "content_id": "38",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 189,
+            "top_left": [
+                30,
+                2251
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                787,
+                2296
+            ],
+            "content": "更多",
+            "content_id": "39",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 189,
+            "top_left": [
+                409,
+                2251
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "6d2ba614d11dcf2b62bc38a5d023e9c6653a59e72220896b185bf913e1369e4b"
+}

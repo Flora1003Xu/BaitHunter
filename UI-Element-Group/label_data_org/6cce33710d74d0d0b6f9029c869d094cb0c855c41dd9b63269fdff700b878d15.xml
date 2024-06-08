@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1690042308691784</folder>
+	<filename>6cce33710d74d0d0b6f9029c869d094cb0c855c41dd9b63269fdff700b878d15.png</filename>
+	<path>C:\app_audit2\com.sohu.inputmethod.sogou\1690042308691784\6cce33710d74d0d0b6f9029c869d094cb0c855c41dd9b63269fdff700b878d15.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>1169</ymin>
+			<xmax>1052</xmax>
+			<ymax>1272</ymax>
+		</bndbox>
+	</object>
+</annotation>

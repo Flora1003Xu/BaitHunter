@@ -1,0 +1,85 @@
+{
+    "data": [
+      {
+        "click_id": "13",
+        "click_content": "拒绝",
+        "group": [
+          {
+            "content_id": "13",
+            "content": "拒绝"
+          },
+          {
+            "content_id": "9",
+            "content": "是否允许\"搜狗输入法\"读写手机上的"
+          },
+          {
+            "content_id": "10",
+            "content": "照片及文件"
+          },
+          {
+            "content_id": "11",
+            "content": "相册"
+          },
+          {
+            "content_id": "12",
+            "content": "社交应用文件"
+          }
+        ]
+      },
+      {
+        "click_id": "14",
+        "click_content": "始终允许",
+        "group": [
+            {
+              "content_id": "14",
+              "content": "始终允许"
+            },
+            {
+              "content_id": "9",
+              "content": "是否允许\"搜狗输入法\"读写手机上的"
+            },
+            {
+              "content_id": "10",
+              "content": "照片及文件"
+            },
+            {
+              "content_id": "11",
+              "content": "相册"
+            },
+            {
+              "content_id": "12",
+              "content": "社交应用文件"
+            }
+          ]
+      },
+      {
+        "click_id": "15",
+        "click_content": "仅在使用中允许",
+        "group": [
+            {
+              "content_id": "15",
+              "content": "仅在使用中允许"
+            },
+            {
+              "content_id": "9",
+              "content": "是否允许\"搜狗输入法\"读写手机上的"
+            },
+            {
+              "content_id": "10",
+              "content": "照片及文件"
+            },
+            {
+              "content_id": "11",
+              "content": "相册"
+            },
+            {
+              "content_id": "12",
+              "content": "社交应用文件"
+            }
+          ]
+      }
+    ]
+  }
+   
+
+

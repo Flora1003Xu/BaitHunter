@@ -1,0 +1,367 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                889,
+                195
+            ],
+            "content": "极光推送-中国领先的客户互动和.",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 46,
+            "top_left": [
+                153,
+                129
+            ]
+        },
+        {
+            "bg_color": [
+                29,
+                21,
+                73
+            ],
+            "bottom_right": [
+                163,
+                956
+            ],
+            "content": "出",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22982886187724247,
+            "font_size": 37,
+            "top_left": [
+                126,
+                882
+            ]
+        },
+        {
+            "bg_color": [
+                52,
+                22,
+                143
+            ],
+            "bottom_right": [
+                200,
+                956
+            ],
+            "content": "层",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22985652471323142,
+            "font_size": 37,
+            "top_left": [
+                163,
+                882
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                348,
+                956
+            ],
+            "content": "注册即送积分",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22894858871558163,
+            "font_size": 37,
+            "top_left": [
+                170,
+                882
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                386,
+                956
+            ],
+            "content": "3",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2213500747608008,
+            "font_size": 37,
+            "top_left": [
+                349,
+                882
+            ]
+        },
+        {
+            "bg_color": [
+                68,
+                39,
+                219
+            ],
+            "bottom_right": [
+                497,
+                956
+            ],
+            "content": "免费畅享",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2249094447972291,
+            "font_size": 37,
+            "top_left": [
+                350,
+                882
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                608,
+                956
+            ],
+            "content": "AI!",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22418905690718272,
+            "font_size": 37,
+            "top_left": [
+                497,
+                882
+            ]
+        },
+        {
+            "bg_color": [
+                139,
+                142,
+                148
+            ],
+            "bottom_right": [
+                882,
+                1043
+            ],
+            "content": "极光GPTBots诚邀您体验AIBot",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19236344633248642,
+            "font_size": 36,
+            "top_left": [
+                198,
+                996
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                638,
+                1197
+            ],
+            "content": "立即体验",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19622109997396575,
+            "font_size": 50,
+            "top_left": [
+                438,
+                1136
+            ]
+        },
+        {
+            "bg_color": [
+                44,
+                107,
+                255
+            ],
+            "bottom_right": [
+                198,
+                1400
+            ],
+            "content": "满意度调研",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19622109997396575,
+            "font_size": 34,
+            "top_left": [
+                28,
+                1347
+            ]
+        },
+        {
+            "bg_color": [
+                44,
+                107,
+                255
+            ],
+            "bottom_right": [
+                915,
+                1400
+            ],
+            "content": "极光2023半年度产品体验满意度调研,您的",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16611297167247502,
+            "font_size": 34,
+            "top_left": [
+                201,
+                1347
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                249,
+                1713
+            ],
+            "content": "月狐数据",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1505953208658855,
+            "font_size": 51,
+            "top_left": [
+                45,
+                1668
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                454,
+                1713
+            ],
+            "content": "新人福利",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1505953208658855,
+            "font_size": 51,
+            "top_left": [
+                250,
+                1668
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                659,
+                1713
+            ],
+            "content": "新品尝鲜",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1505953208658855,
+            "font_size": 51,
+            "top_left": [
+                455,
+                1668
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                864,
+                1713
+            ],
+            "content": "解决方案",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1505953208658855,
+            "font_size": 51,
+            "top_left": [
+                660,
+                1668
+            ]
+        },
+        {
+            "bg_color": [
+                244,
+                249,
+                251
+            ],
+            "bottom_right": [
+                804,
+                1965
+            ],
+            "content": "安全可靠的产品与服务",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19117952472265684,
+            "font_size": 55,
+            "top_left": [
+                254,
+                1898
+            ]
+        },
+        {
+            "bg_color": [
+                44,
+                107,
+                255
+            ],
+            "bottom_right": [
+                412,
+                2162
+            ],
+            "content": "通知服务",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20738555494169447,
+            "font_size": 54,
+            "top_left": [
+                196,
+                2095
+            ]
+        },
+        {
+            "bg_color": [
+                44,
+                107,
+                255
+            ],
+            "bottom_right": [
+                494,
+                2227
+            ],
+            "content": "全方位触达您的用户",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1642224742740954,
+            "font_size": 33,
+            "top_left": [
+                197,
+                2183
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "60f047709535caf7b7b79d9363228ba6023e3b809c6a6d6f878ac065432c2d63"
+}

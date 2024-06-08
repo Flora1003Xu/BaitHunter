@@ -1,0 +1,73 @@
+{
+    "data": [
+      {
+        "click_id": "2",
+        "click_content": "我的信息",
+        "group": [
+          {
+            "content_id": "2",
+            "content": "我的信息"
+          },
+          {
+            "content_id": "3",
+            "content": "个人/企业信息"
+          }
+        ]
+      },
+      {
+        "click_id": "8",
+        "click_content": "安全中心",
+        "group": [
+          {
+            "content_id": "8",
+            "content": "安全中心"
+          },
+          {
+            "content_id": "9",
+            "content": "已保护"
+          }
+        ]
+      },
+      {
+        "click_id": "11",
+        "click_content": "好友权限",
+        "group": [
+          {
+            "content_id": "11",
+            "content": "好友权限"
+          },
+          {
+            "content_id": "12",
+            "content": "加好友权限、加群权限、黑名单"
+          }
+        ]
+      },
+      {
+        "click_id": "13",
+        "click_content": "对外信息权限",
+        "group": [
+          {
+            "content_id": "13",
+            "content": "对外信息权限"
+          },
+          {
+            "content_id": "14",
+            "content": "企业名称信息、日程信息、登录信息"
+          }
+        ]
+      },
+      {
+        "click_id": "15",
+        "click_content": "系统及应用权限",
+        "group": [
+          {
+            "content_id": "15",
+            "content": "系统及应用权限"
+          },
+          {
+            "content_id": "16",
+            "content": "系统权限、应用授权、内容权限"
+          }
+        ]
+      }]
+}

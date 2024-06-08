@@ -1,0 +1,327 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                901,
+                199
+            ],
+            "content": "品牌洞察数据-用户行为分析-app",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 44,
+            "top_left": [
+                153,
+                129
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                21,
+                16
+            ],
+            "bottom_right": [
+                269,
+                349
+            ],
+            "content": "极光旗下成员",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11832171709350411,
+            "font_size": 26,
+            "top_left": [
+                113,
+                311
+            ]
+        },
+        {
+            "bg_color": [
+                1,
+                27,
+                24
+            ],
+            "bottom_right": [
+                1012,
+                1209
+            ],
+            "content": "凭借全面稳定、安全合规的移动大数据根基及专业精准",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13457817605424802,
+            "font_size": 40,
+            "top_left": [
+                52,
+                1166
+            ]
+        },
+        {
+            "bg_color": [
+                1,
+                27,
+                24
+            ],
+            "bottom_right": [
+                1012,
+                1278
+            ],
+            "content": "的数据分析技术、人工智能算法,洞察市场增量,赋能",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1324368580497297,
+            "font_size": 40,
+            "top_left": [
+                52,
+                1224
+            ]
+        },
+        {
+            "bg_color": [
+                1,
+                27,
+                24
+            ],
+            "bottom_right": [
+                653,
+                1341
+            ],
+            "content": "商业精准决笑",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1303177072630513,
+            "font_size": 40,
+            "top_left": [
+                413,
+                1296
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                187,
+                161
+            ],
+            "bottom_right": [
+                372,
+                1493
+            ],
+            "content": "立即体验",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09126935420357987,
+            "font_size": 54,
+            "top_left": [
+                156,
+                1445
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                43,
+                37
+            ],
+            "bottom_right": [
+                590,
+                1493
+            ],
+            "content": "联系商务",
+            "content_id": "7",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03614672150470205,
+            "font_size": 54,
+            "top_left": [
+                374,
+                1445
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                43,
+                37
+            ],
+            "bottom_right": [
+                808,
+                1493
+            ],
+            "content": "热门榜单",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.034858512746885784,
+            "font_size": 54,
+            "top_left": [
+                592,
+                1445
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                302,
+                2157
+            ],
+            "content": "为什",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1956335706009732,
+            "font_size": 33,
+            "top_left": [
+                236,
+                2081
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                336,
+                2157
+            ],
+            "content": "6",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1956335706009732,
+            "font_size": 33,
+            "top_left": [
+                303,
+                2081
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                369,
+                2157
+            ],
+            "content": "选",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1956335706009732,
+            "font_size": 33,
+            "top_left": [
+                336,
+                2081
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                402,
+                2157
+            ],
+            "content": "择",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1956335706009732,
+            "font_size": 33,
+            "top_left": [
+                369,
+                2081
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                435,
+                2157
+            ],
+            "content": "叫",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1956335706009732,
+            "font_size": 33,
+            "top_left": [
+                402,
+                2081
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                468,
+                2157
+            ],
+            "content": "瓜",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1956335706009732,
+            "font_size": 33,
+            "top_left": [
+                435,
+                2081
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                501,
+                2157
+            ],
+            "content": "数",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1956335706009732,
+            "font_size": 33,
+            "top_left": [
+                468,
+                2081
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                534,
+                2157
+            ],
+            "content": "据",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1956335706009732,
+            "font_size": 33,
+            "top_left": [
+                501,
+                2081
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "81f822ec2a07aa093edb3d303ddbb7a62b2c0582c33863d5cf5f7d4114ec792f"
+}

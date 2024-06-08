@@ -1,0 +1,26 @@
+<annotation>
+	<folder>quark</folder>
+	<filename>0b7bf7a3d55dab6673968abb398c1f2d995738490ce12529a117dc6e59fd86b7.png</filename>
+	<path>C:\Users\86136\PycharmProjects\pythonProject\result_final\quark\0b7bf7a3d55dab6673968abb398c1f2d995738490ce12529a117dc6e59fd86b7.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>1808</ymin>
+			<xmax>1067</xmax>
+			<ymax>2345</ymax>
+		</bndbox>
+	</object>
+</annotation>

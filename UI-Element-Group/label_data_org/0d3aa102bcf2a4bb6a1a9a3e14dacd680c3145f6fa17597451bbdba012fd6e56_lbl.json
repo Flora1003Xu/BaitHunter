@@ -1,0 +1,34 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "输入原手机号码",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "输入原手机号码"
+          },
+          {
+            "content_id": "2",
+            "content": "+86"
+          },
+          {
+            "content_id": "1",
+            "content": "输入原手机号"
+          }
+        ]
+      },
+      {
+        "click_id": "4",
+        "click_content": "忘记原手机号?点击这里找回帐号",
+        "group": [
+          {
+            "content_id": "4",
+            "content": "忘记原手机号?点击这里找回帐号"
+          }
+        ]
+      }
+    ]
+  }
+   
+ 

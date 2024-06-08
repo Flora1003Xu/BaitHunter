@@ -1,0 +1,60 @@
+{
+    "data": [
+      {
+        "click_id": "7",
+        "click_content": "摸球大作战",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "摸球大作战"
+          },
+          {
+            "content_id": "9",
+            "content": "全身运动"
+          }
+        ]
+      },
+      {
+        "click_id": "8",
+        "click_content": "开合跳",
+        "group": [
+          {
+            "content_id": "8",
+            "content": "开合跳"
+          },
+          {
+            "content_id": "10",
+            "content": "全身运动"
+          }
+        ]
+      },
+      {
+        "click_id": "11",
+        "click_content": "口算摸球",
+        "group": [
+          {
+            "content_id": "11",
+            "content": "口算摸球"
+          },
+          {
+            "content_id": "13",
+            "content": "全身运动"
+          }
+        ]
+      },
+      {
+        "click_id": "12",
+        "click_content": "原地直腿跳",
+        "group": [
+          {
+            "content_id": "12",
+            "content": "原地直腿跳"
+          },
+          {
+            "content_id": "14",
+            "content": "全身运动"
+          }
+        ]
+      }
+    ]
+}

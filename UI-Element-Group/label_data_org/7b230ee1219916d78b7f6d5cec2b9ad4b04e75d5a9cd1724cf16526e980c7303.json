@@ -1,0 +1,147 @@
+{
+    "ui_id": "7b230ee1219916d78b7f6d5cec2b9ad4b04e75d5a9cd1724cf16526e980c7303",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "多窗口",
+            "top_left": [
+                283,
+                122
+            ],
+            "bottom_right": [
+                442,
+                186
+            ],
+            "font_size": 53,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.009782294216247567,
+            "bg_color": [
+                65,
+                65,
+                65
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "收藏",
+            "top_left": [
+                444,
+                122
+            ],
+            "bottom_right": [
+                550,
+                186
+            ],
+            "font_size": 53,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.009782294216247567,
+            "bg_color": [
+                65,
+                65,
+                65
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "历史",
+            "top_left": [
+                551,
+                122
+            ],
+            "bottom_right": [
+                657,
+                186
+            ],
+            "font_size": 53,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.009244416782345933,
+            "bg_color": [
+                65,
+                65,
+                65
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "登录查看你的收藏",
+            "top_left": [
+                339,
+                500
+            ],
+            "bottom_right": [
+                739,
+                562
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                59,
+                59,
+                59
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "手机登录",
+            "top_left": [
+                370,
+                1216
+            ],
+            "bottom_right": [
+                514,
+                1262
+            ],
+            "font_size": 36,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                36,
+                36,
+                36
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "Q0登录",
+            "top_left": [
+                514,
+                1216
+            ],
+            "bottom_right": [
+                658,
+                1262
+            ],
+            "font_size": 36,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                36,
+                36,
+                36
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "请阅读并同意用户协议和QQ浏览器隐私保护指引",
+            "top_left": [
+                166,
+                1366
+            ],
+            "bottom_right": [
+                914,
+                1409
+            ],
+            "font_size": 34,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19499487884345665,
+            "bg_color": [
+                36,
+                36,
+                36
+            ]
+        }
+    ]
+}

@@ -1,0 +1,627 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                126,
+                166
+            ],
+            "content": "iQIYI",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20249568610399124,
+            "font_size": 22,
+            "top_left": [
+                16,
+                123
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                720,
+                192
+            ],
+            "content": "消失的十一层(全集)",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08266153694419513,
+            "font_size": 55,
+            "top_left": [
+                170,
+                137
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                836,
+                192
+            ],
+            "content": "搜索",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19131668876619592,
+            "font_size": 55,
+            "top_left": [
+                726,
+                137
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                113,
+                202
+            ],
+            "content": "爱奇",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20249568610399124,
+            "font_size": 43,
+            "top_left": [
+                27,
+                161
+            ]
+        },
+        {
+            "bg_color": [
+                100,
+                8,
+                20
+            ],
+            "bottom_right": [
+                1023,
+                211
+            ],
+            "content": "弟小鸡",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.25352218404698784,
+            "font_size": 24,
+            "top_left": [
+                951,
+                172
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                155,
+                321
+            ],
+            "content": "推荐",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19763481491191662,
+            "font_size": 64,
+            "top_left": [
+                27,
+                257
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                987,
+                321
+            ],
+            "content": "电视剧电影免费新片乡三全部",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19763481491191662,
+            "font_size": 64,
+            "top_left": [
+                155,
+                257
+            ]
+        },
+        {
+            "bg_color": [
+                16,
+                82,
+                32
+            ],
+            "bottom_right": [
+                494,
+                415
+            ],
+            "content": "独播",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3422816474285914,
+            "font_size": 40,
+            "top_left": [
+                414,
+                370
+            ]
+        },
+        {
+            "bg_color": [
+                97,
+                96,
+                98
+            ],
+            "bottom_right": [
+                782,
+                456
+            ],
+            "content": "观看历史",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18751214900470936,
+            "font_size": 54,
+            "top_left": [
+                566,
+                396
+            ]
+        },
+        {
+            "bg_color": [
+                86,
+                101,
+                98
+            ],
+            "bottom_right": [
+                878,
+                582
+            ],
+            "content": "立即登录",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15939158566718986,
+            "font_size": 45,
+            "top_left": [
+                698,
+                537
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                83,
+                83
+            ],
+            "bottom_right": [
+                849,
+                1000
+            ],
+            "content": "恭喜!你收到新人现金红包",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15738500163944583,
+            "font_size": 50,
+            "top_left": [
+                249,
+                904
+            ]
+        },
+        {
+            "bg_color": [
+                61,
+                24,
+                24
+            ],
+            "bottom_right": [
+                154,
+                1113
+            ],
+            "content": "不完",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2280273437244118,
+            "font_size": 42,
+            "top_left": [
+                70,
+                1052
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                73,
+                73
+            ],
+            "bottom_right": [
+                808,
+                1148
+            ],
+            "content": "(新人专属",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16005522100409492,
+            "font_size": 31,
+            "top_left": [
+                653,
+                1096
+            ]
+        },
+        {
+            "bg_color": [
+                61,
+                24,
+                24
+            ],
+            "bottom_right": [
+                155,
+                1171
+            ],
+            "content": "周迅",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2280273437244118,
+            "font_size": 42,
+            "top_left": [
+                71,
+                1126
+            ]
+        },
+        {
+            "bg_color": [
+                15,
+                81,
+                32
+            ],
+            "bottom_right": [
+                1022,
+                1299
+            ],
+            "content": "免费",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20540451864329454,
+            "font_size": 35,
+            "top_left": [
+                952,
+                1258
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                18,
+                46
+            ],
+            "bottom_right": [
+                707,
+                1785
+            ],
+            "content": "新用户专属当天可提现",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.172366165669607,
+            "font_size": 41,
+            "top_left": [
+                297,
+                1716
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                15,
+                22
+            ],
+            "bottom_right": [
+                215,
+                1911
+            ],
+            "content": "电视剧",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3767909712781454,
+            "font_size": 57,
+            "top_left": [
+                44,
+                1866
+            ]
+        },
+        {
+            "bg_color": [
+                39,
+                26,
+                13
+            ],
+            "bottom_right": [
+                444,
+                1911
+            ],
+            "content": "33集全",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17923837857424418,
+            "font_size": 57,
+            "top_left": [
+                216,
+                1866
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                617,
+                1911
+            ],
+            "content": "电视剧",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3649568541684966,
+            "font_size": 57,
+            "top_left": [
+                446,
+                1866
+            ]
+        },
+        {
+            "bg_color": [
+                4,
+                4,
+                4
+            ],
+            "bottom_right": [
+                846,
+                1911
+            ],
+            "content": "51集全",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.36558672815834314,
+            "font_size": 57,
+            "top_left": [
+                618,
+                1866
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                308,
+                2009
+            ],
+            "content": "榆阳秋",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19763481491191662,
+            "font_size": 88,
+            "top_left": [
+                44,
+                1946
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                661,
+                2009
+            ],
+            "content": "山河同在",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19763481491191662,
+            "font_size": 88,
+            "top_left": [
+                309,
+                1946
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                317,
+                2068
+            ],
+            "content": "海陆出演",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08266153694419513,
+            "font_size": 68,
+            "top_left": [
+                45,
+                2022
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                725,
+                2068
+            ],
+            "content": "小抗战剧场>",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2816615906103897,
+            "font_size": 68,
+            "top_left": [
+                317,
+                2022
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                0,
+                0
+            ],
+            "bottom_right": [
+                281,
+                2170
+            ],
+            "content": "驱今细头杀",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5884848370534932,
+            "font_size": 28,
+            "top_left": [
+                141,
+                2126
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                664,
+                2255
+            ],
+            "content": "俱进请日",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2525946755531723,
+            "font_size": 20,
+            "top_left": [
+                584,
+                2218
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                206,
+                2345
+            ],
+            "content": "首页",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19131668876619592,
+            "font_size": 67,
+            "top_left": [
+                72,
+                2300
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                408,
+                2345
+            ],
+            "content": "短视频",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15639330778100236,
+            "font_size": 67,
+            "top_left": [
+                207,
+                2300
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                611,
+                2345
+            ],
+            "content": "(赚钱",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.25174667881409973,
+            "font_size": 67,
+            "top_left": [
+                410,
+                2300
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                814,
+                2345
+            ],
+            "content": "未登录",
+            "content_id": "30",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19763481491191662,
+            "font_size": 67,
+            "top_left": [
+                613,
+                2300
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                781,
+                2350
+            ],
+            "content": "会员",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19763481491191662,
+            "font_size": 29,
+            "top_left": [
+                723,
+                2309
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "9a77142243ba3abaf26ec6c1d3304567d2e5829ded17fa07a473b5433c340c62"
+}

@@ -1,0 +1,707 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                33,
+                33,
+                41
+            ],
+            "bottom_right": [
+                537,
+                191
+            ],
+            "content": "VIP会员",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.30283617509707234,
+            "font_size": 45,
+            "top_left": [
+                312,
+                129
+            ]
+        },
+        {
+            "bg_color": [
+                33,
+                33,
+                41
+            ],
+            "bottom_right": [
+                719,
+                191
+            ],
+            "content": "所有会员",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11983701572896299,
+            "font_size": 45,
+            "top_left": [
+                539,
+                129
+            ]
+        },
+        {
+            "bg_color": [
+                33,
+                33,
+                41
+            ],
+            "bottom_right": [
+                651,
+                297
+            ],
+            "content": "(178******38登录",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12359041952588094,
+            "font_size": 18,
+            "top_left": [
+                399,
+                256
+            ]
+        },
+        {
+            "bg_color": [
+                33,
+                33,
+                41
+            ],
+            "bottom_right": [
+                353,
+                312
+            ],
+            "content": "用户Qe7",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12359041952588094,
+            "font_size": 34,
+            "top_left": [
+                183,
+                253
+            ]
+        },
+        {
+            "bg_color": [
+                56,
+                56,
+                63
+            ],
+            "bottom_right": [
+                1062,
+                310
+            ],
+            "content": "感心*晴5分钟前",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2799963111194135,
+            "font_size": 30,
+            "top_left": [
+                822,
+                263
+            ]
+        },
+        {
+            "bg_color": [
+                56,
+                56,
+                63
+            ],
+            "bottom_right": [
+                1064,
+                353
+            ],
+            "content": "开通了基础会员",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08609509396620532,
+            "font_size": 32,
+            "top_left": [
+                840,
+                309
+            ]
+        },
+        {
+            "bg_color": [
+                244,
+                26,
+                43
+            ],
+            "bottom_right": [
+                478,
+                482
+            ],
+            "content": "基础会员",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22737971818181127,
+            "font_size": 88,
+            "top_left": [
+                126,
+                414
+            ]
+        },
+        {
+            "bg_color": [
+                38,
+                38,
+                48
+            ],
+            "bottom_right": [
+                831,
+                482
+            ],
+            "content": "黄金会员",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2840815164672597,
+            "font_size": 88,
+            "top_left": [
+                479,
+                414
+            ]
+        },
+        {
+            "bg_color": [
+                245,
+                28,
+                43
+            ],
+            "bottom_right": [
+                451,
+                552
+            ],
+            "content": "有广告5元起",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22881354706528523,
+            "font_size": 54,
+            "top_left": [
+                127,
+                490
+            ]
+        },
+        {
+            "bg_color": [
+                38,
+                38,
+                48
+            ],
+            "bottom_right": [
+                883,
+                552
+            ],
+            "content": "广告特权15元起",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2898873305451319,
+            "font_size": 54,
+            "top_left": [
+                451,
+                490
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                235,
+                229
+            ],
+            "bottom_right": [
+                306,
+                652
+            ],
+            "content": "新用户特惠",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2268219976344207,
+            "font_size": 47,
+            "top_left": [
+                71,
+                608
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                544,
+                652
+            ],
+            "content": "新用户特惠",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22682976036227684,
+            "font_size": 47,
+            "top_left": [
+                309,
+                608
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                232,
+                226
+            ],
+            "bottom_right": [
+                365,
+                725
+            ],
+            "content": "连续包月",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.255939433028896,
+            "font_size": 63,
+            "top_left": [
+                113,
+                662
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                618,
+                725
+            ],
+            "content": "连续包年",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1061313640703512,
+            "font_size": 63,
+            "top_left": [
+                366,
+                662
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                808,
+                725
+            ],
+            "content": "1个月",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07410669710844493,
+            "font_size": 63,
+            "top_left": [
+                619,
+                662
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                224,
+                219
+            ],
+            "bottom_right": [
+                374,
+                900
+            ],
+            "content": "已优惠￥10",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015976271747735034,
+            "font_size": 41,
+            "top_left": [
+                128,
+                855
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                539,
+                900
+            ],
+            "content": "￥178",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014485419990610647,
+            "font_size": 41,
+            "top_left": [
+                375,
+                855
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                701,
+                1072
+            ],
+            "content": "到期将按15元每月自动续费,可随时取消",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.052033519055287504,
+            "font_size": 34,
+            "top_left": [
+                55,
+                1027
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                354,
+                1209
+            ],
+            "content": "支支付宝支付",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 50,
+            "top_left": [
+                54,
+                1147
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                311,
+                1328
+            ],
+            "content": "微信支付",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 48,
+            "top_left": [
+                119,
+                1265
+            ]
+        },
+        {
+            "bg_color": [
+                245,
+                19,
+                43
+            ],
+            "bottom_right": [
+                734,
+                1485
+            ],
+            "content": "确认协议并支付￥5",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22803322186688857,
+            "font_size": 47,
+            "top_left": [
+                311,
+                1422
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                717,
+                1591
+            ],
+            "content": "开通前请阅读《会员服务协议》",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.052033519055287504,
+            "font_size": 36,
+            "top_left": [
+                213,
+                1544
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                799,
+                1591
+            ],
+            "content": "明细",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21833072161104744,
+            "font_size": 36,
+            "top_left": [
+                727,
+                1544
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                617,
+                1727
+            ],
+            "content": "基础会员和黄金会员的区别",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 48,
+            "top_left": [
+                41,
+                1666
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                239,
+                217
+            ],
+            "bottom_right": [
+                251,
+                1849
+            ],
+            "content": "权益对比",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1910629370167237,
+            "font_size": 48,
+            "top_left": [
+                59,
+                1787
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                239,
+                217
+            ],
+            "bottom_right": [
+                444,
+                1849
+            ],
+            "content": "普通用户",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22402019660396755,
+            "font_size": 48,
+            "top_left": [
+                252,
+                1787
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                239,
+                217
+            ],
+            "bottom_right": [
+                637,
+                1849
+            ],
+            "content": "基础会员",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22402019660396755,
+            "font_size": 48,
+            "top_left": [
+                445,
+                1787
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                239,
+                217
+            ],
+            "bottom_right": [
+                830,
+                1849
+            ],
+            "content": "黄金会员",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22402019660396755,
+            "font_size": 48,
+            "top_left": [
+                638,
+                1787
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                239,
+                217
+            ],
+            "bottom_right": [
+                321,
+                1955
+            ],
+            "content": "会员价格",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23797013918363738,
+            "font_size": 62,
+            "top_left": [
+                73,
+                1911
+            ]
+        },
+        {
+            "bg_color": [
+                252,
+                248,
+                237
+            ],
+            "bottom_right": [
+                571,
+                1955
+            ],
+            "content": "15元起",
+            "content_id": "30",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 62,
+            "top_left": [
+                323,
+                1911
+            ]
+        },
+        {
+            "bg_color": [
+                252,
+                248,
+                237
+            ],
+            "bottom_right": [
+                821,
+                1955
+            ],
+            "content": "25元起",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1357277726956852,
+            "font_size": 62,
+            "top_left": [
+                573,
+                1911
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                239,
+                217
+            ],
+            "bottom_right": [
+                225,
+                2058
+            ],
+            "content": "VIP内容",
+            "content_id": "32",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22402019660396755,
+            "font_size": 28,
+            "top_left": [
+                85,
+                2013
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                239,
+                217
+            ],
+            "bottom_right": [
+                213,
+                2162
+            ],
+            "content": "1080p",
+            "content_id": "33",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22402019660396755,
+            "font_size": 23,
+            "top_left": [
+                98,
+                2115
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                239,
+                217
+            ],
+            "bottom_right": [
+                239,
+                2262
+            ],
+            "content": "广告特权",
+            "content_id": "34",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22402019660396755,
+            "font_size": 42,
+            "top_left": [
+                71,
+                2218
+            ]
+        },
+        {
+            "bg_color": [
+                241,
+                229,
+                208
+            ],
+            "bottom_right": [
+                236,
+                2359
+            ],
+            "content": "余而翻倍",
+            "content_id": "35",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2590594558531925,
+            "font_size": 38,
+            "top_left": [
+                84,
+                2319
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "15ffd6c962ebc84254bfde5541300dd13adde12baac6102b1d0d670c4f5d45af"
+}

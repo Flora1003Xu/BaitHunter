@@ -1,0 +1,51 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "历史",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "历史"
+          }
+        ]
+      },
+      {
+        "click_id": "5",
+        "click_content": "手机登录",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "手机登录"
+          },
+          {
+            "content_id": "6",
+            "content": "Q0登录"
+          },
+          {
+            "content_id": "7",
+            "content": "请阅读并同意用户协议和QQ浏览器隐私保护指"
+          }
+        ]
+      },
+      {
+        "click_id": "6",
+        "click_content": "Q0登录",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "Q0登录"
+          },
+          {
+            "content_id": "5",
+            "content": "手机登录"
+          },
+          {
+            "content_id": "7",
+            "content": "请阅读并同意用户协议和QQ浏览器隐私保护指"
+          }
+        ]
+      }
+    ]
+  }
+   

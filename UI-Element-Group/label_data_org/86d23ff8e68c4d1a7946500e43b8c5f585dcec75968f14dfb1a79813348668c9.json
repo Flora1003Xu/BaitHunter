@@ -1,0 +1,267 @@
+{
+    "ui_id": "86d23ff8e68c4d1a7946500e43b8c5f585dcec75968f14dfb1a79813348668c9",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "提建议",
+            "top_left": [
+                56,
+                129
+            ],
+            "bottom_right": [
+                224,
+                196
+            ],
+            "font_size": 56,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014503622305292256,
+            "bg_color": [
+                25,
+                25,
+                25
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "提缺陷",
+            "top_left": [
+                226,
+                129
+            ],
+            "bottom_right": [
+                394,
+                196
+            ],
+            "font_size": 56,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014503622305292256,
+            "bg_color": [
+                25,
+                25,
+                25
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "我想要",
+            "top_left": [
+                396,
+                129
+            ],
+            "bottom_right": [
+                564,
+                196
+            ],
+            "font_size": 56,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015632438650803934,
+            "bg_color": [
+                25,
+                25,
+                25
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "如果你是产品经理,你有何好主意呢。",
+            "top_left": [
+                71,
+                293
+            ],
+            "bottom_right": [
+                785,
+                352
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07587401443014255,
+            "bg_color": [
+                44,
+                35,
+                25
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "添加简短标冠",
+            "top_left": [
+                41,
+                436
+            ],
+            "bottom_right": [
+                329,
+                505
+            ],
+            "font_size": 48,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00848577696779519,
+            "bg_color": [
+                48,
+                48,
+                49
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "8目前痛点",
+            "top_left": [
+                55,
+                573
+            ],
+            "bottom_right": [
+                325,
+                633
+            ],
+            "font_size": 54,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19067793061568283,
+            "bg_color": [
+                48,
+                48,
+                49
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "详细说说你遇到的具体问题,具体场景",
+            "top_left": [
+                53,
+                665
+            ],
+            "bottom_right": [
+                835,
+                728
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.0193062195328197,
+            "bg_color": [
+                48,
+                48,
+                49
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "你的想法",
+            "top_left": [
+                68,
+                976
+            ],
+            "bottom_right": [
+                324,
+                1035
+            ],
+            "font_size": 64,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12683314934763798,
+            "bg_color": [
+                48,
+                48,
+                49
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "说一下你的想法,我们来切磋下",
+            "top_left": [
+                53,
+                1073
+            ],
+            "bottom_right": [
+                697,
+                1134
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00848577696779519,
+            "bg_color": [
+                48,
+                48,
+                49
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "四",
+            "top_left": [
+                177,
+                1427
+            ],
+            "bottom_right": [
+                289,
+                1511
+            ],
+            "font_size": 112,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0670941030153192,
+            "bg_color": [
+                48,
+                48,
+                49
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "取消",
+            "top_left": [
+                289,
+                1427
+            ],
+            "bottom_right": [
+                513,
+                1511
+            ],
+            "font_size": 112,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                48,
+                48,
+                49
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "发送",
+            "top_left": [
+                514,
+                1427
+            ],
+            "bottom_right": [
+                738,
+                1511
+            ],
+            "font_size": 112,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07213284867025567,
+            "bg_color": [
+                48,
+                48,
+                49
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "腾讯兔小巢技术支持",
+            "top_left": [
+                352,
+                1679
+            ],
+            "bottom_right": [
+                730,
+                1724
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16882219695329312,
+            "bg_color": [
+                33,
+                33,
+                33
+            ]
+        }
+    ]
+}

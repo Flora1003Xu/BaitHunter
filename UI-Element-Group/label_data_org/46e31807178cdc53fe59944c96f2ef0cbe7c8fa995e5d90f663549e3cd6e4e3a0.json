@@ -1,0 +1,367 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                139,
+                191
+            ],
+            "content": "(X",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07533477147553465,
+            "font_size": 49,
+            "top_left": [
+                41,
+                126
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                776,
+                191
+            ],
+            "content": "爱奇艺iQ号-爱奇艺,爱创",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07911111252907355,
+            "font_size": 49,
+            "top_left": [
+                139,
+                126
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                16,
+                20
+            ],
+            "bottom_right": [
+                267,
+                266
+            ],
+            "content": "爱奇2iG号",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13378034113470957,
+            "font_size": 18,
+            "top_left": [
+                159,
+                226
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                16,
+                20
+            ],
+            "bottom_right": [
+                344,
+                266
+            ],
+            "content": "申请入生",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09049632237288394,
+            "font_size": 18,
+            "top_left": [
+                272,
+                226
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                16,
+                20
+            ],
+            "bottom_right": [
+                419,
+                266
+            ],
+            "content": "分发集追",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13354877038617308,
+            "font_size": 18,
+            "top_left": [
+                347,
+                226
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                16,
+                20
+            ],
+            "bottom_right": [
+                494,
+                266
+            ],
+            "content": "收益类四",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13319142599222308,
+            "font_size": 18,
+            "top_left": [
+                422,
+                226
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                16,
+                20
+            ],
+            "bottom_right": [
+                551,
+                266
+            ],
+            "content": "平台扶",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13331185386318056,
+            "font_size": 18,
+            "top_left": [
+                497,
+                226
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                16,
+                20
+            ],
+            "bottom_right": [
+                625,
+                266
+            ],
+            "content": "合作伙6",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13354877038617308,
+            "font_size": 18,
+            "top_left": [
+                553,
+                226
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                16,
+                20
+            ],
+            "bottom_right": [
+                736,
+                266
+            ],
+            "content": "用户ee7.",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06679317403515242,
+            "font_size": 18,
+            "top_left": [
+                628,
+                226
+            ]
+        },
+        {
+            "bg_color": [
+                13,
+                96,
+                0
+            ],
+            "bottom_right": [
+                736,
+                299
+            ],
+            "content": "你还没有爱",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03950239256593327,
+            "font_size": 31,
+            "top_left": [
+                581,
+                277
+            ]
+        },
+        {
+            "bg_color": [
+                13,
+                88,
+                2
+            ],
+            "bottom_right": [
+                832,
+                299
+            ],
+            "content": "申请权",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03112945730877534,
+            "font_size": 31,
+            "top_left": [
+                739,
+                277
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                16,
+                20
+            ],
+            "bottom_right": [
+                608,
+                413
+            ],
+            "content": "爱奇艺I0号",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13378034113470957,
+            "font_size": 23,
+            "top_left": [
+                470,
+                374
+            ]
+        },
+        {
+            "bg_color": [
+                59,
+                97,
+                24
+            ],
+            "bottom_right": [
+                564,
+                556
+            ],
+            "content": "立即入生",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2565531990622574,
+            "font_size": 13,
+            "top_left": [
+                512,
+                534
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                610,
+                1901
+            ],
+            "content": "分享至",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "font_size": 52,
+            "top_left": [
+                454,
+                1842
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                225,
+                2152
+            ],
+            "content": "微信好友",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "font_size": 42,
+            "top_left": [
+                57,
+                2107
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                353,
+                2152
+            ],
+            "content": "朋友圈",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "font_size": 42,
+            "top_left": [
+                227,
+                2107
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                522,
+                2152
+            ],
+            "content": "复制链接",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "font_size": 42,
+            "top_left": [
+                354,
+                2107
+            ]
+        },
+        {
+            "bg_color": [
+                180,
+                180,
+                180
+            ],
+            "bottom_right": [
+                595,
+                2313
+            ],
+            "content": "取消",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014358737360860989,
+            "font_size": 56,
+            "top_left": [
+                483,
+                2252
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "46e31807178cdc53fe59944c96f2ef0cbe7c8fa995e5d90f663549e3cd6e4e3a"
+}

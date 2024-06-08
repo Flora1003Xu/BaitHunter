@@ -1,0 +1,147 @@
+{
+    "ui_id": "3eb9bb5462482ca76c54b4513195e37a59ff20bd0ac5829eee1fa088804752c4",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "常见问题",
+            "top_left": [
+                425,
+                128
+            ],
+            "bottom_right": [
+                649,
+                196
+            ],
+            "font_size": 56,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "如何注册淘宝账号",
+            "top_left": [
+                40,
+                266
+            ],
+            "bottom_right": [
+                464,
+                327
+            ],
+            "font_size": 53,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02212483257695869,
+            "bg_color": [
+                132,
+                132,
+                132
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "目前在手机端,淘宝只支持使用手机号码注册",
+            "top_left": [
+                40,
+                381
+            ],
+            "bottom_right": [
+                840,
+                426
+            ],
+            "font_size": 40,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02212483257695869,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "登录】-输入手机号码并点击【立即注册】-接收到验证",
+            "top_left": [
+                40,
+                524
+            ],
+            "bottom_right": [
+                1015,
+                584
+            ],
+            "font_size": 39,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02212483257695869,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "找到儿的短信",
+            "top_left": [
+                424,
+                950
+            ],
+            "bottom_right": [
+                682,
+                1003
+            ],
+            "font_size": 43,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.33823663334938003,
+            "bg_color": [
+                255,
+                116,
+                0
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "有帮助",
+            "top_left": [
+                298,
+                1393
+            ],
+            "bottom_right": [
+                535,
+                1455
+            ],
+            "font_size": 79,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.021973464637590003,
+            "bg_color": [
+                245,
+                245,
+                245
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "无帮助",
+            "top_left": [
+                535,
+                1393
+            ],
+            "bottom_right": [
+                772,
+                1455
+            ],
+            "font_size": 79,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0013331956428109517,
+            "bg_color": [
+                245,
+                245,
+                245
+            ]
+        }
+    ]
+}

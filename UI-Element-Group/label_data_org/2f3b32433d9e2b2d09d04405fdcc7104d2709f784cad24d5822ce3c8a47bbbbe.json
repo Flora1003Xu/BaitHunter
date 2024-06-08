@@ -1,0 +1,167 @@
+{
+    "ui_id": "2f3b32433d9e2b2d09d04405fdcc7104d2709f784cad24d5822ce3c8a47bbbbe",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "问题详情",
+            "top_left": [
+                426,
+                134
+            ],
+            "bottom_right": [
+                638,
+                196
+            ],
+            "font_size": 53,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013376353866229738,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "找不到已授权的账号",
+            "top_left": [
+                40,
+                299
+            ],
+            "bottom_right": [
+                481,
+                361
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013376353866229738,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "如如果您无法在抖音火山版中找到您已经授权的账",
+            "top_left": [
+                27,
+                421
+            ],
+            "bottom_right": [
+                951,
+                478
+            ],
+            "font_size": 42,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013001421489213422,
+            "bg_color": [
+                240,
+                240,
+                240
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "号,请您再次核实您是否已经使用正确的登录方式",
+            "top_left": [
+                38,
+                493
+            ],
+            "bottom_right": [
+                984,
+                545
+            ],
+            "font_size": 43,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013376353866229738,
+            "bg_color": [
+                215,
+                215,
+                215
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "进行登录。如果您曾使用过的登录方式为QQ,请您",
+            "top_left": [
+                38,
+                560
+            ],
+            "bottom_right": [
+                1004,
+                617
+            ],
+            "font_size": 42,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013376353866229738,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "尝试绑定其他登录方式进行登录。",
+            "top_left": [
+                39,
+                622
+            ],
+            "bottom_right": [
+                669,
+                685
+            ],
+            "font_size": 42,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013376353866229738,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "山已解决",
+            "top_left": [
+                171,
+                793
+            ],
+            "bottom_right": [
+                531,
+                850
+            ],
+            "font_size": 90,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03454497815738908,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "未解决",
+            "top_left": [
+                533,
+                793
+            ],
+            "bottom_right": [
+                803,
+                850
+            ],
+            "font_size": 90,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03454497815738908,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

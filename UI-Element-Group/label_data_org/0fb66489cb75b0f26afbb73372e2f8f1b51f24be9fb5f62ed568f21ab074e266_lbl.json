@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "click_id": "14",
+            "click_content": "热议话题",
+            "group": [
+              {
+                "content_id": "14",
+                "content": "热议话题"
+              },
+              {
+                "content_id": "16",
+                "content": "安徽人最爱的美食有哪自"
+              }
+            ]
+        },
+        {
+            "click_id": "15",
+            "click_content": "热门人物",
+            "group": [
+              {
+                "content_id": "15",
+                "content": "热门人物"
+              },
+              {
+                "content_id": "17",
+                "content": "24小时最热人物"
+              }
+            ]
+        }
+    ]
+}

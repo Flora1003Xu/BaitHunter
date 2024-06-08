@@ -1,0 +1,167 @@
+{
+    "ui_id": "6aec6a26ecd32e24d1d4cb65aad60a84831afc8f156c4aa8eac4744ef7989b83",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "书签收藏",
+            "top_left": [
+                439,
+                135
+            ],
+            "bottom_right": [
+                639,
+                197
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015306928934318724,
+            "bg_color": [
+                153,
+                153,
+                153
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "登录查看收藏内容",
+            "top_left": [
+                310,
+                955
+            ],
+            "bottom_right": [
+                750,
+                1022
+            ],
+            "font_size": 55,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015306928934318724,
+            "bg_color": [
+                153,
+                153,
+                153
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "我已阅读并同意用户协议和QQ浏览器隐私保护指引",
+            "top_left": [
+                125,
+                1082
+            ],
+            "bottom_right": [
+                930,
+                1127
+            ],
+            "font_size": 35,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20789320762337346,
+            "bg_color": [
+                153,
+                153,
+                153
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "阳微信登录",
+            "top_left": [
+                395,
+                1217
+            ],
+            "bottom_right": [
+                680,
+                1281
+            ],
+            "font_size": 57,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17385356699672397,
+            "bg_color": [
+                1,
+                121,
+                68
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "立即登录",
+            "top_left": [
+                426,
+                1619
+            ],
+            "bottom_right": [
+                638,
+                1681
+            ],
+            "font_size": 53,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "我已阅读并同意用户协议和QQ浏览器隐私保护指引",
+            "top_left": [
+                126,
+                1724
+            ],
+            "bottom_right": [
+                931,
+                1769
+            ],
+            "font_size": 35,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19499487884345665,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "阳微信登录",
+            "top_left": [
+                395,
+                1870
+            ],
+            "bottom_right": [
+                680,
+                1934
+            ],
+            "font_size": 57,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1547183113655676,
+            "bg_color": [
+                2,
+                202,
+                114
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "其他登录方式",
+            "top_left": [
+                428,
+                2037
+            ],
+            "bottom_right": [
+                638,
+                2081
+            ],
+            "font_size": 35,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

@@ -1,0 +1,727 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                254,
+                63,
+                107
+            ],
+            "bottom_right": [
+                666,
+                195
+            ],
+            "content": "登录秒提现",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20515738945394618,
+            "font_size": 51,
+            "top_left": [
+                411,
+                133
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                71,
+                110
+            ],
+            "bottom_right": [
+                795,
+                324
+            ],
+            "content": "新用户",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2008512869044098,
+            "font_size": 33,
+            "top_left": [
+                696,
+                285
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                63,
+                107
+            ],
+            "bottom_right": [
+                413,
+                370
+            ],
+            "content": "最少",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20515738945394618,
+            "font_size": 37,
+            "top_left": [
+                339,
+                327
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                717,
+                624
+            ],
+            "content": "178****6438",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 33,
+            "top_left": [
+                354,
+                566
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                54,
+                102
+            ],
+            "bottom_right": [
+                780,
+                722
+            ],
+            "content": "最少领22.50元",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20926066841388696,
+            "font_size": 22,
+            "top_left": [
+                582,
+                681
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                54,
+                102
+            ],
+            "bottom_right": [
+                624,
+                797
+            ],
+            "content": "键登录",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20926066841388696,
+            "font_size": 47,
+            "top_left": [
+                483,
+                750
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                678,
+                928
+            ],
+            "content": "以其他方式登录>",
+            "content_id": "7",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0036387830456478185,
+            "font_size": 35,
+            "top_left": [
+                398,
+                883
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                234
+            ],
+            "bottom_right": [
+                517,
+                1134
+            ],
+            "content": "限时福利14天领12元",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22906098397470878,
+            "font_size": 42,
+            "top_left": [
+                55,
+                1072
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                0,
+                99
+            ],
+            "bottom_right": [
+                734,
+                1134
+            ],
+            "content": "新用户专享",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19899271641962035,
+            "font_size": 42,
+            "top_left": [
+                524,
+                1072
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                31,
+                24
+            ],
+            "bottom_right": [
+                966,
+                1224
+            ],
+            "content": "合计",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1787997433319678,
+            "font_size": 28,
+            "top_left": [
+                910,
+                1189
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                25,
+                29
+            ],
+            "bottom_right": [
+                182,
+                1252
+            ],
+            "content": "1元",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23281440906243167,
+            "font_size": 43,
+            "top_left": [
+                96,
+                1200
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                269,
+                1252
+            ],
+            "content": "2元",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2328024785634418,
+            "font_size": 43,
+            "top_left": [
+                183,
+                1200
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                356,
+                1252
+            ],
+            "content": "1元",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23186670961067557,
+            "font_size": 43,
+            "top_left": [
+                270,
+                1200
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                22,
+                31
+            ],
+            "bottom_right": [
+                443,
+                1252
+            ],
+            "content": "1元",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17879639579829626,
+            "font_size": 43,
+            "top_left": [
+                357,
+                1200
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                530,
+                1252
+            ],
+            "content": "1元",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23281440906243167,
+            "font_size": 43,
+            "top_left": [
+                444,
+                1200
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                1,
+                41
+            ],
+            "bottom_right": [
+                617,
+                1252
+            ],
+            "content": "1元",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23186670961067557,
+            "font_size": 43,
+            "top_left": [
+                531,
+                1200
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                151,
+                1357
+            ],
+            "content": "今天",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20926066841388696,
+            "font_size": 32,
+            "top_left": [
+                87,
+                1314
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                215,
+                1357
+            ],
+            "content": "明天",
+            "content_id": "18",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 32,
+            "top_left": [
+                151,
+                1314
+            ]
+        },
+        {
+            "bg_color": [
+                156,
+                156,
+                156
+            ],
+            "bottom_right": [
+                311,
+                1357
+            ],
+            "content": "第3天",
+            "content_id": "19",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0036387830456478185,
+            "font_size": 32,
+            "top_left": [
+                215,
+                1314
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                407,
+                1357
+            ],
+            "content": "第4天",
+            "content_id": "20",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 32,
+            "top_left": [
+                311,
+                1314
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                503,
+                1357
+            ],
+            "content": "第5天",
+            "content_id": "21",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 32,
+            "top_left": [
+                407,
+                1314
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                599,
+                1357
+            ],
+            "content": "第6天",
+            "content_id": "22",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 32,
+            "top_left": [
+                503,
+                1314
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                823,
+                1357
+            ],
+            "content": "第第7~14天",
+            "content_id": "23",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 32,
+            "top_left": [
+                599,
+                1314
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                240,
+                231
+            ],
+            "bottom_right": [
+                623,
+                1472
+            ],
+            "content": "点击领取今日红包",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18236678831067732,
+            "font_size": 67,
+            "top_left": [
+                87,
+                1427
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                240,
+                231
+            ],
+            "bottom_right": [
+                894,
+                1472
+            ],
+            "content": "立即领取",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20926066841388696,
+            "font_size": 67,
+            "top_left": [
+                626,
+                1427
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                241,
+                1670
+            ],
+            "content": "新手任务",
+            "content_id": "26",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 43,
+            "top_left": [
+                69,
+                1609
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                606,
+                1819
+            ],
+            "content": "新用户专属红包至少1元",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21809273775303123,
+            "font_size": 50,
+            "top_left": [
+                56,
+                1762
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                54,
+                102
+            ],
+            "bottom_right": [
+                976,
+                1842
+            ],
+            "content": "去领取",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20926066841388696,
+            "font_size": 41,
+            "top_left": [
+                853,
+                1797
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                475,
+                1875
+            ],
+            "content": "今日可提现,提现秒到账",
+            "content_id": "29",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0036387830456478185,
+            "font_size": 37,
+            "top_left": [
+                68,
+                1830
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                536,
+                2046
+            ],
+            "content": "看视频得9.5元9.5元",
+            "content_id": "30",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10106668664758144,
+            "font_size": 39,
+            "top_left": [
+                68,
+                1988
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                54,
+                102
+            ],
+            "bottom_right": [
+                976,
+                2068
+            ],
+            "content": "去赚钱",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20926066841388696,
+            "font_size": 41,
+            "top_left": [
+                853,
+                2024
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                628,
+                2102
+            ],
+            "content": "今天看6分钟得32000金币(3.2元)",
+            "content_id": "32",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0036387830456478185,
+            "font_size": 28,
+            "top_left": [
+                68,
+                2055
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                208,
+                176
+            ],
+            "bottom_right": [
+                297,
+                2172
+            ],
+            "content": "看1分钟共得",
+            "content_id": "33",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15989645261179272,
+            "font_size": 28,
+            "top_left": [
+                129,
+                2130
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                386,
+                2321
+            ],
+            "content": "10000金币",
+            "content_id": "34",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07596587455299486,
+            "font_size": 35,
+            "top_left": [
+                141,
+                2282
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                631,
+                2321
+            ],
+            "content": "20000金币",
+            "content_id": "35",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07596587455299486,
+            "font_size": 35,
+            "top_left": [
+                386,
+                2282
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                876,
+                2321
+            ],
+            "content": "32000金币",
+            "content_id": "36",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07013279727069177,
+            "font_size": 35,
+            "top_left": [
+                631,
+                2282
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "2ad6dab09fb43669d9440943784c8c94aea72c5ae8ad056146a48b8bc1fd0840"
+}

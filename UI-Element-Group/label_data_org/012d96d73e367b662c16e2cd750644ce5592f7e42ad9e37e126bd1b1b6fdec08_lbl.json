@@ -1,0 +1,224 @@
+{
+    "data": [
+      {
+        "click_id": "5",
+        "click_content": "听歌识曲",
+        "group": [
+          {
+            "content_id": "1",
+            "content": "世界冠军"
+          },
+          {
+            "content_id": "5",
+            "content": "听歌识曲"
+          }
+        ]
+      },
+      {
+        "click_id": "2",
+        "click_content": "扫一扫",
+        "group": [
+          {
+            "content_id": "2",
+            "content": "扫一扫"
+          }
+        ]
+      },
+      {
+        "click_id": "3",
+        "click_content": "我的好友",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "我的好友"
+          }
+        ]
+      },
+      {
+        "click_id": "4",
+        "click_content": "切换模式",
+        "group": [
+          {
+            "content_id": "4",
+            "content": "切换模式"
+          }
+        ]
+      },
+      {
+        "click_id": "6",
+        "click_content": "设置",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "设置"
+          }
+        ]
+      },
+      {
+        "click_id": "7",
+        "click_content": "创作者平台",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "创作者平台"
+          },
+          {
+            "content_id": "8",
+            "content": "歌曲自助发行"
+          }
+        ]
+      },
+      {
+        "click_id": "9",
+        "click_content": "装扮中心",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "装扮中心"
+          },
+          {
+            "content_id": "10",
+            "content": "【乐见国宝】限时免费"
+          }
+        ]
+      },
+      {
+        "click_id": "11",
+        "click_content": "蝰蛇音效",
+        "group": [
+          {
+            "content_id": "11",
+            "content": "蝰蛇音效"
+          },
+          {
+            "content_id": "12",
+            "content": "黑钻蝰蛇新上线"
+          }
+        ]
+      },
+      {
+        "click_id": "15",
+        "click_content": "铃声彩铃",
+        "group": [
+          {
+            "content_id": "15",
+            "content": "铃声彩铃"
+          }
+        ]
+      },
+      {
+        "click_id": "17",
+        "click_content": "听歌免流量",
+        "group": [
+          {
+            "content_id": "17",
+            "content": "听歌免流量"
+          }
+        ]
+      },
+      {
+        "click_id": "18",
+        "click_content": "免费听歌模式",
+        "group": [
+          {
+            "content_id": "18",
+            "content": "免费听歌模式"
+          }
+        ]
+      },
+      {
+        "click_id": "20",
+        "click_content": "酷狗商城",
+        "group": [
+          {
+            "content_id": "20",
+            "content": "酷狗商城"
+          }
+        ]
+      },
+      {
+        "click_id": "21",
+        "click_content": "唱片店",
+        "group": [
+          {
+            "content_id": "21",
+            "content": "唱片店"
+          },
+          {
+            "content_id": "22",
+            "content": "TaylorSwift新专温暖上线"
+          }
+        ]
+      },
+      {
+        "click_id": "23",
+        "click_content": "版权交易",
+        "group": [
+          {
+            "content_id": "23",
+            "content": "版权交易"
+          }
+        ]
+      },
+      {
+        "click_id": "24",
+        "click_content": "定时关闭",
+        "group": [
+          {
+            "content_id": "24",
+            "content": "定时关闭"
+          }
+        ]
+      },
+      {
+        "click_id": "25",
+        "click_content": "充电动效/壁纸",
+        "group": [
+          {
+            "content_id": "25",
+            "content": "充电动效/壁纸"
+          }
+        ]
+      },
+      {
+        "click_id": "27",
+        "click_content": "音乐应用",
+        "group": [
+          {
+            "content_id": "27",
+            "content": "音乐应用"
+          }
+        ]
+      },
+      {
+        "click_id": "29",
+        "click_content": "客服反馈",
+        "group": [
+          {
+            "content_id": "29",
+            "content": "客服反馈"
+          }
+        ]
+      },
+      {
+        "click_id": "30",
+        "click_content": "设置",
+        "group": [
+          {
+            "content_id": "30",
+            "content": "设置"
+          }
+        ]
+      },
+      {
+        "click_id": "31",
+        "click_content": "关闭",
+        "group": [
+          {
+            "content_id": "31",
+            "content": "关闭"
+          }
+        ]
+      }
+    ]
+}

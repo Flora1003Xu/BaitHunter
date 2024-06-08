@@ -1,0 +1,39 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "青少年模式",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "青少年模式"
+          }
+        ]
+      },
+      {
+        "click_id": "10",
+        "click_content": "个人信息与权限",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "个人信息与权限"
+          }
+        ]
+      },
+      {
+        "click_id": "13",
+        "click_content": "插件",
+        "group": [
+          {
+            "content_id": "13",
+            "content": "插件"
+          },
+          {
+            "content_id": "14",
+            "content": "简洁好用打字快的输入法"
+          }
+        ]
+      }
+    ]
+  }
+   

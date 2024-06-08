@@ -1,0 +1,147 @@
+{
+    "ui_id": "14a1235c56859045412e17c164257203a6f291933d651cf46c7d51fad90841b5",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "00",
+            "top_left": [
+                511,
+                288
+            ],
+            "bottom_right": [
+                567,
+                332
+            ],
+            "font_size": 28,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09572545063363698,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "QG",
+            "top_left": [
+                498,
+                545
+            ],
+            "bottom_right": [
+                568,
+                588
+            ],
+            "font_size": 35,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01676396022276443,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "您没有安装最新版本QQ,请先下载并安",
+            "top_left": [
+                195,
+                635
+            ],
+            "bottom_right": [
+                861,
+                680
+            ],
+            "font_size": 37,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005137053927653663,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "装,社交互动体验更流畅、更安全。",
+            "top_left": [
+                224,
+                686
+            ],
+            "bottom_right": [
+                816,
+                734
+            ],
+            "font_size": 37,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005137053927653663,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "下载QC",
+            "top_left": [
+                455,
+                838
+            ],
+            "bottom_right": [
+                611,
+                896
+            ],
+            "font_size": 39,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18928851394854804,
+            "bg_color": [
+                0,
+                122,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "反馈建议",
+            "top_left": [
+                466,
+                1081
+            ],
+            "bottom_right": [
+                610,
+                1115
+            ],
+            "font_size": 36,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18996849404034333,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "Copyright2010-2023Tencent.AllRightsReserved.",
+            "top_left": [
+                112,
+                1145
+            ],
+            "bottom_right": [
+                948,
+                1186
+            ],
+            "font_size": 19,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.00490550005574418,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

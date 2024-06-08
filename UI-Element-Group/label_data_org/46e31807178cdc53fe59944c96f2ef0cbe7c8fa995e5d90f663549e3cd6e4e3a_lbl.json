@@ -1,0 +1,108 @@
+{
+    "data": [
+        {
+          "click_id": "9",
+          "click_content": "微信好友",
+          "group": [
+            {
+              "content_id": "8",
+              "content": "分享至"
+            },
+            {
+              "content_id": "9",
+              "content": "微信好友"
+            },
+            {
+              "content_id": "10",
+              "content": "朋友圈"
+            },
+            {
+              "content_id": "11",
+              "content": "复制链接"
+            },
+            {
+              "content_id": "12",
+              "content": "取消"
+            }
+          ]
+        },
+        {
+            "click_id": "10",
+            "click_content": "朋友圈",
+            "group": [
+              {
+                "content_id": "8",
+                "content": "分享至"
+              },
+              {
+                "content_id": "9",
+                "content": "微信好友"
+              },
+              {
+                "content_id": "10",
+                "content": "朋友圈"
+              },
+              {
+                "content_id": "11",
+                "content": "复制链接"
+              },
+              {
+                "content_id": "12",
+                "content": "取消"
+              }
+            ]
+        },
+        {
+            "click_id": "11",
+            "click_content": "复制链接",
+            "group": [
+              {
+                "content_id": "8",
+                "content": "分享至"
+              },
+              {
+                "content_id": "9",
+                "content": "微信好友"
+              },
+              {
+                "content_id": "10",
+                "content": "朋友圈"
+              },
+              {
+                "content_id": "11",
+                "content": "复制链接"
+              },
+              {
+                "content_id": "12",
+                "content": "取消"
+              }
+            ]
+        },
+        {
+            "click_id": "12",
+            "click_content": "取消",
+            "group": [
+              {
+                "content_id": "8",
+                "content": "分享至"
+              },
+              {
+                "content_id": "9",
+                "content": "微信好友"
+              },
+              {
+                "content_id": "10",
+                "content": "朋友圈"
+              },
+              {
+                "content_id": "11",
+                "content": "复制链接"
+              },
+              {
+                "content_id": "12",
+                "content": "取消"
+              }
+            ]
+        }
+    ]
+}

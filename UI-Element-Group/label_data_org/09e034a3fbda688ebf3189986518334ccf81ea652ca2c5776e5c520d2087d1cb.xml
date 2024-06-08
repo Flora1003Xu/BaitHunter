@@ -1,0 +1,26 @@
+<annotation>
+	<folder>label100_xy</folder>
+	<filename>09e034a3fbda688ebf3189986518334ccf81ea652ca2c5776e5c520d2087d1cb.png</filename>
+	<path>D:\label100_xy\09e034a3fbda688ebf3189986518334ccf81ea652ca2c5776e5c520d2087d1cb.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>236</ymin>
+			<xmax>1036</xmax>
+			<ymax>2314</ymax>
+		</bndbox>
+	</object>
+</annotation>

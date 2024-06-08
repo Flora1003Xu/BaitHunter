@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "click_id": "17",
+            "click_content": "立即提现",
+            "group": [
+              {
+                "content_id": "11",
+                "content": "提现金额"
+              },
+              {
+                "content_id": "12",
+                "content": "15元"
+              },
+              {
+                "content_id": "13",
+                "content": "20元"
+              },
+              {
+                "content_id": "14",
+                "content": "25元"
+              },
+              {
+                "content_id": "15",
+                "content": "提现至"
+              },
+              {
+                "content_id": "16",
+                "content": "微博钱包"
+              },
+              {
+                "content_id": "17",
+                "content": "立即提现"
+              }
+            ]
+        }
+    ]
+}

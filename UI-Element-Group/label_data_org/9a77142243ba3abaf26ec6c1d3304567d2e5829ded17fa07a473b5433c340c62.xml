@@ -1,0 +1,26 @@
+<annotation>
+	<folder>qiyi.lite2</folder>
+	<filename>9a77142243ba3abaf26ec6c1d3304567d2e5829ded17fa07a473b5433c340c62.png</filename>
+	<path>C:\Users\86136\PycharmProjects\pythonProject\result_final\qiyi.lite2\9a77142243ba3abaf26ec6c1d3304567d2e5829ded17fa07a473b5433c340c62.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>761</ymin>
+			<xmax>954</xmax>
+			<ymax>1834</ymax>
+		</bndbox>
+	</object>
+</annotation>

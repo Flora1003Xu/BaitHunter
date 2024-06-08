@@ -1,0 +1,927 @@
+{
+    "ui_id": "80fa074a57c2dd1ca73c205e228c681643d0196bc7cc0870942d71cc98bffa2e",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "装扮商城",
+            "top_left": [
+                54,
+                155
+            ],
+            "bottom_right": [
+                350,
+                217
+            ],
+            "font_size": 74,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1797871397988359,
+            "bg_color": [
+                253,
+                244,
+                245
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "Q趣味盲打",
+            "top_left": [
+                350,
+                155
+            ],
+            "bottom_right": [
+                720,
+                217
+            ],
+            "font_size": 74,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02864634785922688,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "皮肤",
+            "top_left": [
+                70,
+                396
+            ],
+            "bottom_right": [
+                202,
+                442
+            ],
+            "font_size": 66,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "字体",
+            "top_left": [
+                203,
+                396
+            ],
+            "bottom_right": [
+                335,
+                442
+            ],
+            "font_size": 66,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "套装",
+            "top_left": [
+                336,
+                396
+            ],
+            "bottom_right": [
+                468,
+                442
+            ],
+            "font_size": 66,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "壁纸",
+            "top_left": [
+                469,
+                396
+            ],
+            "bottom_right": [
+                601,
+                442
+            ],
+            "font_size": 66,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "表情",
+            "top_left": [
+                602,
+                396
+            ],
+            "bottom_right": [
+                734,
+                442
+            ],
+            "font_size": 66,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "上新日历",
+            "top_left": [
+                71,
+                521
+            ],
+            "bottom_right": [
+                391,
+                578
+            ],
+            "font_size": 80,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20649463566041476,
+            "bg_color": [
+                251,
+                244,
+                252
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "谁哦主题",
+            "top_left": [
+                392,
+                521
+            ],
+            "bottom_right": [
+                712,
+                578
+            ],
+            "font_size": 80,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18829629724855879,
+            "bg_color": [
+                255,
+                244,
+                250
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "精品皮肤",
+            "top_left": [
+                582,
+                582
+            ],
+            "bottom_right": [
+                710,
+                626
+            ],
+            "font_size": 32,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12535555210717347,
+            "bg_color": [
+                254,
+                241,
+                250
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "民有星",
+            "top_left": [
+                894,
+                679
+            ],
+            "bottom_right": [
+                936,
+                704
+            ],
+            "font_size": 14,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0758435355323345,
+            "bg_color": [
+                233,
+                240,
+                248
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "皮肤制造机",
+            "top_left": [
+                70,
+                825
+            ],
+            "bottom_right": [
+                280,
+                873
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20205254906802367,
+            "bg_color": [
+                254,
+                244,
+                253
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "定制专属皮肤",
+            "top_left": [
+                70,
+                883
+            ],
+            "bottom_right": [
+                250,
+                926
+            ],
+            "font_size": 30,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12782779373912617,
+            "bg_color": [
+                254,
+                242,
+                253
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "排行榜",
+            "top_left": [
+                582,
+                964
+            ],
+            "bottom_right": [
+                708,
+                1024
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2009290593095471,
+            "bg_color": [
+                254,
+                243,
+                249
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "热销装扮",
+            "top_left": [
+                583,
+                1081
+            ],
+            "bottom_right": [
+                707,
+                1122
+            ],
+            "font_size": 31,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1268039881989101,
+            "bg_color": [
+                251,
+                239,
+                251
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "朝处付",
+            "top_left": [
+                413,
+                1116
+            ],
+            "bottom_right": [
+                497,
+                1157
+            ],
+            "font_size": 28,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17384802811270872,
+            "bg_color": [
+                255,
+                244,
+                242
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "皮肤8字体",
+            "top_left": [
+                583,
+                1123
+            ],
+            "bottom_right": [
+                723,
+                1165
+            ],
+            "font_size": 28,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13424095411743217,
+            "bg_color": [
+                248,
+                237,
+                254
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "回国区Q",
+            "top_left": [
+                638,
+                1283
+            ],
+            "bottom_right": [
+                982,
+                1326
+            ],
+            "font_size": 86,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.043029029209768616,
+            "bg_color": [
+                244,
+                244,
+                244
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "CampingDairy",
+            "top_left": [
+                54,
+                1286
+            ],
+            "bottom_right": [
+                498,
+                1353
+            ],
+            "font_size": 37,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.038893571608177094,
+            "bg_color": [
+                226,
+                237,
+                203
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "AE",
+            "top_left": [
+                794,
+                1350
+            ],
+            "bottom_right": [
+                822,
+                1370
+            ],
+            "font_size": 14,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13457322831938207,
+            "bg_color": [
+                244,
+                244,
+                242
+            ]
+        },
+        {
+            "content_id": "21",
+            "content": "ANO",
+            "top_left": [
+                894,
+                1419
+            ],
+            "bottom_right": [
+                933,
+                1441
+            ],
+            "font_size": 13,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14513328363170974,
+            "bg_color": [
+                232,
+                190,
+                184
+            ]
+        },
+        {
+            "content_id": "22",
+            "content": "BC",
+            "top_left": [
+                70,
+                1460
+            ],
+            "bottom_right": [
+                340,
+                1496
+            ],
+            "font_size": 135,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13214847860987566,
+            "bg_color": [
+                139,
+                198,
+                151
+            ]
+        },
+        {
+            "content_id": "23",
+            "content": "PaR",
+            "top_left": [
+                682,
+                1485
+            ],
+            "bottom_right": [
+                751,
+                1508
+            ],
+            "font_size": 23,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13587443117387996,
+            "bg_color": [
+                226,
+                225,
+                223
+            ]
+        },
+        {
+            "content_id": "24",
+            "content": "Tuv",
+            "top_left": [
+                751,
+                1485
+            ],
+            "bottom_right": [
+                820,
+                1508
+            ],
+            "font_size": 23,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15671554062554627,
+            "bg_color": [
+                237,
+                236,
+                234
+            ]
+        },
+        {
+            "content_id": "25",
+            "content": "xYr",
+            "top_left": [
+                820,
+                1485
+            ],
+            "bottom_right": [
+                889,
+                1508
+            ],
+            "font_size": 23,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12974507299472285,
+            "bg_color": [
+                243,
+                243,
+                242
+            ]
+        },
+        {
+            "content_id": "26",
+            "content": "皮肤123",
+            "top_left": [
+                569,
+                1551
+            ],
+            "bottom_right": [
+                694,
+                1598
+            ],
+            "font_size": 25,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24076572576199123,
+            "bg_color": [
+                241,
+                241,
+                239
+            ]
+        },
+        {
+            "content_id": "27",
+            "content": "POOOoina",
+            "top_left": [
+                62,
+                1532
+            ],
+            "bottom_right": [
+                454,
+                1649
+            ],
+            "font_size": 49,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21897143718438042,
+            "bg_color": [
+                255,
+                231,
+                168
+            ]
+        },
+        {
+            "content_id": "28",
+            "content": "山茶花",
+            "top_left": [
+                569,
+                1643
+            ],
+            "bottom_right": [
+                695,
+                1690
+            ],
+            "font_size": 42,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01342506334430208,
+            "bg_color": [
+                249,
+                249,
+                249
+            ]
+        },
+        {
+            "content_id": "29",
+            "content": "日a",
+            "top_left": [
+                69,
+                1654
+            ],
+            "bottom_right": [
+                143,
+                1694
+            ],
+            "font_size": 37,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10727724193354693,
+            "bg_color": [
+                254,
+                253,
+                247
+            ]
+        },
+        {
+            "content_id": "30",
+            "content": "B全C",
+            "top_left": [
+                196,
+                1664
+            ],
+            "bottom_right": [
+                313,
+                1707
+            ],
+            "font_size": 39,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13947638700507392,
+            "bg_color": [
+                130,
+                184,
+                140
+            ]
+        },
+        {
+            "content_id": "31",
+            "content": "免费",
+            "top_left": [
+                569,
+                1704
+            ],
+            "bottom_right": [
+                639,
+                1747
+            ],
+            "font_size": 35,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.00361838806408419,
+            "bg_color": [
+                249,
+                249,
+                249
+            ]
+        },
+        {
+            "content_id": "32",
+            "content": "动",
+            "top_left": [
+                326,
+                1755
+            ],
+            "bottom_right": [
+                411,
+                1799
+            ],
+            "font_size": 85,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11696679835364351,
+            "bg_color": [
+                251,
+                232,
+                172
+            ]
+        },
+        {
+            "content_id": "33",
+            "content": "(手的恩纸",
+            "top_left": [
+                570,
+                1842
+            ],
+            "bottom_right": [
+                685,
+                1867
+            ],
+            "font_size": 23,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07969136659395502,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "34",
+            "content": "编入洁皮服",
+            "top_left": [
+                688,
+                1842
+            ],
+            "bottom_right": [
+                803,
+                1867
+            ],
+            "font_size": 23,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11988803168705721,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "35",
+            "content": "助天照纸",
+            "top_left": [
+                806,
+                1842
+            ],
+            "bottom_right": [
+                898,
+                1867
+            ],
+            "font_size": 23,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07923967283542668,
+            "bg_color": [
+                247,
+                239,
+                231
+            ]
+        },
+        {
+            "content_id": "36",
+            "content": "日0一0此",
+            "top_left": [
+                197,
+                1852
+            ],
+            "bottom_right": [
+                452,
+                1894
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14615297155251103,
+            "bg_color": [
+                254,
+                253,
+                247
+            ]
+        },
+        {
+            "content_id": "37",
+            "content": "巴立即启用",
+            "top_left": [
+                96,
+                1959
+            ],
+            "bottom_right": [
+                381,
+                2027
+            ],
+            "font_size": 57,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15102724239016999,
+            "bg_color": [
+                133,
+                164,
+                144
+            ]
+        },
+        {
+            "content_id": "38",
+            "content": "立即登录,让输入更快更准更智能",
+            "top_left": [
+                86,
+                2051
+            ],
+            "bottom_right": [
+                671,
+                2096
+            ],
+            "font_size": 39,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23589134035376083,
+            "bg_color": [
+                45,
+                47,
+                40
+            ]
+        },
+        {
+            "content_id": "39",
+            "content": "登录",
+            "top_left": [
+                911,
+                2071
+            ],
+            "bottom_right": [
+                991,
+                2113
+            ],
+            "font_size": 40,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19789442577669178,
+            "bg_color": [
+                255,
+                127,
+                37
+            ]
+        },
+        {
+            "content_id": "40",
+            "content": "自动学习您的输入习惯,词库、闪光语录装",
+            "top_left": [
+                97,
+                2101
+            ],
+            "bottom_right": [
+                648,
+                2150
+            ],
+            "font_size": 29,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16323571233398923,
+            "bg_color": [
+                51,
+                51,
+                51
+            ]
+        },
+        {
+            "content_id": "41",
+            "content": "的其米",
+            "top_left": [
+                54,
+                2171
+            ],
+            "bottom_right": [
+                414,
+                2202
+            ],
+            "font_size": 120,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13315249861688308,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "42",
+            "content": "商城",
+            "top_left": [
+                71,
+                2296
+            ],
+            "bottom_right": [
+                173,
+                2339
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1888751208966993,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "43",
+            "content": "闪光语录",
+            "top_left": [
+                174,
+                2296
+            ],
+            "bottom_right": [
+                378,
+                2339
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04750278465056668,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "44",
+            "content": "词库",
+            "top_left": [
+                381,
+                2296
+            ],
+            "bottom_right": [
+                483,
+                2339
+            ],
+            "font_size": 51,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "45",
+            "content": "A1输入",
+            "top_left": [
+                484,
+                2296
+            ],
+            "bottom_right": [
+                688,
+                2339
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04946605549410822,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "46",
+            "content": "我的",
+            "top_left": [
+                691,
+                2296
+            ],
+            "bottom_right": [
+                793,
+                2339
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04946605549410822,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

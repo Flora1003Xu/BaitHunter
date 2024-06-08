@@ -1,0 +1,86 @@
+{
+    "data": [
+      {
+        "click_id": "21",
+        "click_content": "去夺宝",
+        "group": [
+          {
+            "content_id": "18",
+            "content": "50积分夺千元壕礼"
+          },
+          {
+            "content_id": "20",
+            "content": "网盘夺宝限时上新"
+          },
+          {
+            "content_id": "21",
+            "content": "去夺宝"
+          }
+        ]
+      },
+      {
+        "click_id": "27",
+        "click_content": "去备份0/5",
+        "group": [
+          {
+            "content_id": "25",
+            "content": "备份5张照片"
+          },
+          {
+            "content_id": "26",
+            "content": "+50G容量"
+          },
+          {
+            "content_id": "27",
+            "content": "去备份0/5"
+          }
+        ]
+      },
+      {
+        "click_id": "21",
+        "click_content": "去夺宝",
+        "group": [
+          {
+            "content_id": "18",
+            "content": "50积分夺千元壕礼"
+          },
+          {
+            "content_id": "20",
+            "content": "网盘夺宝限时上新"
+          },
+          {
+            "content_id": "21",
+            "content": "去夺宝"
+          }
+        ]
+      },
+      {
+        "click_id": "30",
+        "click_content": "去分享0/2",
+        "group": [
+          {
+            "content_id": "28",
+            "content": "分享2个资源"
+          },
+          {
+            "content_id": "29",
+            "content": "+50G容量"
+          },
+          {
+            "content_id": "30",
+            "content": "去分享0/2"
+          }
+        ]
+      },
+      {
+        "click_id": "35",
+        "click_content": "全场6折起",
+        "group": [
+          {
+            "content_id": "35",
+            "content": "全场6折起"
+          }
+        ]
+      }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "data": [
+      {
+        "click_id": "7",
+        "click_content": "已解决",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "已解决"
+          }
+        ]
+      },
+      {
+        "click_id": "8",
+        "click_content": "未解决",
+        "group": [
+          {
+            "content_id": "8",
+            "content": "未解决"
+          }
+        ]
+      }
+    ]
+  }
+   
+

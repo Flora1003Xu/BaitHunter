@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "click_id": "4",
+            "click_content": "去下载微博",
+            "group": [
+              {
+                "content_id": "3",
+                "content": "若没有安装微博,请先下载"
+              },
+              {
+                "content_id": "4",
+                "content": "去下载微博"
+              }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,567 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                98,
+                99,
+                100
+            ],
+            "bottom_right": [
+                514,
+                224
+            ],
+            "content": "视频音频小说国语英语纯",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06264815077160647,
+            "font_size": 29,
+            "top_left": [
+                195,
+                158
+            ]
+        },
+        {
+            "bg_color": [
+                98,
+                99,
+                100
+            ],
+            "bottom_right": [
+                836,
+                224
+            ],
+            "content": "视频音频小说国语英语纯",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.061335275497339053,
+            "font_size": 29,
+            "top_left": [
+                517,
+                158
+            ]
+        },
+        {
+            "bg_color": [
+                94,
+                95,
+                98
+            ],
+            "bottom_right": [
+                616,
+                325
+            ],
+            "content": "Q播放器新模式沉浸式听歌体验",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04405899884414594,
+            "font_size": 39,
+            "top_left": [
+                70,
+                280
+            ]
+        },
+        {
+            "bg_color": [
+                88,
+                88,
+                88
+            ],
+            "bottom_right": [
+                193,
+                584
+            ],
+            "content": "乐库",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5421391913735716,
+            "font_size": 45,
+            "top_left": [
+                103,
+                540
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                373,
+                584
+            ],
+            "content": "猜你喜欢",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 45,
+            "top_left": [
+                193,
+                540
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                554,
+                584
+            ],
+            "content": "每日推荐",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 45,
+            "top_left": [
+                374,
+                540
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                690,
+                584
+            ],
+            "content": "排行榜",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 45,
+            "top_left": [
+                555,
+                540
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                781,
+                584
+            ],
+            "content": "更多",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 45,
+            "top_left": [
+                691,
+                540
+            ]
+        },
+        {
+            "bg_color": [
+                33,
+                114,
+                255
+            ],
+            "bottom_right": [
+                849,
+                731
+            ],
+            "content": "暑期狂欢",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1819675551072504,
+            "font_size": 42,
+            "top_left": [
+                681,
+                686
+            ]
+        },
+        {
+            "bg_color": [
+                33,
+                114,
+                255
+            ],
+            "bottom_right": [
+                539,
+                751
+            ],
+            "content": "SUMMER",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09626775937612292,
+            "font_size": 50,
+            "top_left": [
+                239,
+                684
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                135,
+                1483
+            ],
+            "content": "超",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18759104971450757,
+            "font_size": 57,
+            "top_left": [
+                78,
+                1455
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                222,
+                55
+            ],
+            "bottom_right": [
+                623,
+                1524
+            ],
+            "content": "立即参与",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0812278433020757,
+            "font_size": 46,
+            "top_left": [
+                439,
+                1470
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                14,
+                23
+            ],
+            "bottom_right": [
+                124,
+                1528
+            ],
+            "content": "DEE",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12630332586164375,
+            "font_size": 13,
+            "top_left": [
+                85,
+                1505
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                653,
+                1738
+            ],
+            "content": "今日不再提醒",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1954180816115981,
+            "font_size": 40,
+            "top_left": [
+                413,
+                1695
+            ]
+        },
+        {
+            "bg_color": [
+                18,
+                22,
+                28
+            ],
+            "bottom_right": [
+                441,
+                1812
+            ],
+            "content": "1.9亿",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.295824871820535,
+            "font_size": 50,
+            "top_left": [
+                241,
+                1771
+            ]
+        },
+        {
+            "bg_color": [
+                43,
+                45,
+                44
+            ],
+            "bottom_right": [
+                691,
+                1812
+            ],
+            "content": "3.912",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23445678244767382,
+            "font_size": 50,
+            "top_left": [
+                441,
+                1771
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                891,
+                1812
+            ],
+            "content": "5.4亿",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23277642200620582,
+            "font_size": 50,
+            "top_left": [
+                691,
+                1771
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                992,
+                1883
+            ],
+            "content": "夜深了,让音乐轻轻华语歌曲人个性化网络流行热歌,这里",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 36,
+            "top_left": [
+                56,
+                1838
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                324,
+                1935
+            ],
+            "content": "为你关上床头灯",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 38,
+            "top_left": [
+                58,
+                1892
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                595,
+                1935
+            ],
+            "content": "订制,每白更新",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 38,
+            "top_left": [
+                329,
+                1892
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                828,
+                1935
+            ],
+            "content": "为你一网打尽",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 38,
+            "top_left": [
+                600,
+                1892
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                353,
+                2069
+            ],
+            "content": "一中六",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5437406551956853,
+            "font_size": 66,
+            "top_left": [
+                155,
+                2034
+            ]
+        },
+        {
+            "bg_color": [
+                96,
+                97,
+                100
+            ],
+            "bottom_right": [
+                763,
+                2149
+            ],
+            "content": "酷狗音乐就是歌多",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5437406551956853,
+            "font_size": 74,
+            "top_left": [
+                171,
+                2090
+            ]
+        },
+        {
+            "bg_color": [
+                96,
+                97,
+                100
+            ],
+            "bottom_right": [
+                917,
+                2149
+            ],
+            "content": "创兰",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.566422638929969,
+            "font_size": 74,
+            "top_left": [
+                769,
+                2090
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                267,
+                2337
+            ],
+            "content": "音乐",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 76,
+            "top_left": [
+                115,
+                2288
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                419,
+                2337
+            ],
+            "content": "直播",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 76,
+            "top_left": [
+                267,
+                2288
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                571,
+                2337
+            ],
+            "content": "唱环",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08193241330035626,
+            "font_size": 76,
+            "top_left": [
+                419,
+                2288
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                723,
+                2337
+            ],
+            "content": "我的",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5426155635217715,
+            "font_size": 76,
+            "top_left": [
+                571,
+                2288
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "6a0bde08625e487778769ff055c6c0e90ff64b84f4a46c600ced88e9ccb16fbc"
+}

@@ -1,0 +1,287 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                250,
+                250,
+                250
+            ],
+            "bottom_right": [
+                180,
+                193
+            ],
+            "content": "<返回",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011045149038946888,
+            "font_size": 51,
+            "top_left": [
+                27,
+                132
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                250,
+                250
+            ],
+            "bottom_right": [
+                741,
+                193
+            ],
+            "content": "应用授权-微博钱包服务",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008177060396735103,
+            "font_size": 51,
+            "top_left": [
+                180,
+                132
+            ]
+        },
+        {
+            "bg_color": [
+                249,
+                249,
+                249
+            ],
+            "bottom_right": [
+                428,
+                352
+            ],
+            "content": "微博",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15277911205570321,
+            "font_size": 70,
+            "top_left": [
+                288,
+                275
+            ]
+        },
+        {
+            "bg_color": [
+                240,
+                240,
+                240
+            ],
+            "bottom_right": [
+                863,
+                359
+            ],
+            "content": "很想抱月光",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01076858668982374,
+            "font_size": 42,
+            "top_left": [
+                653,
+                311
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                249
+            ],
+            "bottom_right": [
+                420,
+                379
+            ],
+            "content": "weibo.com",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.058966562052668384,
+            "font_size": 18,
+            "top_left": [
+                258,
+                344
+            ]
+        },
+        {
+            "bg_color": [
+                241,
+                241,
+                241
+            ],
+            "bottom_right": [
+                627,
+                512
+            ],
+            "content": "微博钱包服务",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010796886147609338,
+            "font_size": 41,
+            "top_left": [
+                381,
+                456
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                646,
+                577
+            ],
+            "content": "钱包统一金融账户",
+            "content_id": "7",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "font_size": 33,
+            "top_left": [
+                382,
+                534
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                246,
+                246
+            ],
+            "bottom_right": [
+                803,
+                819
+            ],
+            "content": "获得你的个人信息,好友关系",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010936217971318751,
+            "font_size": 39,
+            "top_left": [
+                296,
+                770
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                270,
+                823
+            ],
+            "content": "8",
+            "content_id": "9",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.002511864200411425,
+            "font_size": 44,
+            "top_left": [
+                226,
+                779
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                645,
+                890
+            ],
+            "content": "回分享内容到你的微博",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 42,
+            "top_left": [
+                225,
+                842
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                266,
+                960
+            ],
+            "content": "回",
+            "content_id": "11",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0027665213764223617,
+            "font_size": 38,
+            "top_left": [
+                228,
+                913
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                494,
+                960
+            ],
+            "content": "获得你的评论",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 38,
+            "top_left": [
+                266,
+                913
+            ]
+        },
+        {
+            "bg_color": [
+                226,
+                226,
+                226
+            ],
+            "bottom_right": [
+                484,
+                1097
+            ],
+            "content": "取消",
+            "content_id": "13",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004757871512491725,
+            "font_size": 93,
+            "top_left": [
+                298,
+                1035
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                44,
+                61
+            ],
+            "bottom_right": [
+                671,
+                1097
+            ],
+            "content": "授权",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22185741967156627,
+            "font_size": 93,
+            "top_left": [
+                485,
+                1035
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "148fa0f2ba66124be90a27e6821d668a54cbf63b67e9f445b29bb059ceb755c2"
+}

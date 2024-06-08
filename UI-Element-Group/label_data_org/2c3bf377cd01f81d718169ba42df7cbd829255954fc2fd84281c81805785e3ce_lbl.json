@@ -1,0 +1,30 @@
+{
+    "data": [
+      {
+        "click_id": "2",
+        "click_content": "搜索",
+        "group": [
+          {
+            "content_id": "2",
+            "content": "搜索"
+          },
+          {
+            "content_id": "1",
+            "content": "搜你想看的"
+          }
+        ]
+      },
+      {
+        "click_id": "8",
+        "click_content": "分享",
+        "group": [
+          {
+            "content_id": "8",
+            "content": "分享"
+          }
+        ]
+      }
+    ]
+  }
+   
+

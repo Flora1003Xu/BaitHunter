@@ -1,0 +1,190 @@
+{
+    "data": [
+      {
+        "click_id": "6",
+        "click_content": "立即前往",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "【会员全年底价】火热预约中"
+          },
+          {
+            "content_id": "6",
+            "content": "立即前往"
+          },
+          {
+            "content_id": "7",
+            "content": "查看更多权益"
+          },
+          {
+            "content_id": "9",
+            "content": "热剧抢先看"
+          },
+          {
+            "content_id": "10",
+            "content": "AD广告特权"
+          },
+          {
+            "content_id": "11",
+            "content": "HD1080P"
+          },
+          {
+            "content_id": "12",
+            "content": "专享缓存"
+          }
+        ]
+      },
+      {
+        "click_id": "18",
+        "click_content": "领免广告卡广告",
+        "group": [
+          {
+            "content_id": "17",
+            "content": "Ad"
+          },
+          {
+            "content_id": "18",
+            "content": "领免广告卡广告"
+          },
+          {
+            "content_id": "19",
+            "content": "日卡"
+          },
+          {
+            "content_id": "20",
+            "content": "日卡"
+          },
+          {
+            "content_id": "21",
+            "content": "日卡"
+          },
+          {
+            "content_id": "22",
+            "content": "日卡"
+          },
+          {
+            "content_id": "23",
+            "content": "7天体验卡"
+          },
+          {
+            "content_id": "24",
+            "content": "补签"
+          },
+          {
+            "content_id": "25",
+            "content": "补签"
+          },
+          {
+            "content_id": "26",
+            "content": "立即抽取"
+          },
+          {
+            "content_id": "27",
+            "content": "待抽取"
+          },
+          {
+            "content_id": "28",
+            "content": "待抽取"
+          }
+        ]
+      },
+      {
+        "click_id": "26",
+        "click_content": "立即抽取",
+        "group": [
+          {
+            "content_id": "17",
+            "content": "Ad"
+          },
+          {
+            "content_id": "18",
+            "content": "领免广告卡广告"
+          },
+          {
+            "content_id": "19",
+            "content": "日卡"
+          },
+          {
+            "content_id": "20",
+            "content": "日卡"
+          },
+          {
+            "content_id": "21",
+            "content": "日卡"
+          },
+          {
+            "content_id": "22",
+            "content": "日卡"
+          },
+          {
+            "content_id": "23",
+            "content": "7天体验卡"
+          },
+          {
+            "content_id": "24",
+            "content": "补签"
+          },
+          {
+            "content_id": "25",
+            "content": "补签"
+          },
+          {
+            "content_id": "26",
+            "content": "立即抽取"
+          },
+          {
+            "content_id": "27",
+            "content": "待抽取"
+          },
+          {
+            "content_id": "28",
+            "content": "待抽取"
+          }
+        ]
+      },
+      {
+        "click_id": "29",
+        "click_content": "领免广告卡",
+        "group": [
+          {
+            "content_id": "29",
+            "content": "领免广告卡"
+          },
+          {
+            "content_id": "30",
+            "content": "华为mate50"
+          },
+          {
+            "content_id": "31",
+            "content": "福袋0元抢"
+          },
+          {
+            "content_id": "32",
+            "content": "广告"
+          }
+        ]
+      },
+      {
+        "click_id": "31",
+        "click_content": "福袋0元抢",
+        "group": [
+          {
+            "content_id": "29",
+            "content": "领免广告卡"
+          },
+          {
+            "content_id": "30",
+            "content": "华为mate50"
+          },
+          {
+            "content_id": "31",
+            "content": "福袋0元抢"
+          },
+          {
+            "content_id": "32",
+            "content": "广告"
+          }
+        ]
+      }
+    ]
+}

@@ -1,0 +1,247 @@
+{
+    "ui_id": "2c3bf377cd01f81d718169ba42df7cbd829255954fc2fd84281c81805785e3ce",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "Q搜你想看的",
+            "top_left": [
+                172,
+                137
+            ],
+            "bottom_right": [
+                724,
+                196
+            ],
+            "font_size": 92,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00967685970046901,
+            "bg_color": [
+                51,
+                51,
+                51
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "搜索",
+            "top_left": [
+                728,
+                137
+            ],
+            "bottom_right": [
+                912,
+                196
+            ],
+            "font_size": 92,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                51,
+                51,
+                51
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "367.3万",
+            "top_left": [
+                926,
+                1302
+            ],
+            "bottom_right": [
+                1058,
+                1345
+            ],
+            "font_size": 22,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1394262684678758,
+            "bg_color": [
+                111,
+                91,
+                88
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "oo",
+            "top_left": [
+                965,
+                1426
+            ],
+            "bottom_right": [
+                1021,
+                1448
+            ],
+            "font_size": 28,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06156646934400905,
+            "bg_color": [
+                250,
+                247,
+                246
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "20.7开",
+            "top_left": [
+                938,
+                1487
+            ],
+            "bottom_right": [
+                1038,
+                1531
+            ],
+            "font_size": 20,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.059891062921170454,
+            "bg_color": [
+                244,
+                227,
+                213
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "16.3万",
+            "top_left": [
+                940,
+                1673
+            ],
+            "bottom_right": [
+                1045,
+                1715
+            ],
+            "font_size": 21,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5441656619712099,
+            "bg_color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "QSona大小姐",
+            "top_left": [
+                27,
+                1793
+            ],
+            "bottom_right": [
+                307,
+                1849
+            ],
+            "font_size": 35,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "分享",
+            "top_left": [
+                962,
+                1855
+            ],
+            "bottom_right": [
+                1026,
+                1888
+            ],
+            "font_size": 32,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5441656619712099,
+            "bg_color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "像告白又像告别又像重遂",
+            "top_left": [
+                27,
+                1864
+            ],
+            "bottom_right": [
+                489,
+                1921
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5441656619712099,
+            "bg_color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "去汽水听用情羊羊版。鼓手翟",
+            "top_left": [
+                40,
+                1998
+            ],
+            "bottom_right": [
+                599,
+                2042
+            ],
+            "font_size": 43,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5607685721999833,
+            "bg_color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "相关搜索任世豪sona大小姐",
+            "top_left": [
+                27,
+                2115
+            ],
+            "bottom_right": [
+                559,
+                2162
+            ],
+            "font_size": 38,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.026831885192901868,
+            "bg_color": [
+                14,
+                14,
+                14
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "善语结善缘,恶言伤人心",
+            "top_left": [
+                39,
+                2248
+            ],
+            "bottom_right": [
+                490,
+                2301
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5432030429162314,
+            "bg_color": [
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,667 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                153,
+                153,
+                153
+            ],
+            "bottom_right": [
+                595,
+                191
+            ],
+            "content": "自学",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016900012355415262,
+            "font_size": 57,
+            "top_left": [
+                481,
+                131
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                705,
+                453
+            ],
+            "content": "请选择你的年级",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "font_size": 50,
+            "top_left": [
+                355,
+                392
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                228,
+                523
+            ],
+            "content": "小学",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "font_size": 51,
+            "top_left": [
+                126,
+                464
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                383,
+                642
+            ],
+            "content": "一年级",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013204793096173588,
+            "font_size": 62,
+            "top_left": [
+                197,
+                597
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                569,
+                642
+            ],
+            "content": "二年级",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013376353866229738,
+            "font_size": 62,
+            "top_left": [
+                383,
+                597
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                755,
+                642
+            ],
+            "content": "三年级",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013204793096173588,
+            "font_size": 62,
+            "top_left": [
+                569,
+                597
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                381,
+                758
+            ],
+            "content": "四年级",
+            "content_id": "7",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013204793096173588,
+            "font_size": 61,
+            "top_left": [
+                198,
+                712
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                566,
+                758
+            ],
+            "content": "五年级",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013204793096173588,
+            "font_size": 61,
+            "top_left": [
+                383,
+                712
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                751,
+                758
+            ],
+            "content": "六年级",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013204793096173588,
+            "font_size": 61,
+            "top_left": [
+                568,
+                712
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                227,
+                913
+            ],
+            "content": "初中",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "font_size": 50,
+            "top_left": [
+                127,
+                852
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                305,
+                1032
+            ],
+            "content": "初",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013204793096173588,
+            "font_size": 91,
+            "top_left": [
+                214,
+                987
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                487,
+                1032
+            ],
+            "content": "初二",
+            "content_id": "12",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.00019673402261978306,
+            "font_size": 91,
+            "top_left": [
+                305,
+                987
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                669,
+                1032
+            ],
+            "content": "初三",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013204793096173588,
+            "font_size": 91,
+            "top_left": [
+                487,
+                987
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                225,
+                1190
+            ],
+            "content": "高中",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "font_size": 49,
+            "top_left": [
+                127,
+                1129
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                306,
+                1309
+            ],
+            "content": "高",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013204793096173588,
+            "font_size": 91,
+            "top_left": [
+                215,
+                1266
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                488,
+                1309
+            ],
+            "content": "高二",
+            "content_id": "16",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.00019673402261978306,
+            "font_size": 91,
+            "top_left": [
+                306,
+                1266
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                670,
+                1309
+            ],
+            "content": "高三",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013204793096173588,
+            "font_size": 91,
+            "top_left": [
+                488,
+                1266
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                227,
+                1465
+            ],
+            "content": "其他",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "font_size": 56,
+            "top_left": [
+                115,
+                1403
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                298,
+                1581
+            ],
+            "content": "大学",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013204793096173588,
+            "font_size": 43,
+            "top_left": [
+                212,
+                1540
+            ]
+        },
+        {
+            "bg_color": [
+                64,
+                136,
+                247
+            ],
+            "bottom_right": [
+                580,
+                1758
+            ],
+            "content": "确定",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17183318055459665,
+            "font_size": 41,
+            "top_left": [
+                498,
+                1713
+            ]
+        },
+        {
+            "bg_color": [
+                153,
+                153,
+                153
+            ],
+            "bottom_right": [
+                929,
+                1969
+            ],
+            "content": "暑期衔接小学数学三年级上.",
+            "content_id": "21",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01088243402955663,
+            "font_size": 40,
+            "top_left": [
+                409,
+                1925
+            ]
+        },
+        {
+            "bg_color": [
+                71,
+                139,
+                152
+            ],
+            "bottom_right": [
+                180,
+                1969
+            ],
+            "content": "口日可大园",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3624781488148574,
+            "font_size": 19,
+            "top_left": [
+                85,
+                1941
+            ]
+        },
+        {
+            "bg_color": [
+                152,
+                143,
+                66
+            ],
+            "bottom_right": [
+                252,
+                2028
+            ],
+            "content": "小学数学",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2881820248617292,
+            "font_size": 38,
+            "top_left": [
+                100,
+                1983
+            ]
+        },
+        {
+            "bg_color": [
+                148,
+                148,
+                148
+            ],
+            "bottom_right": [
+                516,
+                2031
+            ],
+            "content": "三年级",
+            "content_id": "24",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0031458676613553577,
+            "font_size": 30,
+            "top_left": [
+                426,
+                1990
+            ]
+        },
+        {
+            "bg_color": [
+                148,
+                148,
+                148
+            ],
+            "bottom_right": [
+                636,
+                2031
+            ],
+            "content": "基础夯学",
+            "content_id": "25",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0031458676613553577,
+            "font_size": 30,
+            "top_left": [
+                516,
+                1990
+            ]
+        },
+        {
+            "bg_color": [
+                59,
+                127,
+                145
+            ],
+            "bottom_right": [
+                254,
+                2079
+            ],
+            "content": "三年级上册",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15469530875290446,
+            "font_size": 34,
+            "top_left": [
+                84,
+                2035
+            ]
+        },
+        {
+            "bg_color": [
+                152,
+                152,
+                152
+            ],
+            "bottom_right": [
+                643,
+                2100
+            ],
+            "content": "三乐爱课",
+            "content_id": "27",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0030578831711171673,
+            "font_size": 58,
+            "top_left": [
+                411,
+                2054
+            ]
+        },
+        {
+            "bg_color": [
+                153,
+                153,
+                153
+            ],
+            "bottom_right": [
+                934,
+                2100
+            ],
+            "content": "￥99.0",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23400001520709277,
+            "font_size": 58,
+            "top_left": [
+                644,
+                2054
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                51,
+                51
+            ],
+            "bottom_right": [
+                765,
+                2209
+            ],
+            "content": "福利",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21836921063964085,
+            "font_size": 34,
+            "top_left": [
+                697,
+                2171
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                224,
+                2324
+            ],
+            "content": "首页",
+            "content_id": "30",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 68,
+            "top_left": [
+                88,
+                2281
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                361,
+                2324
+            ],
+            "content": "自学",
+            "content_id": "31",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 68,
+            "top_left": [
+                225,
+                2281
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                634,
+                2324
+            ],
+            "content": "会员专享",
+            "content_id": "32",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 68,
+            "top_left": [
+                362,
+                2281
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                772,
+                2324
+            ],
+            "content": "我的",
+            "content_id": "33",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 68,
+            "top_left": [
+                636,
+                2281
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "17af83621a5773dd5ad8144a2a28368380957ac7084c2cb3f20e355ce2355233"
+}

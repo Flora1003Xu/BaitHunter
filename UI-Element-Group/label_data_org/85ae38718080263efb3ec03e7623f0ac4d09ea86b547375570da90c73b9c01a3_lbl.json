@@ -1,0 +1,22 @@
+{
+    "data": [
+      {
+        "click_id": "12",
+        "click_content": "开心收下",
+        "group": [
+            {
+                "content_id": "10",
+                "content": "50元"
+              },
+          {
+            "content_id": "11",
+            "content": "VIP大额券*1"
+          },
+          {
+            "content_id": "12",
+            "content": "开心收下"
+          }
+        ]
+      }
+    ]
+}

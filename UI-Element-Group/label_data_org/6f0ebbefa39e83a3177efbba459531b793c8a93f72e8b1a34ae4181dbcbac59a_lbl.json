@@ -1,0 +1,62 @@
+{
+    "data": [
+      {
+        "click_id": "11",
+        "click_content": "邀请好友",
+        "group": [
+          {
+            "content_id": "1",
+            "content": "奖励"
+          },
+          {
+            "content_id": "2",
+            "content": "已提醒"
+          },
+          {
+            "content_id": "3",
+            "content": "每邀请1名新用户最高得10元"
+          },
+          {
+            "content_id": "4",
+            "content": "红包可提现至支也可以兑换SVIP"
+          },
+          {
+            "content_id": "5",
+            "content": "赚钱攻略"
+          },
+          {
+            "content_id": "6",
+            "content": "10元"
+          },
+          {
+            "content_id": "7",
+            "content": "100元"
+          },
+          {
+            "content_id": "8",
+            "content": "分享活动"
+          },
+          {
+            "content_id": "9",
+            "content": "好友完成任务"
+          },
+          {
+            "content_id": "10",
+            "content": "持续分享"
+          },
+          {
+            "content_id": "11",
+            "content": "邀请好友"
+          },
+          {
+            "content_id": "12",
+            "content": "双方得奖励"
+          },
+          {
+            "content_id": "13",
+            "content": "每天最高100元"
+          }
+        ]
+      }
+    ]
+}

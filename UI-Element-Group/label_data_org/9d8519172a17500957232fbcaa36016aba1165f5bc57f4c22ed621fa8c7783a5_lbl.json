@@ -1,0 +1,42 @@
+{
+    "data": [
+      {
+        "click_id": "8",
+        "click_content": "一键登录",
+        "group": [
+          {
+            "content_id": "1",
+            "content": "欢"
+          },
+          {
+            "content_id": "2",
+            "content": "迎登录"
+          },
+          {
+            "content_id": "3",
+            "content": "陪伴生活每一天"
+          },
+          {
+            "content_id": "4",
+            "content": "178****6438"
+          },
+          {
+            "content_id": "5",
+            "content": "切换号码"
+          },
+          {
+            "content_id": "6",
+            "content": "同意《中国移动认证服务条款》《法律条款与隐私政策》"
+          },
+          {
+            "content_id": "7",
+            "content": "并授权哈啰获取本机号码"
+          },
+          {
+            "content_id": "8",
+            "content": "一键登录"
+          }
+        ]
+      }
+    ]
+}

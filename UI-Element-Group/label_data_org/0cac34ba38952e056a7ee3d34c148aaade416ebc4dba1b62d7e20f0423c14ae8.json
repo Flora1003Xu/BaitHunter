@@ -1,0 +1,267 @@
+{
+    "ui_id": "0cac34ba38952e056a7ee3d34c148aaade416ebc4dba1b62d7e20f0423c14ae8",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "20.7万条评论",
+            "top_left": [
+                428,
+                984
+            ],
+            "bottom_right": [
+                636,
+                1025
+            ],
+            "font_size": 26,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "撩",
+            "top_left": [
+                156,
+                1068
+            ],
+            "bottom_right": [
+                211,
+                1112
+            ],
+            "font_size": 55,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.018319676971277933,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "不是我吹,男朋友根本刷不到这个档次的美女",
+            "top_left": [
+                153,
+                1123
+            ],
+            "bottom_right": [
+                973,
+                1183
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "07-04内蒙古回复",
+            "top_left": [
+                157,
+                1256
+            ],
+            "bottom_right": [
+                607,
+                1302
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "C46.8万",
+            "top_left": [
+                612,
+                1256
+            ],
+            "bottom_right": [
+                882,
+                1302
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "0",
+            "top_left": [
+                885,
+                1256
+            ],
+            "bottom_right": [
+                930,
+                1302
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "展开2.9万条回复",
+            "top_left": [
+                229,
+                1339
+            ],
+            "bottom_right": [
+                535,
+                1383
+            ],
+            "font_size": 34,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "柳笙零食铺",
+            "top_left": [
+                156,
+                1438
+            ],
+            "bottom_right": [
+                341,
+                1483
+            ],
+            "font_size": 37,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.018319676971277933,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "为什么你能哭的这么好看",
+            "top_left": [
+                155,
+                1492
+            ],
+            "bottom_right": [
+                650,
+                1554
+            ],
+            "font_size": 45,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "07-15重庆回复",
+            "top_left": [
+                157,
+                2041
+            ],
+            "bottom_right": [
+                616,
+                2089
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "02.8万",
+            "top_left": [
+                616,
+                2041
+            ],
+            "bottom_right": [
+                871,
+                2089
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.044405574132804534,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "展开3266条回复",
+            "top_left": [
+                230,
+                2125
+            ],
+            "bottom_right": [
+                536,
+                2169
+            ],
+            "font_size": 34,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "善语结善缘,恶言伤人心",
+            "top_left": [
+                95,
+                2251
+            ],
+            "bottom_right": [
+                590,
+                2305
+            ],
+            "font_size": 45,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05022911344325833,
+            "bg_color": [
+                243,
+                243,
+                244
+            ]
+        }
+    ]
+}

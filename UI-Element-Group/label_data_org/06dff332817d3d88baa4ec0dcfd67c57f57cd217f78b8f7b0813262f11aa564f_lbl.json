@@ -1,0 +1,61 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "切换高质",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "切换高质"
+          }
+        ]
+      },
+      {
+        "click_id": "6",
+        "click_content": "万人合唱",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "万人合唱"
+          },
+          {
+            "content_id": "4",
+            "content": "原版"
+          },
+          {
+            "content_id": "5",
+            "content": "原版曲风试听"
+          }
+        ]
+      },
+      {
+        "click_id": "10",
+        "click_content": "开始独唱",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "开始独唱"
+          },
+          {
+            "content_id": "8",
+            "content": "音频"
+          },
+          {
+            "content_id": "9",
+            "content": "视频"
+          }
+        ]
+      },
+      {
+        "click_id": "11",
+        "click_content": "合唱",
+        "group": [
+          {
+            "content_id": "11",
+            "content": "合唱"
+          }
+        ]
+      }
+    ]
+  }
+   

@@ -1,0 +1,86 @@
+{
+    "data": [
+      {
+        "click_id": "10",
+        "click_content": "立即前往",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "【会员全年底价】火热预约中"
+          },
+          {
+            "content_id": "10",
+            "content": "立即前往"
+          },
+          {
+            "content_id": "11",
+            "content": "查看更多权益"
+          },
+          {
+            "content_id": "13",
+            "content": "热剧抢先看"
+          },
+          {
+            "content_id": "14",
+            "content": "AD广告特权"
+          },
+          {
+            "content_id": "15",
+            "content": "HD1080P"
+          },
+          {
+            "content_id": "16",
+            "content": "专享缓存"
+          }
+        ]
+      },
+      {
+        "click_id": "24",
+        "click_content": "查看详情",
+        "group": [
+          {
+            "content_id": "21",
+            "content": "2022.09.01"
+          },
+          {
+            "content_id": "22",
+            "content": "toutiao"
+          },
+          {
+            "content_id": "23",
+            "content": "如祺出行"
+          },
+          {
+            "content_id": "24",
+            "content": "查看详情"
+          },
+          {
+            "content_id": "25",
+            "content": "领免广告卡广告"
+          }
+        ]
+      },
+      {
+        "click_id": "36",
+        "click_content": "抽一次",
+        "group": [
+          {
+            "content_id": "34",
+            "content": "芒潮玩"
+          },
+          {
+            "content_id": "36",
+            "content": "抽一次"
+          },
+          {
+            "content_id": "37",
+            "content": "新"
+          },
+          {
+            "content_id": "38",
+            "content": "低价抽潮玩隐藏款"
+          }
+        ]
+      }
+    ]
+}

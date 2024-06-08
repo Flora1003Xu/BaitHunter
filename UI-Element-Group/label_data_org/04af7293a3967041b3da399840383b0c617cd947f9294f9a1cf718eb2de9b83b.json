@@ -1,0 +1,87 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                859,
+                1054
+            ],
+            "content": "0",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 79,
+            "top_left": [
+                780,
+                986
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                228,
+                1389
+            ],
+            "content": "捷径",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 42,
+            "top_left": [
+                144,
+                1347
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                396,
+                1389
+            ],
+            "content": "实用工具",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 42,
+            "top_left": [
+                228,
+                1347
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                481,
+                1389
+            ],
+            "content": "精选",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 42,
+            "top_left": [
+                397,
+                1347
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "04af7293a3967041b3da399840383b0c617cd947f9294f9a1cf718eb2de9b83b"
+}

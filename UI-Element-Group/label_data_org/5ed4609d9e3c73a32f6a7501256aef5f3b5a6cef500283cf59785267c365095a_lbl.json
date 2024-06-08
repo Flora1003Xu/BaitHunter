@@ -1,0 +1,35 @@
+{
+    "data": [
+      {
+        "click_id": "2",
+        "click_content": "搜索",
+        "group": [
+          {
+            "content_id": "2",
+            "content": "搜索"
+          }
+        ]
+      },
+      {
+        "click_id": "5",
+        "click_content": "直播",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "直播"
+          }
+        ]
+      },
+      {
+        "click_id": "15",
+        "click_content": "消息",
+        "group": [
+          {
+            "content_id": "15",
+            "content": "消息"
+          }
+        ]
+      }
+    ]
+  }
+   

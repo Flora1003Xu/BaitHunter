@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>9d8519172a17500957232fbcaa36016aba1165f5bc57f4c22ed621fa8c7783a5.png</filename>
+	<path>D:\windows_v1.8.1\windows_v1.8.1\data\9d8519172a17500957232fbcaa36016aba1165f5bc57f4c22ed621fa8c7783a5.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>241</ymin>
+			<xmax>1040</xmax>
+			<ymax>1220</ymax>
+		</bndbox>
+	</object>
+</annotation>

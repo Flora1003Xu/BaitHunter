@@ -1,0 +1,527 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                250,
+                250,
+                251
+            ],
+            "bottom_right": [
+                467,
+                371
+            ],
+            "content": "无名大侠",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15796460248718566,
+            "font_size": 60,
+            "top_left": [
+                227,
+                304
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                145,
+                642
+            ],
+            "content": "d",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12883087446326066,
+            "font_size": 47,
+            "top_left": [
+                98,
+                580
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                615,
+                642
+            ],
+            "content": "累计已学0,坚持0天",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16071645038197904,
+            "font_size": 47,
+            "top_left": [
+                145,
+                580
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                62,
+                62
+            ],
+            "bottom_right": [
+                978,
+                798
+            ],
+            "content": "上新!",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21118755520570362,
+            "font_size": 27,
+            "top_left": [
+                897,
+                757
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                522,
+                853
+            ],
+            "content": "0个铜板",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16071645038197904,
+            "font_size": 88,
+            "top_left": [
+                170,
+                796
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                875,
+                853
+            ],
+            "content": "去兑换)",
+            "content_id": "6",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 88,
+            "top_left": [
+                523,
+                796
+            ]
+        },
+        {
+            "bg_color": [
+                247,
+                247,
+                247
+            ],
+            "bottom_right": [
+                354,
+                1006
+            ],
+            "content": "今日签到+5",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16056445776965844,
+            "font_size": 45,
+            "top_left": [
+                84,
+                952
+            ]
+        },
+        {
+            "bg_color": [
+                231,
+                237,
+                252
+            ],
+            "bottom_right": [
+                949,
+                1036
+            ],
+            "content": "立即签到",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1865283699509361,
+            "font_size": 42,
+            "top_left": [
+                781,
+                983
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                381,
+                1071
+            ],
+            "content": "每日签到即可获得",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10114511910015435,
+            "font_size": 37,
+            "top_left": [
+                85,
+                1026
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                470,
+                1204
+            ],
+            "content": "完成今日计划+10",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.35765196232583135,
+            "font_size": 43,
+            "top_left": [
+                83,
+                1151
+            ]
+        },
+        {
+            "bg_color": [
+                231,
+                237,
+                252
+            ],
+            "bottom_right": [
+                951,
+                1237
+            ],
+            "content": "去背单词",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1865283699509361,
+            "font_size": 46,
+            "top_left": [
+                767,
+                1179
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                594,
+                1268
+            ],
+            "content": "每日24点前,完成当日学习计划",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10114511910015435,
+            "font_size": 34,
+            "top_left": [
+                84,
+                1225
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                534,
+                1405
+            ],
+            "content": "连续3天完成计划+50",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16071645038197904,
+            "font_size": 41,
+            "top_left": [
+                83,
+                1346
+            ]
+        },
+        {
+            "bg_color": [
+                236,
+                241,
+                253
+            ],
+            "bottom_right": [
+                934,
+                1455
+            ],
+            "content": "还差3天",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06258217584757328,
+            "font_size": 38,
+            "top_left": [
+                782,
+                1409
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                661,
+                1468
+            ],
+            "content": "限完成当天领取,未领取或断开后任",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10114511910015435,
+            "font_size": 36,
+            "top_left": [
+                85,
+                1423
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                197,
+                1518
+            ],
+            "content": "务重启",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10114511910015435,
+            "font_size": 37,
+            "top_left": [
+                86,
+                1473
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                62,
+                62
+            ],
+            "bottom_right": [
+                182,
+                1666
+            ],
+            "content": "NEW",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21118755520570362,
+            "font_size": 18,
+            "top_left": [
+                128,
+                1630
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                424,
+                1713
+            ],
+            "content": "我的单词机",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16071645038197904,
+            "font_size": 48,
+            "top_left": [
+                184,
+                1651
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                380,
+                1877
+            ],
+            "content": "我的课程",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16071645038197904,
+            "font_size": 49,
+            "top_left": [
+                184,
+                1815
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                144,
+                2038
+            ],
+            "content": "口",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17903125181434076,
+            "font_size": 46,
+            "top_left": [
+                98,
+                1976
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                374,
+                2038
+            ],
+            "content": "我的词汇量",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16071645038197904,
+            "font_size": 46,
+            "top_left": [
+                144,
+                1976
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                210,
+                2328
+            ],
+            "content": "单词",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06395231875833285,
+            "font_size": 69,
+            "top_left": [
+                72,
+                2286
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                349,
+                2328
+            ],
+            "content": "学习",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06395231875833285,
+            "font_size": 69,
+            "top_left": [
+                211,
+                2286
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                488,
+                2328
+            ],
+            "content": "发现",
+            "content_id": "24",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 69,
+            "top_left": [
+                350,
+                2286
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                627,
+                2328
+            ],
+            "content": "商城",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06395231875833285,
+            "font_size": 69,
+            "top_left": [
+                489,
+                2286
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                697,
+                2328
+            ],
+            "content": "我",
+            "content_id": "26",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 69,
+            "top_left": [
+                628,
+                2286
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "2ff014b946acccb3da151c0b8d7bd01a5bf75d183cf8808ce96bb87bd3de1d11"
+}

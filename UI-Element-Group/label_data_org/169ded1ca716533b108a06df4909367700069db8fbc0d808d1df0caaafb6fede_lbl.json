@@ -1,0 +1,366 @@
+{
+    "data": [
+        {
+          "click_id": "3",
+          "click_content": "去提现)",
+          "group": [
+            {
+              "content_id": "2",
+              "content": "我的金币"
+            },
+            {
+              "content_id": "3",
+              "content": "去提现)"
+            },
+            {
+              "content_id": "6",
+              "content": "0约0元"
+            }
+          ]
+        },
+        {
+          "click_id": "5",
+          "click_content": "去邀请)",
+          "group": [
+            {
+              "content_id": "4",
+              "content": "邀请好友"
+            },
+            {
+              "content_id": "5",
+              "content": "去邀请)"
+            },
+            {
+              "content_id": "7",
+              "content": "邀请1人得25元"
+            }
+          ]
+        },
+        {
+          "click_id": "10",
+          "click_content": "立即开通",
+          "group": [
+            {
+              "content_id": "8",
+              "content": "立享超低价"
+            },
+            {
+              "content_id": "9",
+              "content": "购买会员"
+            },
+            {
+              "content_id": "10",
+              "content": "立即开通"
+            },
+            {
+              "content_id": "11",
+              "content": "热剧抢先看,畅享高清画质"
+            }
+          ]
+        },
+        {
+            "click_id": "10",
+            "click_content": "立即开通",
+            "group": [
+              {
+                "content_id": "12",
+                "content": "观看历皮"
+              },
+              {
+                "content_id": "13",
+                "content": "看她轻轻地."
+              },
+              {
+                "content_id": "14",
+                "content": "石头记第1集家畜进化史"
+              },
+              {
+                "content_id": "15",
+                "content": "离不开"
+              },
+              {
+                "content_id": "16",
+                "content": "观看不足1”"
+              },
+              {
+                "content_id": "17",
+                "content": "观看不足1%"
+              },
+              {
+                "content_id": "18",
+                "content": "已观看2%"
+              },
+              {
+                "content_id": "19",
+                "content": "观看不,"
+              }
+            ]
+        },
+        {
+            "click_id": "13",
+            "click_content": "看她轻轻地.",
+            "group": [
+              {
+                "content_id": "12",
+                "content": "观看历皮"
+              },
+              {
+                "content_id": "13",
+                "content": "看她轻轻地."
+              },
+              {
+                "content_id": "14",
+                "content": "石头记第1集家畜进化史"
+              },
+              {
+                "content_id": "15",
+                "content": "离不开"
+              },
+              {
+                "content_id": "16",
+                "content": "观看不足1”"
+              },
+              {
+                "content_id": "17",
+                "content": "观看不足1%"
+              },
+              {
+                "content_id": "18",
+                "content": "已观看2%"
+              },
+              {
+                "content_id": "19",
+                "content": "观看不,"
+              }
+            ]
+        },
+        {
+            "click_id": "14",
+            "click_content": "石头记第1集家畜进化史",
+            "group": [
+              {
+                "content_id": "12",
+                "content": "观看历皮"
+              },
+              {
+                "content_id": "13",
+                "content": "看她轻轻地."
+              },
+              {
+                "content_id": "14",
+                "content": "石头记第1集家畜进化史"
+              },
+              {
+                "content_id": "15",
+                "content": "离不开"
+              },
+              {
+                "content_id": "16",
+                "content": "观看不足1”"
+              },
+              {
+                "content_id": "17",
+                "content": "观看不足1%"
+              },
+              {
+                "content_id": "18",
+                "content": "已观看2%"
+              },
+              {
+                "content_id": "19",
+                "content": "观看不,"
+              }
+            ]
+        },
+        {
+            "click_id": "15",
+            "click_content": "离不开",
+            "group": [
+              {
+                "content_id": "12",
+                "content": "观看历皮"
+              },
+              {
+                "content_id": "13",
+                "content": "看她轻轻地."
+              },
+              {
+                "content_id": "14",
+                "content": "石头记第1集家畜进化史"
+              },
+              {
+                "content_id": "15",
+                "content": "离不开"
+              },
+              {
+                "content_id": "16",
+                "content": "观看不足1”"
+              },
+              {
+                "content_id": "17",
+                "content": "观看不足1%"
+              },
+              {
+                "content_id": "18",
+                "content": "已观看2%"
+              },
+              {
+                "content_id": "19",
+                "content": "观看不,"
+              }
+            ]
+        },
+        {
+            "click_id": "16",
+            "click_content": "观看不足1”",
+            "group": [
+              {
+                "content_id": "12",
+                "content": "观看历皮"
+              },
+              {
+                "content_id": "13",
+                "content": "看她轻轻地."
+              },
+              {
+                "content_id": "14",
+                "content": "石头记第1集家畜进化史"
+              },
+              {
+                "content_id": "15",
+                "content": "离不开"
+              },
+              {
+                "content_id": "16",
+                "content": "观看不足1”"
+              },
+              {
+                "content_id": "17",
+                "content": "观看不足1%"
+              },
+              {
+                "content_id": "18",
+                "content": "已观看2%"
+              },
+              {
+                "content_id": "19",
+                "content": "观看不,"
+              }
+            ]
+        },
+        {
+            "click_id": "17",
+            "click_content": "观看不足1%",
+            "group": [
+              {
+                "content_id": "12",
+                "content": "观看历皮"
+              },
+              {
+                "content_id": "13",
+                "content": "看她轻轻地."
+              },
+              {
+                "content_id": "14",
+                "content": "石头记第1集家畜进化史"
+              },
+              {
+                "content_id": "15",
+                "content": "离不开"
+              },
+              {
+                "content_id": "16",
+                "content": "观看不足1”"
+              },
+              {
+                "content_id": "17",
+                "content": "观看不足1%"
+              },
+              {
+                "content_id": "18",
+                "content": "已观看2%"
+              },
+              {
+                "content_id": "19",
+                "content": "观看不,"
+              }
+            ]
+        },
+        {
+            "click_id": "18",
+            "click_content": "已观看2%",
+            "group": [
+              {
+                "content_id": "12",
+                "content": "观看历皮"
+              },
+              {
+                "content_id": "13",
+                "content": "看她轻轻地."
+              },
+              {
+                "content_id": "14",
+                "content": "石头记第1集家畜进化史"
+              },
+              {
+                "content_id": "15",
+                "content": "离不开"
+              },
+              {
+                "content_id": "16",
+                "content": "观看不足1”"
+              },
+              {
+                "content_id": "17",
+                "content": "观看不足1%"
+              },
+              {
+                "content_id": "18",
+                "content": "已观看2%"
+              },
+              {
+                "content_id": "19",
+                "content": "观看不,"
+              }
+            ]
+        },
+        {
+            "click_id": "19",
+            "click_content": "观看不,",
+            "group": [
+              {
+                "content_id": "12",
+                "content": "观看历皮"
+              },
+              {
+                "content_id": "13",
+                "content": "看她轻轻地."
+              },
+              {
+                "content_id": "14",
+                "content": "石头记第1集家畜进化史"
+              },
+              {
+                "content_id": "15",
+                "content": "离不开"
+              },
+              {
+                "content_id": "16",
+                "content": "观看不足1”"
+              },
+              {
+                "content_id": "17",
+                "content": "观看不足1%"
+              },
+              {
+                "content_id": "18",
+                "content": "已观看2%"
+              },
+              {
+                "content_id": "19",
+                "content": "观看不,"
+              }
+            ]
+        }
+    ]
+}

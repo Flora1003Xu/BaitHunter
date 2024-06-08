@@ -1,0 +1,187 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                250,
+                250,
+                250
+            ],
+            "bottom_right": [
+                249,
+                193
+            ],
+            "content": "<返回",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011045149038946888,
+            "font_size": 74,
+            "top_left": [
+                27,
+                132
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                250,
+                250
+            ],
+            "bottom_right": [
+                547,
+                193
+            ],
+            "content": "手机号码",
+            "content_id": "2",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 74,
+            "top_left": [
+                251,
+                132
+            ]
+        },
+        {
+            "bg_color": [
+                147,
+                147,
+                147
+            ],
+            "bottom_right": [
+                602,
+                855
+            ],
+            "content": "如你的手机号已不用,请及时更换。",
+            "content_id": "3",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003719793021517766,
+            "font_size": 36,
+            "top_left": [
+                26,
+                811
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                688,
+                982
+            ],
+            "content": "17*******38",
+            "content_id": "4",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 60,
+            "top_left": [
+                28,
+                921
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                932,
+                982
+            ],
+            "content": "登录手机",
+            "content_id": "5",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004090474246960426,
+            "font_size": 60,
+            "top_left": [
+                692,
+                921
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                296,
+                1115
+            ],
+            "content": "添加手机号码",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1465188094752766,
+            "font_size": 45,
+            "top_left": [
+                26,
+                1062
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                242,
+                242
+            ],
+            "bottom_right": [
+                139,
+                1254
+            ],
+            "content": "未标记",
+            "content_id": "7",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003719793021517766,
+            "font_size": 37,
+            "top_left": [
+                28,
+                1207
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                242,
+                242
+            ],
+            "bottom_right": [
+                991,
+                1254
+            ],
+            "content": "\"登录手机”字样的号码仅用于验证身份,不能作为",
+            "content_id": "8",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003719793021517766,
+            "font_size": 37,
+            "top_left": [
+                140,
+                1207
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                242,
+                242
+            ],
+            "bottom_right": [
+                691,
+                1310
+            ],
+            "content": "登录名使用。查看如何设置为登录手机?",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14619471126425734,
+            "font_size": 37,
+            "top_left": [
+                25,
+                1265
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "5b31a8515ee24e60c927bef6d1e70a116c7477f5aad3229e2fc465fbccd9d8b9"
+}

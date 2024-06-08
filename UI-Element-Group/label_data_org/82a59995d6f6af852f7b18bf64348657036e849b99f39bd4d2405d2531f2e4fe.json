@@ -1,0 +1,447 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                830,
+                196
+            ],
+            "content": "云端同步",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5431852614997851,
+            "font_size": 101,
+            "top_left": [
+                426,
+                134
+            ]
+        },
+        {
+            "bg_color": [
+                126,
+                126,
+                126
+            ],
+            "bottom_right": [
+                933,
+                196
+            ],
+            "content": "总",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5431671734176136,
+            "font_size": 101,
+            "top_left": [
+                832,
+                134
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                213,
+                368
+            ],
+            "content": "同步内容",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.020909793544992526,
+            "font_size": 46,
+            "top_left": [
+                29,
+                308
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                316,
+                470
+            ],
+            "content": "词库",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20679354622913754,
+            "font_size": 143,
+            "top_left": [
+                30,
+                421
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                746,
+                470
+            ],
+            "content": "未同步",
+            "content_id": "5",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 143,
+            "top_left": [
+                317,
+                421
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                165,
+                583
+            ],
+            "content": "y",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2067952336975351,
+            "font_size": 124,
+            "top_left": [
+                41,
+                537
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                413,
+                583
+            ],
+            "content": "皮肤",
+            "content_id": "7",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.020909793544992526,
+            "font_size": 124,
+            "top_left": [
+                165,
+                537
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                785,
+                583
+            ],
+            "content": "未同步",
+            "content_id": "8",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 124,
+            "top_left": [
+                413,
+                537
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                165,
+                699
+            ],
+            "content": "y",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20759465119765605,
+            "font_size": 124,
+            "top_left": [
+                41,
+                651
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                413,
+                699
+            ],
+            "content": "表情",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.020909793544992526,
+            "font_size": 124,
+            "top_left": [
+                165,
+                651
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                785,
+                699
+            ],
+            "content": "未同步",
+            "content_id": "11",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 124,
+            "top_left": [
+                413,
+                651
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                420,
+                813
+            ],
+            "content": "字体",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005105463363375208,
+            "font_size": 153,
+            "top_left": [
+                114,
+                767
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                880,
+                813
+            ],
+            "content": "未同步",
+            "content_id": "13",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 153,
+            "top_left": [
+                421,
+                767
+            ]
+        },
+        {
+            "bg_color": [
+                61,
+                61,
+                61
+            ],
+            "bottom_right": [
+                1036,
+                927
+            ],
+            "content": "同步",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010158778944223451,
+            "font_size": 42,
+            "top_left": [
+                952,
+                888
+            ]
+        },
+        {
+            "bg_color": [
+                161,
+                161,
+                161
+            ],
+            "bottom_right": [
+                760,
+                1013
+            ],
+            "content": "网络同步用户词设置",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5436574168721111,
+            "font_size": 50,
+            "top_left": [
+                310,
+                952
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                1035,
+                1042
+            ],
+            "content": "同步",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011288635416822639,
+            "font_size": 41,
+            "top_left": [
+                953,
+                1002
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                492,
+                1121
+            ],
+            "content": "同步全部用户词",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 44,
+            "top_left": [
+                184,
+                1061
+            ]
+        },
+        {
+            "bg_color": [
+                106,
+                106,
+                106
+            ],
+            "bottom_right": [
+                1035,
+                1157
+            ],
+            "content": "同步",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011288635416822639,
+            "font_size": 41,
+            "top_left": [
+                953,
+                1119
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                464,
+                1167
+            ],
+            "content": "包括电脑和手机用户词",
+            "content_id": "19",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.002595712369518486,
+            "font_size": 28,
+            "top_left": [
+                184,
+                1124
+            ]
+        },
+        {
+            "bg_color": [
+                245,
+                245,
+                245
+            ],
+            "bottom_right": [
+                536,
+                1297
+            ],
+            "content": "仅同步手机用户词",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442365796069494,
+            "font_size": 44,
+            "top_left": [
+                184,
+                1236
+            ]
+        },
+        {
+            "bg_color": [
+                245,
+                245,
+                245
+            ],
+            "bottom_right": [
+                488,
+                1473
+            ],
+            "content": "取消",
+            "content_id": "21",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011019791243180775,
+            "font_size": 88,
+            "top_left": [
+                312,
+                1418
+            ]
+        },
+        {
+            "bg_color": [
+                83,
+                136,
+                255
+            ],
+            "bottom_right": [
+                664,
+                1473
+            ],
+            "content": "确定",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17900900388178784,
+            "font_size": 88,
+            "top_left": [
+                488,
+                1418
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "82a59995d6f6af852f7b18bf64348657036e849b99f39bd4d2405d2531f2e4fe"
+}

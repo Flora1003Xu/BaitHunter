@@ -1,0 +1,48 @@
+{
+    "data": [
+      {
+        "click_id": "12",
+        "click_content": "立即参与",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "暑期狂欢"
+          },
+          {
+            "content_id": "10",
+            "content": "SUMMER"
+          },
+          {
+            "content_id": "12",
+            "content": "立即参与"
+          },
+          {
+            "content_id": "14",
+            "content": "今日不再提醒"
+          }
+        ]
+      },
+      {
+        "click_id": "14",
+        "click_content": "今日不再提醒",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "暑期狂欢"
+          },
+          {
+            "content_id": "10",
+            "content": "SUMMER"
+          },
+          {
+            "content_id": "12",
+            "content": "立即参与"
+          },
+          {
+            "content_id": "14",
+            "content": "今日不再提醒"
+          }
+        ]
+      }
+    ]
+}

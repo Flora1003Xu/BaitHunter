@@ -1,0 +1,88 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "去领取",
+        "group": [
+          {
+            "content_id": "1",
+            "content": "恭喜你被神秘优惠券砸中"
+          },
+          {
+            "content_id": "2",
+            "content": "满5.1减5,限时可用"
+          },
+          {
+            "content_id": "3",
+            "content": "去领取"
+          }
+        ]
+      },
+      {
+        "click_id": "19",
+        "click_content": "118元券包未使用自动退",
+        "group": [
+          {
+            "content_id": "19",
+            "content": "118元券包未使用自动退"
+          }
+        ]
+      },
+      {
+        "click_id": "24",
+        "click_content": "领券",
+        "group": [
+          {
+            "content_id": "20",
+            "content": "领券立减10"
+          },
+          {
+            "content_id": "21",
+            "content": "立减12"
+          },
+          {
+            "content_id": "22",
+            "content": "最高返37京豆"
+          },
+          {
+            "content_id": "23",
+            "content": "加价购"
+          },
+          {
+            "content_id": "24",
+            "content": "领券"
+          }
+        ]
+      },
+      {
+        "click_id": "36",
+        "click_content": "店铺",
+        "group": [
+          {
+            "content_id": "36",
+            "content": "店铺"
+          }
+        ]
+      },
+      {
+        "click_id": "37",
+        "click_content": "客服",
+        "group": [
+          {
+            "content_id": "37",
+            "content": "客服"
+          }
+        ]
+      },
+      {
+        "click_id": "38",
+        "click_content": "购物车",
+        "group": [
+          {
+            "content_id": "38",
+            "content": "购物车"
+          }
+        ]
+      }
+    ]
+}

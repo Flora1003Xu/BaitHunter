@@ -1,0 +1,87 @@
+{
+    "ui_id": "0f9fc82c2a6959ace13223a7e5273794ccd9e02cdcd9af4fc3a2bf87c073d5e3",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "恢复账号",
+            "top_left": [
+                425,
+                128
+            ],
+            "bottom_right": [
+                649,
+                197
+            ],
+            "font_size": 56,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "请输入您要恢复的账号",
+            "top_left": [
+                297,
+                323
+            ],
+            "bottom_right": [
+                767,
+                384
+            ],
+            "font_size": 47,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02212483257695869,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "情输入手机号码/用户名/邮箱",
+            "top_left": [
+                117,
+                537
+            ],
+            "bottom_right": [
+                775,
+                597
+            ],
+            "font_size": 47,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "提交",
+            "top_left": [
+                482,
+                981
+            ],
+            "bottom_right": [
+                582,
+                1040
+            ],
+            "font_size": 50,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06519520130137613,
+            "bg_color": [
+                255,
+                117,
+                0
+            ]
+        }
+    ]
+}

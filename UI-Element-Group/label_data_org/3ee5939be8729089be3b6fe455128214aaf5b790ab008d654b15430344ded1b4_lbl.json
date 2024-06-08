@@ -1,0 +1,31 @@
+{
+    "data": [
+      {
+        "click_id": "5",
+        "click_content": "确认",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "确认"
+          },
+          {
+            "content_id": "1",
+            "content": "修改手机号"
+          },
+          {
+            "content_id": "2",
+            "content": "请输入账号名/邮箱/原绑定的手机号"
+          },
+          {
+            "content_id": "3",
+            "content": "88888888"
+          },
+          {
+            "content_id": "4",
+            "content": "向右滑动验证"
+          }
+        ]
+      }
+    ]
+  }
+   

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sina</folder>
+	<filename>96d41a4c7f849e4b7a1d7eb5a763452e7d14526eb7f191d09d24dc57567689d9.png</filename>
+	<path>C:\Users\86136\PycharmProjects\pythonProject\result_final\sina\96d41a4c7f849e4b7a1d7eb5a763452e7d14526eb7f191d09d24dc57567689d9.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>800</ymin>
+			<xmax>956</xmax>
+			<ymax>1698</ymax>
+		</bndbox>
+	</object>
+</annotation>

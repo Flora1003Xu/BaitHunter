@@ -1,0 +1,327 @@
+{
+    "ui_id": "8ff36e8c5138f155ed25dcff990c138e77e744031c2216692c42ff2a0e87a670",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "设置",
+            "top_left": [
+                482,
+                135
+            ],
+            "bottom_right": [
+                580,
+                197
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01680686354533958,
+            "bg_color": [
+                237,
+                237,
+                237
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "帐号与安全",
+            "top_left": [
+                29,
+                278
+            ],
+            "bottom_right": [
+                269,
+                339
+            ],
+            "font_size": 48,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "青少年模式",
+            "top_left": [
+                29,
+                451
+            ],
+            "bottom_right": [
+                269,
+                512
+            ],
+            "font_size": 48,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "关怀模式",
+            "top_left": [
+                28,
+                603
+            ],
+            "bottom_right": [
+                224,
+                663
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015174914434816741,
+            "bg_color": [
+                210,
+                210,
+                210
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "新消息通知",
+            "top_left": [
+                28,
+                777
+            ],
+            "bottom_right": [
+                268,
+                837
+            ],
+            "font_size": 48,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "聊手",
+            "top_left": [
+                41,
+                928
+            ],
+            "bottom_right": [
+                127,
+                991
+            ],
+            "font_size": 43,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "通用",
+            "top_left": [
+                28,
+                1077
+            ],
+            "bottom_right": [
+                128,
+                1140
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "隐私",
+            "top_left": [
+                30,
+                1241
+            ],
+            "bottom_right": [
+                112,
+                1287
+            ],
+            "font_size": 41,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005944113880830387,
+            "bg_color": [
+                237,
+                237,
+                237
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "朋友权限",
+            "top_left": [
+                30,
+                1352
+            ],
+            "bottom_right": [
+                226,
+                1413
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "个人信息与权限",
+            "top_left": [
+                29,
+                1504
+            ],
+            "bottom_right": [
+                365,
+                1565
+            ],
+            "font_size": 48,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "个人信息收集清单",
+            "top_left": [
+                41,
+                1651
+            ],
+            "bottom_right": [
+                409,
+                1713
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "第三方信息共享清单",
+            "top_left": [
+                28,
+                1806
+            ],
+            "bottom_right": [
+                451,
+                1868
+            ],
+            "font_size": 47,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "插件白",
+            "top_left": [
+                28,
+                1979
+            ],
+            "bottom_right": [
+                220,
+                2040
+            ],
+            "font_size": 64,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "简洁好用打字快的输入法",
+            "top_left": [
+                221,
+                1979
+            ],
+            "bottom_right": [
+                925,
+                2040
+            ],
+            "font_size": 64,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005934776052175738,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "关于微信",
+            "top_left": [
+                29,
+                2152
+            ],
+            "bottom_right": [
+                225,
+                2213
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "帮助与反馈",
+            "top_left": [
+                29,
+                2304
+            ],
+            "bottom_right": [
+                269,
+                2366
+            ],
+            "font_size": 48,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

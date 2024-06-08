@@ -1,0 +1,247 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                638,
+                190
+            ],
+            "content": "世纪佳缘",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07911111252907355,
+            "font_size": 50,
+            "top_left": [
+                438,
+                123
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                74,
+                85
+            ],
+            "bottom_right": [
+                368,
+                314
+            ],
+            "content": "世纪佳鸟",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19493289291964855,
+            "font_size": 57,
+            "top_left": [
+                140,
+                260
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                74,
+                85
+            ],
+            "bottom_right": [
+                382,
+                352
+            ],
+            "content": "JayUan.com",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3756356752015413,
+            "font_size": 24,
+            "top_left": [
+                142,
+                312
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                390,
+                989
+            ],
+            "content": "C",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.26746440195767274,
+            "font_size": 50,
+            "top_left": [
+                340,
+                944
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                440,
+                1061
+            ],
+            "content": "由",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.26746440195767274,
+            "font_size": 100,
+            "top_left": [
+                340,
+                1016
+            ]
+        },
+        {
+            "bg_color": [
+                101,
+                87,
+                94
+            ],
+            "bottom_right": [
+                806,
+                1460
+            ],
+            "content": "已为您匹配同城单身异性",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21249361541457373,
+            "font_size": 49,
+            "top_left": [
+                267,
+                1398
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                74,
+                85
+            ],
+            "bottom_right": [
+                724,
+                1525
+            ],
+            "content": "完善信息后可见",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21249361541457373,
+            "font_size": 55,
+            "top_left": [
+                339,
+                1464
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                610,
+                1901
+            ],
+            "content": "分享至",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "font_size": 52,
+            "top_left": [
+                454,
+                1842
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                225,
+                2152
+            ],
+            "content": "微信好友",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "font_size": 42,
+            "top_left": [
+                57,
+                2107
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                353,
+                2152
+            ],
+            "content": "朋友圈",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "font_size": 42,
+            "top_left": [
+                227,
+                2107
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                522,
+                2152
+            ],
+            "content": "复制链接",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "font_size": 42,
+            "top_left": [
+                354,
+                2107
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                595,
+                2313
+            ],
+            "content": "取消",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "font_size": 56,
+            "top_left": [
+                483,
+                2252
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "46e31807178cdc53fe59944c96f2ef0cbe7c8fa995e5d90f663549e3cd6e4e3a"
+}

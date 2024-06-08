@@ -1,0 +1,367 @@
+{
+    "ui_id": "5ed4609d9e3c73a32f6a7501256aef5f3b5a6cef500283cf59785267c365095a",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "动态",
+            "top_left": [
+                492,
+                143
+            ],
+            "bottom_right": [
+                584,
+                193
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14992991867701702,
+            "bg_color": [
+                0,
+                184,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "Q搜索",
+            "top_left": [
+                454,
+                287
+            ],
+            "bottom_right": [
+                610,
+                348
+            ],
+            "font_size": 52,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004177876448855273,
+            "bg_color": [
+                245,
+                245,
+                245
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "今好友动态",
+            "top_left": [
+                68,
+                436
+            ],
+            "bottom_right": [
+                323,
+                499
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5741967896955205,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "网游戏中心",
+            "top_left": [
+                55,
+                607
+            ],
+            "bottom_right": [
+                325,
+                669
+            ],
+            "font_size": 54,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5621331707344256,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "直播",
+            "top_left": [
+                141,
+                750
+            ],
+            "bottom_right": [
+                239,
+                812
+            ],
+            "font_size": 49,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "小窝",
+            "top_left": [
+                55,
+                919
+            ],
+            "bottom_right": [
+                241,
+                984
+            ],
+            "font_size": 93,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5743836490071896,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "8小游戏",
+            "top_left": [
+                55,
+                1061
+            ],
+            "bottom_right": [
+                283,
+                1125
+            ],
+            "font_size": 57,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5723694998079919,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "去哪儿",
+            "top_left": [
+                141,
+                1203
+            ],
+            "bottom_right": [
+                282,
+                1265
+            ],
+            "font_size": 47,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5438877843387534,
+            "bg_color": [
+                186,
+                186,
+                186
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "动",
+            "top_left": [
+                141,
+                1344
+            ],
+            "bottom_right": [
+                227,
+                1405
+            ],
+            "font_size": 86,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "阅读",
+            "top_left": [
+                67,
+                1479
+            ],
+            "bottom_right": [
+                241,
+                1540
+            ],
+            "font_size": 87,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5693295945270888,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "购物",
+            "top_left": [
+                55,
+                1622
+            ],
+            "bottom_right": [
+                241,
+                1681
+            ],
+            "font_size": 93,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5780487519061597,
+            "bg_color": [
+                178,
+                178,
+                178
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "微视",
+            "top_left": [
+                55,
+                1760
+            ],
+            "bottom_right": [
+                241,
+                1825
+            ],
+            "font_size": 93,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5687000744257932,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "音乐",
+            "top_left": [
+                55,
+                1903
+            ],
+            "bottom_right": [
+                241,
+                1964
+            ],
+            "font_size": 93,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5671348065790438,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "应用宝",
+            "top_left": [
+                69,
+                2043
+            ],
+            "bottom_right": [
+                282,
+                2105
+            ],
+            "font_size": 71,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5625013348294865,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "消息",
+            "top_left": [
+                99,
+                2296
+            ],
+            "bottom_right": [
+                233,
+                2339
+            ],
+            "font_size": 67,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5444307792574852,
+            "bg_color": [
+                249,
+                249,
+                250
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "小世界",
+            "top_left": [
+                234,
+                2296
+            ],
+            "bottom_right": [
+                435,
+                2339
+            ],
+            "font_size": 67,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008686093660228631,
+            "bg_color": [
+                251,
+                251,
+                252
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "联系人",
+            "top_left": [
+                436,
+                2296
+            ],
+            "bottom_right": [
+                637,
+                2339
+            ],
+            "font_size": 67,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442912971691881,
+            "bg_color": [
+                251,
+                251,
+                252
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "动态",
+            "top_left": [
+                638,
+                2296
+            ],
+            "bottom_right": [
+                772,
+                2339
+            ],
+            "font_size": 67,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442912971691881,
+            "bg_color": [
+                251,
+                251,
+                252
+            ]
+        }
+    ]
+}

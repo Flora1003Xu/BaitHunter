@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1689960793665089</folder>
+	<filename>0f9fc82c2a6959ace13223a7e5273794ccd9e02cdcd9af4fc3a2bf87c073d5e3.png</filename>
+	<path>C:\app_audit2\com.taobao\1689960793665089\0f9fc82c2a6959ace13223a7e5273794ccd9e02cdcd9af4fc3a2bf87c073d5e3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>109</ymin>
+			<xmax>1033</xmax>
+			<ymax>1116</ymax>
+		</bndbox>
+	</object>
+</annotation>

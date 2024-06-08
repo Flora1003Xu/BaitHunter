@@ -1,0 +1,307 @@
+{
+    "ui_id": "178b804c338000e0ebb5028ac292d4284580d6bcbecc2ce164a9671e1e0a5f88",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "5存储权限申请",
+            "top_left": [
+                69,
+                133
+            ],
+            "bottom_right": [
+                447,
+                199
+            ],
+            "font_size": 54,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2294275399799905,
+            "bg_color": [
+                179,
+                179,
+                179
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "用于下载、读取、上传图片、音频、文件,制作",
+            "top_left": [
+                66,
+                218
+            ],
+            "bottom_right": [
+                990,
+                278
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.0077410497636016505,
+            "bg_color": [
+                179,
+                179,
+                179
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "头像、皮肤、音频、表情,语录、用户反馈,以",
+            "top_left": [
+                54,
+                280
+            ],
+            "bottom_right": [
+                999,
+                341
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.0077410497636016505,
+            "bg_color": [
+                179,
+                179,
+                179
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "及发送信息使用。",
+            "top_left": [
+                57,
+                346
+            ],
+            "bottom_right": [
+                393,
+                406
+            ],
+            "font_size": 42,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.0077410497636016505,
+            "bg_color": [
+                179,
+                179,
+                179
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "已安装键盘及语言",
+            "top_left": [
+                30,
+                684
+            ],
+            "bottom_right": [
+                350,
+                731
+            ],
+            "font_size": 40,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23431824213833885,
+            "bg_color": [
+                95,
+                95,
+                95
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "中文",
+            "top_left": [
+                126,
+                791
+            ],
+            "bottom_right": [
+                212,
+                842
+            ],
+            "font_size": 43,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5423966268100755,
+            "bg_color": [
+                95,
+                95,
+                95
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "Zh/中文",
+            "top_left": [
+                127,
+                860
+            ],
+            "bottom_right": [
+                252,
+                903
+            ],
+            "font_size": 25,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005286843889724763,
+            "bg_color": [
+                95,
+                95,
+                95
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "英语",
+            "top_left": [
+                126,
+                981
+            ],
+            "bottom_right": [
+                214,
+                1040
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5423966268100755,
+            "bg_color": [
+                95,
+                95,
+                95
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "是否允许\"搜狗输入法\"读写手机上的",
+            "top_left": [
+                140,
+                1224
+            ],
+            "bottom_right": [
+                922,
+                1285
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "照片及文件",
+            "top_left": [
+                411,
+                1295
+            ],
+            "bottom_right": [
+                666,
+                1356
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "相册",
+            "top_left": [
+                127,
+                1452
+            ],
+            "bottom_right": [
+                243,
+                1517
+            ],
+            "font_size": 58,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "社交应用文件",
+            "top_left": [
+                128,
+                1617
+            ],
+            "bottom_right": [
+                440,
+                1679
+            ],
+            "font_size": 52,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "拒绝",
+            "top_left": [
+                483,
+                1808
+            ],
+            "bottom_right": [
+                581,
+                1869
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011109927509743524,
+            "bg_color": [
+                240,
+                240,
+                240
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "始终允乡",
+            "top_left": [
+                428,
+                1974
+            ],
+            "bottom_right": [
+                624,
+                2035
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011109927509743524,
+            "bg_color": [
+                240,
+                240,
+                240
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "仅在使用中允许",
+            "top_left": [
+                368,
+                2136
+            ],
+            "bottom_right": [
+                704,
+                2198
+            ],
+            "font_size": 48,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.182370760249906,
+            "bg_color": [
+                13,
+                132,
+                255
+            ]
+        }
+    ]
+}

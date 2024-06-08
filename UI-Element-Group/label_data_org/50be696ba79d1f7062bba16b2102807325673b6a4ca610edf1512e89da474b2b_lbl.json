@@ -1,0 +1,49 @@
+{
+    "data": [
+      {
+        "click_id": "1",
+        "click_content": "圈子",
+        "group": [
+          {
+            "content_id": "1",
+            "content": "圈子"
+          }
+        ]
+      },
+      {
+        "click_id": "3",
+        "click_content": "开启默认静音,无声进入小世界开启",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "开启默认静音,无声进入小世界开启"
+          }
+        ]
+      },
+      {
+        "click_id": "10",
+        "click_content": "前往开启",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "前往开启"
+          },
+          {
+            "content_id": "9",
+            "content": "需要为你自动播放下一条视频吗"
+          }
+        ]
+      },
+      {
+        "click_id": "12",
+        "click_content": "消息",
+        "group": [
+          {
+            "content_id": "12",
+            "content": "消息"
+          }
+        ]
+      }
+    ]
+  }
+   

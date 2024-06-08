@@ -1,0 +1,26 @@
+{
+    "data": [
+      {
+        "click_id": "6",
+        "click_content": "登录",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "手机号/邮箱/用户名"
+          },
+          {
+            "content_id": "4",
+            "content": "密码"
+          },
+          {
+            "content_id": "5",
+            "content": "验证码"
+          },
+          {
+            "content_id": "6",
+            "content": "登录"
+          }
+        ]
+      }
+    ]
+}

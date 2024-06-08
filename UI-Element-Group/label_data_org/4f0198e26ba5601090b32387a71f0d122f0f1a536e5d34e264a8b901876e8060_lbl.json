@@ -1,0 +1,56 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "注册",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "注册"
+          },
+          {
+            "content_id": "2",
+            "content": "微博"
+          }
+        ]
+      },
+      {
+        "click_id": "9",
+        "click_content": "一键登录",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "一键登录"
+          },
+          {
+            "content_id": "5",
+            "content": "授权西瓜视频App使用你的微博帐号登录"
+          },
+          {
+            "content_id": "6",
+            "content": "登录你的微博账号完成授权"
+          },
+          {
+            "content_id": "7",
+            "content": "一键登录将通过微博客户端完成授权,更加安"
+          },
+          {
+            "content_id": "8",
+            "content": "全,保障你的账号安全"
+          },
+          {
+            "content_id": "10",
+            "content": "如果无法拉起微博客户端,可以使用"
+          },
+          {
+            "content_id": "11",
+            "content": "账密登录"
+          }
+        ]
+      }
+    ]
+  }
+  
+
+
+

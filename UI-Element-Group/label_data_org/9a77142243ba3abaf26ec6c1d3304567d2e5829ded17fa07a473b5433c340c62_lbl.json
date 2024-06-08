@@ -1,0 +1,82 @@
+{
+    "data": [
+        {
+          "click_id": "11",
+          "click_content": "恭喜!你收到新人现金红包",
+          "group": [
+            {
+              "content_id": "11",
+              "content": "恭喜!你收到新人现金红包"
+            },
+            {
+              "content_id": "13",
+              "content": "(新人专属"
+            },
+            {
+              "content_id": "16",
+              "content": "新用户专属当天可提现"
+            },
+            {
+              "content_id": "18",
+              "content": "0.5元"
+            },
+            {
+              "content_id": "19",
+              "content": "开"
+            }
+          ]
+        },
+        {
+          "click_id": "18",
+          "click_content": "0.5元",
+          "group": [
+            {
+              "content_id": "11",
+              "content": "恭喜!你收到新人现金红包"
+            },
+            {
+              "content_id": "13",
+              "content": "(新人专属"
+            },
+            {
+              "content_id": "16",
+              "content": "新用户专属当天可提现"
+            },
+            {
+              "content_id": "18",
+              "content": "0.5元"
+            },
+            {
+              "content_id": "19",
+              "content": "开"
+            }
+          ]
+        },
+        {
+          "click_id": "19",
+          "click_content": "开",
+          "group": [
+            {
+              "content_id": "11",
+              "content": "恭喜!你收到新人现金红包"
+            },
+            {
+              "content_id": "13",
+              "content": "(新人专属"
+            },
+            {
+              "content_id": "16",
+              "content": "新用户专属当天可提现"
+            },
+            {
+              "content_id": "18",
+              "content": "0.5元"
+            },
+            {
+              "content_id": "19",
+              "content": "开"
+            }
+          ]
+        }
+    ]
+}

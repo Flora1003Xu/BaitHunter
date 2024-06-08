@@ -1,0 +1,72 @@
+{
+    "data": [
+        {
+          "click_id": "19",
+          "click_content": "不同意",
+          "group": [
+            {
+              "content_id": "14",
+              "content": "服务协议和隐私政策等指引"
+            },
+            {
+              "content_id": "15",
+              "content": "进入下一步前,请阅读并同意网易云音乐的《服务条"
+            },
+            {
+              "content_id": "16",
+              "content": "款》、"
+            },
+            {
+              "content_id": "17",
+              "content": "《隐私政策》、"
+            },
+            {
+              "content_id": "18",
+              "content": "《中国移动认证服务协议)"
+            },
+            {
+              "content_id": "19",
+              "content": "不同意"
+            },
+            {
+              "content_id": "20",
+              "content": "同意并继续"
+            }
+          ]
+        },
+        {
+          "click_id": "20",
+          "click_content": "同意并继续",
+          "group": [
+            {
+              "content_id": "14",
+              "content": "服务协议和隐私政策等指引"
+            },
+            {
+              "content_id": "15",
+              "content": "进入下一步前,请阅读并同意网易云音乐的《服务条"
+            },
+            {
+              "content_id": "16",
+              "content": "款》、"
+            },
+            {
+              "content_id": "17",
+              "content": "《隐私政策》、"
+            },
+            {
+              "content_id": "18",
+              "content": "《中国移动认证服务协议)"
+            },
+            {
+              "content_id": "19",
+              "content": "不同意"
+            },
+            {
+              "content_id": "20",
+              "content": "同意并继续"
+            }
+          ]
+        }
+    ]
+}

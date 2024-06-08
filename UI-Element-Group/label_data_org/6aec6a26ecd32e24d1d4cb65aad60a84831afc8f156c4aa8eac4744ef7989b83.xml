@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1689948988474040</folder>
+	<filename>6aec6a26ecd32e24d1d4cb65aad60a84831afc8f156c4aa8eac4744ef7989b83.png</filename>
+	<path>C:\app_audit2\com.tencent\1689948988474040\6aec6a26ecd32e24d1d4cb65aad60a84831afc8f156c4aa8eac4744ef7989b83.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>1574</ymin>
+			<xmax>1033</xmax>
+			<ymax>2230</ymax>
+		</bndbox>
+	</object>
+</annotation>

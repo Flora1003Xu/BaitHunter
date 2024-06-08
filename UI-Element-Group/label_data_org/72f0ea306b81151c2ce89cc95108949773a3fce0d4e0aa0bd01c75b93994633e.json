@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                583,
+                575
+            ],
+            "content": "预算",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.035502788850906075,
+            "font_size": 50,
+            "top_left": [
+                483,
+                515
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                1009,
+                656
+            ],
+            "content": "支持总预算设定和预算细分,进度环实时反馈花费进度。是规划财",
+            "content_id": "2",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003936958236605109,
+            "font_size": 33,
+            "top_left": [
+                52,
+                612
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                708,
+                717
+            ],
+            "content": "务,掌控开支的好助手",
+            "content_id": "3",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003936958236605109,
+            "font_size": 34,
+            "top_left": [
+                368,
+                672
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                218,
+                68
+            ],
+            "bottom_right": [
+                636,
+                1051
+            ],
+            "content": "进入小程序",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.319209129883546,
+            "font_size": 42,
+            "top_left": [
+                426,
+                995
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                637,
+                1224
+            ],
+            "content": "推荐给朋友",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15102679559841847,
+            "font_size": 42,
+            "top_left": [
+                427,
+                1167
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "72f0ea306b81151c2ce89cc95108949773a3fce0d4e0aa0bd01c75b93994633e"
+}

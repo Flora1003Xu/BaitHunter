@@ -1,0 +1,667 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                242,
+                245,
+                250
+            ],
+            "bottom_right": [
+                746,
+                196
+            ],
+            "content": "奔跑吧第7季",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19407094340724373,
+            "font_size": 101,
+            "top_left": [
+                140,
+                133
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                245,
+                250
+            ],
+            "bottom_right": [
+                948,
+                196
+            ],
+            "content": "搜索",
+            "content_id": "2",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 101,
+            "top_left": [
+                746,
+                133
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                211,
+                327
+            ],
+            "content": "搜索历",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 65,
+            "top_left": [
+                16,
+                266
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                245,
+                250
+            ],
+            "bottom_right": [
+                296,
+                432
+            ],
+            "content": "不完美受害人",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20812476176012387,
+            "font_size": 40,
+            "top_left": [
+                56,
+                386
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                270,
+                569
+            ],
+            "content": "新用户在看",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 51,
+            "top_left": [
+                15,
+                507
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                316,
+                649
+            ],
+            "content": "周迅作品",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 72,
+            "top_left": [
+                28,
+                588
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                821,
+                649
+            ],
+            "content": "律政题材电视剧",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 72,
+            "top_left": [
+                317,
+                588
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                458,
+                751
+            ],
+            "content": "狂飙饯免费看",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 72,
+            "top_left": [
+                26,
+                689
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                748,
+                751
+            ],
+            "content": "花戎鞠请",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 72,
+            "top_left": [
+                460,
+                689
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                450,
+                852
+            ],
+            "content": "不完美受害人首播",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 53,
+            "top_left": [
+                26,
+                790
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                934,
+                852
+            ],
+            "content": "曾少年关晓彤张一山",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 53,
+            "top_left": [
+                457,
+                790
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                247,
+                245
+            ],
+            "bottom_right": [
+                423,
+                997
+            ],
+            "content": "实时热搜",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2373633343407855,
+            "font_size": 95,
+            "top_left": [
+                43,
+                934
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                248,
+                246
+            ],
+            "bottom_right": [
+                711,
+                997
+            ],
+            "content": "电视剧",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09276639397647374,
+            "font_size": 95,
+            "top_left": [
+                426,
+                934
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                252,
+                251
+            ],
+            "bottom_right": [
+                471,
+                1076
+            ],
+            "content": "1不完美受害人",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22930613214988954,
+            "font_size": 61,
+            "top_left": [
+                44,
+                1017
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                901,
+                1076
+            ],
+            "content": "1不完美受害人",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3729135581076856,
+            "font_size": 61,
+            "top_left": [
+                474,
+                1017
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                471,
+                1167
+            ],
+            "content": "2消失的十一层",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 61,
+            "top_left": [
+                44,
+                1107
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                901,
+                1167
+            ],
+            "content": "2消失的十一层",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 61,
+            "top_left": [
+                474,
+                1107
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                417,
+                1259
+            ],
+            "content": "3曾少年",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 93,
+            "top_left": [
+                45,
+                1202
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                699,
+                1259
+            ],
+            "content": "3狂飙",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18828598483573297,
+            "font_size": 93,
+            "top_left": [
+                420,
+                1202
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                341,
+                1347
+            ],
+            "content": "4狂飙",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 99,
+            "top_left": [
+                44,
+                1295
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                737,
+                1347
+            ],
+            "content": "4曾少年",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1564153095443877,
+            "font_size": 99,
+            "top_left": [
+                341,
+                1295
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                490,
+                1440
+            ],
+            "content": "5奔跑吧第7季",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 64,
+            "top_left": [
+                42,
+                1385
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                813,
+                1440
+            ],
+            "content": "5谁是凶手",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.25545281768343525,
+            "font_size": 64,
+            "top_left": [
+                493,
+                1385
+            ]
+        },
+        {
+            "bg_color": [
+                236,
+                242,
+                249
+            ],
+            "bottom_right": [
+                135,
+                1563
+            ],
+            "content": "8",
+            "content_id": "24",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03839683355289878,
+            "font_size": 66,
+            "top_left": [
+                69,
+                1500
+            ]
+        },
+        {
+            "bg_color": [
+                236,
+                242,
+                249
+            ],
+            "bottom_right": [
+                201,
+                1563
+            ],
+            "content": "图",
+            "content_id": "25",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 66,
+            "top_left": [
+                135,
+                1500
+            ]
+        },
+        {
+            "bg_color": [
+                238,
+                238,
+                238
+            ],
+            "bottom_right": [
+                199,
+                1699
+            ],
+            "content": "W",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442046452301625,
+            "font_size": 71,
+            "top_left": [
+                128,
+                1637
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                312,
+                2027
+            ],
+            "content": "分词",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5449729119571597,
+            "font_size": 142,
+            "top_left": [
+                28,
+                1965
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                454,
+                2027
+            ],
+            "content": "A",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5447244398353613,
+            "font_size": 142,
+            "top_left": [
+                312,
+                1965
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                596,
+                2027
+            ],
+            "content": "M",
+            "content_id": "29",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.021666197644114753,
+            "font_size": 142,
+            "top_left": [
+                454,
+                1965
+            ]
+        },
+        {
+            "bg_color": [
+                219,
+                225,
+                232
+            ],
+            "bottom_right": [
+                897,
+                2183
+            ],
+            "content": "中校",
+            "content_id": "30",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5452377495662774,
+            "font_size": 46,
+            "top_left": [
+                805,
+                2125
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                118,
+                255
+            ],
+            "bottom_right": [
+                989,
+                2183
+            ],
+            "content": "搜索",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19187518893779185,
+            "font_size": 46,
+            "top_left": [
+                897,
+                2125
+            ]
+        },
+        {
+            "bg_color": [
+                222,
+                226,
+                233
+            ],
+            "bottom_right": [
+                268,
+                2181
+            ],
+            "content": "123",
+            "content_id": "32",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5448918712994865,
+            "font_size": 27,
+            "top_left": [
+                187,
+                2136
+            ]
+        },
+        {
+            "bg_color": [
+                237,
+                239,
+                242
+            ],
+            "bottom_right": [
+                129,
+                2328
+            ],
+            "content": "田",
+            "content_id": "33",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00722415591103151,
+            "font_size": 47,
+            "top_left": [
+                82,
+                2282
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "1fddbfc171822cd5c7508c18754fc97454eeb1c40d2421d3c88f33db6fa0984e"
+}

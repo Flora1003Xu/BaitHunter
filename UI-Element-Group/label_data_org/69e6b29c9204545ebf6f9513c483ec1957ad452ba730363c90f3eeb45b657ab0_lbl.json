@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+            "click_id": "21",
+            "click_content": "开启体验",
+            "group": [
+              {
+                "content_id": "19",
+                "content": "点这里,解锁更多互动内容"
+              },
+              {
+                "content_id": "21",
+                "content": "开启体验"
+              },
+              {
+                "content_id": "24",
+                "content": "FUN肆玩"
+              },
+              {
+                "content_id": "25",
+                "content": "算财运"
+              },
+              {
+                "content_id": "26",
+                "content": "算人生"
+              }
+            ]
+        }
+    ]
+}

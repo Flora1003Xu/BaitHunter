@@ -1,0 +1,407 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                395,
+                377
+            ],
+            "content": "夸克用户",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 46,
+            "top_left": [
+                211,
+                316
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                724,
+                426
+            ],
+            "content": "登录后可云端同步小说及阅读进度",
+            "content_id": "2",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "font_size": 35,
+            "top_left": [
+                199,
+                383
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                234,
+                191
+            ],
+            "bottom_right": [
+                408,
+                602
+            ],
+            "content": "VIP小说会员",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2294100546063729,
+            "font_size": 44,
+            "top_left": [
+                100,
+                541
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                239,
+                203
+            ],
+            "bottom_right": [
+                937,
+                618
+            ],
+            "content": "1元开通",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0907489944872627,
+            "font_size": 36,
+            "top_left": [
+                793,
+                581
+            ]
+        },
+        {
+            "bg_color": [
+                32,
+                34,
+                46
+            ],
+            "bottom_right": [
+                613,
+                654
+            ],
+            "content": "会员畅享免广告、免费读等多种权益",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23505255553815402,
+            "font_size": 32,
+            "top_left": [
+                101,
+                610
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                510,
+                903
+            ],
+            "content": "书豆余额",
+            "content_id": "6",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "font_size": 67,
+            "top_left": [
+                242,
+                859
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                781,
+                903
+            ],
+            "content": "金币余额",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1281656776679532,
+            "font_size": 67,
+            "top_left": [
+                513,
+                859
+            ]
+        },
+        {
+            "bg_color": [
+                160,
+                160,
+                160
+            ],
+            "bottom_right": [
+                254,
+                1096
+            ],
+            "content": "常用功能",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010650119446688302,
+            "font_size": 39,
+            "top_left": [
+                98,
+                1051
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                306,
+                1266
+            ],
+            "content": "浏览历史",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 41,
+            "top_left": [
+                142,
+                1222
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                473,
+                1266
+            ],
+            "content": "会员记录",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 41,
+            "top_left": [
+                309,
+                1222
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                640,
+                1266
+            ],
+            "content": "充值记录",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 41,
+            "top_left": [
+                476,
+                1222
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                807,
+                1266
+            ],
+            "content": "购买记录",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 41,
+            "top_left": [
+                643,
+                1222
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                300,
+                1461
+            ],
+            "content": "卡券记录",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 39,
+            "top_left": [
+                144,
+                1416
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                458,
+                1461
+            ],
+            "content": "我的消息",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 39,
+            "top_left": [
+                302,
+                1416
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                655,
+                1461
+            ],
+            "content": "反馈与帮助",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 39,
+            "top_left": [
+                460,
+                1416
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                814,
+                1461
+            ],
+            "content": "奖品中心",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 39,
+            "top_left": [
+                658,
+                1416
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                286,
+                2330
+            ],
+            "content": "书架",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 72,
+            "top_left": [
+                142,
+                2290
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                430,
+                2330
+            ],
+            "content": "书城",
+            "content_id": "18",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.00013980229551232177,
+            "font_size": 72,
+            "top_left": [
+                286,
+                2290
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                574,
+                2330
+            ],
+            "content": "分类",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 72,
+            "top_left": [
+                430,
+                2290
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                718,
+                2330
+            ],
+            "content": "我的",
+            "content_id": "20",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "font_size": 72,
+            "top_left": [
+                574,
+                2290
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "1e3e572e655f8e5215c208285b82a14907db91b3da197bb093b89fedf666fdb9"
+}

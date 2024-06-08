@@ -1,0 +1,44 @@
+{
+    "data": [
+      {
+        "click_id": "2",
+        "click_content": "交易物流",
+        "group": [
+          {
+            "content_id": "2",
+            "content": "交易物流"
+          }
+        ]
+      },
+      {
+        "click_id": "3",
+        "click_content": "互动消息",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "互动消息"
+          }
+        ]
+      },
+      {
+        "click_id": "4",
+        "click_content": "账户通知",
+        "group": [
+          {
+            "content_id": "4",
+            "content": "账户通知"
+          }
+        ]
+      },
+      {
+        "click_id": "5",
+        "click_content": "服务通知",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "服务通知"
+          }
+        ]
+      }
+    ]
+}

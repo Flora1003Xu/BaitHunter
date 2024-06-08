@@ -1,0 +1,46 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "智能预测",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "智能预测"
+          },
+          {
+            "content_id": "4",
+            "content": "懂你所想,智能补全整句"
+          }
+        ]
+      },
+      {
+        "click_id": "5",
+        "click_content": "AI创作",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "AI创作"
+          },
+          {
+            "content_id": "6",
+            "content": "智能生成趣味创作内容"
+          }
+        ]
+      },
+      {
+        "click_id": "7",
+        "click_content": "AI校对",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "AI校对"
+          },
+          {
+            "content_id": "8",
+            "content": "智能识别输入的错别字"
+          }
+        ]
+      }
+    ]
+}

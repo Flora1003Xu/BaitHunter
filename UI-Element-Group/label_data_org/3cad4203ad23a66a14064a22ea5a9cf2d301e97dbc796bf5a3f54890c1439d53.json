@@ -1,0 +1,247 @@
+{
+    "ui_id": "3cad4203ad23a66a14064a22ea5a9cf2d301e97dbc796bf5a3f54890c1439d53",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "问题详情",
+            "top_left": [
+                426,
+                134
+            ],
+            "bottom_right": [
+                638,
+                196
+            ],
+            "font_size": 53,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013376353866229738,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "互通授权后,抖音号如何登录抖音火山版",
+            "top_left": [
+                38,
+                299
+            ],
+            "bottom_right": [
+                920,
+                361
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012653188380373366,
+            "bg_color": [
+                227,
+                227,
+                227
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "请您使用登录抖音时的账号登录抖音火山版,如果",
+            "top_left": [
+                38,
+                421
+            ],
+            "bottom_right": [
+                984,
+                479
+            ],
+            "font_size": 43,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013376353866229738,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "您发现登录的并不是您的抖音授权账号,您可以在",
+            "top_left": [
+                38,
+                490
+            ],
+            "bottom_right": [
+                984,
+                547
+            ],
+            "font_size": 43,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013376353866229738,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "抖音火山版选择「设置一切换账号中切换到您",
+            "top_left": [
+                37,
+                559
+            ],
+            "bottom_right": [
+                997,
+                617
+            ],
+            "font_size": 48,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013154695869160281,
+            "bg_color": [
+                246,
+                246,
+                246
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "的抖音授权账号",
+            "top_left": [
+                41,
+                624
+            ],
+            "bottom_right": [
+                349,
+                685
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013376353866229738,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "切换帐号",
+            "top_left": [
+                441,
+                733
+            ],
+            "bottom_right": [
+                609,
+                787
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14194280578378088,
+            "bg_color": [
+                252,
+                252,
+                253
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "正抖音帐号",
+            "top_left": [
+                242,
+                925
+            ],
+            "bottom_right": [
+                427,
+                969
+            ],
+            "font_size": 37,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2483359401993271,
+            "bg_color": [
+                243,
+                243,
+                245
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "抖音火山版帐号",
+            "top_left": [
+                241,
+                1141
+            ],
+            "bottom_right": [
+                521,
+                1186
+            ],
+            "font_size": 40,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.31080519554606195,
+            "bg_color": [
+                245,
+                245,
+                247
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "添加帐号",
+            "top_left": [
+                243,
+                1342
+            ],
+            "bottom_right": [
+                395,
+                1388
+            ],
+            "font_size": 38,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12344662199466476,
+            "bg_color": [
+                243,
+                243,
+                245
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "凸已解决",
+            "top_left": [
+                183,
+                1617
+            ],
+            "bottom_right": [
+                499,
+                1677
+            ],
+            "font_size": 79,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007213066741963495,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "中未解决",
+            "top_left": [
+                499,
+                1617
+            ],
+            "bottom_right": [
+                815,
+                1677
+            ],
+            "font_size": 79,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21618676364073147,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

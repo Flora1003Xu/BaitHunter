@@ -1,0 +1,367 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                678,
+                192
+            ],
+            "content": "我的芒果管家",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 49,
+            "top_left": [
+                384,
+                130
+            ]
+        },
+        {
+            "bg_color": [
+                238,
+                238,
+                238
+            ],
+            "bottom_right": [
+                737,
+                288
+            ],
+            "content": "下拉加载历史聊天记录",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00799386105502466,
+            "font_size": 40,
+            "top_left": [
+                337,
+                247
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                295,
+                525
+            ],
+            "content": "更换手机号",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013998129961630424,
+            "font_size": 50,
+            "top_left": [
+                45,
+                479
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                496,
+                525
+            ],
+            "content": "忘记账号",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013998129961630424,
+            "font_size": 50,
+            "top_left": [
+                296,
+                479
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                697,
+                525
+            ],
+            "content": "登录设备",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013998129961630424,
+            "font_size": 50,
+            "top_left": [
+                497,
+                479
+            ]
+        },
+        {
+            "bg_color": [
+                238,
+                238,
+                238
+            ],
+            "bottom_right": [
+                898,
+                525
+            ],
+            "content": "投屏问题",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013585792086658352,
+            "font_size": 50,
+            "top_left": [
+                698,
+                479
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                283,
+                665
+            ],
+            "content": "您想要问?",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18896020394306878,
+            "font_size": 42,
+            "top_left": [
+                73,
+                608
+            ]
+        },
+        {
+            "bg_color": [
+                239,
+                239,
+                239
+            ],
+            "bottom_right": [
+                435,
+                756
+            ],
+            "content": "会员问题",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013610996647173943,
+            "font_size": 66,
+            "top_left": [
+                171,
+                711
+            ]
+        },
+        {
+            "bg_color": [
+                239,
+                239,
+                239
+            ],
+            "bottom_right": [
+                699,
+                756
+            ],
+            "content": "账号问题",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013610996647173943,
+            "font_size": 66,
+            "top_left": [
+                435,
+                711
+            ]
+        },
+        {
+            "bg_color": [
+                239,
+                239,
+                239
+            ],
+            "bottom_right": [
+                432,
+                861
+            ],
+            "content": "播放问题",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013610996647173943,
+            "font_size": 65,
+            "top_left": [
+                172,
+                816
+            ]
+        },
+        {
+            "bg_color": [
+                239,
+                239,
+                239
+            ],
+            "bottom_right": [
+                695,
+                861
+            ],
+            "content": "其他问题",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013610996647173943,
+            "font_size": 65,
+            "top_left": [
+                435,
+                816
+            ]
+        },
+        {
+            "bg_color": [
+                238,
+                238,
+                238
+            ],
+            "bottom_right": [
+                293,
+                1096
+            ],
+            "content": "系统消息",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00799386105502466,
+            "font_size": 34,
+            "top_left": [
+                157,
+                1053
+            ]
+        },
+        {
+            "bg_color": [
+                231,
+                231,
+                231
+            ],
+            "bottom_right": [
+                603,
+                1194
+            ],
+            "content": "欢迎使用在线客服机器人",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013405847831272669,
+            "font_size": 38,
+            "top_left": [
+                185,
+                1149
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                236,
+                2139
+            ],
+            "content": "会员权益",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013998129961630424,
+            "font_size": 45,
+            "top_left": [
+                56,
+                2094
+            ]
+        },
+        {
+            "bg_color": [
+                239,
+                239,
+                239
+            ],
+            "bottom_right": [
+                462,
+                2139
+            ],
+            "content": "看不了会员",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013610996647173943,
+            "font_size": 45,
+            "top_left": [
+                237,
+                2094
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                644,
+                2139
+            ],
+            "content": "关闭会员",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013998129961630424,
+            "font_size": 45,
+            "top_left": [
+                464,
+                2094
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                825,
+                2139
+            ],
+            "content": "手机绑定",
+            "content_id": "17",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0019908269484307716,
+            "font_size": 45,
+            "top_left": [
+                645,
+                2094
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                124,
+                63
+            ],
+            "bottom_right": [
+                870,
+                2282
+            ],
+            "content": "发送",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1906691401970572,
+            "font_size": 45,
+            "top_left": [
+                780,
+                2231
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "0a7343013ebed7b7d1c611509d6888f809146873b5390bdb61080ea4b6d874b6"
+}

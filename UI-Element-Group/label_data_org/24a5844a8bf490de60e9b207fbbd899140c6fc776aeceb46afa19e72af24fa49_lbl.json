@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+          "click_id": "10",
+          "click_content": "立即邀请",
+          "group": [
+            {
+              "content_id": "9",
+              "content": "邀请1人,VIP免费看"
+            },
+            {
+              "content_id": "10",
+              "content": "立即邀请"
+            }
+          ]
+        }
+    ]
+}

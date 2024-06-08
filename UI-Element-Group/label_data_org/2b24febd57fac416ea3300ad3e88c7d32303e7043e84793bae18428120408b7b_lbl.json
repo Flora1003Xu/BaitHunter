@@ -1,0 +1,20 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "发送",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "发送"
+          },
+          {
+            "content_id": "2",
+            "content": "转发微博"
+          }
+        ]
+      }
+    ]
+  }
+  
+

@@ -1,0 +1,927 @@
+{
+    "ui_id": "05d13db3e26bd54b1cc6fc9c9605be1a5567023e82e363151874e35a379be5f5",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "同城关注",
+            "top_left": [
+                170,
+                132
+            ],
+            "bottom_right": [
+                414,
+                192
+            ],
+            "font_size": 61,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08696517659406325,
+            "bg_color": [
+                243,
+                243,
+                243
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "商城",
+            "top_left": [
+                414,
+                132
+            ],
+            "bottom_right": [
+                536,
+                192
+            ],
+            "font_size": 61,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16112033368322373,
+            "bg_color": [
+                243,
+                243,
+                243
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "推荐",
+            "top_left": [
+                536,
+                132
+            ],
+            "bottom_right": [
+                658,
+                192
+            ],
+            "font_size": 61,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16112033368322373,
+            "bg_color": [
+                243,
+                243,
+                243
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "Q卡姿兰官方旗舰店",
+            "top_left": [
+                40,
+                263
+            ],
+            "bottom_right": [
+                688,
+                330
+            ],
+            "font_size": 72,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07667256957359359,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "搜索",
+            "top_left": [
+                691,
+                263
+            ],
+            "bottom_right": [
+                835,
+                330
+            ],
+            "font_size": 72,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21537873289003753,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "自我的订单",
+            "top_left": [
+                154,
+                392
+            ],
+            "bottom_right": [
+                524,
+                464
+            ],
+            "font_size": 74,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "只购物车",
+            "top_left": [
+                525,
+                392
+            ],
+            "bottom_right": [
+                821,
+                464
+            ],
+            "font_size": 74,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "9块9特价新人专享",
+            "top_left": [
+                55,
+                495
+            ],
+            "bottom_right": [
+                451,
+                555
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "苹果30w",
+            "top_left": [
+                881,
+                592
+            ],
+            "bottom_right": [
+                991,
+                628
+            ],
+            "font_size": 22,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2767236676204286,
+            "bg_color": [
+                176,
+                193,
+                215
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "票000",
+            "top_left": [
+                893,
+                625
+            ],
+            "bottom_right": [
+                977,
+                651
+            ],
+            "font_size": 21,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20814667383162683,
+            "bg_color": [
+                174,
+                193,
+                216
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "整箱四十包",
+            "top_left": [
+                573,
+                662
+            ],
+            "bottom_right": [
+                718,
+                740
+            ],
+            "font_size": 29,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.331731491271772,
+            "bg_color": [
+                189,
+                154,
+                121
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "66W'票",
+            "top_left": [
+                124,
+                755
+            ],
+            "bottom_right": [
+                239,
+                784
+            ],
+            "font_size": 23,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1997198521940557,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "小数回务用国一年质6",
+            "top_left": [
+                837,
+                757
+            ],
+            "bottom_right": [
+                1017,
+                792
+            ],
+            "font_size": 18,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5850585419480085,
+            "bg_color": [
+                228,
+                228,
+                228
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "新人价",
+            "top_left": [
+                86,
+                795
+            ],
+            "bottom_right": [
+                266,
+                839
+            ],
+            "font_size": 60,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22064436680599284,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "新人价",
+            "top_left": [
+                267,
+                795
+            ],
+            "bottom_right": [
+                447,
+                839
+            ],
+            "font_size": 60,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22064436680599284,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "新人价",
+            "top_left": [
+                448,
+                795
+            ],
+            "bottom_right": [
+                628,
+                839
+            ],
+            "font_size": 60,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2203999183878816,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "新人价",
+            "top_left": [
+                629,
+                795
+            ],
+            "bottom_right": [
+                809,
+                839
+            ],
+            "font_size": 60,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2205590034508627,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "￥0.01",
+            "top_left": [
+                58,
+                851
+            ],
+            "bottom_right": [
+                278,
+                907
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2201848196894646,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "￥8.5",
+            "top_left": [
+                281,
+                851
+            ],
+            "bottom_right": [
+                457,
+                907
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2201848196894646,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "￥0.01",
+            "top_left": [
+                459,
+                851
+            ],
+            "bottom_right": [
+                679,
+                907
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2201848196894646,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "21",
+            "content": "￥4.5",
+            "top_left": [
+                682,
+                851
+            ],
+            "bottom_right": [
+                858,
+                907
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2175976425841226,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "22",
+            "content": "直播精选",
+            "top_left": [
+                56,
+                952
+            ],
+            "bottom_right": [
+                352,
+                1012
+            ],
+            "font_size": 74,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "23",
+            "content": "超值杀",
+            "top_left": [
+                352,
+                952
+            ],
+            "bottom_right": [
+                574,
+                1012
+            ],
+            "font_size": 74,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.00037111040145043145,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "24",
+            "content": "全部分类",
+            "top_left": [
+                574,
+                952
+            ],
+            "bottom_right": [
+                870,
+                1012
+            ],
+            "font_size": 74,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1716492730667388,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "25",
+            "content": "观华优选",
+            "top_left": [
+                73,
+                1126
+            ],
+            "bottom_right": [
+                345,
+                1170
+            ],
+            "font_size": 68,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22786783845014985,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "26",
+            "content": "Y8.15",
+            "top_left": [
+                347,
+                1126
+            ],
+            "bottom_right": [
+                687,
+                1170
+            ],
+            "font_size": 68,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22786783845014985,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "27",
+            "content": "家装",
+            "top_left": [
+                690,
+                1126
+            ],
+            "bottom_right": [
+                826,
+                1170
+            ],
+            "font_size": 68,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.27449944231114504,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "28",
+            "content": "火鸡面40包",
+            "top_left": [
+                574,
+                1215
+            ],
+            "bottom_right": [
+                1012,
+                1287
+            ],
+            "font_size": 73,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.29381172427797303,
+            "bg_color": [
+                244,
+                6,
+                8
+            ]
+        },
+        {
+            "content_id": "29",
+            "content": "自王仔牛勿咽",
+            "top_left": [
+                40,
+                1325
+            ],
+            "bottom_right": [
+                496,
+                1395
+            ],
+            "font_size": 76,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2832138429420711,
+            "bg_color": [
+                213,
+                39,
+                13
+            ]
+        },
+        {
+            "content_id": "30",
+            "content": "画蒙8",
+            "top_left": [
+                311,
+                1402
+            ],
+            "bottom_right": [
+                386,
+                1443
+            ],
+            "font_size": 25,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0892180308943759,
+            "bg_color": [
+                207,
+                38,
+                18
+            ]
+        },
+        {
+            "content_id": "31",
+            "content": "MILK",
+            "top_left": [
+                295,
+                1436
+            ],
+            "bottom_right": [
+                411,
+                1490
+            ],
+            "font_size": 29,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.26111692661584507,
+            "bg_color": [
+                204,
+                36,
+                19
+            ]
+        },
+        {
+            "content_id": "32",
+            "content": "DRINK",
+            "top_left": [
+                294,
+                1474
+            ],
+            "bottom_right": [
+                399,
+                1525
+            ],
+            "font_size": 21,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2429368142738718,
+            "bg_color": [
+                198,
+                34,
+                12
+            ]
+        },
+        {
+            "content_id": "33",
+            "content": "我爱",
+            "top_left": [
+                297,
+                1511
+            ],
+            "bottom_right": [
+                397,
+                1561
+            ],
+            "font_size": 50,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.25547828096012454,
+            "bg_color": [
+                191,
+                31,
+                14
+            ]
+        },
+        {
+            "content_id": "34",
+            "content": "A",
+            "top_left": [
+                226,
+                1572
+            ],
+            "bottom_right": [
+                398,
+                1645
+            ],
+            "font_size": 172,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2325184939520737,
+            "bg_color": [
+                185,
+                28,
+                12
+            ]
+        },
+        {
+            "content_id": "35",
+            "content": "买一箱送一箱",
+            "top_left": [
+                545,
+                1603
+            ],
+            "bottom_right": [
+                1067,
+                1697
+            ],
+            "font_size": 87,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2544474936551422,
+            "bg_color": [
+                195,
+                7,
+                19
+            ]
+        },
+        {
+            "content_id": "36",
+            "content": "旺旺旺仔牛奶复原乳整箱好[特杀价秒]火鸡面超辣韩式",
+            "top_left": [
+                24,
+                1722
+            ],
+            "bottom_right": [
+                1024,
+                1767
+            ],
+            "font_size": 40,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1568498379781532,
+            "bg_color": [
+                193,
+                193,
+                193
+            ]
+        },
+        {
+            "content_id": "37",
+            "content": "￥4.96券后价",
+            "top_left": [
+                26,
+                1781
+            ],
+            "bottom_right": [
+                450,
+                1848
+            ],
+            "font_size": 53,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24459911221313185,
+            "bg_color": [
+                177,
+                177,
+                177
+            ]
+        },
+        {
+            "content_id": "38",
+            "content": ".01券后价",
+            "top_left": [
+                450,
+                1781
+            ],
+            "bottom_right": [
+                768,
+                1848
+            ],
+            "font_size": 53,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2446397226776638,
+            "bg_color": [
+                179,
+                179,
+                179
+            ]
+        },
+        {
+            "content_id": "39",
+            "content": "首单立减1元券立减3",
+            "top_left": [
+                29,
+                1846
+            ],
+            "bottom_right": [
+                469,
+                1891
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24669750904775636,
+            "bg_color": [
+                173,
+                173,
+                173
+            ]
+        },
+        {
+            "content_id": "40",
+            "content": "小新人券立减4",
+            "top_left": [
+                470,
+                1846
+            ],
+            "bottom_right": [
+                778,
+                1891
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21962598158890548,
+            "bg_color": [
+                170,
+                170,
+                170
+            ]
+        },
+        {
+            "content_id": "41",
+            "content": "清仓处里",
+            "top_left": [
+                838,
+                1949
+            ],
+            "bottom_right": [
+                1038,
+                2007
+            ],
+            "font_size": 50,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24976817313964036,
+            "bg_color": [
+                157,
+                152,
+                7
+            ]
+        },
+        {
+            "content_id": "42",
+            "content": "上滑查看更多",
+            "top_left": [
+                382,
+                2045
+            ],
+            "bottom_right": [
+                694,
+                2107
+            ],
+            "font_size": 52,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1831402531029557,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "43",
+            "content": "首页",
+            "top_left": [
+                56,
+                2244
+            ],
+            "bottom_right": [
+                240,
+                2306
+            ],
+            "font_size": 92,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "44",
+            "content": "朋友",
+            "top_left": [
+                240,
+                2244
+            ],
+            "bottom_right": [
+                424,
+                2306
+            ],
+            "font_size": 92,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.053303915146992724,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "45",
+            "content": "消息",
+            "top_left": [
+                424,
+                2244
+            ],
+            "bottom_right": [
+                608,
+                2306
+            ],
+            "font_size": 92,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24289282813540827,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "46",
+            "content": "来赚钱",
+            "top_left": [
+                483,
+                2267
+            ],
+            "bottom_right": [
+                594,
+                2309
+            ],
+            "font_size": 37,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1876973422642941,
+            "bg_color": [
+                255,
+                237,
+                163
+            ]
+        }
+    ]
+}

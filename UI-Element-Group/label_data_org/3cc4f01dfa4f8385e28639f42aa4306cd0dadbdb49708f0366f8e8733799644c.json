@@ -1,0 +1,387 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                13,
+                13,
+                15
+            ],
+            "bottom_right": [
+                326,
+                210
+            ],
+            "content": "百度输入法",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09109711691614734,
+            "font_size": 57,
+            "top_left": [
+                41,
+                150
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                212,
+                361
+            ],
+            "content": "输入设置",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07663330790337582,
+            "font_size": 46,
+            "top_left": [
+                28,
+                299
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                311,
+                509
+            ],
+            "content": "键盘界面设置",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07663330790337582,
+            "font_size": 47,
+            "top_left": [
+                29,
+                449
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                213,
+                661
+            ],
+            "content": "手写设置",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07663330790337582,
+            "font_size": 43,
+            "top_left": [
+                41,
+                600
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                212,
+                809
+            ],
+            "content": "语音设置",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07663330790337582,
+            "font_size": 46,
+            "top_left": [
+                28,
+                749
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                217,
+                942
+            ],
+            "content": "词库设置",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0934225259657784,
+            "font_size": 45,
+            "top_left": [
+                37,
+                912
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                665,
+                1076
+            ],
+            "content": "百度输入法",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 51,
+            "top_left": [
+                410,
+                1015
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                113,
+                1104
+            ],
+            "content": "多语",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07663330790337582,
+            "font_size": 36,
+            "top_left": [
+                41,
+                1053
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                722,
+                1174
+            ],
+            "content": "一键恢复所有设置项",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 41,
+            "top_left": [
+                353,
+                1125
+            ]
+        },
+        {
+            "bg_color": [
+                107,
+                106,
+                108
+            ],
+            "bottom_right": [
+                114,
+                1252
+            ],
+            "content": "AI",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08053111258357258,
+            "font_size": 42,
+            "top_left": [
+                30,
+                1209
+            ]
+        },
+        {
+            "bg_color": [
+                89,
+                149,
+                255
+            ],
+            "bottom_right": [
+                581,
+                1325
+            ],
+            "content": "确定",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1592525894229196,
+            "font_size": 48,
+            "top_left": [
+                485,
+                1280
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                113,
+                1400
+            ],
+            "content": "隐",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08236620533452016,
+            "font_size": 71,
+            "top_left": [
+                42,
+                1355
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                582,
+                1467
+            ],
+            "content": "取消",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 49,
+            "top_left": [
+                484,
+                1410
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                435,
+                1557
+            ],
+            "content": "已收集个人信忌清里",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0934225259657784,
+            "font_size": 44,
+            "top_left": [
+                39,
+                1508
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                568,
+                1710
+            ],
+            "content": "与第三方共享个人信息清单",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07663330790337582,
+            "font_size": 45,
+            "top_left": [
+                28,
+                1649
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                256,
+                1862
+            ],
+            "content": "帮助与反铐",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07663330790337582,
+            "font_size": 43,
+            "top_left": [
+                41,
+                1800
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                209,
+                2009
+            ],
+            "content": "检查更新",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07663330790337582,
+            "font_size": 45,
+            "top_left": [
+                29,
+                1949
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                125,
+                2162
+            ],
+            "content": "关于",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07663330790337582,
+            "font_size": 48,
+            "top_left": [
+                29,
+                2100
+            ]
+        },
+        {
+            "bg_color": [
+                121,
+                120,
+                122
+            ],
+            "bottom_right": [
+                310,
+                2309
+            ],
+            "content": "恢复默认设置",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08129682022171632,
+            "font_size": 47,
+            "top_left": [
+                28,
+                2248
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "3cc4f01dfa4f8385e28639f42aa4306cd0dadbdb49708f0366f8e8733799644c"
+}

@@ -1,0 +1,707 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                251,
+                251,
+                251
+            ],
+            "bottom_right": [
+                638,
+                199
+            ],
+            "content": "商品评价",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007652515157410388,
+            "font_size": 53,
+            "top_left": [
+                426,
+                137
+            ]
+        },
+        {
+            "bg_color": [
+                148,
+                148,
+                148
+            ],
+            "bottom_right": [
+                143,
+                324
+            ],
+            "content": "全部",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01284249297933993,
+            "font_size": 43,
+            "top_left": [
+                57,
+                281
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                316,
+                324
+            ],
+            "content": "图/视频",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012856372995027511,
+            "font_size": 43,
+            "top_left": [
+                144,
+                281
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                404,
+                324
+            ],
+            "content": "追评",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01085788630130579,
+            "font_size": 43,
+            "top_left": [
+                318,
+                281
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                491,
+                324
+            ],
+            "content": "好评",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012856372995027511,
+            "font_size": 43,
+            "top_left": [
+                405,
+                281
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                965,
+                354
+            ],
+            "content": "只看当前商品",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 35,
+            "top_left": [
+                755,
+                311
+            ]
+        },
+        {
+            "bg_color": [
+                131,
+                131,
+                131
+            ],
+            "bottom_right": [
+                172,
+                383
+            ],
+            "content": "96%好评",
+            "content_id": "7",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0049628020108402485,
+            "font_size": 31,
+            "top_left": [
+                17,
+                342
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                296,
+                383
+            ],
+            "content": "400+",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005137053927653663,
+            "font_size": 31,
+            "top_left": [
+                172,
+                342
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                389,
+                383
+            ],
+            "content": "60+",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005137053927653663,
+            "font_size": 31,
+            "top_left": [
+                296,
+                342
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                544,
+                383
+            ],
+            "content": "7000+",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005137053927653663,
+            "font_size": 31,
+            "top_left": [
+                389,
+                342
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                307,
+                517
+            ],
+            "content": "舒适柔软12",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 39,
+            "top_left": [
+                73,
+                471
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                545,
+                517
+            ],
+            "content": "尺寸适宜11",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.009067757956823753,
+            "font_size": 39,
+            "top_left": [
+                311,
+                471
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                783,
+                517
+            ],
+            "content": "质感柔和10",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 39,
+            "top_left": [
+                549,
+                471
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                943,
+                517
+            ],
+            "content": "分量充足",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 39,
+            "top_left": [
+                787,
+                471
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                1017,
+                682
+            ],
+            "content": "最新排序默认排序",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 42,
+            "top_left": [
+                681,
+                638
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                440,
+                805
+            ],
+            "content": "猪***葵前",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18229554320182084,
+            "font_size": 50,
+            "top_left": [
+                140,
+                749
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                941,
+                805
+            ],
+            "content": "2023-07-07",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005137053927653663,
+            "font_size": 50,
+            "top_left": [
+                441,
+                749
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                411,
+                903
+            ],
+            "content": "合合合合合12卷",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23451988691414855,
+            "font_size": 41,
+            "top_left": [
+                83,
+                859
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                735,
+                981
+            ],
+            "content": "这个本色的竹木原浆纸真的是太惊艳了,",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 37,
+            "top_left": [
+                69,
+                924
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                926,
+                981
+            ],
+            "content": "包12卷儿",
+            "content_id": "20",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 37,
+            "top_left": [
+                741,
+                924
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                981,
+                1050
+            ],
+            "content": "我原本以为是很小的一包,没想到竟然比我平时买的大",
+            "content_id": "21",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 38,
+            "top_left": [
+                69,
+                999
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                980,
+                1125
+            ],
+            "content": "了很多,非常的实惠,而且里面没有漂白剂,没有荧光",
+            "content_id": "22",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 38,
+            "top_left": [
+                68,
+                1068
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                610,
+                1195
+            ],
+            "content": "粉,用起来也特别的放心,安全,",
+            "content_id": "23",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 36,
+            "top_left": [
+                70,
+                1142
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                909,
+                1195
+            ],
+            "content": "关键是纸张也很柔",
+            "content_id": "24",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 36,
+            "top_left": [
+                621,
+                1142
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                602,
+                1268
+            ],
+            "content": "软,很舒适,物美价廉强烈推荐",
+            "content_id": "25",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 38,
+            "top_left": [
+                70,
+                1217
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                254,
+                2003
+            ],
+            "content": "河北",
+            "content_id": "26",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005078575675508693,
+            "font_size": 91,
+            "top_left": [
+                72,
+                1956
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                436,
+                2003
+            ],
+            "content": "3C",
+            "content_id": "27",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 91,
+            "top_left": [
+                254,
+                1956
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                709,
+                2003
+            ],
+            "content": "31心",
+            "content_id": "28",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0013320191425081889,
+            "font_size": 91,
+            "top_left": [
+                436,
+                1956
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                407,
+                2197
+            ],
+            "content": "S*WLo",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18209989837837365,
+            "font_size": 53,
+            "top_left": [
+                142,
+                2152
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                937,
+                2197
+            ],
+            "content": "2023-06-27",
+            "content_id": "30",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0019523927683253658,
+            "font_size": 53,
+            "top_left": [
+                407,
+                2152
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                204,
+                0
+            ],
+            "bottom_right": [
+                745,
+                2310
+            ],
+            "content": "加入购物车",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1862146374007331,
+            "font_size": 49,
+            "top_left": [
+                500,
+                2265
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                943,
+                2310
+            ],
+            "content": "立即购买",
+            "content_id": "32",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22055959233803124,
+            "font_size": 49,
+            "top_left": [
+                747,
+                2265
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                124,
+                2341
+            ],
+            "content": "店铺",
+            "content_id": "33",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 41,
+            "top_left": [
+                42,
+                2301
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                206,
+                2341
+            ],
+            "content": "客服",
+            "content_id": "34",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008315252544913018,
+            "font_size": 41,
+            "top_left": [
+                124,
+                2301
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                329,
+                2341
+            ],
+            "content": "购物车",
+            "content_id": "35",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 41,
+            "top_left": [
+                206,
+                2301
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "1df1a214b2a91da2b285fd8831c1b131a907cd31d969041f990819ab671b1bec"
+}

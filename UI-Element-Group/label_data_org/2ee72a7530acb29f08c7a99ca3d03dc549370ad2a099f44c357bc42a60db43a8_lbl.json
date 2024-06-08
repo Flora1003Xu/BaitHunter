@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+          "click_id": "13",
+          "click_content": "知道了",
+          "group": [
+            {
+              "content_id": "8",
+              "content": "活动规则"
+            },
+            {
+              "content_id": "9",
+              "content": "完成邀请人数的要求,您与好友"
+            },
+            {
+              "content_id": "10",
+              "content": "均可获得极速版会员卡,激活后"
+            },
+            {
+              "content_id": "11",
+              "content": "可免费观看VIP视频。活动细则详"
+            },
+            {
+              "content_id": "12",
+              "content": "见活动页面"
+            },
+            {
+              "content_id": "13",
+              "content": "知道了"
+            }
+          ]
+        }
+    ]
+}

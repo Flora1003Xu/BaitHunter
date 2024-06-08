@@ -1,0 +1,407 @@
+{
+    "ui_id": "0c93c738c171f4077d41a6e597fe096aeaaec15bc0999429468058aba50d3a18",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "使用帮助",
+            "top_left": [
+                313,
+                147
+            ],
+            "bottom_right": [
+                505,
+                210
+            ],
+            "font_size": 48,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "问题反馈",
+            "top_left": [
+                508,
+                147
+            ],
+            "bottom_right": [
+                700,
+                210
+            ],
+            "font_size": 48,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19754053055533763,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "Q输入您遇到的问题",
+            "top_left": [
+                69,
+                309
+            ],
+            "bottom_right": [
+                447,
+                357
+            ],
+            "font_size": 42,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "问题类型x",
+            "top_left": [
+                29,
+                450
+            ],
+            "bottom_right": [
+                239,
+                504
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22160824893305503,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "功能问题或建议",
+            "top_left": [
+                73,
+                581
+            ],
+            "bottom_right": [
+                521,
+                626
+            ],
+            "font_size": 64,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                247,
+                248,
+                250
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "卡顿",
+            "top_left": [
+                522,
+                581
+            ],
+            "bottom_right": [
+                650,
+                626
+            ],
+            "font_size": 64,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011714520909162444,
+            "bg_color": [
+                247,
+                248,
+                250
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "闪退",
+            "top_left": [
+                650,
+                581
+            ],
+            "bottom_right": [
+                778,
+                626
+            ],
+            "font_size": 64,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006209188795218568,
+            "bg_color": [
+                247,
+                248,
+                250
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "流量异常",
+            "top_left": [
+                128,
+                717
+            ],
+            "bottom_right": [
+                376,
+                763
+            ],
+            "font_size": 62,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03344013519471237,
+            "bg_color": [
+                181,
+                182,
+                183
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "耗电异学",
+            "top_left": [
+                377,
+                717
+            ],
+            "bottom_right": [
+                625,
+                763
+            ],
+            "font_size": 62,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                247,
+                248,
+                250
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "网络异",
+            "top_left": [
+                626,
+                717
+            ],
+            "bottom_right": [
+                812,
+                763
+            ],
+            "font_size": 62,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006209188795218568,
+            "bg_color": [
+                247,
+                248,
+                250
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "其他问题",
+            "top_left": [
+                128,
+                856
+            ],
+            "bottom_right": [
+                332,
+                902
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17923579451746147,
+            "bg_color": [
+                255,
+                246,
+                243
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "未未成年保护",
+            "top_left": [
+                333,
+                856
+            ],
+            "bottom_right": [
+                639,
+                902
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.031544080183040155,
+            "bg_color": [
+                247,
+                248,
+                250
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "违规举报",
+            "top_left": [
+                640,
+                856
+            ],
+            "bottom_right": [
+                844,
+                902
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                247,
+                248,
+                250
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "问题描述*",
+            "top_left": [
+                29,
+                1024
+            ],
+            "bottom_right": [
+                484,
+                1078
+            ],
+            "font_size": 91,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "0/300",
+            "top_left": [
+                486,
+                1024
+            ],
+            "bottom_right": [
+                941,
+                1078
+            ],
+            "font_size": 91,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "请简单描述您的问题或建议",
+            "top_left": [
+                29,
+                1127
+            ],
+            "bottom_right": [
+                509,
+                1172
+            ],
+            "font_size": 40,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0016164054761106305,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "上传问题截因",
+            "top_left": [
+                41,
+                1374
+            ],
+            "bottom_right": [
+                635,
+                1433
+            ],
+            "font_size": 99,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "0/4",
+            "top_left": [
+                636,
+                1374
+            ],
+            "bottom_right": [
+                933,
+                1433
+            ],
+            "font_size": 99,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "联系方式",
+            "top_left": [
+                41,
+                1765
+            ],
+            "bottom_right": [
+                205,
+                1827
+            ],
+            "font_size": 41,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "填写QQ/手机号,48小时内联系您解决",
+            "top_left": [
+                205,
+                1765
+            ],
+            "bottom_right": [
+                984,
+                1827
+            ],
+            "font_size": 41,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0016164054761106305,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

@@ -1,0 +1,307 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                100,
+                114,
+                127
+            ],
+            "bottom_right": [
+                676,
+                193
+            ],
+            "content": "VIP会员中心",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08993662391974314,
+            "font_size": 40,
+            "top_left": [
+                396,
+                133
+            ]
+        },
+        {
+            "bg_color": [
+                111,
+                120,
+                127
+            ],
+            "bottom_right": [
+                526,
+                382
+            ],
+            "content": "未填写昵称",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06266105298900208,
+            "font_size": 60,
+            "top_left": [
+                226,
+                324
+            ]
+        },
+        {
+            "bg_color": [
+                108,
+                118,
+                127
+            ],
+            "bottom_right": [
+                558,
+                446
+            ],
+            "content": "您还没有开通VIP会员",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06264980429405761,
+            "font_size": 30,
+            "top_left": [
+                228,
+                401
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                337,
+                647
+            ],
+            "content": "小猿VIP会员",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.017089992794440595,
+            "font_size": 44,
+            "top_left": [
+                29,
+                586
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                65,
+                41
+            ],
+            "bottom_right": [
+                523,
+                743
+            ],
+            "content": "热销",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22220377928631194,
+            "font_size": 68,
+            "top_left": [
+                387,
+                702
+            ]
+        },
+        {
+            "bg_color": [
+                128,
+                128,
+                128
+            ],
+            "bottom_right": [
+                795,
+                743
+            ],
+            "content": "限时特惠",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2014493866206992,
+            "font_size": 68,
+            "top_left": [
+                523,
+                702
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                118,
+                107
+            ],
+            "bottom_right": [
+                458,
+                829
+            ],
+            "content": "1年",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1699252229583159,
+            "font_size": 144,
+            "top_left": [
+                170,
+                785
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                222,
+                121
+            ],
+            "bottom_right": [
+                747,
+                829
+            ],
+            "content": "2年",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18493405340015467,
+            "font_size": 144,
+            "top_left": [
+                459,
+                785
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                170,
+                1242
+            ],
+            "content": "买一年",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1791547156590689,
+            "font_size": 43,
+            "top_left": [
+                41,
+                1199
+            ]
+        },
+        {
+            "bg_color": [
+                251,
+                234,
+                234
+            ],
+            "bottom_right": [
+                414,
+                1306
+            ],
+            "content": "50元",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.037255384787823496,
+            "font_size": 35,
+            "top_left": [
+                309,
+                1247
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                241,
+                242
+            ],
+            "bottom_right": [
+                696,
+                1306
+            ],
+            "content": "VIP大额券*1",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05070909747232412,
+            "font_size": 35,
+            "top_left": [
+                416,
+                1247
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                79,
+                105
+            ],
+            "bottom_right": [
+                638,
+                1494
+            ],
+            "content": "开心收下",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13666202176582137,
+            "font_size": 53,
+            "top_left": [
+                426,
+                1434
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                626,
+                1709
+            ],
+            "content": "全部支区方式",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005168319987943486,
+            "font_size": 38,
+            "top_left": [
+                398,
+                1665
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                692,
+                1883
+            ],
+            "content": "9大会员权益",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22428982578811285,
+            "font_size": 54,
+            "top_left": [
+                368,
+                1819
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                836,
+                2242
+            ],
+            "content": "立即支付",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22414792615986587,
+            "font_size": 46,
+            "top_left": [
+                652,
+                2180
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "85ae38718080263efb3ec03e7623f0ac4d09ea86b547375570da90c73b9c01a3"
+}

@@ -1,0 +1,407 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                209,
+                209,
+                210
+            ],
+            "bottom_right": [
+                702,
+                192
+            ],
+            "content": "装扮中心",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2326803887962004,
+            "font_size": 66,
+            "top_left": [
+                438,
+                121
+            ]
+        },
+        {
+            "bg_color": [
+                35,
+                43,
+                55
+            ],
+            "bottom_right": [
+                967,
+                192
+            ],
+            "content": "我的装扮",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2198462499867596,
+            "font_size": 66,
+            "top_left": [
+                703,
+                121
+            ]
+        },
+        {
+            "bg_color": [
+                58,
+                46,
+                51
+            ],
+            "bottom_right": [
+                748,
+                1111
+            ],
+            "content": "一键生成心中所想",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18998431228362525,
+            "font_size": 54,
+            "top_left": [
+                370,
+                1052
+            ]
+        },
+        {
+            "bg_color": [
+                64,
+                90,
+                255
+            ],
+            "bottom_right": [
+                635,
+                1241
+            ],
+            "content": "立即创作",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20352776842274667,
+            "font_size": 49,
+            "top_left": [
+                439,
+                1179
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                16,
+                28
+            ],
+            "bottom_right": [
+                1013,
+                1446
+            ],
+            "content": "未来式汽车,机甲跑车,复杂的结构,变形金刚风格,强",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17845204473579618,
+            "font_size": 39,
+            "top_left": [
+                38,
+                1399
+            ]
+        },
+        {
+            "bg_color": [
+                11,
+                15,
+                27
+            ],
+            "bottom_right": [
+                668,
+                1510
+            ],
+            "content": "烈的金属质感,未来城市,科幻城市",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18081886645054476,
+            "font_size": 40,
+            "top_left": [
+                28,
+                1465
+            ]
+        },
+        {
+            "bg_color": [
+                11,
+                15,
+                27
+            ],
+            "bottom_right": [
+                252,
+                1588
+            ],
+            "content": "装扮预览",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16326077045229706,
+            "font_size": 53,
+            "top_left": [
+                40,
+                1538
+            ]
+        },
+        {
+            "bg_color": [
+                11,
+                15,
+                27
+            ],
+            "bottom_right": [
+                467,
+                1588
+            ],
+            "content": "创作相似",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16304442184903947,
+            "font_size": 53,
+            "top_left": [
+                255,
+                1538
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                253,
+                253
+            ],
+            "bottom_right": [
+                182,
+                1872
+            ],
+            "content": "AI装扮",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014190057045856588,
+            "font_size": 38,
+            "top_left": [
+                30,
+                1825
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                253,
+                253
+            ],
+            "bottom_right": [
+                337,
+                1872
+            ],
+            "content": "主题皮肤",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014190057045856588,
+            "font_size": 38,
+            "top_left": [
+                185,
+                1825
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                253,
+                253
+            ],
+            "bottom_right": [
+                492,
+                1872
+            ],
+            "content": "主页背景",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014213183500960097,
+            "font_size": 38,
+            "top_left": [
+                340,
+                1825
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                253,
+                253
+            ],
+            "bottom_right": [
+                647,
+                1872
+            ],
+            "content": "精品套装",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014190057045856588,
+            "font_size": 38,
+            "top_left": [
+                495,
+                1825
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                254,
+                254
+            ],
+            "bottom_right": [
+                802,
+                1872
+            ],
+            "content": "挂件商城",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014213183500960097,
+            "font_size": 38,
+            "top_left": [
+                650,
+                1825
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                254,
+                254
+            ],
+            "bottom_right": [
+                881,
+                1872
+            ],
+            "content": "头像",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014213183500960097,
+            "font_size": 38,
+            "top_left": [
+                805,
+                1825
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                239,
+                2035
+            ],
+            "content": "主题皮肤",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "font_size": 46,
+            "top_left": [
+                55,
+                1974
+            ]
+        },
+        {
+            "bg_color": [
+                43,
+                87,
+                141
+            ],
+            "bottom_right": [
+                261,
+                2107
+            ],
+            "content": "上新)",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.354346765056407,
+            "font_size": 63,
+            "top_left": [
+                72,
+                2069
+            ]
+        },
+        {
+            "bg_color": [
+                40,
+                86,
+                138
+            ],
+            "bottom_right": [
+                389,
+                2107
+            ],
+            "content": "上新",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.33736837820187393,
+            "font_size": 63,
+            "top_left": [
+                263,
+                2069
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                310,
+                2341
+            ],
+            "content": "吹南风",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "font_size": 55,
+            "top_left": [
+                145,
+                2296
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                476,
+                2341
+            ],
+            "content": "望北海",
+            "content_id": "19",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 55,
+            "top_left": [
+                311,
+                2296
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                862,
+                2341
+            ],
+            "content": "上课我们一起乐",
+            "content_id": "20",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "font_size": 55,
+            "top_left": [
+                477,
+                2296
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "0a4a4714d6ab9bde331f4c646a7a7b0a7948235ae95157de57e44acd36b0f9d0"
+}

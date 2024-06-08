@@ -1,0 +1,83 @@
+{
+    "data": [
+      {
+        "click_id": "8",
+        "click_content": "拒绝",
+        "group": [
+          {
+            "content_id": "8",
+            "content": "拒绝"
+          },
+          {
+            "content_id": "4",
+            "content": "是否允许\"QQ浏览器”读写手机上的"
+          },
+          {
+            "content_id": "5",
+            "content": "照片及文件"
+          },
+          {
+            "content_id": "6",
+            "content": "相册"
+          },
+          {
+            "content_id": "7",
+            "content": "社交应用文件"
+          }
+        ]
+      },
+      {
+        "click_id": "9",
+        "click_content": "始终允许",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "始终允许"
+          },
+          {
+            "content_id": "4",
+            "content": "是否允许\"QQ浏览器”读写手机上的"
+          },
+          {
+            "content_id": "5",
+            "content": "照片及文件"
+          },
+          {
+            "content_id": "6",
+            "content": "相册"
+          },
+          {
+            "content_id": "7",
+            "content": "社交应用文件"
+          }
+        ]
+      },
+      {
+        "click_id": "10",
+        "click_content": "仅在使用中允许",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "仅在使用中允许"
+          },
+          {
+            "content_id": "4",
+            "content": "是否允许\"QQ浏览器”读写手机上的"
+          },
+          {
+            "content_id": "5",
+            "content": "照片及文件"
+          },
+          {
+            "content_id": "6",
+            "content": "相册"
+          },
+          {
+            "content_id": "7",
+            "content": "社交应用文件"
+          }
+        ]
+      }
+    ]
+  }
+   

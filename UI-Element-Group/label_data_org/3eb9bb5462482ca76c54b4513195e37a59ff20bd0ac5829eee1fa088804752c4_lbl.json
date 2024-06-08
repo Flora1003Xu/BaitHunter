@@ -1,0 +1,25 @@
+{
+    "data": [
+      {
+        "click_id": "6",
+        "click_content": "有帮助",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "有帮助"
+          }
+        ]
+      },
+      {
+        "click_id": "7",
+        "click_content": "无帮助",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "无帮助"
+          }
+        ]
+      }
+    ]
+  }
+   

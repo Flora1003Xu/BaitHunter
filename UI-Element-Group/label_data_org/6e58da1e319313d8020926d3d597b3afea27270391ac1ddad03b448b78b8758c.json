@@ -1,0 +1,167 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                27,
+                27,
+                30
+            ],
+            "bottom_right": [
+                209,
+                211
+            ],
+            "content": "AI助聊",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08325739341396263,
+            "font_size": 45,
+            "top_left": [
+                29,
+                151
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                240,
+                244
+            ],
+            "bottom_right": [
+                256,
+                356
+            ],
+            "content": "启用AI助聊",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07306916940423848,
+            "font_size": 36,
+            "top_left": [
+                40,
+                305
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                240,
+                244
+            ],
+            "bottom_right": [
+                222,
+                510
+            ],
+            "content": "智能预测",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07306916940423848,
+            "font_size": 45,
+            "top_left": [
+                42,
+                450
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                240,
+                244
+            ],
+            "bottom_right": [
+                469,
+                559
+            ],
+            "content": "懂你所想,智能补全整句",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07256169789431692,
+            "font_size": 40,
+            "top_left": [
+                29,
+                512
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                240,
+                244
+            ],
+            "bottom_right": [
+                169,
+                707
+            ],
+            "content": "AI创作",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07306916940423848,
+            "font_size": 35,
+            "top_left": [
+                29,
+                658
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                240,
+                244
+            ],
+            "bottom_right": [
+                420,
+                762
+            ],
+            "content": "智能生成趣味创作内容",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07256169789431692,
+            "font_size": 39,
+            "top_left": [
+                30,
+                713
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                240,
+                244
+            ],
+            "bottom_right": [
+                170,
+                907
+            ],
+            "content": "AI校对",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07306916940423848,
+            "font_size": 35,
+            "top_left": [
+                30,
+                866
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                240,
+                244
+            ],
+            "bottom_right": [
+                420,
+                965
+            ],
+            "content": "智能识别输入的错别字",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07256169789431692,
+            "font_size": 38,
+            "top_left": [
+                40,
+                920
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "6e58da1e319313d8020926d3d597b3afea27270391ac1ddad03b448b78b8758c"
+}

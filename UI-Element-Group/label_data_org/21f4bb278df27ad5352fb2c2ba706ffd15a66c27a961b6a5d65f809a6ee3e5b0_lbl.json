@@ -1,0 +1,47 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "真实姓名请输入真实姓名",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "真实姓名请输入真实姓名"
+          }
+        ]
+      },
+      {
+        "click_id": "5",
+        "click_content": "请输入身份证号",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "请输入身份证号"
+          },
+          {
+            "content_id": "4",
+            "content": "证件号"
+          }
+        ]
+      },
+      {
+        "click_id": "7",
+        "click_content": "确定",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "确定"
+          },
+          {
+            "content_id": "6",
+            "content": "已阅读并同意用户协议及隐私政策"
+          },
+          {
+            "content_id": "8",
+            "content": "信息仅用于身份验证,我们将严格保护您的数据与隐私安全"
+          }
+        ]
+      }
+    ]
+  }
+   

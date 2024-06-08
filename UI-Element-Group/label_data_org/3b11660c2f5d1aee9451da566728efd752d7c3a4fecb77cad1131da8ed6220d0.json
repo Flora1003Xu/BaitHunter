@@ -1,0 +1,107 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                536,
+                221
+            ],
+            "content": "微博客户端",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 60,
+            "top_left": [
+                236,
+                153
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                808,
+                562
+            ],
+            "content": "已安装?点击此处打开微博",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1465188094752766,
+            "font_size": 46,
+            "top_left": [
+                256,
+                504
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                786,
+                1158
+            ],
+            "content": "若没有安装微博,请先下载",
+            "content_id": "3",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004090474246960426,
+            "font_size": 43,
+            "top_left": [
+                270,
+                1111
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                152,
+                20
+            ],
+            "bottom_right": [
+                665,
+                1277
+            ],
+            "content": "去下载微博",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17690872831988472,
+            "font_size": 51,
+            "top_left": [
+                410,
+                1217
+            ]
+        },
+        {
+            "bg_color": [
+                147,
+                147,
+                147
+            ],
+            "bottom_right": [
+                914,
+                2225
+            ],
+            "content": "应用更新时间20230802版本号13.8.0用户协议隐私条款",
+            "content_id": "5",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004090474246960426,
+            "font_size": 25,
+            "top_left": [
+                139,
+                2181
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "3b11660c2f5d1aee9451da566728efd752d7c3a4fecb77cad1131da8ed6220d0"
+}

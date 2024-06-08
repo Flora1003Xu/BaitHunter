@@ -1,0 +1,627 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                191,
+                191,
+                191
+            ],
+            "bottom_right": [
+                537,
+                354
+            ],
+            "content": "未填写昵称",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.021027885936408374,
+            "font_size": 62,
+            "top_left": [
+                227,
+                293
+            ]
+        },
+        {
+            "bg_color": [
+                176,
+                176,
+                176
+            ],
+            "bottom_right": [
+                495,
+                426
+            ],
+            "content": "高三填写学校)",
+            "content_id": "2",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0027234244868280994,
+            "font_size": 38,
+            "top_left": [
+                229,
+                383
+            ]
+        },
+        {
+            "bg_color": [
+                252,
+                221,
+                167
+            ],
+            "bottom_right": [
+                613,
+                569
+            ],
+            "content": "VIP会员中心",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1607475061884794,
+            "font_size": 68,
+            "top_left": [
+                69,
+                515
+            ]
+        },
+        {
+            "bg_color": [
+                251,
+                212,
+                145
+            ],
+            "bottom_right": [
+                892,
+                569
+            ],
+            "content": "立即开通",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11248856805638335,
+            "font_size": 68,
+            "top_left": [
+                620,
+                515
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                253,
+                249
+            ],
+            "bottom_right": [
+                282,
+                842
+            ],
+            "content": "视频讲解",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15604059929104722,
+            "font_size": 45,
+            "top_left": [
+                102,
+                797
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                253,
+                248
+            ],
+            "bottom_right": [
+                463,
+                842
+            ],
+            "content": "考点课程",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15427804909624931,
+            "font_size": 45,
+            "top_left": [
+                283,
+                797
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                252,
+                246
+            ],
+            "bottom_right": [
+                644,
+                842
+            ],
+            "content": "学习周报",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15206686673805397,
+            "font_size": 45,
+            "top_left": [
+                464,
+                797
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                251,
+                244
+            ],
+            "bottom_right": [
+                825,
+                842
+            ],
+            "content": "试卷下载",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12802233193453663,
+            "font_size": 45,
+            "top_left": [
+                645,
+                797
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                358,
+                1044
+            ],
+            "content": "任务中心",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 72,
+            "top_left": [
+                70,
+                986
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                646,
+                1044
+            ],
+            "content": "金币商城",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1888961190323548,
+            "font_size": 72,
+            "top_left": [
+                358,
+                986
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                862,
+                1044
+            ],
+            "content": "NEW",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 72,
+            "top_left": [
+                646,
+                986
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                395,
+                1101
+            ],
+            "content": "签到得好礼",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20821721989380115,
+            "font_size": 65,
+            "top_left": [
+                70,
+                1053
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                657,
+                1101
+            ],
+            "content": "全新升级",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20821721989380115,
+            "font_size": 65,
+            "top_left": [
+                397,
+                1053
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                253,
+                1276
+            ],
+            "content": "我的工具",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 46,
+            "top_left": [
+                69,
+                1222
+            ]
+        },
+        {
+            "bg_color": [
+                201,
+                201,
+                201
+            ],
+            "bottom_right": [
+                267,
+                1456
+            ],
+            "content": "错题本",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011151436943185789,
+            "font_size": 50,
+            "top_left": [
+                117,
+                1410
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                468,
+                1456
+            ],
+            "content": "观看记录",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 50,
+            "top_left": [
+                268,
+                1410
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                620,
+                1456
+            ],
+            "content": "收藏夹",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.0063277559628812045,
+            "font_size": 50,
+            "top_left": [
+                470,
+                1410
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                821,
+                1456
+            ],
+            "content": "我的图书",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 50,
+            "top_left": [
+                621,
+                1410
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                196,
+                1647
+            ],
+            "content": "猿辅号",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 42,
+            "top_left": [
+                70,
+                1586
+            ]
+        },
+        {
+            "bg_color": [
+                199,
+                199,
+                199
+            ],
+            "bottom_right": [
+                282,
+                1822
+            ],
+            "content": "备战高考",
+            "content_id": "20",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011085147863648696,
+            "font_size": 45,
+            "top_left": [
+                102,
+                1780
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                463,
+                1822
+            ],
+            "content": "我的关注",
+            "content_id": "21",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 45,
+            "top_left": [
+                283,
+                1780
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                644,
+                1822
+            ],
+            "content": "我的课程",
+            "content_id": "22",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 45,
+            "top_left": [
+                464,
+                1780
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                825,
+                1822
+            ],
+            "content": "离线课程",
+            "content_id": "23",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 45,
+            "top_left": [
+                645,
+                1780
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                235,
+                1998
+            ],
+            "content": "消息",
+            "content_id": "24",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 52,
+            "top_left": [
+                131,
+                1953
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                340,
+                1998
+            ],
+            "content": "订单",
+            "content_id": "25",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 52,
+            "top_left": [
+                236,
+                1953
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                653,
+                1998
+            ],
+            "content": "余额及优惠券",
+            "content_id": "26",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 52,
+            "top_left": [
+                341,
+                1953
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                253,
+                2221
+            ],
+            "content": "小猿商城",
+            "content_id": "27",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 46,
+            "top_left": [
+                69,
+                2163
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                182,
+                2354
+            ],
+            "content": "首页",
+            "content_id": "28",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 55,
+            "top_left": [
+                72,
+                2311
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                293,
+                2354
+            ],
+            "content": "练习",
+            "content_id": "29",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 55,
+            "top_left": [
+                183,
+                2311
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                459,
+                2354
+            ],
+            "content": "资源库",
+            "content_id": "30",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005314894014936258,
+            "font_size": 55,
+            "top_left": [
+                294,
+                2311
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                625,
+                2354
+            ],
+            "content": "猿辅导",
+            "content_id": "31",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012699607682047321,
+            "font_size": 55,
+            "top_left": [
+                460,
+                2311
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "95b74409b6a2b2959d42ce0e40533b0a696caa5554e71de567830797a94a9cf4"
+}

@@ -1,0 +1,127 @@
+{
+    "ui_id": "09e034a3fbda688ebf3189986518334ccf81ea652ca2c5776e5c520d2087d1cb",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "解除锁定保护",
+            "top_left": [
+                355,
+                411
+            ],
+            "bottom_right": [
+                709,
+                477
+            ],
+            "font_size": 59,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "如果锁定前你的帐号存在可疑绑定或疑似盗号",
+            "top_left": [
+                123,
+                622
+            ],
+            "bottom_right": [
+                983,
+                669
+            ],
+            "font_size": 43,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "等问题,解除锁定保护成功后,帐号的绑定关",
+            "top_left": [
+                123,
+                674
+            ],
+            "bottom_right": [
+                983,
+                735
+            ],
+            "font_size": 43,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "系将会还原",
+            "top_left": [
+                127,
+                737
+            ],
+            "bottom_right": [
+                352,
+                792
+            ],
+            "font_size": 45,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "解除锁定保护后帐号可以正常登录",
+            "top_left": [
+                53,
+                892
+            ],
+            "bottom_right": [
+                773,
+                943
+            ],
+            "font_size": 45,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "解除锁定保护",
+            "top_left": [
+                399,
+                2220
+            ],
+            "bottom_right": [
+                663,
+                2273
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21339239646919766,
+            "bg_color": [
+                254,
+                44,
+                85
+            ]
+        }
+    ]
+}

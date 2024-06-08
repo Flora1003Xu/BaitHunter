@@ -1,0 +1,27 @@
+{
+    "data": [
+      {
+        "click_id": "7",
+        "click_content": "微信登录",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "微信登录"
+          },
+          {
+            "content_id": "5",
+            "content": "立即登录"
+          },
+          {
+            "content_id": "6",
+            "content": "我已阅读并同意用户协议和QQ浏览器隐私保护指引"
+          },
+          {
+            "content_id": "8",
+            "content": "其他登录方式"
+          }
+        ]
+      }
+    ]
+  }
+   

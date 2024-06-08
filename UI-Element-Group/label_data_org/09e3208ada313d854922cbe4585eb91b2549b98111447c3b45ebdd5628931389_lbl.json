@@ -1,0 +1,152 @@
+{
+    "data": [
+      {
+        "click_id": "16",
+        "click_content": "不同意并退出",
+        "group": [
+          {
+            "content_id": "1",
+            "content": "温馨提示"
+          },
+          {
+            "content_id": "2",
+            "content": "欢迎使用百度网盘App!在你使用时,需要"
+          },
+          {
+            "content_id": "3",
+            "content": "连接数据网络或者WLAN网络,产生的流量"
+          },
+          {
+            "content_id": "4",
+            "content": "费用请咨询当地运营商。"
+          },
+          {
+            "content_id": "5",
+            "content": "当使用百度网盘App的服务时,会向你申请"
+          },
+          {
+            "content_id": "6",
+            "content": "打开/关闭WLAN、本地文件的读写/存储权"
+          },
+          {
+            "content_id": "7",
+            "content": "限、通讯录权限、短信权限、通话记录权"
+          },
+          {
+            "content_id": "8",
+            "content": "限、地理位置权限、自启动相关权限、摄像"
+          },
+          {
+            "content_id": "9",
+            "content": "头权限、麦克风权限,并在你同意授予后使"
+          },
+          {
+            "content_id": "10",
+            "content": "用相关数据"
+          },
+          {
+            "content_id": "11",
+            "content": "百度公司非常重视你的隐私保护和个人信息"
+          },
+          {
+            "content_id": "12",
+            "content": "保护。在你使用百度网盘App服务前,请认"
+          },
+          {
+            "content_id": "13",
+            "content": "真阅读百度网盘《隐私协议》和《用户协"
+          },
+          {
+            "content_id": "14",
+            "content": "议》全部条款,你同意并接受全部条款后再"
+          },
+          {
+            "content_id": "15",
+            "content": "开始使用我们的服务,"
+          },
+          {
+            "content_id": "16",
+            "content": "不同意并退出"
+          },
+          {
+            "content_id": "17",
+            "content": "同意"
+          }
+        ]
+      },
+      {
+        "click_id": "17",
+        "click_content": "同意",
+        "group": [
+          {
+            "content_id": "1",
+            "content": "温馨提示"
+          },
+          {
+            "content_id": "2",
+            "content": "欢迎使用百度网盘App!在你使用时,需要"
+          },
+          {
+            "content_id": "3",
+            "content": "连接数据网络或者WLAN网络,产生的流量"
+          },
+          {
+            "content_id": "4",
+            "content": "费用请咨询当地运营商。"
+          },
+          {
+            "content_id": "5",
+            "content": "当使用百度网盘App的服务时,会向你申请"
+          },
+          {
+            "content_id": "6",
+            "content": "打开/关闭WLAN、本地文件的读写/存储权"
+          },
+          {
+            "content_id": "7",
+            "content": "限、通讯录权限、短信权限、通话记录权"
+          },
+          {
+            "content_id": "8",
+            "content": "限、地理位置权限、自启动相关权限、摄像"
+          },
+          {
+            "content_id": "9",
+            "content": "头权限、麦克风权限,并在你同意授予后使"
+          },
+          {
+            "content_id": "10",
+            "content": "用相关数据"
+          },
+          {
+            "content_id": "11",
+            "content": "百度公司非常重视你的隐私保护和个人信息"
+          },
+          {
+            "content_id": "12",
+            "content": "保护。在你使用百度网盘App服务前,请认"
+          },
+          {
+            "content_id": "13",
+            "content": "真阅读百度网盘《隐私协议》和《用户协"
+          },
+          {
+            "content_id": "14",
+            "content": "议》全部条款,你同意并接受全部条款后再"
+          },
+          {
+            "content_id": "15",
+            "content": "开始使用我们的服务,"
+          },
+          {
+            "content_id": "16",
+            "content": "不同意并退出"
+          },
+          {
+            "content_id": "17",
+            "content": "同意"
+          }
+        ]
+      }
+    ]
+}

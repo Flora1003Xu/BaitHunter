@@ -1,0 +1,467 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                29,
+                34,
+                67
+            ],
+            "bottom_right": [
+                650,
+                192
+            ],
+            "content": "VIP会员中心",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19687643990501133,
+            "font_size": 40,
+            "top_left": [
+                370,
+                133
+            ]
+        },
+        {
+            "bg_color": [
+                28,
+                34,
+                66
+            ],
+            "bottom_right": [
+                465,
+                367
+            ],
+            "content": "未填写昵称",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19641848565220962,
+            "font_size": 56,
+            "top_left": [
+                185,
+                302
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                88,
+                71
+            ],
+            "bottom_right": [
+                1004,
+                384
+            ],
+            "content": "立即开通",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12699544458933654,
+            "font_size": 41,
+            "top_left": [
+                840,
+                339
+            ]
+        },
+        {
+            "bg_color": [
+                27,
+                32,
+                63
+            ],
+            "bottom_right": [
+                478,
+                425
+            ],
+            "content": "您还未开通VIP会员",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19741331660913675,
+            "font_size": 28,
+            "top_left": [
+                198,
+                381
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                123,
+                115
+            ],
+            "bottom_right": [
+                340,
+                572
+            ],
+            "content": "WID性粒",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17707243191752098,
+            "font_size": 40,
+            "top_left": [
+                140,
+                537
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                786,
+                709
+            ],
+            "content": "问老师,当物快和模版碰撞工速后物块还",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.0325430434671602,
+            "font_size": 35,
+            "top_left": [
+                156,
+                669
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                482,
+                759
+            ],
+            "content": "受模板的摩擦吗?",
+            "content_id": "7",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004090474246960426,
+            "font_size": 32,
+            "top_left": [
+                226,
+                715
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                786,
+                926
+            ],
+            "content": "问第三问用小球打在斜面上的模型,但是",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.028110789137300772,
+            "font_size": 35,
+            "top_left": [
+                156,
+                884
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                705,
+                976
+            ],
+            "content": "怎么确定它是垂直打在斜面的呢?",
+            "content_id": "9",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004090474246960426,
+            "font_size": 32,
+            "top_left": [
+                225,
+                931
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                115,
+                95
+            ],
+            "bottom_right": [
+                937,
+                994
+            ],
+            "content": "客",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09243886780405935,
+            "font_size": 43,
+            "top_left": [
+                894,
+                955
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                682,
+                1230
+            ],
+            "content": "疑点难点免费问答",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012522164118844393,
+            "font_size": 50,
+            "top_left": [
+                282,
+                1171
+            ]
+        },
+        {
+            "bg_color": [
+                196,
+                196,
+                196
+            ],
+            "bottom_right": [
+                824,
+                1311
+            ],
+            "content": "VIP用户每月享有3次问答特权,可以",
+            "content_id": "12",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.002334656855946494,
+            "font_size": 38,
+            "top_left": [
+                140,
+                1263
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                759,
+                1370
+            ],
+            "content": "向专业老师提问,获得权威解答",
+            "content_id": "13",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004247045501248657,
+            "font_size": 41,
+            "top_left": [
+                185,
+                1319
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                621,
+                1501
+            ],
+            "content": "查看我的问答>",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11502362487549016,
+            "font_size": 40,
+            "top_left": [
+                341,
+                1455
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                765,
+                1733
+            ],
+            "content": "岁用数集辨析",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.020003612777160864,
+            "font_size": 43,
+            "top_left": [
+                507,
+                1680
+            ]
+        },
+        {
+            "bg_color": [
+                97,
+                62,
+                13
+            ],
+            "bottom_right": [
+                337,
+                1753
+            ],
+            "content": "常用数集辨",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1739975618906855,
+            "font_size": 45,
+            "top_left": [
+                112,
+                1691
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                121,
+                111
+            ],
+            "bottom_right": [
+                170,
+                1806
+            ],
+            "content": "析",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1942454138205234,
+            "font_size": 60,
+            "top_left": [
+                110,
+                1745
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                721,
+                1817
+            ],
+            "content": "10.8万人在学",
+            "content_id": "18",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004041301196060092,
+            "font_size": 26,
+            "top_left": [
+                513,
+                1779
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                931,
+                2013
+            ],
+            "content": "集合中元素性质的应用",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.017089992794440595,
+            "font_size": 42,
+            "top_left": [
+                511,
+                1955
+            ]
+        },
+        {
+            "bg_color": [
+                97,
+                62,
+                13
+            ],
+            "bottom_right": [
+                337,
+                2034
+            ],
+            "content": "集合中元素",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1754064163971431,
+            "font_size": 45,
+            "top_left": [
+                112,
+                1973
+            ]
+        },
+        {
+            "bg_color": [
+                97,
+                62,
+                13
+            ],
+            "bottom_right": [
+                336,
+                2086
+            ],
+            "content": "性质的应用",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15336495430549194,
+            "font_size": 45,
+            "top_left": [
+                111,
+                2024
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                709,
+                2100
+            ],
+            "content": "7.2万人在学",
+            "content_id": "22",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004041301196060092,
+            "font_size": 28,
+            "top_left": [
+                513,
+                2057
+            ]
+        },
+        {
+            "bg_color": [
+                108,
+                91,
+                68
+            ],
+            "bottom_right": [
+                704,
+                2312
+            ],
+            "content": "新人限时8元开通",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13435438930638885,
+            "font_size": 42,
+            "top_left": [
+                368,
+                2251
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "59c9f3fd3157d5a9bb3c838063c0c300ae19b9e6f5d878a3e308bcb07f221677"
+}

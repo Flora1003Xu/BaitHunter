@@ -1,0 +1,33 @@
+{
+    "data": [
+      {
+        "click_id": "6",
+        "click_content": "Xiaomi-21121119SC当前设备",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "Xiaomi-21121119SC当前设备"
+          },
+          {
+            "content_id": "5",
+            "content": "已登录的设备"
+          }
+        ]
+      },
+      {
+        "click_id": "8",
+        "click_content": "android-31",
+        "group": [
+          {
+            "content_id": "8",
+            "content": "android-31"
+          },
+          {
+            "content_id": "7",
+            "content": "已退出登录的设备"
+          }
+        ]
+      }
+    ]
+  }
+   

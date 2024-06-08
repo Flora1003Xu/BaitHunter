@@ -1,0 +1,747 @@
+{
+    "ui_id": "57f5f7b3f7ab81c463e0a8f314e1351724857eac3354b47798df153a9cba3bc6",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "攻略",
+            "top_left": [
+                736,
+                104
+            ],
+            "bottom_right": [
+                810,
+                147
+            ],
+            "font_size": 37,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21896021906504007,
+            "bg_color": [
+                255,
+                88,
+                0
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "有奖活动",
+            "top_left": [
+                297,
+                131
+            ],
+            "bottom_right": [
+                497,
+                198
+            ],
+            "font_size": 50,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07506562024124586,
+            "bg_color": [
+                255,
+                249,
+                199
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "获奖作己",
+            "top_left": [
+                500,
+                131
+            ],
+            "bottom_right": [
+                700,
+                198
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.0075808510876908325,
+            "bg_color": [
+                255,
+                250,
+                205
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "本期推荐",
+            "top_left": [
+                41,
+                287
+            ],
+            "bottom_right": [
+                225,
+                347
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.057964370451703065,
+            "bg_color": [
+                107,
+                106,
+                98
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "#年轻人数码清单",
+            "top_left": [
+                198,
+                391
+            ],
+            "bottom_right": [
+                550,
+                450
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03935413620527872,
+            "bg_color": [
+                255,
+                254,
+                237
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "去发帖",
+            "top_left": [
+                869,
+                437
+            ],
+            "bottom_right": [
+                1004,
+                482
+            ],
+            "font_size": 45,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19276099448923548,
+            "bg_color": [
+                255,
+                230,
+                15
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "622.6万人在看5654人已参与",
+            "top_left": [
+                198,
+                467
+            ],
+            "bottom_right": [
+                657,
+                510
+            ],
+            "font_size": 27,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.020983413045630856,
+            "bg_color": [
+                255,
+                254,
+                246
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "全民参与流量加持",
+            "top_left": [
+                212,
+                541
+            ],
+            "bottom_right": [
+                540,
+                585
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21959037791480698,
+            "bg_color": [
+                255,
+                250,
+                247
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "#家居好物鉴赏大会",
+            "top_left": [
+                197,
+                668
+            ],
+            "bottom_right": [
+                611,
+                725
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "去发帖",
+            "top_left": [
+                869,
+                711
+            ],
+            "bottom_right": [
+                1004,
+                756
+            ],
+            "font_size": 45,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19330354835387548,
+            "bg_color": [
+                255,
+                230,
+                15
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "2923.8万人在看3.2万人已参与",
+            "top_left": [
+                198,
+                743
+            ],
+            "bottom_right": [
+                684,
+                788
+            ],
+            "font_size": 27,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "全民参与红包奖励",
+            "top_left": [
+                212,
+                815
+            ],
+            "bottom_right": [
+                540,
+                860
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22007228689421268,
+            "bg_color": [
+                255,
+                250,
+                247
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "圈内热门话是",
+            "top_left": [
+                41,
+                952
+            ],
+            "bottom_right": [
+                311,
+                1012
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "热门",
+            "top_left": [
+                44,
+                1067
+            ],
+            "bottom_right": [
+                156,
+                1115
+            ],
+            "font_size": 56,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19622524232229055,
+            "bg_color": [
+                255,
+                230,
+                15
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "生活",
+            "top_left": [
+                157,
+                1067
+            ],
+            "bottom_right": [
+                269,
+                1115
+            ],
+            "font_size": 56,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18331309132709078,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "数码",
+            "top_left": [
+                270,
+                1067
+            ],
+            "bottom_right": [
+                382,
+                1115
+            ],
+            "font_size": 56,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "时尚",
+            "top_left": [
+                383,
+                1067
+            ],
+            "bottom_right": [
+                495,
+                1115
+            ],
+            "font_size": 56,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "模玩",
+            "top_left": [
+                496,
+                1067
+            ],
+            "bottom_right": [
+                608,
+                1115
+            ],
+            "font_size": 56,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "奢品",
+            "top_left": [
+                609,
+                1067
+            ],
+            "bottom_right": [
+                721,
+                1115
+            ],
+            "font_size": 56,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "#哪款电脑值得买",
+            "top_left": [
+                197,
+                1197
+            ],
+            "bottom_right": [
+                565,
+                1253
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00808839781480237,
+            "bg_color": [
+                164,
+                164,
+                164
+            ]
+        },
+        {
+            "content_id": "21",
+            "content": "去发帖",
+            "top_left": [
+                869,
+                1240
+            ],
+            "bottom_right": [
+                1004,
+                1286
+            ],
+            "font_size": 45,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1929438769932481,
+            "bg_color": [
+                255,
+                230,
+                15
+            ]
+        },
+        {
+            "content_id": "22",
+            "content": "3647.5万人在看1.5万人已参与",
+            "top_left": [
+                198,
+                1272
+            ],
+            "bottom_right": [
+                666,
+                1318
+            ],
+            "font_size": 26,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "23",
+            "content": "全民参与红包奖励",
+            "top_left": [
+                213,
+                1344
+            ],
+            "bottom_right": [
+                533,
+                1389
+            ],
+            "font_size": 40,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21896274276638725,
+            "bg_color": [
+                255,
+                250,
+                247
+            ]
+        },
+        {
+            "content_id": "24",
+            "content": "#家居好物鉴赏大会",
+            "top_left": [
+                197,
+                1474
+            ],
+            "bottom_right": [
+                593,
+                1534
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "25",
+            "content": "去发蛇",
+            "top_left": [
+                868,
+                1514
+            ],
+            "bottom_right": [
+                994,
+                1563
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19671657157856431,
+            "bg_color": [
+                255,
+                230,
+                15
+            ]
+        },
+        {
+            "content_id": "26",
+            "content": "2923.8万人在看3.1万人已参与",
+            "top_left": [
+                198,
+                1552
+            ],
+            "bottom_right": [
+                666,
+                1595
+            ],
+            "font_size": 26,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "27",
+            "content": "全民参与红包奖励",
+            "top_left": [
+                212,
+                1624
+            ],
+            "bottom_right": [
+                540,
+                1668
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21656875436034598,
+            "bg_color": [
+                255,
+                250,
+                247
+            ]
+        },
+        {
+            "content_id": "28",
+            "content": "#年轻人都开什么车",
+            "top_left": [
+                198,
+                1751
+            ],
+            "bottom_right": [
+                603,
+                1811
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "29",
+            "content": "去发帖",
+            "top_left": [
+                869,
+                1794
+            ],
+            "bottom_right": [
+                1004,
+                1841
+            ],
+            "font_size": 45,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19671657157856431,
+            "bg_color": [
+                255,
+                230,
+                15
+            ]
+        },
+        {
+            "content_id": "30",
+            "content": "1865.5万人在看5834人已参与",
+            "top_left": [
+                199,
+                1827
+            ],
+            "bottom_right": [
+                667,
+                1870
+            ],
+            "font_size": 26,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                163,
+                163,
+                163
+            ]
+        },
+        {
+            "content_id": "31",
+            "content": "全民参与流量加持",
+            "top_left": [
+                212,
+                1899
+            ],
+            "bottom_right": [
+                540,
+                1944
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2194730715898791,
+            "bg_color": [
+                255,
+                250,
+                247
+            ]
+        },
+        {
+            "content_id": "32",
+            "content": "#晒晒你的模型玩具",
+            "top_left": [
+                197,
+                2029
+            ],
+            "bottom_right": [
+                611,
+                2081
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "33",
+            "content": "去发帖",
+            "top_left": [
+                869,
+                2070
+            ],
+            "bottom_right": [
+                1004,
+                2117
+            ],
+            "font_size": 45,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19671657157856431,
+            "bg_color": [
+                255,
+                230,
+                15
+            ]
+        },
+        {
+            "content_id": "34",
+            "content": "886.8万人在看4940人已参与",
+            "top_left": [
+                198,
+                2100
+            ],
+            "bottom_right": [
+                657,
+                2145
+            ],
+            "font_size": 27,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "35",
+            "content": "流量加持",
+            "top_left": [
+                213,
+                2177
+            ],
+            "bottom_right": [
+                357,
+                2224
+            ],
+            "font_size": 36,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20542298210517956,
+            "bg_color": [
+                255,
+                250,
+                247
+            ]
+        },
+        {
+            "content_id": "36",
+            "content": "红包奖成",
+            "top_left": [
+                358,
+                2177
+            ],
+            "bottom_right": [
+                502,
+                2224
+            ],
+            "font_size": 36,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22007228689421268,
+            "bg_color": [
+                255,
+                250,
+                247
+            ]
+        },
+        {
+            "content_id": "37",
+            "content": "#晒晒我的MD随身听",
+            "top_left": [
+                197,
+                2307
+            ],
+            "bottom_right": [
+                637,
+                2363
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010936217971318751,
+            "bg_color": [
+                246,
+                246,
+                246
+            ]
+        }
+    ]
+}

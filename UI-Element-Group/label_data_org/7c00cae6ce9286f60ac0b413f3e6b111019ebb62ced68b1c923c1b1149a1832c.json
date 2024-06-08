@@ -1,0 +1,247 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                808,
+                193
+            ],
+            "content": "极光用户服务协议极光",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 54,
+            "top_left": [
+                268,
+                132
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                31,
+                74
+            ],
+            "bottom_right": [
+                301,
+                645
+            ],
+            "content": "样",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22492280995709574,
+            "font_size": 31,
+            "top_left": [
+                270,
+                552
+            ]
+        },
+        {
+            "bg_color": [
+                11,
+                32,
+                77
+            ],
+            "bottom_right": [
+                363,
+                645
+            ],
+            "content": "3子",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22628694440060507,
+            "font_size": 31,
+            "top_left": [
+                301,
+                552
+            ]
+        },
+        {
+            "bg_color": [
+                11,
+                32,
+                75
+            ],
+            "bottom_right": [
+                394,
+                645
+            ],
+            "content": "水",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22633199949404756,
+            "font_size": 31,
+            "top_left": [
+                363,
+                552
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                34,
+                81
+            ],
+            "bottom_right": [
+                456,
+                645
+            ],
+            "content": "用户",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23383713723425237,
+            "font_size": 31,
+            "top_left": [
+                394,
+                552
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                34,
+                81
+            ],
+            "bottom_right": [
+                518,
+                645
+            ],
+            "content": "侯实",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23644095137264715,
+            "font_size": 31,
+            "top_left": [
+                456,
+                552
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                580,
+                645
+            ],
+            "content": "小议",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23793952089024972,
+            "font_size": 31,
+            "top_left": [
+                518,
+                552
+            ]
+        },
+        {
+            "bg_color": [
+                236,
+                242,
+                244
+            ],
+            "bottom_right": [
+                469,
+                1303
+            ],
+            "content": "极光用户服务协议",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1893565695215901,
+            "font_size": 50,
+            "top_left": [
+                69,
+                1243
+            ]
+        },
+        {
+            "bg_color": [
+                244,
+                249,
+                251
+            ],
+            "bottom_right": [
+                518,
+                1482
+            ],
+            "content": "极光开发者服务协议",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19117952472265684,
+            "font_size": 50,
+            "top_left": [
+                68,
+                1421
+            ]
+        },
+        {
+            "bg_color": [
+                244,
+                249,
+                251
+            ],
+            "bottom_right": [
+                469,
+                1658
+            ],
+            "content": "营销平台合作协议",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19117952472265684,
+            "font_size": 50,
+            "top_left": [
+                69,
+                1599
+            ]
+        },
+        {
+            "bg_color": [
+                244,
+                249,
+                251
+            ],
+            "bottom_right": [
+                465,
+                1838
+            ],
+            "content": "SSP媒体服务协议",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19117952472265684,
+            "font_size": 44,
+            "top_left": [
+                69,
+                1778
+            ]
+        },
+        {
+            "bg_color": [
+                40,
+                47,
+                55
+            ],
+            "bottom_right": [
+                269,
+                2320
+            ],
+            "content": "关于我们",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12009988110640277,
+            "font_size": 53,
+            "top_left": [
+                57,
+                2258
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "7c00cae6ce9286f60ac0b413f3e6b111019ebb62ced68b1c923c1b1149a1832c"
+}

@@ -1,0 +1,18 @@
+{
+    "data": [
+      {
+        "click_id": "17",
+        "click_content": "立即抢购",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "每邀请1名新用户最高得10元"
+          },
+          {
+            "content_id": "17",
+            "content": "立即抢购"
+          }
+        ]
+      }
+    ]
+}

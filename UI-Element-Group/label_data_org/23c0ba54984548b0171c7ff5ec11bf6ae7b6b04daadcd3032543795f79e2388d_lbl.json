@@ -1,0 +1,51 @@
+{
+    "data": [
+      {
+        "click_id": "10",
+        "click_content": "关注",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "关注"
+          },
+          {
+            "content_id": "7",
+            "content": "吱喷Love"
+          },
+          {
+            "content_id": "8",
+            "content": "谢谢大家喜欢,祝你们天天开心"
+          },
+          {
+            "content_id": "9",
+            "content": "2白羊座福建南平"
+          }
+        ]
+      },
+      {
+        "click_id": "17",
+        "click_content": "01.2万",
+        "group": [
+          {
+            "content_id": "17",
+            "content": "01.2万"
+          },
+          {
+            "content_id": "16",
+            "content": "置顶"
+          }
+        ]
+      },
+      {
+        "click_id": "22",
+        "click_content": "刚刚看过",
+        "group": [
+          {
+            "content_id": "22",
+            "content": "刚刚看过"
+          }
+        ]
+      }
+    ]
+  }
+   

@@ -1,0 +1,49 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "手机号码",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "手机号码"
+          },
+          {
+            "content_id": "4",
+            "content": "178*xxx**38>"
+          }
+        ]
+      },
+      {
+        "click_id": "6",
+        "click_content": "消息通知",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "消息通知"
+          }
+        ]
+      },
+      {
+        "click_id": "10",
+        "click_content": "QQ免流量",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "QQ免流量"
+          }
+        ]
+      },
+      {
+        "click_id": "12",
+        "click_content": "第三方个人信息共享清单",
+        "group": [
+          {
+            "content_id": "12",
+            "content": "第三方个人信息共享清单"
+          }
+        ]
+      }
+    ]
+  }
+   

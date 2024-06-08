@@ -1,0 +1,41 @@
+{
+    "data": [
+      {
+        "click_id": "10",
+        "click_content": "开启",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "开启"
+          },
+          {
+            "content_id": "8",
+            "content": "开启通知权限"
+          },
+          {
+            "content_id": "9",
+            "content": "获取最新热点资讯、互动消息与福利信息"
+          }
+        ]
+      },
+      {
+        "click_id": "11",
+        "click_content": "关闭",
+        "group": [
+          {
+            "content_id": "11",
+            "content": "关闭"
+          },
+          {
+            "content_id": "8",
+            "content": "开启通知权限"
+          },
+          {
+            "content_id": "9",
+            "content": "获取最新热点资讯、互动消息与福利信息"
+          }
+        ]
+      }
+    ]
+  }
+   

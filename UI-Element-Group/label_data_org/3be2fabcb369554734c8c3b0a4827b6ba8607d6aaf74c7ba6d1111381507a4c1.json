@@ -1,0 +1,707 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                794,
+                199
+            ],
+            "content": "京东京造夏凉节",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 61,
+            "top_left": [
+                367,
+                136
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                861,
+                199
+            ],
+            "content": "医",
+            "content_id": "2",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 61,
+            "top_left": [
+                800,
+                136
+            ]
+        },
+        {
+            "bg_color": [
+                172,
+                21,
+                38
+            ],
+            "bottom_right": [
+                1020,
+                530
+            ],
+            "content": "京东京造",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.33628496679221387,
+            "font_size": 35,
+            "top_left": [
+                880,
+                490
+            ]
+        },
+        {
+            "bg_color": [
+                252,
+                255,
+                252
+            ],
+            "bottom_right": [
+                269,
+                1027
+            ],
+            "content": "2件9折",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17907850707379117,
+            "font_size": 50,
+            "top_left": [
+                69,
+                965
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                255,
+                254
+            ],
+            "bottom_right": [
+                269,
+                1112
+            ],
+            "content": "3件85开",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20129447016150853,
+            "font_size": 43,
+            "top_left": [
+                54,
+                1056
+            ]
+        },
+        {
+            "bg_color": [
+                153,
+                197,
+                236
+            ],
+            "bottom_right": [
+                223,
+                1292
+            ],
+            "content": "京东京造",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.351307492474156,
+            "font_size": 48,
+            "top_left": [
+                31,
+                1265
+            ]
+        },
+        {
+            "bg_color": [
+                200,
+                222,
+                244
+            ],
+            "bottom_right": [
+                416,
+                1292
+            ],
+            "content": "京东京造",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3802311428506782,
+            "font_size": 48,
+            "top_left": [
+                224,
+                1265
+            ]
+        },
+        {
+            "bg_color": [
+                205,
+                206,
+                208
+            ],
+            "bottom_right": [
+                609,
+                1292
+            ],
+            "content": "京东京追",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11226770691819804,
+            "font_size": 48,
+            "top_left": [
+                417,
+                1265
+            ]
+        },
+        {
+            "bg_color": [
+                163,
+                30,
+                39
+            ],
+            "bottom_right": [
+                1006,
+                1291
+            ],
+            "content": "京东京经",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.27782259504302903,
+            "font_size": 17,
+            "top_left": [
+                938,
+                1269
+            ]
+        },
+        {
+            "bg_color": [
+                237,
+                31,
+                26
+            ],
+            "bottom_right": [
+                95,
+                1388
+            ],
+            "content": "1200米",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23825990313877904,
+            "font_size": 13,
+            "top_left": [
+                30,
+                1365
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                42,
+                41
+            ],
+            "bottom_right": [
+                82,
+                1404
+            ],
+            "content": "里程",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24856174960166583,
+            "font_size": 20,
+            "top_left": [
+                42,
+                1382
+            ]
+        },
+        {
+            "bg_color": [
+                223,
+                37,
+                29
+            ],
+            "bottom_right": [
+                83,
+                1433
+            ],
+            "content": "观光测距",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.25402059682415284,
+            "font_size": 14,
+            "top_left": [
+                41,
+                1411
+            ]
+        },
+        {
+            "bg_color": [
+                221,
+                205,
+                209
+            ],
+            "bottom_right": [
+                84,
+                1450
+            ],
+            "content": "高清视像",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22556039404551517,
+            "font_size": 22,
+            "top_left": [
+                40,
+                1426
+            ]
+        },
+        {
+            "bg_color": [
+                125,
+                121,
+                120
+            ],
+            "bottom_right": [
+                83,
+                1487
+            ],
+            "content": "知",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06784353069290007,
+            "font_size": 42,
+            "top_left": [
+                41,
+                1465
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                242,
+                242
+            ],
+            "bottom_right": [
+                707,
+                1490
+            ],
+            "content": "送元系动",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23727444911089543,
+            "font_size": 17,
+            "top_left": [
+                639,
+                1468
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                242,
+                242
+            ],
+            "bottom_right": [
+                407,
+                1491
+            ],
+            "content": "30A不5",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.389428323925898,
+            "font_size": 16,
+            "top_left": [
+                327,
+                1472
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                242,
+                242
+            ],
+            "bottom_right": [
+                350,
+                1538
+            ],
+            "content": "到手价￥384",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2381540256228081,
+            "font_size": 40,
+            "top_left": [
+                70,
+                1495
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                242,
+                242
+            ],
+            "bottom_right": [
+                632,
+                1538
+            ],
+            "content": "到手价￥399",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.38567668574005065,
+            "font_size": 40,
+            "top_left": [
+                352,
+                1495
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                242,
+                242
+            ],
+            "bottom_right": [
+                914,
+                1538
+            ],
+            "content": "到手价￥329",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23816407620931412,
+            "font_size": 40,
+            "top_left": [
+                634,
+                1495
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                327,
+                1687
+            ],
+            "content": "2件75折",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 54,
+            "top_left": [
+                57,
+                1632
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                817,
+                1687
+            ],
+            "content": "2件9折3件85开",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16187983205041948,
+            "font_size": 54,
+            "top_left": [
+                331,
+                1632
+            ]
+        },
+        {
+            "bg_color": [
+                48,
+                232,
+                234
+            ],
+            "bottom_right": [
+                395,
+                1767
+            ],
+            "content": "进入会场>",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.4255382810656049,
+            "font_size": 62,
+            "top_left": [
+                85,
+                1722
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                705,
+                1767
+            ],
+            "content": "进入会场>",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.37222583289737077,
+            "font_size": 62,
+            "top_left": [
+                395,
+                1722
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                318,
+                1943
+            ],
+            "content": "优惠券",
+            "content_id": "24",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010451320048638945,
+            "font_size": 86,
+            "top_left": [
+                60,
+                1901
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                577,
+                1943
+            ],
+            "content": "优惠券",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 86,
+            "top_left": [
+                319,
+                1901
+            ]
+        },
+        {
+            "bg_color": [
+                194,
+                194,
+                194
+            ],
+            "bottom_right": [
+                361,
+                1980
+            ],
+            "content": "COUPONS",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5439482240301711,
+            "font_size": 43,
+            "top_left": [
+                60,
+                1941
+            ]
+        },
+        {
+            "bg_color": [
+                211,
+                211,
+                211
+            ],
+            "bottom_right": [
+                664,
+                1980
+            ],
+            "content": "COUPONS",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5440606308071065,
+            "font_size": 43,
+            "top_left": [
+                363,
+                1941
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                387,
+                2058
+            ],
+            "content": "立即领取>",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5639247229116231,
+            "font_size": 60,
+            "top_left": [
+                87,
+                2017
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                689,
+                2058
+            ],
+            "content": "立即领取>",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5666088859980665,
+            "font_size": 60,
+            "top_left": [
+                389,
+                2017
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                600,
+                2072
+            ],
+            "content": "满99可用",
+            "content_id": "30",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5585271010035705,
+            "font_size": 57,
+            "top_left": [
+                315,
+                2025
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                946,
+                2072
+            ],
+            "content": "满199可用",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5601370024356885,
+            "font_size": 57,
+            "top_left": [
+                604,
+                2025
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                210,
+                2357
+            ],
+            "content": "首页",
+            "content_id": "32",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03724154555985952,
+            "font_size": 61,
+            "top_left": [
+                88,
+                2311
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                393,
+                2357
+            ],
+            "content": "逛京造",
+            "content_id": "33",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03724154555985952,
+            "font_size": 61,
+            "top_left": [
+                210,
+                2311
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                577,
+                2357
+            ],
+            "content": "排行榜",
+            "content_id": "34",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03724154555985952,
+            "font_size": 61,
+            "top_left": [
+                394,
+                2311
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                822,
+                2357
+            ],
+            "content": "会员中心",
+            "content_id": "35",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01352414046491171,
+            "font_size": 61,
+            "top_left": [
+                578,
+                2311
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "3be2fabcb369554734c8c3b0a4827b6ba8607d6aaf74c7ba6d1111381507a4c1"
+}

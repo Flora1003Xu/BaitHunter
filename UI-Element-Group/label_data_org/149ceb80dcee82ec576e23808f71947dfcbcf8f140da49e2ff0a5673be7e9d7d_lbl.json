@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+          "click_id": "7",
+          "click_content": "点我抢6元无门",
+          "group": [
+            {
+              "content_id": "7",
+              "content": "点我抢6元无门"
+            },
+            {
+              "content_id": "8",
+              "content": "今日已抢完"
+            },
+            {
+              "content_id": "9",
+              "content": "满6可用"
+            },
+            {
+              "content_id": "10",
+              "content": "已拾元"
+            }
+          ]
+        },
+        {
+          "click_id": "16",
+          "click_content": "立即抢",
+          "group": [
+            {
+              "content_id": "12",
+              "content": "满59可用"
+            },
+            {
+              "content_id": "14",
+              "content": "￥18"
+            },
+            {
+              "content_id": "16",
+              "content": "立即抢"
+            },
+            {
+              "content_id": "18",
+              "content": "7月高温补贴券"
+            }
+          ]
+        },
+        {
+          "click_id": "17",
+          "click_content": "立即抢",
+          "group": [
+            {
+              "content_id": "13",
+              "content": "满119可用"
+            },
+            {
+              "content_id": "15",
+              "content": "￥30"
+            },
+            {
+              "content_id": "17",
+              "content": "立即抢"
+            },
+            {
+              "content_id": "19",
+              "content": "7月高温补贴券"
+            }
+          ]
+        }
+    ]
+}

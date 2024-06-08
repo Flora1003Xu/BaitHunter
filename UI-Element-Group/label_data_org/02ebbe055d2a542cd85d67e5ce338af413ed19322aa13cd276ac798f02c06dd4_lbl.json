@@ -1,0 +1,88 @@
+{
+    "data": [
+      {
+        "click_id": "4",
+        "click_content": "键盘设置",
+        "group": [
+          {
+            "content_id": "4",
+            "content": "键盘设置"
+          },
+          {
+            "content_id": "5",
+            "content": "全面屏模式"
+          }
+        ]
+      },
+      {
+        "click_id": "15",
+        "click_content": "拒绝",
+        "group": [
+          {
+            "content_id": "15",
+            "content": "拒绝"
+          },
+          {
+            "content_id": "9",
+            "content": "邀请您参与用户改进计划"
+          },
+          {
+            "content_id": "10",
+            "content": "您同意发送统计信息(如崩溃、卡"
+          },
+          {
+            "content_id": "11",
+            "content": "顿、出错)帮助输入法提升您的输"
+          },
+          {
+            "content_id": "12",
+            "content": "入体验吗?搜狗输入法将根据用户"
+          },
+          {
+            "content_id": "13",
+            "content": "服务协议、个人信息保护政策、用"
+          },
+          {
+            "content_id": "14",
+            "content": "户体验改进计划说明使用您的信息"
+          }
+        ]
+      },
+      {
+        "click_id": "16",
+        "click_content": "确定",
+        "group": [
+          {
+            "content_id": "16",
+            "content": "确定"
+          },
+          {
+            "content_id": "9",
+            "content": "邀请您参与用户改进计划"
+          },
+          {
+            "content_id": "10",
+            "content": "您同意发送统计信息(如崩溃、卡"
+          },
+          {
+            "content_id": "11",
+            "content": "顿、出错)帮助输入法提升您的输"
+          },
+          {
+            "content_id": "12",
+            "content": "入体验吗?搜狗输入法将根据用户"
+          },
+          {
+            "content_id": "13",
+            "content": "服务协议、个人信息保护政策、用"
+          },
+          {
+            "content_id": "14",
+            "content": "户体验改进计划说明使用您的信息"
+          }
+        ]
+      }
+    ]
+  }
+   
+

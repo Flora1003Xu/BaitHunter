@@ -1,0 +1,27 @@
+{
+    "data": [
+      {
+        "click_id": "4",
+        "click_content": "提交",
+        "group": [
+          {
+            "content_id": "4",
+            "content": "提交"
+          },
+          {
+            "content_id": "1",
+            "content": "恢复账号"
+          },
+          {
+            "content_id": "2",
+            "content": "请输入您要恢复的账号"
+          },
+          {
+            "content_id": "3",
+            "content": "请输入手机号码/用户名/邮箱"
+          }
+        ]
+      }
+    ]
+  }
+   

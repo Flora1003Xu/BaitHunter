@@ -1,0 +1,118 @@
+{
+    "data": [
+        {
+            "click_id": "20",
+            "click_content": "微信登录",
+            "group": [
+              {
+                "content_id": "16",
+                "content": "登录后书签、"
+              },
+              {
+                "content_id": "17",
+                "content": "书架安全不丢失"
+              },
+              {
+                "content_id": "18",
+                "content": "手机号码"
+              },
+              {
+                "content_id": "19",
+                "content": "获取验证码"
+              },
+              {
+                "content_id": "20",
+                "content": "微信登录"
+              },
+              {
+                "content_id": "21",
+                "content": "QQ登录"
+              },
+              {
+                "content_id": "22",
+                "content": "更多"
+              },
+              {
+                "content_id": "23",
+                "content": "请阅读并同意《用户协议》《隐私权政策》"
+              }
+            ]
+        },
+        {
+            "click_id": "21",
+            "click_content": "QQ登录",
+            "group": [
+              {
+                "content_id": "16",
+                "content": "登录后书签、"
+              },
+              {
+                "content_id": "17",
+                "content": "书架安全不丢失"
+              },
+              {
+                "content_id": "18",
+                "content": "手机号码"
+              },
+              {
+                "content_id": "19",
+                "content": "获取验证码"
+              },
+              {
+                "content_id": "20",
+                "content": "微信登录"
+              },
+              {
+                "content_id": "21",
+                "content": "QQ登录"
+              },
+              {
+                "content_id": "22",
+                "content": "更多"
+              },
+              {
+                "content_id": "23",
+                "content": "请阅读并同意《用户协议》《隐私权政策》"
+              }
+            ]
+        },
+        {
+            "click_id": "22",
+            "click_content": "更多",
+            "group": [
+              {
+                "content_id": "16",
+                "content": "登录后书签、"
+              },
+              {
+                "content_id": "17",
+                "content": "书架安全不丢失"
+              },
+              {
+                "content_id": "18",
+                "content": "手机号码"
+              },
+              {
+                "content_id": "19",
+                "content": "获取验证码"
+              },
+              {
+                "content_id": "20",
+                "content": "微信登录"
+              },
+              {
+                "content_id": "21",
+                "content": "QQ登录"
+              },
+              {
+                "content_id": "22",
+                "content": "更多"
+              },
+              {
+                "content_id": "23",
+                "content": "请阅读并同意《用户协议》《隐私权政策》"
+              }
+            ]
+        }
+    ]
+}

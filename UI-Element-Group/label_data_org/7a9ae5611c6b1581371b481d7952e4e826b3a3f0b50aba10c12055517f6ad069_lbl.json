@@ -1,0 +1,61 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "系统通知",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "系统通知"
+          },
+          {
+            "content_id": "4",
+            "content": "暂无消息"
+          }
+        ]
+      },
+      {
+        "click_id": "5",
+        "click_content": "互动消息",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "互动消息"
+          },
+          {
+            "content_id": "6",
+            "content": "登录查看"
+          }
+        ]
+      },
+      {
+        "click_id": "7",
+        "click_content": "服务通知",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "服务通知"
+          },
+          {
+            "content_id": "8",
+            "content": "登录查看"
+          }
+        ]
+      },
+      {
+        "click_id": "9",
+        "click_content": "活动消息",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "活动消息"
+          },
+          {
+            "content_id": "10",
+            "content": "暂无消息"
+          }
+        ]
+      }
+    ]
+  }
+   

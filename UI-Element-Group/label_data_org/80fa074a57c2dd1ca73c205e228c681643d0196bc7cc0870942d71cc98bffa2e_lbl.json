@@ -1,0 +1,98 @@
+{
+    "data": [
+      {
+        "click_id": "9",
+        "click_content": "谁哦主题",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "谁哦主题"
+          },
+          {
+            "content_id": "10",
+            "content": "精品皮肤"
+          },
+          {
+            "content_id": "11",
+            "content": "民有星"
+          }
+        ]
+      },
+      {
+        "click_id": "12",
+        "click_content": "皮肤制造机",
+        "group": [
+            {
+              "content_id": "12",
+              "content": "皮肤制造机"
+            },
+            {
+              "content_id": "13",
+              "content": "定制专属皮肤"
+            }
+          ]
+      },
+      {
+        "click_id": "14",
+        "click_content": "排行榜",
+        "group": [
+            {
+              "content_id": "14",
+              "content": "排行榜"
+            },
+            {
+              "content_id": "15",
+              "content": "热销装扮"
+            },
+            {
+              "content_id": "16",
+              "content": "朝处付"
+            },
+            {
+              "content_id": "17",
+              "content": "皮肤&字体"
+            }
+          ]
+      },
+      {
+        "click_id": "26",
+        "click_content": "皮肤",
+        "group": [
+            {
+              "content_id": "26",
+              "content": "皮肤"
+            },
+            {
+              "content_id": "28",
+              "content": "山茶花"
+            },
+            {
+              "content_id": "31",
+              "content": "免费"
+            }
+          ]
+      },
+      {
+        "click_id": "39",
+        "click_content": "登录",
+        "group": [
+            {
+              "content_id": "39",
+              "content": "登录"
+            },
+            {
+              "content_id": "38",
+              "content": "立即登录,让输入更快更准更智能"
+            },
+            {
+              "content_id": "40",
+              "content": "自动学习您的输入习惯,词库、闪光语录装"
+            }
+          ]
+      }
+    ]
+  }
+   
+
+
+

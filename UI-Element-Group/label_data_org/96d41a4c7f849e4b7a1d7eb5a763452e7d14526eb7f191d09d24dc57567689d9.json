@@ -1,0 +1,527 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                125,
+                125,
+                125
+            ],
+            "bottom_right": [
+                653,
+                195
+            ],
+            "content": "关注。推荐",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2186195196013239,
+            "font_size": 55,
+            "top_left": [
+                378,
+                128
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                92,
+                63
+            ],
+            "bottom_right": [
+                421,
+                626
+            ],
+            "content": "连",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20734738270831168,
+            "font_size": 98,
+            "top_left": [
+                323,
+                553
+            ]
+        },
+        {
+            "bg_color": [
+                238,
+                50,
+                57
+            ],
+            "bottom_right": [
+                438,
+                714
+            ],
+            "content": "页客",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2146047694481142,
+            "font_size": 57,
+            "top_left": [
+                324,
+                633
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                253,
+                246
+            ],
+            "bottom_right": [
+                496,
+                714
+            ],
+            "content": "9",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21722988417951988,
+            "font_size": 57,
+            "top_left": [
+                439,
+                633
+            ]
+        },
+        {
+            "bg_color": [
+                235,
+                35,
+                54
+            ],
+            "bottom_right": [
+                553,
+                714
+            ],
+            "content": "励",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20602840466863673,
+            "font_size": 57,
+            "top_left": [
+                496,
+                633
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                740,
+                892
+            ],
+            "content": "明日签到领0.2元",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22379553659567827,
+            "font_size": 46,
+            "top_left": [
+                326,
+                830
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                219
+            ],
+            "bottom_right": [
+                747,
+                960
+            ],
+            "content": "再签2天,可赚连签奖0.1元",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1573629765114671,
+            "font_size": 31,
+            "top_left": [
+                313,
+                915
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                248,
+                230
+            ],
+            "bottom_right": [
+                341,
+                1045
+            ],
+            "content": "￥0.2",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13167908056818325,
+            "font_size": 35,
+            "top_left": [
+                201,
+                1002
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                181
+            ],
+            "bottom_right": [
+                483,
+                1045
+            ],
+            "content": "￥0.2",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2032805097934296,
+            "font_size": 35,
+            "top_left": [
+                343,
+                1002
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                181
+            ],
+            "bottom_right": [
+                625,
+                1045
+            ],
+            "content": "￥0.3",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18392325357326883,
+            "font_size": 35,
+            "top_left": [
+                485,
+                1002
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                181
+            ],
+            "bottom_right": [
+                767,
+                1045
+            ],
+            "content": "￥0.2",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2032805097934296,
+            "font_size": 35,
+            "top_left": [
+                627,
+                1002
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                248,
+                230
+            ],
+            "bottom_right": [
+                336,
+                1240
+            ],
+            "content": "第1天",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09716279584377499,
+            "font_size": 45,
+            "top_left": [
+                201,
+                1196
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                181
+            ],
+            "bottom_right": [
+                471,
+                1240
+            ],
+            "content": "第2天",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2032805097934296,
+            "font_size": 45,
+            "top_left": [
+                336,
+                1196
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                181
+            ],
+            "bottom_right": [
+                606,
+                1240
+            ],
+            "content": "连签奖",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2032805097934296,
+            "font_size": 45,
+            "top_left": [
+                471,
+                1196
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                181
+            ],
+            "bottom_right": [
+                741,
+                1240
+            ],
+            "content": "第4天",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18986017702288213,
+            "font_size": 45,
+            "top_left": [
+                606,
+                1196
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                181
+            ],
+            "bottom_right": [
+                365,
+                1316
+            ],
+            "content": "￥0.3",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12234091747451298,
+            "font_size": 41,
+            "top_left": [
+                201,
+                1273
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                181
+            ],
+            "bottom_right": [
+                530,
+                1316
+            ],
+            "content": "￥0.2",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12388602000492653,
+            "font_size": 41,
+            "top_left": [
+                366,
+                1273
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                181
+            ],
+            "bottom_right": [
+                695,
+                1316
+            ],
+            "content": "￥0.4",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08375412274499011,
+            "font_size": 41,
+            "top_left": [
+                531,
+                1273
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                181
+            ],
+            "bottom_right": [
+                351,
+                1511
+            ],
+            "content": "连签奖",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1889151229433938,
+            "font_size": 55,
+            "top_left": [
+                186,
+                1466
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                181
+            ],
+            "bottom_right": [
+                516,
+                1511
+            ],
+            "content": "第6天",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2032805097934296,
+            "font_size": 55,
+            "top_left": [
+                351,
+                1466
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                181
+            ],
+            "bottom_right": [
+                681,
+                1511
+            ],
+            "content": "连签奖",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14499838560080486,
+            "font_size": 55,
+            "top_left": [
+                516,
+                1466
+            ]
+        },
+        {
+            "bg_color": [
+                252,
+                219,
+                134
+            ],
+            "bottom_right": [
+                828,
+                1655
+            ],
+            "content": "今日已签到,邀请好友奖励翻倍",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1517588123690634,
+            "font_size": 43,
+            "top_left": [
+                226,
+                1594
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                255,
+                2342
+            ],
+            "content": "首页",
+            "content_id": "23",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012546402271090395,
+            "font_size": 91,
+            "top_left": [
+                73,
+                2301
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                438,
+                2342
+            ],
+            "content": "发现",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.35113634104245095,
+            "font_size": 91,
+            "top_left": [
+                256,
+                2301
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                621,
+                2342
+            ],
+            "content": "消息",
+            "content_id": "25",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012546402271090395,
+            "font_size": 91,
+            "top_left": [
+                439,
+                2301
+            ]
+        },
+        {
+            "bg_color": [
+                127,
+                127,
+                127
+            ],
+            "bottom_right": [
+                713,
+                2342
+            ],
+            "content": "我",
+            "content_id": "26",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 91,
+            "top_left": [
+                622,
+                2301
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "96d41a4c7f849e4b7a1d7eb5a763452e7d14526eb7f191d09d24dc57567689d9"
+}

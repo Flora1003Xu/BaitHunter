@@ -1,0 +1,86 @@
+{
+    "data": [
+        {
+            "click_id": "20",
+            "click_content": "确定",
+            "group": [
+              {
+                "content_id": "2",
+                "content": "请选择你的年级"
+              },
+              {
+                "content_id": "3",
+                "content": "小学"
+              },
+              {
+                "content_id": "4",
+                "content": "一年级"
+              },
+              {
+                "content_id": "5",
+                "content": "二年级"
+              },
+              {
+                "content_id": "6",
+                "content": "三年级"
+              },
+              {
+                "content_id": "7",
+                "content": "四年级"
+              },
+              {
+                "content_id": "8",
+                "content": "五年级"
+              },
+              {
+                "content_id": "9",
+                "content": "六年级"
+              },
+              {
+                "content_id": "10",
+                "content": "初中"
+              },
+              {
+                "content_id": "11",
+                "content": "初"
+              },
+              {
+                "content_id": "12",
+                "content": "初二"
+              },
+              {
+                "content_id": "13",
+                "content": "初三"
+              },
+              {
+                "content_id": "14",
+                "content": "高中"
+              },
+              {
+                "content_id": "15",
+                "content": "高"
+              },
+              {
+                "content_id": "16",
+                "content": "高二"
+              },
+              {
+                "content_id": "17",
+                "content": "高三"
+              },
+              {
+                "content_id": "18",
+                "content": "其他"
+              },
+              {
+                "content_id": "19",
+                "content": "大学"
+              },
+              {
+                "content_id": "20",
+                "content": "确定"
+              }
+            ]
+        }
+    ]
+}

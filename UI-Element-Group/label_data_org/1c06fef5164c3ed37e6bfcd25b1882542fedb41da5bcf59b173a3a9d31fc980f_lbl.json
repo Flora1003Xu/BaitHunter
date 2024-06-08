@@ -1,0 +1,47 @@
+{
+    "data": [
+      {
+        "click_id": "2",
+        "click_content": "热门",
+        "group": [
+          {
+            "content_id": "2",
+            "content": "热门"
+          }
+        ]
+      },
+      {
+        "click_id": "16",
+        "click_content": "骠骑尉-松亭先生的微博视频",
+        "group": [
+          {
+            "content_id": "16",
+            "content": "骠骑尉-松亭先生的微博视频"
+          },
+          {
+            "content_id": "13",
+            "content": "真实影像!98年印尼恐怖排华大屠杀,无数华人的"
+          },
+          {
+            "content_id": "14",
+            "content": "残肢断臂堆满街道!"
+          },
+          {
+            "content_id": "15",
+            "content": "某些伊教徒还为它们的教胞洗地,骂被杀的华人活"
+          }
+        ]
+      },
+      {
+        "click_id": "18",
+        "click_content": "登录/注册",
+        "group": [
+          {
+            "content_id": "18",
+            "content": "登录/注册"
+          }
+        ]
+      }
+    ]
+  }
+  

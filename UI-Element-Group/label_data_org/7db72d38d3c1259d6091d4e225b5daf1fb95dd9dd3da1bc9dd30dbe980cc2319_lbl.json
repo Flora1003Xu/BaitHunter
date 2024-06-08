@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "click_id": "4",
+            "click_content": "圈内妹妹",
+            "group": [
+              {
+                "content_id": "4",
+                "content": "圈内妹妹"
+              },
+              {
+                "content_id": "6",
+                "content": "2022年辰星计划博主"
+              }
+            ]
+        },
+        {
+            "click_id": "11",
+            "click_content": "摄像机：我一直都在",
+            "group": [
+              {
+                "content_id": "4",
+                "content": "今晚微博视频城"
+              },
+              {
+                "content_id": "11",
+                "content": "摄像机：我一直都在"
+              },
+              {
+                "content_id": "12",
+                "content": "美多丝"
+              },
+              {
+                "content_id": "13",
+                "content": "回综艺热门综艺2577万次观看"
+              }
+            ]
+        },
+        {
+            "click_id": "18",
+            "click_content": "当个勤快人",
+            "group": [
+              {
+                "content_id": "18",
+                "content": "当个勤快人"
+              },
+              {
+                "content_id": "20",
+                "content": "33万人关注了她"
+              },
+              {
+                "content_id": "12",
+                "content": "美多丝"
+              },
+              {
+                "content_id": "13",
+                "content": "回综艺热门综艺2577万次观看"
+              }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "data": [
+        {
+          "click_id": "7",
+          "click_content": "立即领取",
+          "group": [
+            {
+              "content_id": "3",
+              "content": "恭喜收到现金红包"
+            },
+            {
+              "content_id": "4",
+              "content": "新用户专属"
+            },
+            {
+              "content_id": "5",
+              "content": "最高"
+            },
+            {
+              "content_id": "7",
+              "content": "立即领取"
+            },
+            {
+              "content_id": "9",
+              "content": "可立即提现"
+            }
+          ]
+        }
+    ]
+}

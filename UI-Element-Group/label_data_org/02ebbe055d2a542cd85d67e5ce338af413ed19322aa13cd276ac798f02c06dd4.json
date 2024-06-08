@@ -1,0 +1,427 @@
+{
+    "ui_id": "02ebbe055d2a542cd85d67e5ce338af413ed19322aa13cd276ac798f02c06dd4",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "设置",
+            "top_left": [
+                482,
+                146
+            ],
+            "bottom_right": [
+                582,
+                206
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.019495510481027545,
+            "bg_color": [
+                127,
+                127,
+                127
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "曰输入设置",
+            "top_left": [
+                41,
+                292
+            ],
+            "bottom_right": [
+                341,
+                356
+            ],
+            "font_size": 60,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.019495510481027545,
+            "bg_color": [
+                127,
+                127,
+                127
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "田",
+            "top_left": [
+                56,
+                439
+            ],
+            "bottom_right": [
+                119,
+                485
+            ],
+            "font_size": 63,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.019495510481027545,
+            "bg_color": [
+                127,
+                127,
+                127
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "键盘设置武",
+            "top_left": [
+                119,
+                439
+            ],
+            "bottom_right": [
+                434,
+                485
+            ],
+            "font_size": 63,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2232477988176593,
+            "bg_color": [
+                126,
+                126,
+                126
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "四",
+            "top_left": [
+                56,
+                571
+            ],
+            "bottom_right": [
+                103,
+                633
+            ],
+            "font_size": 47,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.024643815706875242,
+            "bg_color": [
+                127,
+                127,
+                127
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "手写设置",
+            "top_left": [
+                103,
+                571
+            ],
+            "bottom_right": [
+                291,
+                633
+            ],
+            "font_size": 47,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.024643815706875242,
+            "bg_color": [
+                127,
+                127,
+                127
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "语音设置",
+            "top_left": [
+                156,
+                707
+            ],
+            "bottom_right": [
+                340,
+                769
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.019495510481027545,
+            "bg_color": [
+                127,
+                127,
+                127
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "几5",
+            "top_left": [
+                311,
+                853
+            ],
+            "bottom_right": [
+                381,
+                873
+            ],
+            "font_size": 35,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02212483257695869,
+            "bg_color": [
+                127,
+                127,
+                127
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "邀请您参与用户改进计划",
+            "top_left": [
+                253,
+                915
+            ],
+            "bottom_right": [
+                803,
+                977
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "您同意发送统计信息(如崩溃、卡",
+            "top_left": [
+                182,
+                1038
+            ],
+            "bottom_right": [
+                842,
+                1097
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00807522476665979,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "顿、出错)帮助输入法提升您的输",
+            "top_left": [
+                182,
+                1106
+            ],
+            "bottom_right": [
+                842,
+                1169
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.00807522476665979,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "入体验吗?搜狗输入法将根据用户",
+            "top_left": [
+                182,
+                1179
+            ],
+            "bottom_right": [
+                842,
+                1239
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20429505545075918,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "服务协议、个人信息保护政策、用",
+            "top_left": [
+                182,
+                1248
+            ],
+            "bottom_right": [
+                842,
+                1310
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19754053055533763,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "户体验改进计划说明使用您的信息",
+            "top_left": [
+                182,
+                1320
+            ],
+            "bottom_right": [
+                842,
+                1380
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20429505545075918,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "拒绝",
+            "top_left": [
+                298,
+                1450
+            ],
+            "bottom_right": [
+                484,
+                1508
+            ],
+            "font_size": 93,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005681700451436083,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "确定",
+            "top_left": [
+                485,
+                1450
+            ],
+            "bottom_right": [
+                671,
+                1508
+            ],
+            "font_size": 93,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19725909788370835,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "国个人信息保护政策摘要",
+            "top_left": [
+                54,
+                1662
+            ],
+            "bottom_right": [
+                593,
+                1725
+            ],
+            "font_size": 49,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01940613853398709,
+            "bg_color": [
+                124,
+                124,
+                124
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "第三方信息共享清单",
+            "top_left": [
+                155,
+                1802
+            ],
+            "bottom_right": [
+                551,
+                1863
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.019495510481027545,
+            "bg_color": [
+                127,
+                127,
+                127
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "已收集个人信息清单",
+            "top_left": [
+                56,
+                1936
+            ],
+            "bottom_right": [
+                515,
+                1998
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.019495510481027545,
+            "bg_color": [
+                127,
+                127,
+                127
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "帮助与反馈",
+            "top_left": [
+                155,
+                2137
+            ],
+            "bottom_right": [
+                380,
+                2199
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.019495510481027545,
+            "bg_color": [
+                127,
+                127,
+                127
+            ]
+        },
+        {
+            "content_id": "21",
+            "content": "关于",
+            "top_left": [
+                142,
+                2277
+            ],
+            "bottom_right": [
+                254,
+                2338
+            ],
+            "font_size": 56,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.019495510481027545,
+            "bg_color": [
+                127,
+                127,
+                127
+            ]
+        }
+    ]
+}

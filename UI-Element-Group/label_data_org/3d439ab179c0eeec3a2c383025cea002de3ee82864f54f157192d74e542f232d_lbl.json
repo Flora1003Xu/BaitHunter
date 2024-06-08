@@ -1,0 +1,51 @@
+{
+    "data": [
+      {
+        "click_id": "2",
+        "click_content": "微信号",
+        "group": [
+          {
+            "content_id": "2",
+            "content": "微信号"
+          },
+          {
+            "content_id": "3",
+            "content": "wxid_soij7zoqca2s22"
+          }
+        ]
+      },
+      {
+        "click_id": "4",
+        "click_content": "手机号",
+        "group": [
+          {
+            "content_id": "4",
+            "content": "手机号"
+          },
+          {
+            "content_id": "5",
+            "content": "178******38"
+          }
+        ]
+      },
+      {
+        "click_id": "11",
+        "click_content": "微信安全中心",
+        "group": [
+          {
+            "content_id": "11",
+            "content": "微信安全中心"
+          },
+          {
+            "content_id": "12",
+            "content": "如果你遇到帐号被盗,无法登录等问题,可以前往安全"
+          },
+          {
+            "content_id": "13",
+            "content": "中心"
+          }
+        ]
+      }
+    ]
+  }
+   

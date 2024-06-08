@@ -1,0 +1,307 @@
+{
+    "ui_id": "50be696ba79d1f7062bba16b2102807325673b6a4ca610edf1512e89da474b2b",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "圈子",
+            "top_left": [
+                370,
+                131
+            ],
+            "bottom_right": [
+                474,
+                196
+            ],
+            "font_size": 52,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18490779877133137,
+            "bg_color": [
+                76,
+                70,
+                48
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "关注广场",
+            "top_left": [
+                475,
+                131
+            ],
+            "bottom_right": [
+                683,
+                196
+            ],
+            "font_size": 52,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10450113356725776,
+            "bg_color": [
+                83,
+                77,
+                56
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "开启默认静音,无声进入小世界开启",
+            "top_left": [
+                395,
+                923
+            ],
+            "bottom_right": [
+                1003,
+                967
+            ],
+            "font_size": 38,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.196019898877026,
+            "bg_color": [
+                72,
+                74,
+                78
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "5652",
+            "top_left": [
+                953,
+                1403
+            ],
+            "bottom_right": [
+                1033,
+                1443
+            ],
+            "font_size": 20,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08851780789327737,
+            "bg_color": [
+                122,
+                111,
+                94
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "1729",
+            "top_left": [
+                954,
+                1754
+            ],
+            "bottom_right": [
+                1034,
+                1794
+            ],
+            "font_size": 20,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13253522951022068,
+            "bg_color": [
+                155,
+                134,
+                118
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "瑶瑶困了",
+            "top_left": [
+                27,
+                1912
+            ],
+            "bottom_right": [
+                239,
+                1955
+            ],
+            "font_size": 53,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10766994416844818,
+            "bg_color": [
+                152,
+                160,
+                165
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "468",
+            "top_left": [
+                965,
+                1928
+            ],
+            "bottom_right": [
+                1022,
+                1967
+            ],
+            "font_size": 19,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12718138021846703,
+            "bg_color": [
+                130,
+                127,
+                111
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "出门前必要的一步",
+            "top_left": [
+                27,
+                1981
+            ],
+            "bottom_right": [
+                339,
+                2026
+            ],
+            "font_size": 39,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12381121986376346,
+            "bg_color": [
+                105,
+                102,
+                88
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "需要为你自动播放下一条视频吗",
+            "top_left": [
+                54,
+                2079
+            ],
+            "bottom_right": [
+                558,
+                2123
+            ],
+            "font_size": 36,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11790756314026996,
+            "bg_color": [
+                140,
+                146,
+                150
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "前往开启",
+            "top_left": [
+                567,
+                2079
+            ],
+            "bottom_right": [
+                711,
+                2123
+            ],
+            "font_size": 36,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18840056527378965,
+            "bg_color": [
+                130,
+                129,
+                119
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "弹嘉",
+            "top_left": [
+                954,
+                2102
+            ],
+            "bottom_right": [
+                1022,
+                2141
+            ],
+            "font_size": 34,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12608069672038102,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "消息",
+            "top_left": [
+                100,
+                2295
+            ],
+            "bottom_right": [
+                234,
+                2339
+            ],
+            "font_size": 67,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.543566594993003,
+            "bg_color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "小世界",
+            "top_left": [
+                234,
+                2295
+            ],
+            "bottom_right": [
+                435,
+                2339
+            ],
+            "font_size": 67,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5719893355409794,
+            "bg_color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "联系)",
+            "top_left": [
+                436,
+                2295
+            ],
+            "bottom_right": [
+                637,
+                2339
+            ],
+            "font_size": 67,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5719893355409794,
+            "bg_color": [
+                0,
+                0,
+                0
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "动态",
+            "top_left": [
+                638,
+                2295
+            ],
+            "bottom_right": [
+                772,
+                2339
+            ],
+            "font_size": 67,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.543566594993003,
+            "bg_color": [
+                0,
+                0,
+                0
+            ]
+        }
+    ]
+}

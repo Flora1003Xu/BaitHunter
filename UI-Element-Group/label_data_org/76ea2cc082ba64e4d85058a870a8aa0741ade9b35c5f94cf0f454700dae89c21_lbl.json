@@ -1,0 +1,62 @@
+{
+    "data": [
+      {
+        "click_id": "14",
+        "click_content": "继续购买",
+        "group": [
+          {
+            "content_id": "2",
+            "content": "真的要放弃购买DU会员吗?"
+          },
+          {
+            "content_id": "3",
+            "content": "你会错过以下免费超值福利"
+          },
+          {
+            "content_id": "4",
+            "content": "首汽约车月卡"
+          },
+          {
+            "content_id": "5",
+            "content": "一刻相册会员"
+          },
+          {
+            "content_id": "6",
+            "content": "￥0￥412.9"
+          },
+          {
+            "content_id": "7",
+            "content": "￥0"
+          },
+          {
+            "content_id": "8",
+            "content": "视频流畅播"
+          },
+          {
+            "content_id": "9",
+            "content": "话费红包"
+          },
+          {
+            "content_id": "10",
+            "content": "快递红包"
+          },
+          {
+            "content_id": "11",
+            "content": "外卖红包"
+          },
+          {
+            "content_id": "12",
+            "content": "超级秒杀"
+          },
+          {
+            "content_id": "13",
+            "content": "问一问红包"
+          },
+          {
+            "content_id": "14",
+            "content": "继续购买"
+          }
+        ]
+      }
+    ]
+}

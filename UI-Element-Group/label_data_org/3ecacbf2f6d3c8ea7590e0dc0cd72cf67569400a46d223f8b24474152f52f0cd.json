@@ -1,0 +1,167 @@
+{
+    "ui_id": "3ecacbf2f6d3c8ea7590e0dc0cd72cf67569400a46d223f8b24474152f52f0cd",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "绑定社交账号",
+            "top_left": [
+                368,
+                385
+            ],
+            "bottom_right": [
+                692,
+                447
+            ],
+            "font_size": 54,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "方便进行登录、提现等操作",
+            "top_left": [
+                296,
+                488
+            ],
+            "bottom_right": [
+                776,
+                532
+            ],
+            "font_size": 40,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "17827106438",
+            "top_left": [
+                271,
+                638
+            ],
+            "bottom_right": [
+                546,
+                682
+            ],
+            "font_size": 25,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "手机号验证通过",
+            "top_left": [
+                269,
+                685
+            ],
+            "bottom_right": [
+                507,
+                730
+            ],
+            "font_size": 34,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004299928553678263,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "请绑定社交账号以完成登示",
+            "top_left": [
+                268,
+                830
+            ],
+            "bottom_right": [
+                796,
+                891
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "待绑定",
+            "top_left": [
+                270,
+                888
+            ],
+            "bottom_right": [
+                381,
+                932
+            ],
+            "font_size": 37,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004299928553678263,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "阳微信登录",
+            "top_left": [
+                395,
+                1208
+            ],
+            "bottom_right": [
+                680,
+                1270
+            ],
+            "font_size": 57,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20144509522878795,
+            "bg_color": [
+                74,
+                206,
+                2
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "使用QQ登录",
+            "top_left": [
+                410,
+                1399
+            ],
+            "bottom_right": [
+                620,
+                1444
+            ],
+            "font_size": 35,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19499487884345665,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

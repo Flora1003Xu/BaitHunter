@@ -1,0 +1,134 @@
+{
+    "data": [
+        {
+            "click_id": "16",
+            "click_content": "分享",
+            "group": [
+              {
+                "content_id": "16",
+                "content": "分享"
+              },
+              {
+                "content_id": "17",
+                "content": "用系统浏览器打开"
+              },
+              {
+                "content_id": "18",
+                "content": "刷新"
+              },
+              {
+                "content_id": "19",
+                "content": "复制链接"
+              },
+              {
+                "content_id": "20",
+                "content": "取消"
+              }
+            ]
+        },
+        {
+            "click_id": "17",
+            "click_content": "用系统浏览器打开",
+            "group": [
+              {
+                "content_id": "16",
+                "content": "分享"
+              },
+              {
+                "content_id": "17",
+                "content": "用系统浏览器打开"
+              },
+              {
+                "content_id": "18",
+                "content": "刷新"
+              },
+              {
+                "content_id": "19",
+                "content": "复制链接"
+              },
+              {
+                "content_id": "20",
+                "content": "取消"
+              }
+            ]
+        },
+        {
+            "click_id": "18",
+            "click_content": "刷新",
+            "group": [
+              {
+                "content_id": "16",
+                "content": "分享"
+              },
+              {
+                "content_id": "17",
+                "content": "用系统浏览器打开"
+              },
+              {
+                "content_id": "18",
+                "content": "刷新"
+              },
+              {
+                "content_id": "19",
+                "content": "复制链接"
+              },
+              {
+                "content_id": "20",
+                "content": "取消"
+              }
+            ]
+        },
+        {
+            "click_id": "19",
+            "click_content": "复制链接",
+            "group": [
+              {
+                "content_id": "16",
+                "content": "分享"
+              },
+              {
+                "content_id": "17",
+                "content": "用系统浏览器打开"
+              },
+              {
+                "content_id": "18",
+                "content": "刷新"
+              },
+              {
+                "content_id": "19",
+                "content": "复制链接"
+              },
+              {
+                "content_id": "20",
+                "content": "取消"
+              }
+            ]
+        },
+        {
+            "click_id": "20",
+            "click_content": "取消",
+            "group": [
+              {
+                "content_id": "16",
+                "content": "分享"
+              },
+              {
+                "content_id": "17",
+                "content": "用系统浏览器打开"
+              },
+              {
+                "content_id": "18",
+                "content": "刷新"
+              },
+              {
+                "content_id": "19",
+                "content": "复制链接"
+              },
+              {
+                "content_id": "20",
+                "content": "取消"
+              }
+            ]
+        }
+    ]
+}

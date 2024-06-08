@@ -1,0 +1,407 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                368,
+                221
+            ],
+            "content": "微博",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03644514605622759,
+            "font_size": 66,
+            "top_left": [
+                236,
+                153
+            ]
+        },
+        {
+            "bg_color": [
+                55,
+                55,
+                55
+            ],
+            "bottom_right": [
+                140,
+                475
+            ],
+            "content": "热门",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5399162703792408,
+            "font_size": 56,
+            "top_left": [
+                28,
+                417
+            ]
+        },
+        {
+            "bg_color": [
+                100,
+                100,
+                100
+            ],
+            "bottom_right": [
+                253,
+                475
+            ],
+            "content": "榜单",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04922848644944828,
+            "font_size": 56,
+            "top_left": [
+                141,
+                417
+            ]
+        },
+        {
+            "bg_color": [
+                100,
+                100,
+                100
+            ],
+            "bottom_right": [
+                478,
+                475
+            ],
+            "content": "同城社会",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04922848644944828,
+            "font_size": 56,
+            "top_left": [
+                254,
+                417
+            ]
+        },
+        {
+            "bg_color": [
+                100,
+                100,
+                100
+            ],
+            "bottom_right": [
+                705,
+                475
+            ],
+            "content": "科技明星",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04922848644944828,
+            "font_size": 56,
+            "top_left": [
+                481,
+                417
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                327,
+                599
+            ],
+            "content": "央广网鱼",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2538685538051694,
+            "font_size": 46,
+            "top_left": [
+                143,
+                552
+            ]
+        },
+        {
+            "bg_color": [
+                78,
+                3,
+                20
+            ],
+            "bottom_right": [
+                125,
+                607
+            ],
+            "content": "再广国",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.4407236935129123,
+            "font_size": 27,
+            "top_left": [
+                44,
+                569
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                584,
+                646
+            ],
+            "content": "1小时前来自微博网页版已编",
+            "content_id": "8",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037533826627693936,
+            "font_size": 34,
+            "top_left": [
+                142,
+                604
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                996,
+                748
+            ],
+            "content": "【#哈尔滨市防汛应急响应提升至一级#】#遭遇暴",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17292541112245208,
+            "font_size": 41,
+            "top_left": [
+                53,
+                694
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                1004,
+                818
+            ],
+            "content": "雨灾害需救助可发到这个平台#8月4日,总台记者",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13915836120627734,
+            "font_size": 42,
+            "top_left": [
+                38,
+                759
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                950,
+                882
+            ],
+            "content": "从黑龙江省哈尔滨市人民政府防汛抗旱指挥部获",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01516516275144878,
+            "font_size": 44,
+            "top_left": [
+                26,
+                822
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                1014,
+                950
+            ],
+            "content": "悉,据水务、水文部门监测预报,截至今日(8月4",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01516516275144878,
+            "font_size": 43,
+            "top_left": [
+                25,
+                890
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                939,
+                1011
+            ],
+            "content": "日)8时,哈尔滨市共有63座水库超限0.03",
+            "content_id": "13",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01516516275144878,
+            "font_size": 41,
+            "top_left": [
+                37,
+                956
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                1017,
+                1079
+            ],
+            "content": "4.81米运行,9条河流12个站超警戒水位0.40~2.47",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01516516275144878,
+            "font_size": 33,
+            "top_left": [
+                27,
+                1022
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                670,
+                1149
+            ],
+            "content": "米,其中4条河流6个站超全文",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01516516275144878,
+            "font_size": 46,
+            "top_left": [
+                26,
+                1088
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                595,
+                1446
+            ],
+            "content": "分享",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 63,
+            "top_left": [
+                469,
+                1385
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                762,
+                1649
+            ],
+            "content": "用系统浏览器打开",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 58,
+            "top_left": [
+                298,
+                1585
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                596,
+                1848
+            ],
+            "content": "刷新",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 63,
+            "top_left": [
+                470,
+                1785
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                652,
+                2051
+            ],
+            "content": "复制链接",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 60,
+            "top_left": [
+                412,
+                1984
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                598,
+                2288
+            ],
+            "content": "取消",
+            "content_id": "20",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 65,
+            "top_left": [
+                468,
+                2220
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "6ff5ffbbf9c6f374ae445d47a5f39c868b7fa175f559a2bdf34e035e8f7c030a"
+}

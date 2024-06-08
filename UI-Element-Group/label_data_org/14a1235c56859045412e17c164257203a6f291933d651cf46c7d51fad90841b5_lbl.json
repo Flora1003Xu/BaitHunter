@@ -1,0 +1,27 @@
+{
+    "data": [
+      {
+        "click_id": "5",
+        "click_content": "下载QC",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "下载QC"
+          },
+          {
+            "content_id": "2",
+            "content": "QG"
+          },
+          {
+            "content_id": "3",
+            "content": "您没有安装最新版本QQ,请先下载并安"
+          },
+          {
+            "content_id": "4",
+            "content": "装,社交互动体验更流畅、更安全。"
+          }
+        ]
+      }
+    ]
+  }
+   

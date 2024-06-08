@@ -1,0 +1,547 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                250,
+                250,
+                250
+            ],
+            "bottom_right": [
+                187,
+                195
+            ],
+            "content": "登录",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20337626400681366,
+            "font_size": 80,
+            "top_left": [
+                27,
+                128
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                250,
+                250
+            ],
+            "bottom_right": [
+                347,
+                195
+            ],
+            "content": "关注",
+            "content_id": "2",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 80,
+            "top_left": [
+                187,
+                128
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                250,
+                250
+            ],
+            "bottom_right": [
+                507,
+                195
+            ],
+            "content": "热门",
+            "content_id": "3",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003950839046452102,
+            "font_size": 80,
+            "top_left": [
+                347,
+                128
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                436,
+                311
+            ],
+            "content": "圈内妹妹",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.37852368508379475,
+            "font_size": 53,
+            "top_left": [
+                171,
+                266
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                1021,
+                327
+            ],
+            "content": "+关注",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2032805097934296,
+            "font_size": 37,
+            "top_left": [
+                910,
+                282
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                465,
+                368
+            ],
+            "content": "2022年辰星计划博主",
+            "content_id": "6",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004090474246960426,
+            "font_size": 28,
+            "top_left": [
+                157,
+                324
+            ]
+        },
+        {
+            "bg_color": [
+                251,
+                251,
+                251
+            ],
+            "bottom_right": [
+                979,
+                443
+            ],
+            "content": "林志玲在镜头下穿着清凉走出来,忘记有摄像头的存",
+            "content_id": "7",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011072038487785553,
+            "font_size": 42,
+            "top_left": [
+                13,
+                396
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                578,
+                556
+            ],
+            "content": "了国国圈内妹妹的微博视频",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.31073244860062277,
+            "font_size": 46,
+            "top_left": [
+                26,
+                506
+            ]
+        },
+        {
+            "bg_color": [
+                230,
+                225,
+                226
+            ],
+            "bottom_right": [
+                1009,
+                653
+            ],
+            "content": "会品微博视频城",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24571509921501966,
+            "font_size": 41,
+            "top_left": [
+                722,
+                610
+            ]
+        },
+        {
+            "bg_color": [
+                143,
+                138,
+                139
+            ],
+            "bottom_right": [
+                1008,
+                665
+            ],
+            "content": "@圆内妹!",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09484001240826254,
+            "font_size": 17,
+            "top_left": [
+                923,
+                648
+            ]
+        },
+        {
+            "bg_color": [
+                212,
+                211,
+                223
+            ],
+            "bottom_right": [
+                652,
+                1062
+            ],
+            "content": "摄像机：我一直都在",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2110046433168899,
+            "font_size": 47,
+            "top_left": [
+                323,
+                1006
+            ]
+        },
+        {
+            "bg_color": [
+                75,
+                21,
+                0
+            ],
+            "bottom_right": [
+                903,
+                1132
+            ],
+            "content": "美多丝",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.31625359633511047,
+            "font_size": 50,
+            "top_left": [
+                753,
+                1061
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                548,
+                1223
+            ],
+            "content": "回综艺热门综艺2577万次观看",
+            "content_id": "13",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0032497349342734847,
+            "font_size": 33,
+            "top_left": [
+                53,
+                1174
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                318,
+                1357
+            ],
+            "content": "Z531",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007020291790628157,
+            "font_size": 54,
+            "top_left": [
+                102,
+                1310
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                591,
+                1357
+            ],
+            "content": "中1130",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007020291790628157,
+            "font_size": 54,
+            "top_left": [
+                321,
+                1310
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                864,
+                1357
+            ],
+            "content": "凸2.5万",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007020291790628157,
+            "font_size": 54,
+            "top_left": [
+                594,
+                1310
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                113,
+                1486
+            ],
+            "content": "中因",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21951467336961505,
+            "font_size": 29,
+            "top_left": [
+                55,
+                1446
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                481,
+                1499
+            ],
+            "content": "当个勤快人",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21806563990844793,
+            "font_size": 52,
+            "top_left": [
+                169,
+                1451
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                1021,
+                1514
+            ],
+            "content": "+关注",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2032805097934296,
+            "font_size": 37,
+            "top_left": [
+                910,
+                1468
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                406,
+                1554
+            ],
+            "content": "33万人关注了她",
+            "content_id": "20",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004090474246960426,
+            "font_size": 31,
+            "top_left": [
+                158,
+                1511
+            ]
+        },
+        {
+            "bg_color": [
+                241,
+                241,
+                241
+            ],
+            "bottom_right": [
+                477,
+                1635
+            ],
+            "content": "赵今麦今日线下活动路透",
+            "content_id": "21",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010796886147609338,
+            "font_size": 41,
+            "top_left": [
+                26,
+                1578
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                835,
+                1677
+            ],
+            "content": "111",
+            "content_id": "22",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04149995168681293,
+            "font_size": 13,
+            "top_left": [
+                796,
+                1651
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                213,
+                2342
+            ],
+            "content": "首页",
+            "content_id": "23",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 70,
+            "top_left": [
+                73,
+                2301
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                354,
+                2342
+            ],
+            "content": "超话",
+            "content_id": "24",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 70,
+            "top_left": [
+                214,
+                2301
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                495,
+                2342
+            ],
+            "content": "发现",
+            "content_id": "25",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 70,
+            "top_left": [
+                355,
+                2301
+            ]
+        },
+        {
+            "bg_color": [
+                149,
+                149,
+                149
+            ],
+            "bottom_right": [
+                636,
+                2342
+            ],
+            "content": "消息",
+            "content_id": "26",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007399700594477304,
+            "font_size": 70,
+            "top_left": [
+                496,
+                2301
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                707,
+                2342
+            ],
+            "content": "我",
+            "content_id": "27",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 70,
+            "top_left": [
+                637,
+                2301
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "7db72d38d3c1259d6091d4e225b5daf1fb95dd9dd3da1bc9dd30dbe980cc2319"
+}

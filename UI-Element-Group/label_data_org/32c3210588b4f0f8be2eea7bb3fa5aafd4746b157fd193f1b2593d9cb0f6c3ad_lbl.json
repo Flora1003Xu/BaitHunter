@@ -1,0 +1,57 @@
+{
+    "data": [
+      {
+        "click_id": "2",
+        "click_content": "个人资料",
+        "group": [
+          {
+            "content_id": "2",
+            "content": "个人资料"
+          }
+        ]
+      },
+      {
+        "click_id": "8",
+        "click_content": "免密支付",
+        "group": [
+          {
+            "content_id": "8",
+            "content": "免密支付"
+          },
+          {
+            "content_id": "7",
+            "content": "支付"
+          }
+        ]
+      },
+      {
+        "click_id": "12",
+        "click_content": "自动回复移到这里啦",
+        "group": [
+          {
+            "content_id": "12",
+            "content": "自动回复移到这里啦"
+          },
+          {
+            "content_id": "11",
+            "content": "消息通知"
+          }
+        ]
+      },
+      {
+        "click_id": "14",
+        "click_content": "未开启",
+        "group": [
+          {
+            "content_id": "14",
+            "content": "未开启"
+          },
+          {
+            "content_id": "13",
+            "content": "长辈模式"
+          }
+        ]
+      }
+    ]
+  }
+   

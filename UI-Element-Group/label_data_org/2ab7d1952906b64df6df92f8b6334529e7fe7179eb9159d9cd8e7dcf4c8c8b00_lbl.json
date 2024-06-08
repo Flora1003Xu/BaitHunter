@@ -1,0 +1,58 @@
+{
+    "data": [
+      {
+        "click_id": "14",
+        "click_content": "+关注",
+        "group": [
+          {
+            "content_id": "14",
+            "content": "+关注"
+          },
+          {
+            "content_id": "13",
+            "content": "0关注60.8万粉丝"
+          }
+        ]
+      },
+      {
+        "click_id": "15",
+        "click_content": "宝贝80",
+        "group": [
+          {
+            "content_id": "15",
+            "content": "宝贝80"
+          }
+        ]
+      },
+      {
+        "click_id": "19",
+        "click_content": "全部80",
+        "group": [
+          {
+            "content_id": "19",
+            "content": "全部80"
+          }
+        ]
+      },
+      {
+        "click_id": "31",
+        "click_content": "￥532,30人想要",
+        "group": [
+          {
+            "content_id": "31",
+            "content": "￥532,30人想要"
+          },
+          {
+            "content_id": "27",
+            "content": "包邮#卖闲置2023年7月2日"
+          },
+          {
+            "content_id": "29",
+            "content": "2日22点00分#王嘉尔澳"
+          }
+        ]
+      }
+    ]
+  }
+   
+ 

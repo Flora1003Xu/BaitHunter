@@ -1,0 +1,50 @@
+{
+    "data": [
+      {
+        "click_id": "6",
+        "click_content": "头像",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "头像"
+          },
+          {
+            "content_id": "7",
+            "content": "近6个月累计收集0条信总"
+          }
+        ]
+      },
+      {
+        "click_id": "8",
+        "click_content": "昵称",
+        "group": [
+            {
+              "content_id": "8",
+              "content": "昵称"
+            },
+            {
+              "content_id": "9",
+              "content": "近6个月累计收集0条信息"
+            }
+          ]
+      },
+      {
+        "click_id": "10",
+        "click_content": "性别",
+        "group": [
+            {
+              "content_id": "10",
+              "content": "性别"
+            },
+            {
+              "content_id": "11",
+              "content": "近6个月累计收集0条信总"
+            }
+          ]
+      }
+    ]
+  }
+   
+
+
+ 

@@ -1,0 +1,807 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                49,
+                43,
+                37
+            ],
+            "bottom_right": [
+                638,
+                222
+            ],
+            "content": "微博钱包",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11588676249332833,
+            "font_size": 53,
+            "top_left": [
+                426,
+                160
+            ]
+        },
+        {
+            "bg_color": [
+                38,
+                38,
+                38
+            ],
+            "bottom_right": [
+                365,
+                366
+            ],
+            "content": "钱包余额(元)",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06625201930172576,
+            "font_size": 42,
+            "top_left": [
+                71,
+                312
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                321,
+                439
+            ],
+            "content": "3,289.00",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10577731382556903,
+            "font_size": 33,
+            "top_left": [
+                57,
+                378
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                993,
+                444
+            ],
+            "content": "最近收入+0.36>",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006322034048202297,
+            "font_size": 28,
+            "top_left": [
+                713,
+                400
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                296,
+                555
+            ],
+            "content": "金融资产",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03815098038699324,
+            "font_size": 56,
+            "top_left": [
+                72,
+                513
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                859,
+                555
+            ],
+            "content": "最高可借尊享专属提现",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2524507413272698,
+            "font_size": 56,
+            "top_left": [
+                299,
+                513
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                420,
+                626
+            ],
+            "content": "2,0000.00",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07127468895048951,
+            "font_size": 39,
+            "top_left": [
+                69,
+                565
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                777,
+                626
+            ],
+            "content": "2,0000.00",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07127468895048951,
+            "font_size": 39,
+            "top_left": [
+                426,
+                565
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                994,
+                624
+            ],
+            "content": "去借款>",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.054286664242042704,
+            "font_size": 39,
+            "top_left": [
+                838,
+                577
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                266,
+                869
+            ],
+            "content": "福利",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10401336202497413,
+            "font_size": 76,
+            "top_left": [
+                114,
+                824
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                418,
+                869
+            ],
+            "content": "积分",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10091371281266331,
+            "font_size": 76,
+            "top_left": [
+                266,
+                824
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                570,
+                869
+            ],
+            "content": "微币",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06115576567259115,
+            "font_size": 76,
+            "top_left": [
+                418,
+                824
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                722,
+                869
+            ],
+            "content": "卡券",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11284359963679683,
+            "font_size": 76,
+            "top_left": [
+                570,
+                824
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                682,
+                959
+            ],
+            "content": "您有200积分即将过期",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23592684103978556,
+            "font_size": 26,
+            "top_left": [
+                396,
+                919
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                187,
+                1190
+            ],
+            "content": "借钱",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09953043219151891,
+            "font_size": 44,
+            "top_left": [
+                99,
+                1144
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                276,
+                1190
+            ],
+            "content": "理则",
+            "content_id": "16",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 44,
+            "top_left": [
+                188,
+                1144
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                497,
+                1190
+            ],
+            "content": "旧物换好礼",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07127468895048951,
+            "font_size": 44,
+            "top_left": [
+                277,
+                1144
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                853,
+                1190
+            ],
+            "content": "微博小店早起打卡",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09504497409566609,
+            "font_size": 44,
+            "top_left": [
+                501,
+                1144
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                663,
+                1251
+            ],
+            "content": "点这里,解锁更多互动内容",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2373094990146887,
+            "font_size": 52,
+            "top_left": [
+                39,
+                1187
+            ]
+        },
+        {
+            "bg_color": [
+                29,
+                20,
+                51
+            ],
+            "bottom_right": [
+                568,
+                1315
+            ],
+            "content": "恶",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2071523704626041,
+            "font_size": 42,
+            "top_left": [
+                526,
+                1274
+            ]
+        },
+        {
+            "bg_color": [
+                80,
+                80,
+                80
+            ],
+            "bottom_right": [
+                392,
+                1405
+            ],
+            "content": "开启体验",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06029435351072843,
+            "font_size": 44,
+            "top_left": [
+                84,
+                1350
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                572,
+                1405
+            ],
+            "content": "竞彩推荐",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10504586952756437,
+            "font_size": 44,
+            "top_left": [
+                396,
+                1350
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                662,
+                1405
+            ],
+            "content": "数字",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09410965779348972,
+            "font_size": 44,
+            "top_left": [
+                574,
+                1350
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                883,
+                1405
+            ],
+            "content": "FUN肆玩",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12492732744056638,
+            "font_size": 44,
+            "top_left": [
+                663,
+                1350
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                856,
+                1622
+            ],
+            "content": "算财运",
+            "content_id": "25",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005137053927653663,
+            "font_size": 34,
+            "top_left": [
+                754,
+                1580
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                958,
+                1622
+            ],
+            "content": "算人生",
+            "content_id": "26",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.0466215334544999,
+            "font_size": 34,
+            "top_left": [
+                856,
+                1580
+            ]
+        },
+        {
+            "bg_color": [
+                45,
+                34,
+                11
+            ],
+            "bottom_right": [
+                924,
+                1699
+            ],
+            "content": "每日财运签上上签等你来",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19974288756028954,
+            "font_size": 44,
+            "top_left": [
+                440,
+                1638
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                152,
+                1864
+            ],
+            "content": "客国梯单票阳",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23588675086989733,
+            "font_size": 16,
+            "top_left": [
+                56,
+                1827
+            ]
+        },
+        {
+            "bg_color": [
+                48,
+                45,
+                43
+            ],
+            "bottom_right": [
+                675,
+                1875
+            ],
+            "content": "5月抽奖活动",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10001207496439268,
+            "font_size": 46,
+            "top_left": [
+                399,
+                1829
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                860,
+                1875
+            ],
+            "content": "积分投注",
+            "content_id": "30",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17956544064547472,
+            "font_size": 46,
+            "top_left": [
+                676,
+                1829
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                630,
+                1928
+            ],
+            "content": "抢限量好礼",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06189485741457359,
+            "font_size": 46,
+            "top_left": [
+                400,
+                1883
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                906,
+                1928
+            ],
+            "content": "瓜分大额现金",
+            "content_id": "32",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0672580207638345,
+            "font_size": 46,
+            "top_left": [
+                630,
+                1883
+            ]
+        },
+        {
+            "bg_color": [
+                4,
+                4,
+                4
+            ],
+            "bottom_right": [
+                963,
+                2022
+            ],
+            "content": "8分卡牌清道票",
+            "content_id": "33",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3460011272139852,
+            "font_size": 28,
+            "top_left": [
+                767,
+                1977
+            ]
+        },
+        {
+            "bg_color": [
+                48,
+                34,
+                19
+            ],
+            "bottom_right": [
+                207,
+                2074
+            ],
+            "content": "时日3A603A12",
+            "content_id": "34",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12060077209500311,
+            "font_size": 15,
+            "top_left": [
+                57,
+                2052
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                323,
+                2183
+            ],
+            "content": "59-9-",
+            "content_id": "35",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3651345275972064,
+            "font_size": 45,
+            "top_left": [
+                98,
+                2121
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                34,
+                7
+            ],
+            "bottom_right": [
+                580,
+                2185
+            ],
+            "content": "按钮",
+            "content_id": "36",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23588675086989733,
+            "font_size": 42,
+            "top_left": [
+                496,
+                2140
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                257,
+                2331
+            ],
+            "content": "金融理财",
+            "content_id": "37",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23588675086989733,
+            "font_size": 54,
+            "top_left": [
+                41,
+                2266
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                474,
+                2331
+            ],
+            "content": "娱乐购物",
+            "content_id": "38",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10535465835186532,
+            "font_size": 54,
+            "top_left": [
+                258,
+                2266
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                691,
+                2331
+            ],
+            "content": "生活服务",
+            "content_id": "39",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08758894066822952,
+            "font_size": 54,
+            "top_left": [
+                475,
+                2266
+            ]
+        },
+        {
+            "bg_color": [
+                50,
+                50,
+                50
+            ],
+            "bottom_right": [
+                800,
+                2331
+            ],
+            "content": "推广",
+            "content_id": "40",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07127468895048951,
+            "font_size": 54,
+            "top_left": [
+                692,
+                2266
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "69e6b29c9204545ebf6f9513c483ec1957ad452ba730363c90f3eeb45b657ab0"
+}

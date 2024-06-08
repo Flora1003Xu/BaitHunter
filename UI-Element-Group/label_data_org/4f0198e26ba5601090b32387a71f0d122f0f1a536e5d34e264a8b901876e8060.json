@@ -1,0 +1,227 @@
+{
+    "ui_id": "4f0198e26ba5601090b32387a71f0d122f0f1a536e5d34e264a8b901876e8060",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "新浪微博",
+            "top_left": [
+                439,
+                129
+            ],
+            "bottom_right": [
+                623,
+                190
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10007452300318422,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "C3微博",
+            "top_left": [
+                150,
+                289
+            ],
+            "bottom_right": [
+                430,
+                353
+            ],
+            "font_size": 70,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22949184579530735,
+            "bg_color": [
+                250,
+                250,
+                251
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "注册",
+            "top_left": [
+                809,
+                313
+            ],
+            "bottom_right": [
+                893,
+                359
+            ],
+            "font_size": 42,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01050714325846414,
+            "bg_color": [
+                231,
+                231,
+                231
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "eibo.com",
+            "top_left": [
+                258,
+                344
+            ],
+            "bottom_right": [
+                426,
+                382
+            ],
+            "font_size": 21,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1665595268956623,
+            "bg_color": [
+                249,
+                249,
+                250
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "授权西瓜视频App使用你的微博帐号登录",
+            "top_left": [
+                170,
+                466
+            ],
+            "bottom_right": [
+                892,
+                509
+            ],
+            "font_size": 38,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.007955883147575398,
+            "bg_color": [
+                161,
+                161,
+                161
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "登录你的微博账号完成授权",
+            "top_left": [
+                327,
+                598
+            ],
+            "bottom_right": [
+                735,
+                643
+            ],
+            "font_size": 34,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0017154109256274164,
+            "bg_color": [
+                236,
+                236,
+                236
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "一键登录将通过微博客户端完成授权,更加安",
+            "top_left": [
+                225,
+                664
+            ],
+            "bottom_right": [
+                865,
+                709
+            ],
+            "font_size": 32,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0022663372467155484,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "全,保障你的账号安全",
+            "top_left": [
+                368,
+                701
+            ],
+            "bottom_right": [
+                708,
+                745
+            ],
+            "font_size": 34,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0022663372467155484,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "键登录",
+            "top_left": [
+                483,
+                819
+            ],
+            "bottom_right": [
+                636,
+                880
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22126659057041626,
+            "bg_color": [
+                249,
+                68,
+                81
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "如果无法拉起微博客户端,可以使用",
+            "top_left": [
+                268,
+                952
+            ],
+            "bottom_right": [
+                796,
+                996
+            ],
+            "font_size": 33,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0022663372467155484,
+            "bg_color": [
+                187,
+                187,
+                187
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "账密登录",
+            "top_left": [
+                469,
+                1015
+            ],
+            "bottom_right": [
+                605,
+                1059
+            ],
+            "font_size": 34,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16316984626390146,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

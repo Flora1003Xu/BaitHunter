@@ -1,0 +1,40 @@
+{
+    "data": [
+      {
+        "click_id": "10",
+        "click_content": "微信好友",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "分享到"
+          },
+          {
+            "content_id": "10",
+            "content": "微信好友"
+          },
+          {
+            "content_id": "11",
+            "content": "取消"
+          }
+        ]
+      },
+      {
+        "click_id": "11",
+        "click_content": "取消",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "分享到"
+          },
+          {
+            "content_id": "10",
+            "content": "微信好友"
+          },
+          {
+            "content_id": "11",
+            "content": "取消"
+          }
+        ]
+      }
+    ]
+}

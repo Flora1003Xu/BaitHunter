@@ -1,0 +1,144 @@
+{
+    "data": [
+      {
+        "click_id": "7",
+        "click_content": "关于极光",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "关于极光"
+          },
+          {
+            "content_id": "8",
+            "content": "公司简介"
+          },
+          {
+            "content_id": "12",
+            "content": "加入我们"
+          },
+          {
+            "content_id": "9",
+            "content": "媒体资讯"
+          },
+          {
+            "content_id": "11",
+            "content": "投资者关系"
+          }
+        ]
+      },
+      {
+        "click_id": "8",
+        "click_content": "公司简介",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "关于极光"
+          },
+          {
+            "content_id": "8",
+            "content": "公司简介"
+          },
+          {
+            "content_id": "12",
+            "content": "加入我们"
+          },
+          {
+            "content_id": "9",
+            "content": "媒体资讯"
+          },
+          {
+            "content_id": "11",
+            "content": "投资者关系"
+          }
+        ]
+      },
+      {
+        "click_id": "12",
+        "click_content": "加入我们",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "关于极光"
+          },
+          {
+            "content_id": "8",
+            "content": "公司简介"
+          },
+          {
+            "content_id": "12",
+            "content": "加入我们"
+          },
+          {
+            "content_id": "9",
+            "content": "媒体资讯"
+          },
+          {
+            "content_id": "11",
+            "content": "投资者关系"
+          }
+        ]
+      },
+      {
+        "click_id": "9",
+        "click_content": "媒体资讯",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "关于极光"
+          },
+          {
+            "content_id": "8",
+            "content": "公司简介"
+          },
+          {
+            "content_id": "12",
+            "content": "加入我们"
+          },
+          {
+            "content_id": "9",
+            "content": "媒体资讯"
+          },
+          {
+            "content_id": "11",
+            "content": "投资者关系"
+          }
+        ]
+      },
+      {
+        "click_id": "11",
+        "click_content": "投资者关系",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "关于极光"
+          },
+          {
+            "content_id": "8",
+            "content": "公司简介"
+          },
+          {
+            "content_id": "12",
+            "content": "加入我们"
+          },
+          {
+            "content_id": "9",
+            "content": "媒体资讯"
+          },
+          {
+            "content_id": "11",
+            "content": "投资者关系"
+          }
+        ]
+      },
+      {
+        "click_id": "13",
+        "click_content": "语言",
+        "group": [
+          {
+            "content_id": "13",
+            "content": "语言"
+          }
+        ]
+      }
+    ]
+}

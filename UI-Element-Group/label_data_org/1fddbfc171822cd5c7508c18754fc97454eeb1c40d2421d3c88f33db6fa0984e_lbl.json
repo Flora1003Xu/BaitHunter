@@ -1,0 +1,334 @@
+{
+    "data": [
+        {
+          "click_id": "14",
+          "click_content": "1不完美受害人",
+          "group": [
+            {
+              "content_id": "12",
+              "content": "实时热搜"
+            },
+            {
+              "content_id": "14",
+              "content": "1不完美受害人"
+            },
+            {
+              "content_id": "16",
+              "content": "2消失的十一层"
+            },
+            {
+              "content_id": "18",
+              "content": "3曾少年"
+            },
+            {
+              "content_id": "20",
+              "content": "4狂飙"
+            },
+            {
+              "content_id": "22",
+              "content": "5奔跑吧第7季"
+            }
+          ]
+        },
+        {
+          "click_id": "16",
+          "click_content": "2消失的十一层",
+          "group": [
+            {
+              "content_id": "12",
+              "content": "实时热搜"
+            },
+            {
+              "content_id": "14",
+              "content": "1不完美受害人"
+            },
+            {
+              "content_id": "16",
+              "content": "2消失的十一层"
+            },
+            {
+              "content_id": "18",
+              "content": "3曾少年"
+            },
+            {
+              "content_id": "20",
+              "content": "4狂飙"
+            },
+            {
+              "content_id": "22",
+              "content": "5奔跑吧第7季"
+            }
+          ]
+        },
+        {
+          "click_id": "18",
+          "click_content": "3曾少年",
+          "group": [
+            {
+              "content_id": "12",
+              "content": "实时热搜"
+            },
+            {
+              "content_id": "14",
+              "content": "1不完美受害人"
+            },
+            {
+              "content_id": "16",
+              "content": "2消失的十一层"
+            },
+            {
+              "content_id": "18",
+              "content": "3曾少年"
+            },
+            {
+              "content_id": "20",
+              "content": "4狂飙"
+            },
+            {
+              "content_id": "22",
+              "content": "5奔跑吧第7季"
+            }
+          ]
+        },
+        {
+          "click_id": "20",
+          "click_content": "4狂飙",
+          "group": [
+            {
+              "content_id": "12",
+              "content": "实时热搜"
+            },
+            {
+              "content_id": "14",
+              "content": "1不完美受害人"
+            },
+            {
+              "content_id": "16",
+              "content": "2消失的十一层"
+            },
+            {
+              "content_id": "18",
+              "content": "3曾少年"
+            },
+            {
+              "content_id": "20",
+              "content": "4狂飙"
+            },
+            {
+              "content_id": "22",
+              "content": "5奔跑吧第7季"
+            }
+          ]
+        },
+        {
+          "click_id": "22",
+          "click_content": "5奔跑吧第7季",
+          "group": [
+            {
+              "content_id": "12",
+              "content": "实时热搜"
+            },
+            {
+              "content_id": "14",
+              "content": "1不完美受害人"
+            },
+            {
+              "content_id": "16",
+              "content": "2消失的十一层"
+            },
+            {
+              "content_id": "18",
+              "content": "3曾少年"
+            },
+            {
+              "content_id": "20",
+              "content": "4狂飙"
+            },
+            {
+              "content_id": "22",
+              "content": "5奔跑吧第7季"
+            }
+          ]
+        },
+        {
+          "click_id": "13",
+          "click_content": "电视剧",
+          "group": [
+            {
+              "content_id": "13",
+              "content": "电视剧"
+            },
+            {
+              "content_id": "15",
+              "content": "1不完美受害人"
+            },
+            {
+              "content_id": "17",
+              "content": "2消失的十一层"
+            },
+            {
+              "content_id": "19",
+              "content": "3狂飙"
+            },
+            {
+              "content_id": "21",
+              "content": "4曾少年"
+            },
+            {
+              "content_id": "23",
+              "content": "5谁是凶手"
+            }
+          ]
+        },
+        {
+          "click_id": "15",
+          "click_content": "1不完美受害人",
+          "group": [
+            {
+              "content_id": "13",
+              "content": "电视剧"
+            },
+            {
+              "content_id": "15",
+              "content": "1不完美受害人"
+            },
+            {
+              "content_id": "17",
+              "content": "2消失的十一层"
+            },
+            {
+              "content_id": "19",
+              "content": "3狂飙"
+            },
+            {
+              "content_id": "21",
+              "content": "4曾少年"
+            },
+            {
+              "content_id": "23",
+              "content": "5谁是凶手"
+            }
+          ]
+        },
+        {
+          "click_id": "17",
+          "click_content": "2消失的十一层",
+          "group": [
+            {
+              "content_id": "13",
+              "content": "电视剧"
+            },
+            {
+              "content_id": "15",
+              "content": "1不完美受害人"
+            },
+            {
+              "content_id": "17",
+              "content": "2消失的十一层"
+            },
+            {
+              "content_id": "19",
+              "content": "3狂飙"
+            },
+            {
+              "content_id": "21",
+              "content": "4曾少年"
+            },
+            {
+              "content_id": "23",
+              "content": "5谁是凶手"
+            }
+          ]
+        },
+        {
+          "click_id": "19",
+          "click_content": "3狂飙",
+          "group": [
+            {
+              "content_id": "13",
+              "content": "电视剧"
+            },
+            {
+              "content_id": "15",
+              "content": "1不完美受害人"
+            },
+            {
+              "content_id": "17",
+              "content": "2消失的十一层"
+            },
+            {
+              "content_id": "19",
+              "content": "3狂飙"
+            },
+            {
+              "content_id": "21",
+              "content": "4曾少年"
+            },
+            {
+              "content_id": "23",
+              "content": "5谁是凶手"
+            }
+          ]
+        },
+        {
+          "click_id": "21",
+          "click_content": "4曾少年",
+          "group": [
+            {
+              "content_id": "13",
+              "content": "电视剧"
+            },
+            {
+              "content_id": "15",
+              "content": "1不完美受害人"
+            },
+            {
+              "content_id": "17",
+              "content": "2消失的十一层"
+            },
+            {
+              "content_id": "19",
+              "content": "3狂飙"
+            },
+            {
+              "content_id": "21",
+              "content": "4曾少年"
+            },
+            {
+              "content_id": "23",
+              "content": "5谁是凶手"
+            }
+          ]
+        },
+        {
+          "click_id": "23",
+          "click_content": "5谁是凶手",
+          "group": [
+            {
+              "content_id": "13",
+              "content": "电视剧"
+            },
+            {
+              "content_id": "15",
+              "content": "1不完美受害人"
+            },
+            {
+              "content_id": "17",
+              "content": "2消失的十一层"
+            },
+            {
+              "content_id": "19",
+              "content": "3狂飙"
+            },
+            {
+              "content_id": "21",
+              "content": "4曾少年"
+            },
+            {
+              "content_id": "23",
+              "content": "5谁是凶手"
+            }
+          ]
+        }
+    ]
+}

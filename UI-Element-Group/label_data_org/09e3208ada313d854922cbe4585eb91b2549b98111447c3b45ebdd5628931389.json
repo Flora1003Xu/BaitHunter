@@ -1,0 +1,447 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                638,
+                685
+            ],
+            "content": "温馨提示",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21217641853484756,
+            "font_size": 53,
+            "top_left": [
+                426,
+                624
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                894,
+                783
+            ],
+            "content": "欢迎使用百度网盘App!在你使用时,需要",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 37,
+            "top_left": [
+                154,
+                737
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                894,
+                851
+            ],
+            "content": "连接数据网络或者WLAN网络,产生的流量",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 37,
+            "top_left": [
+                154,
+                798
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                563,
+                916
+            ],
+            "content": "费用请咨询当地运营商。",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 37,
+            "top_left": [
+                156,
+                869
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                894,
+                984
+            ],
+            "content": "当使用百度网盘App的服务时,会向你申请",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 37,
+            "top_left": [
+                154,
+                938
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                889,
+                1051
+            ],
+            "content": "打开/关闭WLAN、本地文件的读写/存储权",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 35,
+            "top_left": [
+                154,
+                1004
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                857,
+                1118
+            ],
+            "content": "限、通讯录权限、短信权限、通话记录权",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 39,
+            "top_left": [
+                155,
+                1068
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                896,
+                1184
+            ],
+            "content": "限、地理位置权限、自启动相关权限、摄像",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 39,
+            "top_left": [
+                155,
+                1137
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                894,
+                1253
+            ],
+            "content": "头权限、麦克风权限,并在你同意授予后使",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 39,
+            "top_left": [
+                153,
+                1206
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                367,
+                1316
+            ],
+            "content": "用相关数据",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 42,
+            "top_left": [
+                157,
+                1271
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                896,
+                1385
+            ],
+            "content": "百度公司非常重视你的隐私保护和个人信息",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 39,
+            "top_left": [
+                155,
+                1339
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                895,
+                1454
+            ],
+            "content": "保护。在你使用百度网盘App服务前,请认",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 37,
+            "top_left": [
+                155,
+                1409
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                856,
+                1520
+            ],
+            "content": "真阅读百度网盘《隐私协议》和《用户协",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19075153785387286,
+            "font_size": 39,
+            "top_left": [
+                154,
+                1470
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                895,
+                1586
+            ],
+            "content": "议》全部条款,你同意并接受全部条款后再",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 39,
+            "top_left": [
+                154,
+                1540
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                526,
+                1654
+            ],
+            "content": "开始使用我们的服务,",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07150069925295593,
+            "font_size": 37,
+            "top_left": [
+                156,
+                1608
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                250,
+                255
+            ],
+            "bottom_right": [
+                585,
+                1799
+            ],
+            "content": "不同意并退出",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17119374396359935,
+            "font_size": 60,
+            "top_left": [
+                225,
+                1755
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                149,
+                255
+            ],
+            "bottom_right": [
+                705,
+                1799
+            ],
+            "content": "同意",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17119374396359935,
+            "font_size": 60,
+            "top_left": [
+                585,
+                1755
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                564,
+                2155
+            ],
+            "content": "百/",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.47832301836368807,
+            "font_size": 41,
+            "top_left": [
+                482,
+                2087
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                688,
+                2155
+            ],
+            "content": "变网盘",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5429149581025463,
+            "font_size": 41,
+            "top_left": [
+                565,
+                2087
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                750,
+                2198
+            ],
+            "content": "让美好永远陪件",
+            "content_id": "20",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04178957451194928,
+            "font_size": 40,
+            "top_left": [
+                470,
+                2158
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                791,
+                2295
+            ],
+            "content": "2023Baidu.com,allrightsreservedCPG",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16240934158909368,
+            "font_size": 15,
+            "top_left": [
+                281,
+                2257
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                672,
+                2338
+            ],
+            "content": "百度智能云提供计算服乡",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06655454160242176,
+            "font_size": 26,
+            "top_left": [
+                386,
+                2297
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "09e3208ada313d854922cbe4585eb91b2549b98111447c3b45ebdd5628931389"
+}

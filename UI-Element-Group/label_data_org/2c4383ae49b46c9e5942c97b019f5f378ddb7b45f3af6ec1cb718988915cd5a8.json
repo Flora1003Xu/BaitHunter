@@ -1,0 +1,867 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                688,
+                198
+            ],
+            "content": "新人省省卡",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07237508180578854,
+            "font_size": 58,
+            "top_left": [
+                398,
+                136
+            ]
+        },
+        {
+            "bg_color": [
+                229,
+                229,
+                229
+            ],
+            "bottom_right": [
+                864,
+                198
+            ],
+            "content": "C关注",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01482324032453458,
+            "font_size": 58,
+            "top_left": [
+                690,
+                136
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                236,
+                234
+            ],
+            "bottom_right": [
+                502,
+                314
+            ],
+            "content": "1分钟前j***m续费了省省卡",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1508201453902444,
+            "font_size": 33,
+            "top_left": [
+                40,
+                267
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                61,
+                29
+            ],
+            "bottom_right": [
+                560,
+                455
+            ],
+            "content": "京东省省卡新人专享",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20606771726549072,
+            "font_size": 66,
+            "top_left": [
+                98,
+                389
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                88,
+                64
+            ],
+            "bottom_right": [
+                890,
+                455
+            ],
+            "content": "活动规则",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1622168336394634,
+            "font_size": 66,
+            "top_left": [
+                560,
+                389
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                222,
+                222
+            ],
+            "bottom_right": [
+                872,
+                626
+            ],
+            "content": "价值118元券包未使用包退",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06546707192222612,
+            "font_size": 53,
+            "top_left": [
+                183,
+                558
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                223,
+                223
+            ],
+            "bottom_right": [
+                347,
+                700
+            ],
+            "content": "专享好券",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21891023511480062,
+            "font_size": 65,
+            "top_left": [
+                87,
+                660
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                250,
+                247
+            ],
+            "bottom_right": [
+                610,
+                700
+            ],
+            "content": "专享好券",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0687234244203803,
+            "font_size": 65,
+            "top_left": [
+                350,
+                660
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                247,
+                243
+            ],
+            "bottom_right": [
+                208,
+                844
+            ],
+            "content": "无门槛可用",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10888890428188006,
+            "font_size": 30,
+            "top_left": [
+                58,
+                801
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                249,
+                246
+            ],
+            "bottom_right": [
+                449,
+                844
+            ],
+            "content": "满5.01元可用",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2243280255994525,
+            "font_size": 30,
+            "top_left": [
+                209,
+                801
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                249,
+                246
+            ],
+            "bottom_right": [
+                691,
+                844
+            ],
+            "content": "满5.01元可用",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2306866799779322,
+            "font_size": 30,
+            "top_left": [
+                451,
+                801
+            ]
+        },
+        {
+            "bg_color": [
+                231,
+                7,
+                0
+            ],
+            "bottom_right": [
+                873,
+                844
+            ],
+            "content": "无门槛可叠加",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2271954666345614,
+            "font_size": 30,
+            "top_left": [
+                693,
+                801
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                28,
+                35
+            ],
+            "bottom_right": [
+                260,
+                911
+            ],
+            "content": "运费券",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18845460951064333,
+            "font_size": 57,
+            "top_left": [
+                89,
+                869
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                29,
+                35
+            ],
+            "bottom_right": [
+                432,
+                911
+            ],
+            "content": "全品类",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1884182428534906,
+            "font_size": 57,
+            "top_left": [
+                261,
+                869
+            ]
+        },
+        {
+            "bg_color": [
+                249,
+                28,
+                35
+            ],
+            "bottom_right": [
+                604,
+                911
+            ],
+            "content": "全品类",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18914309059478968,
+            "font_size": 57,
+            "top_left": [
+                433,
+                869
+            ]
+        },
+        {
+            "bg_color": [
+                251,
+                29,
+                34
+            ],
+            "bottom_right": [
+                719,
+                911
+            ],
+            "content": "红包",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1880117868266627,
+            "font_size": 57,
+            "top_left": [
+                605,
+                869
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                210,
+                180
+            ],
+            "bottom_right": [
+                678,
+                984
+            ],
+            "content": "专享好券",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19995117455771083,
+            "font_size": 27,
+            "top_left": [
+                570,
+                946
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                251,
+                250
+            ],
+            "bottom_right": [
+                344,
+                1074
+            ],
+            "content": "5元X2",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22866789608990612,
+            "font_size": 72,
+            "top_left": [
+                128,
+                1032
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                250,
+                247
+            ],
+            "bottom_right": [
+                633,
+                1074
+            ],
+            "content": "4元x2",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22501584487871146,
+            "font_size": 72,
+            "top_left": [
+                345,
+                1032
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                250,
+                246
+            ],
+            "bottom_right": [
+                778,
+                1074
+            ],
+            "content": "3元x2",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2238104839097581,
+            "font_size": 72,
+            "top_left": [
+                634,
+                1032
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                250,
+                246
+            ],
+            "bottom_right": [
+                255,
+                1129
+            ],
+            "content": "满60元可用",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22572742533343274,
+            "font_size": 33,
+            "top_left": [
+                57,
+                1085
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                250,
+                246
+            ],
+            "bottom_right": [
+                453,
+                1129
+            ],
+            "content": "满50元可用",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22498518553419705,
+            "font_size": 33,
+            "top_left": [
+                255,
+                1085
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                250,
+                246
+            ],
+            "bottom_right": [
+                651,
+                1129
+            ],
+            "content": "满60元可用",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2250510641202059,
+            "font_size": 33,
+            "top_left": [
+                453,
+                1085
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                250,
+                246
+            ],
+            "bottom_right": [
+                849,
+                1129
+            ],
+            "content": "满30元可用",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22588612656939427,
+            "font_size": 33,
+            "top_left": [
+                651,
+                1085
+            ]
+        },
+        {
+            "bg_color": [
+                247,
+                25,
+                37
+            ],
+            "bottom_right": [
+                261,
+                1196
+            ],
+            "content": "全品类",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18845460951064333,
+            "font_size": 54,
+            "top_left": [
+                99,
+                1156
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                32,
+                32
+            ],
+            "bottom_right": [
+                423,
+                1196
+            ],
+            "content": "全品类",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19377747506943352,
+            "font_size": 54,
+            "top_left": [
+                261,
+                1156
+            ]
+        },
+        {
+            "bg_color": [
+                249,
+                27,
+                36
+            ],
+            "bottom_right": [
+                585,
+                1196
+            ],
+            "content": "全品类",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19344550817740647,
+            "font_size": 54,
+            "top_left": [
+                423,
+                1156
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                25,
+                38
+            ],
+            "bottom_right": [
+                747,
+                1196
+            ],
+            "content": "全品类",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19212749174624424,
+            "font_size": 54,
+            "top_left": [
+                585,
+                1156
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                247,
+                235
+            ],
+            "bottom_right": [
+                414,
+                1354
+            ],
+            "content": "任选一件限量秒杀",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2384770764282919,
+            "font_size": 45,
+            "top_left": [
+                54,
+                1289
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                248,
+                239
+            ],
+            "bottom_right": [
+                999,
+                1353
+            ],
+            "content": "活动于7月29日23时59分后结束",
+            "content_id": "30",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.040821642105532865,
+            "font_size": 28,
+            "top_left": [
+                523,
+                1309
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                241,
+                4
+            ],
+            "bottom_right": [
+                554,
+                1504
+            ],
+            "content": "金",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24622393532182646,
+            "font_size": 30,
+            "top_left": [
+                524,
+                1483
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                242,
+                17
+            ],
+            "bottom_right": [
+                552,
+                1521
+            ],
+            "content": "满",
+            "content_id": "32",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.25843097393491576,
+            "font_size": 28,
+            "top_left": [
+                524,
+                1498
+            ]
+        },
+        {
+            "bg_color": [
+                230,
+                4,
+                22
+            ],
+            "bottom_right": [
+                564,
+                1561
+            ],
+            "content": "生抽资",
+            "content_id": "33",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.26742036355170196,
+            "font_size": 17,
+            "top_left": [
+                513,
+                1541
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                370,
+                1693
+            ],
+            "content": "￥0.9抢",
+            "content_id": "34",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22968259165698784,
+            "font_size": 48,
+            "top_left": [
+                130,
+                1638
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                611,
+                1693
+            ],
+            "content": "￥0.9抢",
+            "content_id": "35",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22968259165698784,
+            "font_size": 48,
+            "top_left": [
+                371,
+                1638
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                852,
+                1693
+            ],
+            "content": "￥0.9抢",
+            "content_id": "36",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.28444756511953984,
+            "font_size": 48,
+            "top_left": [
+                612,
+                1638
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                210,
+                95
+            ],
+            "bottom_right": [
+                873,
+                1866
+            ],
+            "content": "0.01元开通未使用包退",
+            "content_id": "37",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15842526200382706,
+            "font_size": 53,
+            "top_left": [
+                237,
+                1800
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                73,
+                35
+            ],
+            "bottom_right": [
+                936,
+                1910
+            ],
+            "content": "开卡后不可购买新人价商品",
+            "content_id": "38",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22846502917223396,
+            "font_size": 26,
+            "top_left": [
+                624,
+                1870
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                237,
+                237
+            ],
+            "bottom_right": [
+                836,
+                1983
+            ],
+            "content": "购买即同意《省省卡用户协议》相关协议",
+            "content_id": "39",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19855282400430307,
+            "font_size": 33,
+            "top_left": [
+                242,
+                1940
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                211,
+                2127
+            ],
+            "content": "省钱专场",
+            "content_id": "40",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012680228997980249,
+            "font_size": 46,
+            "top_left": [
+                27,
+                2066
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                229,
+                2225
+            ],
+            "content": "补贴专场",
+            "content_id": "41",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23001385507258834,
+            "font_size": 46,
+            "top_left": [
+                45,
+                2180
+            ]
+        },
+        {
+            "bg_color": [
+                248,
+                248,
+                248
+            ],
+            "bottom_right": [
+                416,
+                2225
+            ],
+            "content": "限时秒杀",
+            "content_id": "42",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004483719964726653,
+            "font_size": 46,
+            "top_left": [
+                232,
+                2180
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                205,
+                147
+            ],
+            "bottom_right": [
+                979,
+                2342
+            ],
+            "content": "白鹿同款",
+            "content_id": "43",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13037586274886284,
+            "font_size": 53,
+            "top_left": [
+                767,
+                2282
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "2c4383ae49b46c9e5942c97b019f5f378ddb7b45f3af6ec1cb718988915cd5a8"
+}

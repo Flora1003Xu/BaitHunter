@@ -1,0 +1,247 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                483,
+                222
+            ],
+            "content": "常见问题",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015784860032629907,
+            "font_size": 62,
+            "top_left": [
+                235,
+                154
+            ]
+        },
+        {
+            "bg_color": [
+                195,
+                195,
+                195
+            ],
+            "bottom_right": [
+                435,
+                378
+            ],
+            "content": "1.怎样开通微博会员",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013020709018931887,
+            "font_size": 41,
+            "top_left": [
+                25,
+                318
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                354,
+                535
+            ],
+            "content": "2.如何切换账号",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013020709018931887,
+            "font_size": 41,
+            "top_left": [
+                26,
+                474
+            ]
+        },
+        {
+            "bg_color": [
+                223,
+                223,
+                223
+            ],
+            "bottom_right": [
+                597,
+                692
+            ],
+            "content": "3.我想把点赞按钮放在右侧",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012169755709471666,
+            "font_size": 44,
+            "top_left": [
+                25,
+                632
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                626,
+                849
+            ],
+            "content": "4.容易误触转发微博怎么办?",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013020709018931887,
+            "font_size": 43,
+            "top_left": [
+                24,
+                788
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                613,
+                1162
+            ],
+            "content": "6.为什么我不能发图片评论?",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013020709018931887,
+            "font_size": 42,
+            "top_left": [
+                25,
+                1102
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                738,
+                1318
+            ],
+            "content": "Z[安卓版】\"发布新微博”在哪里?",
+            "content_id": "7",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013020709018931887,
+            "font_size": 42,
+            "top_left": [
+                24,
+                1259
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                599,
+                1476
+            ],
+            "content": "8.转发失败提示\"更新太快了",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013020709018931887,
+            "font_size": 41,
+            "top_left": [
+                25,
+                1416
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                613,
+                1633
+            ],
+            "content": "9.微博、评论总是发送失败?",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013020709018931887,
+            "font_size": 42,
+            "top_left": [
+                25,
+                1572
+            ]
+        },
+        {
+            "bg_color": [
+                220,
+                220,
+                220
+            ],
+            "bottom_right": [
+                709,
+                1789
+            ],
+            "content": "10.\"我的收藏”和\"我的赞”在哪里?",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012082650418026468,
+            "font_size": 36,
+            "top_left": [
+                25,
+                1730
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                739,
+                1945
+            ],
+            "content": "11.扫码登录网页版微博失败怎么办",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013020709018931887,
+            "font_size": 42,
+            "top_left": [
+                25,
+                1887
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                766,
+                2102
+            ],
+            "content": "12.【安卓版】\"扫一扫”功能在哪里?",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013020709018931887,
+            "font_size": 39,
+            "top_left": [
+                25,
+                2044
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "8e16802b52fd0514be0e084f83b2bd5a441f62c1fd400bf61d366029cb9e7f44"
+}

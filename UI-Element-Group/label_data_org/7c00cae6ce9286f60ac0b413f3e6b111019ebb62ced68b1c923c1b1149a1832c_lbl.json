@@ -1,0 +1,34 @@
+{
+    "data": [
+      {
+        "click_id": "10",
+        "click_content": "营销平台合作协议",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "营销平台合作协议"
+          }
+        ]
+      },
+      {
+        "click_id": "11",
+        "click_content": "SSP媒体服务协议",
+        "group": [
+          {
+            "content_id": "11",
+            "content": "SSP媒体服务协议"
+          }
+        ]
+      },
+      {
+        "click_id": "12",
+        "click_content": "关于我们",
+        "group": [
+          {
+            "content_id": "12",
+            "content": "关于我们"
+          }
+        ]
+      }
+    ]
+}

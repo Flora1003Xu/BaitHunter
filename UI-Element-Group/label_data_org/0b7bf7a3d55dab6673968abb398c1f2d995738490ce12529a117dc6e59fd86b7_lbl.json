@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "click_id": "15",
+            "click_content": "取消",
+            "group": [
+              {
+                "content_id": "13",
+                "content": "相机权限设置"
+              },
+              {
+                "content_id": "14",
+                "content": "夸克需要相机权限为您提供服务,请在设置中开启"
+              },
+              {
+                "content_id": "15",
+                "content": "取消"
+              },
+              {
+                "content_id": "16",
+                "content": "去设置"
+              }
+            ]
+        },
+        {
+            "click_id": "16",
+            "click_content": "去设置",
+            "group": [
+              {
+                "content_id": "13",
+                "content": "相机权限设置"
+              },
+              {
+                "content_id": "14",
+                "content": "夸克需要相机权限为您提供服务,请在设置中开启"
+              },
+              {
+                "content_id": "15",
+                "content": "取消"
+              },
+              {
+                "content_id": "16",
+                "content": "去设置"
+              }
+            ]
+        }
+    ]
+}

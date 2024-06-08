@@ -1,0 +1,30 @@
+{
+    "data": [
+      {
+        "click_id": "16",
+        "click_content": "我知道了",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "系统通知设置"
+          },
+          {
+            "content_id": "11",
+            "content": "开启后,将以手机锁屏/通知中心/横幅"
+          },
+          {
+            "content_id": "12",
+            "content": "的系统通知方式,为你推送指定类型的"
+          },
+          {
+            "content_id": "14",
+            "content": "消息"
+          },
+          {
+            "content_id": "16",
+            "content": "我知道了"
+          }
+        ]
+      }
+    ]
+}

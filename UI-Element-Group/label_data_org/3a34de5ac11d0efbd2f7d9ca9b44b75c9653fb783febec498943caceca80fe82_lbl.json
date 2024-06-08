@@ -1,0 +1,71 @@
+{
+    "data": [
+      {
+        "click_id": "21",
+        "click_content": "点击立即体验",
+        "group": [
+          {
+            "content_id": "21",
+            "content": "点击立即体验"
+          }
+        ]
+      },
+      {
+        "click_id": "22",
+        "click_content": "多种收藏",
+        "group": [
+          {
+            "content_id": "22",
+            "content": "多种收藏"
+          },
+          {
+            "content_id": "26",
+            "content": "随时找寻"
+          }
+        ]
+      },
+      {
+        "click_id": "23",
+        "click_content": "文档格式",
+        "group": [
+          {
+            "content_id": "23",
+            "content": "文档格式"
+          },
+          {
+            "content_id": "27",
+            "content": "轻松转换"
+          }
+        ]
+      },
+      {
+        "click_id": "24",
+        "click_content": "网址导航",
+        "group": [
+          {
+            "content_id": "24",
+            "content": "网址导航"
+          },
+          {
+            "content_id": "28",
+            "content": "轻松上网"
+          }
+        ]
+      },
+      {
+        "click_id": "25",
+        "click_content": "文件功能",
+        "group": [
+          {
+            "content_id": "25",
+            "content": "文件功能"
+          },
+          {
+            "content_id": "29",
+            "content": "文件功能"
+          }
+        ]
+      }
+    ]
+  }
+   

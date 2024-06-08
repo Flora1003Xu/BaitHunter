@@ -1,0 +1,547 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                63,
+                63,
+                63
+            ],
+            "bottom_right": [
+                663,
+                540
+            ],
+            "content": "云村村民1689882790767.",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012903919582667614,
+            "font_size": 33,
+            "top_left": [
+                69,
+                472
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                939,
+                540
+            ],
+            "content": "CNIP7天到期",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5444499308938048,
+            "font_size": 33,
+            "top_left": [
+                675,
+                472
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                730,
+                612
+            ],
+            "content": "1关注0粉丝LV.0",
+            "content_id": "3",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004722398409463516,
+            "font_size": 39,
+            "top_left": [
+                340,
+                567
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                329,
+                900
+            ],
+            "content": "最近播放",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006285199363090768,
+            "font_size": 54,
+            "top_left": [
+                113,
+                854
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                547,
+                900
+            ],
+            "content": "本地下载",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006285199363090768,
+            "font_size": 54,
+            "top_left": [
+                331,
+                854
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                657,
+                900
+            ],
+            "content": "云盘",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006285199363090768,
+            "font_size": 54,
+            "top_left": [
+                549,
+                854
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                766,
+                900
+            ],
+            "content": "已购",
+            "content_id": "7",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006285199363090768,
+            "font_size": 54,
+            "top_left": [
+                658,
+                854
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                694,
+                1054
+            ],
+            "content": "(0a)",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2519834068103371,
+            "font_size": 21,
+            "top_left": [
+                610,
+                986
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                297,
+                1117
+            ],
+            "content": "我的好友",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006285199363090768,
+            "font_size": 46,
+            "top_left": [
+                113,
+                1070
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                482,
+                1117
+            ],
+            "content": "收藏和赞",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006285199363090768,
+            "font_size": 46,
+            "top_left": [
+                298,
+                1070
+            ]
+        },
+        {
+            "bg_color": [
+                59,
+                59,
+                59
+            ],
+            "bottom_right": [
+                667,
+                1117
+            ],
+            "content": "我的播客",
+            "content_id": "11",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037533826627693936,
+            "font_size": 46,
+            "top_left": [
+                483,
+                1070
+            ]
+        },
+        {
+            "bg_color": [
+                55,
+                55,
+                55
+            ],
+            "bottom_right": [
+                806,
+                1117
+            ],
+            "content": "乐迷团",
+            "content_id": "12",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004217131302107081,
+            "font_size": 46,
+            "top_left": [
+                668,
+                1070
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                635,
+                1225
+            ],
+            "content": "十音乐应用",
+            "content_id": "13",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003533873262670655,
+            "font_size": 39,
+            "top_left": [
+                440,
+                1180
+            ]
+        },
+        {
+            "bg_color": [
+                69,
+                69,
+                69
+            ],
+            "bottom_right": [
+                495,
+                1415
+            ],
+            "content": "我喜欢的音乐",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013380628523343612,
+            "font_size": 42,
+            "top_left": [
+                243,
+                1367
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                963,
+                1433
+            ],
+            "content": "网心动模式",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2555624060962126,
+            "font_size": 36,
+            "top_left": [
+                783,
+                1386
+            ]
+        },
+        {
+            "bg_color": [
+                61,
+                61,
+                61
+            ],
+            "bottom_right": [
+                297,
+                1464
+            ],
+            "content": "0首",
+            "content_id": "16",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003533873262670655,
+            "font_size": 27,
+            "top_left": [
+                243,
+                1423
+            ]
+        },
+        {
+            "bg_color": [
+                98,
+                98,
+                98
+            ],
+            "bottom_right": [
+                497,
+                1640
+            ],
+            "content": "创建歌单",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15958443223651297,
+            "font_size": 71,
+            "top_left": [
+                213,
+                1594
+            ]
+        },
+        {
+            "bg_color": [
+                98,
+                98,
+                98
+            ],
+            "bottom_right": [
+                781,
+                1640
+            ],
+            "content": "收藏歌单",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06891540881267508,
+            "font_size": 71,
+            "top_left": [
+                497,
+                1594
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                212,
+                1786
+            ],
+            "content": "创建歌单",
+            "content_id": "19",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003533873262670655,
+            "font_size": 32,
+            "top_left": [
+                84,
+                1747
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                431,
+                1913
+            ],
+            "content": "取消",
+            "content_id": "20",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008396422320635291,
+            "font_size": 201,
+            "top_left": [
+                29,
+                1851
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                833,
+                1913
+            ],
+            "content": "完成",
+            "content_id": "21",
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "font_size": 201,
+            "top_left": [
+                431,
+                1851
+            ]
+        },
+        {
+            "bg_color": [
+                218,
+                218,
+                218
+            ],
+            "bottom_right": [
+                502,
+                2013
+            ],
+            "content": "音乐歌单",
+            "content_id": "22",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0026603167938701266,
+            "font_size": 58,
+            "top_left": [
+                270,
+                1951
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                793,
+                2013
+            ],
+            "content": "视频歌单G",
+            "content_id": "23",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 58,
+            "top_left": [
+                503,
+                1951
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                963,
+                2115
+            ],
+            "content": "什么是视频歌单",
+            "content_id": "24",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.004680115997235896,
+            "font_size": 38,
+            "top_left": [
+                697,
+                2069
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                396,
+                2178
+            ],
+            "content": "输入新建歌单标题",
+            "content_id": "25",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0016164054761106305,
+            "font_size": 46,
+            "top_left": [
+                28,
+                2118
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                1035,
+                2309
+            ],
+            "content": "0/40",
+            "content_id": "26",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "font_size": 20,
+            "top_left": [
+                955,
+                2269
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                364,
+                2318
+            ],
+            "content": "设置为隐私歌单",
+            "content_id": "27",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "font_size": 48,
+            "top_left": [
+                28,
+                2271
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "4ccce938c6b15693f87b769a46096dc824a02e878b974f68ed877e54ef76807e"
+}

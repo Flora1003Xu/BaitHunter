@@ -1,0 +1,68 @@
+{
+    "data": [
+      {
+        "click_id": "4",
+        "click_content": "请输入昵称",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "昵称"
+          },
+          {
+            "content_id": "4",
+            "content": "请输入昵称"
+          }
+        ]
+      },
+      {
+        "click_id": "9",
+        "click_content": "去认证",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "网盘认证"
+          },
+          {
+            "content_id": "8",
+            "content": "限时特惠"
+          },
+          {
+            "content_id": "9",
+            "content": "去认证"
+          },
+          {
+            "content_id": "10",
+            "content": "50G专属企业空间、官方标等权益"
+          }
+        ]
+      },
+      {
+        "click_id": "12",
+        "click_content": "立即购买",
+        "group": [
+          {
+            "content_id": "11",
+            "content": "企业套餐"
+          },
+          {
+            "content_id": "12",
+            "content": "立即购买"
+          }
+        ]
+      },
+      {
+        "click_id": "20",
+        "click_content": "立即开通",
+        "group": [
+          {
+            "content_id": "19",
+            "content": "尚未开通会员"
+          },
+          {
+            "content_id": "20",
+            "content": "立即开通"
+          }
+        ]
+      }
+    ]
+}

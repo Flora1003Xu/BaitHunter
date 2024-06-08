@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "click_id": "6",
+        "click_content": "发个帖子",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "发个帖子"
+          },
+          {
+            "content_id": "5",
+            "content": "看这里,学习一下优质帖子发布攻略"
+          },
+          {
+            "content_id": "4",
+            "content": "你还没有发布帖子哦"
+          }
+        ]
+      }
+    ]
+  }
+   

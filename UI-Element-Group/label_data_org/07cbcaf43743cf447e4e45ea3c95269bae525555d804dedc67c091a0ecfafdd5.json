@@ -1,0 +1,67 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                218,
+                68
+            ],
+            "bottom_right": [
+                581,
+                199
+            ],
+            "content": "月预算",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18584946762408008,
+            "font_size": 47,
+            "top_left": [
+                440,
+                137
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                611,
+                932
+            ],
+            "content": "暂无预算",
+            "content_id": "2",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.002553660424336671,
+            "font_size": 39,
+            "top_left": [
+                455,
+                886
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                218,
+                68
+            ],
+            "bottom_right": [
+                625,
+                1101
+            ],
+            "content": "+添加预算",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.319209129883546,
+            "font_size": 37,
+            "top_left": [
+                440,
+                1055
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "07cbcaf43743cf447e4e45ea3c95269bae525555d804dedc67c091a0ecfafdd5"
+}

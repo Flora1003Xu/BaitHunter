@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "click_id": "10",
+        "click_content": "收起",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "收起"
+          }
+        ]
+      },
+      {
+        "click_id": "12",
+        "click_content": "目录",
+        "group": [
+          {
+            "content_id": "12",
+            "content": "目录"
+          }
+        ]
+      },
+      {
+        "click_id": "13",
+        "click_content": "顶部",
+        "group": [
+          {
+            "content_id": "13",
+            "content": "顶部"
+          }
+        ]
+      },
+      {
+        "click_id": "17",
+        "click_content": "店铺",
+        "group": [
+          {
+            "content_id": "17",
+            "content": "店铺"
+          }
+        ]
+      },
+      {
+        "click_id": "18",
+        "click_content": "客服",
+        "group": [
+          {
+            "content_id": "18",
+            "content": "客服"
+          }
+        ]
+      },
+      {
+        "click_id": "19",
+        "click_content": "购物车",
+        "group": [
+          {
+            "content_id": "19",
+            "content": "购物车"
+          }
+        ]
+      }
+    ]
+}

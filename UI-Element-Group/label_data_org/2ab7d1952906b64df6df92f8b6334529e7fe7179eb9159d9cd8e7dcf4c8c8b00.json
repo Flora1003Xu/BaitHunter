@@ -1,0 +1,647 @@
+{
+    "ui_id": "2ab7d1952906b64df6df92f8b6334529e7fe7179eb9159d9cd8e7dcf4c8c8b00",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "细心贴心X15",
+            "top_left": [
+                286,
+                313
+            ],
+            "bottom_right": [
+                531,
+                358
+            ],
+            "font_size": 35,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09472418096729565,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "神仙买家x29",
+            "top_left": [
+                534,
+                313
+            ],
+            "bottom_right": [
+                779,
+                358
+            ],
+            "font_size": 35,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08381149145065321,
+            "bg_color": [
+                123,
+                114,
+                106
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "有问必答X1",
+            "top_left": [
+                782,
+                313
+            ],
+            "bottom_right": [
+                992,
+                358
+            ],
+            "font_size": 35,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08210174094997376,
+            "bg_color": [
+                122,
+                117,
+                110
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "聊得来X1",
+            "top_left": [
+                555,
+                415
+            ],
+            "bottom_right": [
+                745,
+                464
+            ],
+            "font_size": 38,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08525687541751135,
+            "bg_color": [
+                86,
+                81,
+                74
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "赵共13条印象",
+            "top_left": [
+                746,
+                415
+            ],
+            "bottom_right": [
+                1012,
+                464
+            ],
+            "font_size": 38,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1002039309189432,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "臭蛋的闲置",
+            "top_left": [
+                283,
+                590
+            ],
+            "bottom_right": [
+                553,
+                653
+            ],
+            "font_size": 54,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "4小时前来过闲鱼",
+            "top_left": [
+                283,
+                667
+            ],
+            "bottom_right": [
+                523,
+                711
+            ],
+            "font_size": 30,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "闲国玩家时尚百分百好评",
+            "top_left": [
+                41,
+                753
+            ],
+            "bottom_right": [
+                470,
+                796
+            ],
+            "font_size": 39,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.38585355113947095,
+            "bg_color": [
+                255,
+                247,
+                236
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "知名潮玩领域达人",
+            "top_left": [
+                29,
+                815
+            ],
+            "bottom_right": [
+                381,
+                860
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20049279127611724,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "臭蛋唯一认证账号",
+            "top_left": [
+                27,
+                881
+            ],
+            "bottom_right": [
+                755,
+                925
+            ],
+            "font_size": 91,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008154660074894278,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "更多",
+            "top_left": [
+                761,
+                881
+            ],
+            "bottom_right": [
+                943,
+                925
+            ],
+            "font_size": 91,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "IP上海",
+            "top_left": [
+                28,
+                954
+            ],
+            "bottom_right": [
+                140,
+                986
+            ],
+            "font_size": 28,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.003561215554019151,
+            "bg_color": [
+                247,
+                247,
+                247
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "0关注60.8万粉丝",
+            "top_left": [
+                27,
+                1052
+            ],
+            "bottom_right": [
+                617,
+                1098
+            ],
+            "font_size": 59,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "+关注",
+            "top_left": [
+                625,
+                1052
+            ],
+            "bottom_right": [
+                802,
+                1098
+            ],
+            "font_size": 59,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18615508583851606,
+            "bg_color": [
+                255,
+                230,
+                15
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "宝贝80",
+            "top_left": [
+                22,
+                1192
+            ],
+            "bottom_right": [
+                178,
+                1242
+            ],
+            "font_size": 39,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18615508583851606,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "帖子1",
+            "top_left": [
+                179,
+                1192
+            ],
+            "bottom_right": [
+                296,
+                1242
+            ],
+            "font_size": 39,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "评价16",
+            "top_left": [
+                297,
+                1192
+            ],
+            "bottom_right": [
+                453,
+                1242
+            ],
+            "font_size": 39,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "动态99+",
+            "top_left": [
+                454,
+                1192
+            ],
+            "bottom_right": [
+                649,
+                1242
+            ],
+            "font_size": 39,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "全部80",
+            "top_left": [
+                44,
+                1323
+            ],
+            "bottom_right": [
+                216,
+                1364
+            ],
+            "font_size": 43,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1986996629305688,
+            "bg_color": [
+                255,
+                230,
+                15
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "在售2",
+            "top_left": [
+                217,
+                1323
+            ],
+            "bottom_right": [
+                346,
+                1364
+            ],
+            "font_size": 43,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1860528172159036,
+            "bg_color": [
+                244,
+                244,
+                244
+            ]
+        },
+        {
+            "content_id": "21",
+            "content": "已售出78",
+            "top_left": [
+                347,
+                1323
+            ],
+            "bottom_right": [
+                562,
+                1364
+            ],
+            "font_size": 43,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013976909108272038,
+            "bg_color": [
+                244,
+                244,
+                244
+            ]
+        },
+        {
+            "content_id": "22",
+            "content": "WNMNNN",
+            "top_left": [
+                735,
+                1663
+            ],
+            "bottom_right": [
+                909,
+                1712
+            ],
+            "font_size": 29,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20331636227884942,
+            "bg_color": [
+                161,
+                94,
+                89
+            ]
+        },
+        {
+            "content_id": "23",
+            "content": "V",
+            "top_left": [
+                795,
+                1693
+            ],
+            "bottom_right": [
+                851,
+                1715
+            ],
+            "font_size": 56,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11071001139587607,
+            "bg_color": [
+                153,
+                69,
+                66
+            ]
+        },
+        {
+            "content_id": "24",
+            "content": "Eu.00r",
+            "top_left": [
+                724,
+                1852
+            ],
+            "bottom_right": [
+                778,
+                1874
+            ],
+            "font_size": 9,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3172257881773716,
+            "bg_color": [
+                17,
+                25,
+                18
+            ]
+        },
+        {
+            "content_id": "25",
+            "content": "WOADIORA2-22",
+            "top_left": [
+                723,
+                1864
+            ],
+            "bottom_right": [
+                879,
+                1893
+            ],
+            "font_size": 13,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3370033607117555,
+            "bg_color": [
+                21,
+                22,
+                25
+            ]
+        },
+        {
+            "content_id": "26",
+            "content": "VII",
+            "top_left": [
+                781,
+                1896
+            ],
+            "bottom_right": [
+                823,
+                1934
+            ],
+            "font_size": 14,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3998152643335459,
+            "bg_color": [
+                17,
+                22,
+                16
+            ]
+        },
+        {
+            "content_id": "27",
+            "content": "包邮#卖闲置2023年7月2",
+            "top_left": [
+                29,
+                2081
+            ],
+            "bottom_right": [
+                505,
+                2124
+            ],
+            "font_size": 34,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19901801057446314,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "28",
+            "content": "包邮#卖闲置2023年7月2",
+            "top_left": [
+                516,
+                2081
+            ],
+            "bottom_right": [
+                992,
+                2124
+            ],
+            "font_size": 34,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18615508583851606,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "29",
+            "content": "2日22点00分#王嘉尔澳",
+            "top_left": [
+                28,
+                2137
+            ],
+            "bottom_right": [
+                496,
+                2182
+            ],
+            "font_size": 36,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "30",
+            "content": "3日22点00分#王嘉尔澳",
+            "top_left": [
+                500,
+                2137
+            ],
+            "bottom_right": [
+                968,
+                2182
+            ],
+            "font_size": 36,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.014236201375598528,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "31",
+            "content": "￥53230人想要",
+            "top_left": [
+                28,
+                2205
+            ],
+            "bottom_right": [
+                397,
+                2253
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20690689192421738,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "32",
+            "content": "￥56850人想要",
+            "top_left": [
+                397,
+                2205
+            ],
+            "bottom_right": [
+                766,
+                2253
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20690689192421738,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

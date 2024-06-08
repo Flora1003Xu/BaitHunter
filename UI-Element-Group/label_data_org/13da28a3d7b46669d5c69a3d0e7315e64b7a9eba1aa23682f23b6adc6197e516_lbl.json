@@ -1,0 +1,56 @@
+{
+    "data": [
+      {
+        "click_id": "22",
+        "click_content": "取消",
+        "group": [
+          {
+            "content_id": "18",
+            "content": "请注意"
+          },
+          {
+            "content_id": "20",
+            "content": "该帐号下所有用户词将被删除,是否继"
+          },
+          {
+            "content_id": "21",
+            "content": "续?"
+          },
+          {
+            "content_id": "22",
+            "content": "取消"
+          },
+          {
+            "content_id": "23",
+            "content": "确定"
+          }
+        ]
+      },
+      {
+        "click_id": "23",
+        "click_content": "确定",
+        "group": [
+          {
+            "content_id": "18",
+            "content": "请注意"
+          },
+          {
+            "content_id": "20",
+            "content": "该帐号下所有用户词将被删除,是否继"
+          },
+          {
+            "content_id": "21",
+            "content": "续?"
+          },
+          {
+            "content_id": "22",
+            "content": "取消"
+          },
+          {
+            "content_id": "23",
+            "content": "确定"
+          }
+        ]
+      }
+    ]
+}

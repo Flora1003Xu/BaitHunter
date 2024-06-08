@@ -1,0 +1,78 @@
+{
+    "data": [
+        {
+            "click_id": "22",
+            "click_content": "今日已签到,邀请好友奖励翻倍",
+            "group": [
+              {
+                "content_id": "6",
+                "content": "明日签到领0.2元"
+              },
+              {
+                "content_id": "7",
+                "content": "再签2天,可赚连签奖0.1元"
+              },
+              {
+                "content_id": "8",
+                "content": "￥0.2"
+              },
+              {
+                "content_id": "9",
+                "content": "￥0.2"
+              },
+              {
+                "content_id": "10",
+                "content": "￥0.3"
+              },
+              {
+                "content_id": "11",
+                "content": "￥0.2"
+              },
+              {
+                "content_id": "12",
+                "content": "第1天"
+              },
+              {
+                "content_id": "13",
+                "content": "第2天"
+              },
+              {
+                "content_id": "14",
+                "content": "连签奖"
+              },
+              {
+                "content_id": "15",
+                "content": "第4天"
+              },
+              {
+                "content_id": "16",
+                "content": "￥0.3"
+              },
+              {
+                "content_id": "17",
+                "content": "￥0.2"
+              },
+              {
+                "content_id": "18",
+                "content": "￥0.4"
+              },
+              {
+                "content_id": "19",
+                "content": "连签奖"
+              },
+              {
+                "content_id": "20",
+                "content": "第6天"
+              },
+              {
+                "content_id": "21",
+                "content": "连签奖"
+              },
+              {
+                "content_id": "22",
+                "content": "今日已签到,邀请好友奖励翻倍"
+              }
+            ]
+        }
+    ]
+}

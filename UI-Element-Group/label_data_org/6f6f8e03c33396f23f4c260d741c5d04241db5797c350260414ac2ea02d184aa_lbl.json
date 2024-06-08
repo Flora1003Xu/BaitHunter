@@ -1,0 +1,73 @@
+{
+    "data": [
+      {
+        "click_id": "5",
+        "click_content": "手机号登录",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "手机号登录"
+          },
+          {
+            "content_id": "1",
+            "content": "立即登录"
+          },
+          {
+            "content_id": "2",
+            "content": "手机号登录时,需绑定您的微信或QQ账号以保证相关"
+          },
+          {
+            "content_id": "3",
+            "content": "功能可以正常使用"
+          },
+          {
+            "content_id": "4",
+            "content": "178******38"
+          },
+          {
+            "content_id": "7",
+            "content": "我已阅读并同意用户协议和"
+          },
+          {
+            "content_id": "8",
+            "content": "隐私政策以及中国移动认证服务条款"
+          }
+        ]
+      },
+      {
+        "click_id": "6",
+        "click_content": "其他手机号登录",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "其他手机号登录"
+          },
+          {
+            "content_id": "1",
+            "content": "立即登录"
+          },
+          {
+            "content_id": "2",
+            "content": "手机号登录时,需绑定您的微信或QQ账号以保证相关"
+          },
+          {
+            "content_id": "3",
+            "content": "功能可以正常使用"
+          },
+          {
+            "content_id": "4",
+            "content": "178******38"
+          },
+          {
+            "content_id": "7",
+            "content": "我已阅读并同意用户协议和"
+          },
+          {
+            "content_id": "8",
+            "content": "隐私政策以及中国移动认证服务条款"
+          }
+        ]
+      }
+    ]
+  }
+   

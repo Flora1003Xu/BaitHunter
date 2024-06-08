@@ -1,0 +1,166 @@
+{
+    "data": [
+      {
+        "click_id": "4",
+        "click_content": "立即开通",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "VIP会员中心"
+          },
+          {
+            "content_id": "4",
+            "content": "立即开通"
+          },
+          {
+            "content_id": "5",
+            "content": "视频讲解"
+          },
+          {
+            "content_id": "6",
+            "content": "考点课程"
+          },
+          {
+            "content_id": "7",
+            "content": "学习周报"
+          },
+          {
+            "content_id": "8",
+            "content": "试卷下载"
+          }
+        ]
+      },
+      {
+        "click_id": "9",
+        "click_content": "任务中心",
+        "group": [
+          {
+            "content_id": "9",
+            "content": "任务中心"
+          },
+          {
+            "content_id": "12",
+            "content": "签到得好礼"
+          }
+        ]
+      },
+      {
+        "click_id": "10",
+        "click_content": "金币商城",
+        "group": [
+          {
+            "content_id": "10",
+            "content": "金币商城"
+          },
+          {
+            "content_id": "11",
+            "content": "NEW"
+          },
+          {
+            "content_id": "13",
+            "content": "全新升级"
+          }
+        ]
+      },
+      {
+        "click_id": "15",
+        "click_content": "错题本",
+        "group": [
+          {
+            "content_id": "15",
+            "content": "错题本"
+          }
+        ]
+      },
+      {
+        "click_id": "16",
+        "click_content": "观看记录",
+        "group": [
+          {
+            "content_id": "16",
+            "content": "观看记录"
+          }
+        ]
+      },
+      {
+        "click_id": "17",
+        "click_content": "收藏夹",
+        "group": [
+          {
+            "content_id": "17",
+            "content": "收藏夹"
+          }
+        ]
+      },
+      {
+        "click_id": "18",
+        "click_content": "我的图书",
+        "group": [
+          {
+            "content_id": "18",
+            "content": "我的图书"
+          }
+        ]
+      },
+      {
+        "click_id": "20",
+        "click_content": "备战高考",
+        "group": [
+          {
+            "content_id": "20",
+            "content": "备战高考"
+          }
+        ]
+      },
+      {
+        "click_id": "21",
+        "click_content": "我的关注",
+        "group": [
+          {
+            "content_id": "21",
+            "content": "我的关注"
+          }
+        ]
+      },
+      {
+        "click_id": "22",
+        "click_content": "我的课程",
+        "group": [
+          {
+            "content_id": "22",
+            "content": "我的课程"
+          }
+        ]
+      },
+      {
+        "click_id": "23",
+        "click_content": "离线课程",
+        "group": [
+          {
+            "content_id": "23",
+            "content": "离线课程"
+          }
+        ]
+      },
+      {
+        "click_id": "24",
+        "click_content": "消息",
+        "group": [
+          {
+            "content_id": "24",
+            "content": "消息"
+          }
+        ]
+      },
+      {
+        "click_id": "26",
+        "click_content": "余额及优惠券",
+        "group": [
+          {
+            "content_id": "26",
+            "content": "余额及优惠券"
+          }
+        ]
+      }
+    ]
+}

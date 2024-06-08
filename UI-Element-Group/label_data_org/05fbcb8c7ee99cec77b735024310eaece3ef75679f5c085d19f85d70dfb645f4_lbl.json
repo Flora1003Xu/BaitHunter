@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "click_id": "22",
+            "click_content": "参与抽奖3积分1次",
+            "group": [
+              {
+                "content_id": "8",
+                "content": "积分天天抽奖"
+              },
+              {
+                "content_id": "9",
+                "content": "1积分"
+              },
+              {
+                "content_id": "10",
+                "content": "2积分"
+              },
+              {
+                "content_id": "11",
+                "content": "SK2神仙水"
+              },
+              {
+                "content_id": "12",
+                "content": "参与1次可抽"
+              },
+              {
+                "content_id": "13",
+                "content": "游戏机"
+              },
+              {
+                "content_id": "14",
+                "content": "5积分"
+              },
+              {
+                "content_id": "15",
+                "content": "8积分"
+              },
+              {
+                "content_id": "16",
+                "content": "参与2次可抽"
+              },
+              {
+                "content_id": "17",
+                "content": "10积分"
+              },
+              {
+                "content_id": "18",
+                "content": "88积分"
+              },
+              {
+                "content_id": "19",
+                "content": "神秘大礼"
+              },
+              {
+                "content_id": "20",
+                "content": "参与3次可抽"
+              },
+              {
+                "content_id": "21",
+                "content": "参与3次,即可解锁神秘大奖"
+              },
+              {
+                "content_id": "22",
+                "content": "参与抽奖3积分1次"
+              }
+            ]
+        }
+    ]
+}

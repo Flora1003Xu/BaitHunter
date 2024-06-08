@@ -1,0 +1,64 @@
+{
+    "data": [
+      {
+        "click_id": "21",
+        "click_content": "取消",
+        "group": [
+          {
+            "content_id": "15",
+            "content": "网络同步用户词设置"
+          },
+          {
+            "content_id": "17",
+            "content": "同步全部用户词"
+          },
+          {
+            "content_id": "19",
+            "content": "包括电脑和手机用户词"
+          },
+          {
+            "content_id": "20",
+            "content": "仅同步手机用户词"
+          },
+          {
+            "content_id": "21",
+            "content": "取消"
+          },
+          {
+            "content_id": "22",
+            "content": "确定"
+          }
+        ]
+      },
+      {
+        "click_id": "22",
+        "click_content": "确定",
+        "group": [
+          {
+            "content_id": "15",
+            "content": "网络同步用户词设置"
+          },
+          {
+            "content_id": "17",
+            "content": "同步全部用户词"
+          },
+          {
+            "content_id": "19",
+            "content": "包括电脑和手机用户词"
+          },
+          {
+            "content_id": "20",
+            "content": "仅同步手机用户词"
+          },
+          {
+            "content_id": "21",
+            "content": "取消"
+          },
+          {
+            "content_id": "22",
+            "content": "确定"
+          }
+        ]
+      }
+    ]
+}

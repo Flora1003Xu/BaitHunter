@@ -1,0 +1,30 @@
+{
+    "data": [
+      {
+        "click_id": "27",
+        "click_content": "登录领会员",
+        "group": [
+          {
+            "content_id": "25",
+            "content": "登录立享3天体验DU会员"
+          },
+          {
+            "content_id": "26",
+            "content": "178******38"
+          },
+          {
+            "content_id": "27",
+            "content": "登录领会员"
+          },
+          {
+            "content_id": "29",
+            "content": "阅读并同意中国移动认证服务协议、百度用户协议和隐私政"
+          },
+          {
+            "content_id": "30",
+            "content": "策,首次登录将自动注册"
+          }
+        ]
+      }
+    ]
+}

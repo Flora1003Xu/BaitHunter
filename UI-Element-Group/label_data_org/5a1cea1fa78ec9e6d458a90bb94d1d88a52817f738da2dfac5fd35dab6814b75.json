@@ -1,0 +1,187 @@
+{
+    "ui_id": "5a1cea1fa78ec9e6d458a90bb94d1d88a52817f738da2dfac5fd35dab6814b75",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "登录过的设备",
+            "top_left": [
+                383,
+                135
+            ],
+            "bottom_right": [
+                815,
+                198
+            ],
+            "font_size": 72,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01680686354533958,
+            "bg_color": [
+                237,
+                237,
+                237
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "编辑",
+            "top_left": [
+                818,
+                135
+            ],
+            "bottom_right": [
+                962,
+                198
+            ],
+            "font_size": 72,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012390810424566124,
+            "bg_color": [
+                237,
+                237,
+                237
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "你的帐号在以下设备中登录过,你可以删除设备,删除后在",
+            "top_left": [
+                26,
+                289
+            ],
+            "bottom_right": [
+                1014,
+                334
+            ],
+            "font_size": 38,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005944113880830387,
+            "bg_color": [
+                237,
+                237,
+                237
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "该设备登录时需进行安全验证。",
+            "top_left": [
+                27,
+                350
+            ],
+            "bottom_right": [
+                531,
+                396
+            ],
+            "font_size": 36,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005944113880830387,
+            "bg_color": [
+                237,
+                237,
+                237
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "已登录的设备",
+            "top_left": [
+                29,
+                470
+            ],
+            "bottom_right": [
+                263,
+                517
+            ],
+            "font_size": 39,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005944113880830387,
+            "bg_color": [
+                237,
+                237,
+                237
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "Xiaomi-21121119SC当前设备",
+            "top_left": [
+                28,
+                590
+            ],
+            "bottom_right": [
+                616,
+                635
+            ],
+            "font_size": 28,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "已退出登录的设备",
+            "top_left": [
+                29,
+                744
+            ],
+            "bottom_right": [
+                341,
+                789
+            ],
+            "font_size": 39,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005944113880830387,
+            "bg_color": [
+                237,
+                237,
+                237
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "android-31",
+            "top_left": [
+                31,
+                868
+            ],
+            "bottom_right": [
+                251,
+                908
+            ],
+            "font_size": 22,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.016195763235897286,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "常见问题",
+            "top_left": [
+                455,
+                2241
+            ],
+            "bottom_right": [
+                611,
+                2287
+            ],
+            "font_size": 39,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13853908028236572,
+            "bg_color": [
+                237,
+                237,
+                237
+            ]
+        }
+    ]
+}

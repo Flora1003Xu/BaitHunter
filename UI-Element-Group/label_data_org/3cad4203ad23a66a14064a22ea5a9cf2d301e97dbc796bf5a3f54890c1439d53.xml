@@ -1,0 +1,26 @@
+<annotation>
+	<folder>1689921061468971</folder>
+	<filename>3cad4203ad23a66a14064a22ea5a9cf2d301e97dbc796bf5a3f54890c1439d53.png</filename>
+	<path>C:\app_audit2\com.ss.android.ugc.live\1689921061468971\3cad4203ad23a66a14064a22ea5a9cf2d301e97dbc796bf5a3f54890c1439d53.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>546</xmin>
+			<ymin>1582</ymin>
+			<xmax>1041</xmax>
+			<ymax>1716</ymax>
+		</bndbox>
+	</object>
+</annotation>

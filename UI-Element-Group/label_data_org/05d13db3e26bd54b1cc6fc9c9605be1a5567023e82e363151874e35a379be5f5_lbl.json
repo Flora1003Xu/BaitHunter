@@ -1,0 +1,135 @@
+{
+    "data": [
+      {
+        "click_id": "5",
+        "click_content": "搜索",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "搜索"
+          },
+          {
+            "content_id": "4",
+            "content": "卡姿兰官方旗舰店"
+          }
+        ]
+      },
+      {
+        "click_id": "6",
+        "click_content": "我的订单",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "我的订单"
+          }
+        ]
+      },
+      {
+        "click_id": "8",
+        "click_content": "9块9特价新人专享",
+        "group": [
+          {
+            "content_id": "8",
+            "content": "9块9特价新人专享"
+          }
+        ]
+      },
+      {
+        "click_id": "16",
+        "click_content": "新人价",
+        "group": [
+          {
+            "content_id": "16",
+            "content": "新人价"
+          },
+          {
+            "content_id": "11",
+            "content": "整箱四十包"
+          },
+          {
+            "content_id": "18",
+            "content": "￥0.01"
+          }
+        ]
+      },
+      {
+        "click_id": "22",
+        "click_content": "直播精选",
+        "group": [
+          {
+            "content_id": "22",
+            "content": "直播精选"
+          },
+          {
+            "content_id": "25",
+            "content": "观华优选"
+          }
+        ]
+      },
+      {
+        "click_id": "23",
+        "click_content": "超值秒杀",
+        "group": [
+          {
+            "content_id": "23",
+            "content": "超值秒杀"
+          },
+          {
+            "content_id": "26",
+            "content": "Y8.15"
+          }
+        ]
+      },
+      {
+        "click_id": "24",
+        "click_content": "全部分类",
+        "group": [
+          {
+            "content_id": "24",
+            "content": "全部分类"
+          },
+          {
+            "content_id": "27",
+            "content": "家装"
+          }
+        ]
+      },
+      {
+        "click_id": "36",
+        "click_content": "火鸡面超辣韩式",
+        "group": [
+          {
+            "content_id": "36",
+            "content": "火鸡面超辣韩式"
+          },
+          {
+            "content_id": "28",
+            "content": "火鸡面40包"
+          },
+          {
+            "content_id": "35",
+            "content": "买一箱送一箱"
+          },
+          {
+            "content_id": "38",
+            "content": "0.01券后价"
+          },
+          {
+            "content_id": "40",
+            "content": "小新人券立减4"
+          }
+        ]
+      },
+      {
+        "click_id": "46",
+        "click_content": "来赚钱",
+        "group": [
+          {
+            "content_id": "46",
+            "content": "来赚钱"
+          }
+        ]
+      }
+    ]
+  }
+  

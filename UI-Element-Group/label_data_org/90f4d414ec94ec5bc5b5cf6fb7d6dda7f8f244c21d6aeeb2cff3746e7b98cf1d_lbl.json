@@ -1,0 +1,48 @@
+{
+    "data": [
+      {
+        "click_id": "9",
+        "click_content": "拒绝",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "启动微信"
+          },
+          {
+            "content_id": "8",
+            "content": "您即将打开微信,是否允许"
+          },
+          {
+            "content_id": "9",
+            "content": "拒绝"
+          },
+          {
+            "content_id": "10",
+            "content": "允许"
+          }
+        ]
+      },
+      {
+        "click_id": "10",
+        "click_content": "允许",
+        "group": [
+          {
+            "content_id": "7",
+            "content": "启动微信"
+          },
+          {
+            "content_id": "8",
+            "content": "您即将打开微信,是否允许"
+          },
+          {
+            "content_id": "9",
+            "content": "拒绝"
+          },
+          {
+            "content_id": "10",
+            "content": "允许"
+          }
+        ]
+      }
+    ]
+}

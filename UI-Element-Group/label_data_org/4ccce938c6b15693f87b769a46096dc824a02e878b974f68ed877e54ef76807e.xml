@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cloudmusic</folder>
+	<filename>4ccce938c6b15693f87b769a46096dc824a02e878b974f68ed877e54ef76807e.png</filename>
+	<path>C:\Users\86136\PycharmProjects\pythonProject\result_final\cloudmusic\4ccce938c6b15693f87b769a46096dc824a02e878b974f68ed877e54ef76807e.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>1813</ymin>
+			<xmax>1078</xmax>
+			<ymax>2354</ymax>
+		</bndbox>
+	</object>
+</annotation>

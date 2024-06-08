@@ -1,0 +1,547 @@
+{
+    "ui_id": "15df0deee0a4c6573461e5d423951d501cb242af9dd357431e2ee588b198b765",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "全网益搜榜o",
+            "top_left": [
+                157,
+                150
+            ],
+            "bottom_right": [
+                397,
+                196
+            ],
+            "font_size": 40,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2803348826863112,
+            "bg_color": [
+                21,
+                115,
+                252
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "30",
+            "top_left": [
+                40,
+                151
+            ],
+            "bottom_right": [
+                162,
+                238
+            ],
+            "font_size": 61,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19218092353229166,
+            "bg_color": [
+                19,
+                124,
+                250
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "广州高温预警",
+            "top_left": [
+                172,
+                198
+            ],
+            "bottom_right": [
+                394,
+                241
+            ],
+            "font_size": 37,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.3448813508392924,
+            "bg_color": [
+                22,
+                107,
+                251
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "搜全网71岁刘晓庆再度演少女",
+            "top_left": [
+                54,
+                305
+            ],
+            "bottom_right": [
+                768,
+                370
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013376353866229738,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "视频推荐",
+            "top_left": [
+                27,
+                473
+            ],
+            "bottom_right": [
+                263,
+                534
+            ],
+            "font_size": 59,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "放映厅游戏小说体育",
+            "top_left": [
+                263,
+                473
+            ],
+            "bottom_right": [
+                794,
+                534
+            ],
+            "font_size": 59,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008478183488787646,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "习近平对全军党的建设会议作出重要指示",
+            "top_left": [
+                24,
+                559
+            ],
+            "bottom_right": [
+                924,
+                623
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "置顶新华网",
+            "top_left": [
+                28,
+                625
+            ],
+            "bottom_right": [
+                183,
+                666
+            ],
+            "font_size": 31,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21295823976474224,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "以高品质生态环境支撑高质量发展",
+            "top_left": [
+                25,
+                664
+            ],
+            "bottom_right": [
+                775,
+                724
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "置顶新华网",
+            "top_left": [
+                28,
+                727
+            ],
+            "bottom_right": [
+                183,
+                768
+            ],
+            "font_size": 31,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21295823976474224,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "我国发展面临新的战略机遇",
+            "top_left": [
+                25,
+                765
+            ],
+            "bottom_right": [
+                637,
+                826
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "置顶人民网",
+            "top_left": [
+                28,
+                831
+            ],
+            "bottom_right": [
+                183,
+                870
+            ],
+            "font_size": 31,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21295823976474224,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "乐享,这道\"文化大餐”品出新滋味",
+            "top_left": [
+                25,
+                867
+            ],
+            "bottom_right": [
+                761,
+                926
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "新华社",
+            "top_left": [
+                28,
+                931
+            ],
+            "bottom_right": [
+                112,
+                971
+            ],
+            "font_size": 28,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.002986054816656341,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "E法护未来快乐暑假安全无诈",
+            "top_left": [
+                24,
+                967
+            ],
+            "bottom_right": [
+                674,
+                1032
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "法制网",
+            "top_left": [
+                28,
+                1033
+            ],
+            "bottom_right": [
+                112,
+                1072
+            ],
+            "font_size": 28,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.002986054816656341,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "老婆望着熟睡中的文",
+            "top_left": [
+                41,
+                1133
+            ],
+            "bottom_right": [
+                500,
+                1195
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2683931542758015,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "结婚现场拍到的",
+            "top_left": [
+                500,
+                1133
+            ],
+            "bottom_right": [
+                857,
+                1195
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.36235881273588544,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "夫一觉得两人的爱",
+            "top_left": [
+                40,
+                1196
+            ],
+            "bottom_right": [
+                520,
+                1257
+            ],
+            "font_size": 60,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24684843423139657,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "新娘绝美的后",
+            "top_left": [
+                526,
+                1196
+            ],
+            "bottom_right": [
+                886,
+                1257
+            ],
+            "font_size": 60,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2959764606933453,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "21",
+            "content": "俩小姐姐卸下工作时的端庄,疯狂在电梯里肆",
+            "top_left": [
+                23,
+                1834
+            ],
+            "bottom_right": [
+                1023,
+                1894
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "22",
+            "content": "意打闹,一抬头秒社死",
+            "top_left": [
+                26,
+                1896
+            ],
+            "bottom_right": [
+                536,
+                1957
+            ],
+            "font_size": 51,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "23",
+            "content": "首驴",
+            "top_left": [
+                73,
+                2311
+            ],
+            "bottom_right": [
+                187,
+                2351
+            ],
+            "font_size": 57,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17699761409821127,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "24",
+            "content": "免费小说",
+            "top_left": [
+                188,
+                2311
+            ],
+            "bottom_right": [
+                416,
+                2351
+            ],
+            "font_size": 57,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "25",
+            "content": "直达",
+            "top_left": [
+                418,
+                2311
+            ],
+            "bottom_right": [
+                532,
+                2351
+            ],
+            "font_size": 57,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "26",
+            "content": "文件",
+            "top_left": [
+                533,
+                2311
+            ],
+            "bottom_right": [
+                647,
+                2351
+            ],
+            "font_size": 57,
+            "contrast": "不太强烈",
+            "contrast_dist": 2.767597513723327e-05,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "27",
+            "content": "我的",
+            "top_left": [
+                648,
+                2311
+            ],
+            "bottom_right": [
+                762,
+                2351
+            ],
+            "font_size": 57,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

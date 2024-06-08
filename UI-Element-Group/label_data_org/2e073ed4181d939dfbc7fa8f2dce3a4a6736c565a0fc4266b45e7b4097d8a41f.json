@@ -1,0 +1,127 @@
+{
+    "ui_id": "2e073ed4181d939dfbc7fa8f2dce3a4a6736c565a0fc4266b45e7b4097d8a41f",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "我的帖子",
+            "top_left": [
+                426,
+                158
+            ],
+            "bottom_right": [
+                682,
+                219
+            ],
+            "font_size": 64,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013570227923943419,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "有奖活动",
+            "top_left": [
+                683,
+                158
+            ],
+            "bottom_right": [
+                939,
+                219
+            ],
+            "font_size": 64,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010825039787650377,
+            "bg_color": [
+                242,
+                242,
+                242
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "WOTHING",
+            "top_left": [
+                480,
+                892
+            ],
+            "bottom_right": [
+                683,
+                949
+            ],
+            "font_size": 29,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                51,
+                51,
+                51
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "你还没有发布帖子哦",
+            "top_left": [
+                340,
+                1220
+            ],
+            "bottom_right": [
+                763,
+                1282
+            ],
+            "font_size": 47,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.009968742506358347,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "看这里,学习一下优质帖子发布攻略",
+            "top_left": [
+                226,
+                1293
+            ],
+            "bottom_right": [
+                882,
+                1350
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1529190928646974,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "发个帖子",
+            "top_left": [
+                455,
+                1419
+            ],
+            "bottom_right": [
+                651,
+                1483
+            ],
+            "font_size": 49,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20332449252437704,
+            "bg_color": [
+                255,
+                230,
+                15
+            ]
+        }
+    ]
+}

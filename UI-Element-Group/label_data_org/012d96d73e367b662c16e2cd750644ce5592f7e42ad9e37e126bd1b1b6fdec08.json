@@ -1,0 +1,627 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                237,
+                223,
+                178
+            ],
+            "bottom_right": [
+                990,
+                395
+            ],
+            "content": "世界冠军",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17223201135724472,
+            "font_size": 27,
+            "top_left": [
+                882,
+                355
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                331,
+                457
+            ],
+            "content": "扫一扫",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5445306638611453,
+            "font_size": 44,
+            "top_left": [
+                199,
+                412
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                507,
+                457
+            ],
+            "content": "我的好友",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5445306638611453,
+            "font_size": 44,
+            "top_left": [
+                331,
+                412
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                683,
+                457
+            ],
+            "content": "切换模式",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5445306638611453,
+            "font_size": 44,
+            "top_left": [
+                507,
+                412
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                859,
+                457
+            ],
+            "content": "听歌识曲",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5445306638611453,
+            "font_size": 44,
+            "top_left": [
+                683,
+                412
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                354,
+                586
+            ],
+            "content": "设置",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5474383070067464,
+            "font_size": 79,
+            "top_left": [
+                196,
+                538
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                521,
+                698
+            ],
+            "content": "创作者平台",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5471017579804319,
+            "font_size": 67,
+            "top_left": [
+                186,
+                649
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                923,
+                698
+            ],
+            "content": "歌曲自助发行",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02277495859051199,
+            "font_size": 67,
+            "top_left": [
+                521,
+                649
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                430,
+                810
+            ],
+            "content": "装扮中心",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.043771691421578315,
+            "font_size": 49,
+            "top_left": [
+                185,
+                752
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                923,
+                810
+            ],
+            "content": "【乐见国宝】限时免费",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.049288163674552556,
+            "font_size": 49,
+            "top_left": [
+                433,
+                752
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                490,
+                917
+            ],
+            "content": "蝰蛇音效",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5474753053033515,
+            "font_size": 61,
+            "top_left": [
+                185,
+                868
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                917,
+                917
+            ],
+            "content": "黑钻蝰蛇新上线",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.049288163674552556,
+            "font_size": 61,
+            "top_left": [
+                490,
+                868
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                374,
+                1035
+            ],
+            "content": "会员中心",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5474383070067464,
+            "font_size": 44,
+            "top_left": [
+                198,
+                974
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                903,
+                1035
+            ],
+            "content": "年卡6折购再赢百万豪礼",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.547483767666166,
+            "font_size": 44,
+            "top_left": [
+                375,
+                974
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                425,
+                1136
+            ],
+            "content": "铃声彩铃",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5445306638611453,
+            "font_size": 42,
+            "top_left": [
+                257,
+                1084
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                236,
+                1253
+            ],
+            "content": "台",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04548589174516941,
+            "font_size": 38,
+            "top_left": [
+                198,
+                1191
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                426,
+                1253
+            ],
+            "content": "听歌免流量",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5445306638611453,
+            "font_size": 38,
+            "top_left": [
+                236,
+                1191
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                508,
+                1356
+            ],
+            "content": "免费听歌模式",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5468267665198263,
+            "font_size": 46,
+            "top_left": [
+                186,
+                1308
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                226,
+                1500
+            ],
+            "content": "自",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04548589174516941,
+            "font_size": 40,
+            "top_left": [
+                186,
+                1445
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                386,
+                1500
+            ],
+            "content": "酷狗商城",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5474383070067464,
+            "font_size": 40,
+            "top_left": [
+                226,
+                1445
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                308,
+                1607
+            ],
+            "content": "唱片店",
+            "content_id": "21",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04548589174516941,
+            "font_size": 37,
+            "top_left": [
+                197,
+                1554
+            ]
+        },
+        {
+            "bg_color": [
+                198,
+                199,
+                203
+            ],
+            "bottom_right": [
+                939,
+                1607
+            ],
+            "content": "TaylorSwift新专温暖上线",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.546600679369023,
+            "font_size": 37,
+            "top_left": [
+                310,
+                1554
+            ]
+        },
+        {
+            "bg_color": [
+                188,
+                189,
+                193
+            ],
+            "bottom_right": [
+                426,
+                1719
+            ],
+            "content": "版权交易",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5472630658323046,
+            "font_size": 48,
+            "top_left": [
+                186,
+                1664
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                424,
+                1853
+            ],
+            "content": "定时关闭",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5445306638611453,
+            "font_size": 42,
+            "top_left": [
+                256,
+                1808
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                522,
+                1967
+            ],
+            "content": "充电动效/壁纸",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5445306638611453,
+            "font_size": 38,
+            "top_left": [
+                256,
+                1910
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                27,
+                1996
+            ],
+            "content": "的",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 26,
+            "top_left": [
+                1,
+                1959
+            ]
+        },
+        {
+            "bg_color": [
+                246,
+                247,
+                252
+            ],
+            "bottom_right": [
+                425,
+                2076
+            ],
+            "content": "音乐应用",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5474397130355155,
+            "font_size": 48,
+            "top_left": [
+                185,
+                2024
+            ]
+        },
+        {
+            "bg_color": [
+                244,
+                245,
+                251
+            ],
+            "bottom_right": [
+                435,
+                2170
+            ],
+            "content": "公立工闺钠",
+            "content_id": "28",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2214718859786124,
+            "font_size": 50,
+            "top_left": [
+                185,
+                2131
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                521,
+                2260
+            ],
+            "content": "客服反馈",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5451839597541317,
+            "font_size": 67,
+            "top_left": [
+                186,
+                2213
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                656,
+                2260
+            ],
+            "content": "设置",
+            "content_id": "30",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.566351591441413,
+            "font_size": 67,
+            "top_left": [
+                522,
+                2213
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                857,
+                2260
+            ],
+            "content": "关闭",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "font_size": 67,
+            "top_left": [
+                656,
+                2213
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "012d96d73e367b662c16e2cd750644ce5592f7e42ad9e37e126bd1b1b6fdec08"
+}

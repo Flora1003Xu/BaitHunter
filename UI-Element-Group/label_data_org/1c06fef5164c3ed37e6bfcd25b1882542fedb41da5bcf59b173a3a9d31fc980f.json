@@ -1,0 +1,407 @@
+{
+    "ui_id": "1c06fef5164c3ed37e6bfcd25b1882542fedb41da5bcf59b173a3a9d31fc980f",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "新浪微博",
+            "top_left": [
+                439,
+                129
+            ],
+            "bottom_right": [
+                623,
+                190
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10007452300318422,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "热",
+            "top_left": [
+                27,
+                364
+            ],
+            "bottom_right": [
+                83,
+                426
+            ],
+            "font_size": 56,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442582508885757,
+            "bg_color": [
+                250,
+                250,
+                250
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "榜单",
+            "top_left": [
+                83,
+                364
+            ],
+            "bottom_right": [
+                195,
+                426
+            ],
+            "font_size": 56,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                250,
+                250,
+                250
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "同城社会",
+            "top_left": [
+                196,
+                364
+            ],
+            "bottom_right": [
+                420,
+                426
+            ],
+            "font_size": 56,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03990047703849619,
+            "bg_color": [
+                250,
+                250,
+                250
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "科技",
+            "top_left": [
+                423,
+                364
+            ],
+            "bottom_right": [
+                535,
+                426
+            ],
+            "font_size": 56,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                250,
+                250,
+                250
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "明星",
+            "top_left": [
+                536,
+                364
+            ],
+            "bottom_right": [
+                648,
+                426
+            ],
+            "font_size": 56,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03990047703849619,
+            "bg_color": [
+                250,
+                250,
+                250
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "我狗1呢鸟",
+            "top_left": [
+                142,
+                502
+            ],
+            "bottom_right": [
+                342,
+                547
+            ],
+            "font_size": 40,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19741680990686966,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "好无聊啊,睡不着了,怎么办啊",
+            "top_left": [
+                27,
+                638
+            ],
+            "bottom_right": [
+                643,
+                697
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "转发",
+            "top_left": [
+                29,
+                1095
+            ],
+            "bottom_right": [
+                135,
+                1148
+            ],
+            "font_size": 53,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08238005195060252,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "O3",
+            "top_left": [
+                136,
+                1095
+            ],
+            "bottom_right": [
+                242,
+                1148
+            ],
+            "font_size": 53,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08238005195060252,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "凸61",
+            "top_left": [
+                243,
+                1095
+            ],
+            "bottom_right": [
+                402,
+                1148
+            ],
+            "font_size": 53,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02585050972844713,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "骠骑尉--松亭先生的",
+            "top_left": [
+                143,
+                1245
+            ],
+            "bottom_right": [
+                503,
+                1290
+            ],
+            "font_size": 36,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17041926208962394,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "真实影像!98年印尼恐怖排华大屠杀,无数华人的",
+            "top_left": [
+                26,
+                1379
+            ],
+            "bottom_right": [
+                1015,
+                1440
+            ],
+            "font_size": 43,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "残肢断臂堆满街道!",
+            "top_left": [
+                29,
+                1447
+            ],
+            "bottom_right": [
+                407,
+                1506
+            ],
+            "font_size": 42,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "某些伊教徒还为它们的教胞洗地,骂被杀的华人活",
+            "top_left": [
+                25,
+                1578
+            ],
+            "bottom_right": [
+                993,
+                1640
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "该。】骠骑尉-松亭先生的微博视频",
+            "top_left": [
+                26,
+                1646
+            ],
+            "bottom_right": [
+                794,
+                1705
+            ],
+            "font_size": 48,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15932047404332741,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "实实影",
+            "top_left": [
+                838,
+                1750
+            ],
+            "bottom_right": [
+                1024,
+                1809
+            ],
+            "font_size": 62,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.34977018589763736,
+            "bg_color": [
+                201,
+                202,
+                214
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "登录/注册",
+            "top_left": [
+                440,
+                2197
+            ],
+            "bottom_right": [
+                635,
+                2243
+            ],
+            "font_size": 39,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1548238572785736,
+            "bg_color": [
+                78,
+                167,
+                232
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "568万次播赤",
+            "top_left": [
+                45,
+                2246
+            ],
+            "bottom_right": [
+                241,
+                2288
+            ],
+            "font_size": 28,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1125047850734582,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "无不园",
+            "top_left": [
+                839,
+                2261
+            ],
+            "bottom_right": [
+                923,
+                2299
+            ],
+            "font_size": 28,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10713206102243832,
+            "bg_color": [
+                109,
+                108,
+                110
+            ]
+        }
+    ]
+}

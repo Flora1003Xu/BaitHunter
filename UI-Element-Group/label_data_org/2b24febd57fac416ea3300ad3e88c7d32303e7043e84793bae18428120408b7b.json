@@ -1,0 +1,167 @@
+{
+    "ui_id": "2b24febd57fac416ea3300ad3e88c7d32303e7043e84793bae18428120408b7b",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "新浪微博",
+            "top_left": [
+                439,
+                129
+            ],
+            "bottom_right": [
+                623,
+                190
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10007452300318422,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "转发微博",
+            "top_left": [
+                441,
+                250
+            ],
+            "bottom_right": [
+                789,
+                311
+            ],
+            "font_size": 87,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1394498831675113,
+            "bg_color": [
+                250,
+                250,
+                250
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "发送",
+            "top_left": [
+                789,
+                250
+            ],
+            "bottom_right": [
+                963,
+                311
+            ],
+            "font_size": 87,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                250,
+                250,
+                250
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "说说分享心得",
+            "top_left": [
+                27,
+                409
+            ],
+            "bottom_right": [
+                297,
+                470
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.02486529366122041,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "@我狗1呢",
+            "top_left": [
+                283,
+                825
+            ],
+            "bottom_right": [
+                468,
+                876
+            ],
+            "font_size": 37,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.010963658782634039,
+            "bg_color": [
+                247,
+                247,
+                247
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "好无聊啊,睡不着了,怎么办啊",
+            "top_left": [
+                271,
+                890
+            ],
+            "bottom_right": [
+                775,
+                934
+            ],
+            "font_size": 36,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0038653196270613728,
+            "bg_color": [
+                247,
+                247,
+                247
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "同时评论",
+            "top_left": [
+                85,
+                2134
+            ],
+            "bottom_right": [
+                253,
+                2184
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "公开",
+            "top_left": [
+                893,
+                2141
+            ],
+            "bottom_right": [
+                1023,
+                2189
+            ],
+            "font_size": 65,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1493616681363738,
+            "bg_color": [
+                248,
+                248,
+                248
+            ]
+        }
+    ]
+}

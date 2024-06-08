@@ -1,0 +1,387 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                581,
+                197
+            ],
+            "content": "设置",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 49,
+            "top_left": [
+                483,
+                135
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                340,
+                364
+            ],
+            "content": "我的信息",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 78,
+            "top_left": [
+                28,
+                303
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                887,
+                364
+            ],
+            "content": "个人/企业信息",
+            "content_id": "3",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.00025425656095770917,
+            "font_size": 78,
+            "top_left": [
+                341,
+                303
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                266,
+                520
+            ],
+            "content": "青少年守扩",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 45,
+            "top_left": [
+                41,
+                457
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                139,
+                692
+            ],
+            "content": "通用",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 55,
+            "top_left": [
+                29,
+                636
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                280,
+                849
+            ],
+            "content": "新消息通知",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 48,
+            "top_left": [
+                40,
+                788
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                269,
+                1004
+            ],
+            "content": "外观与布后",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 48,
+            "top_left": [
+                29,
+                943
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                497,
+                1178
+            ],
+            "content": "安全中心",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 117,
+            "top_left": [
+                29,
+                1119
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                848,
+                1178
+            ],
+            "content": "已保护",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17745559479863982,
+            "font_size": 117,
+            "top_left": [
+                497,
+                1119
+            ]
+        },
+        {
+            "bg_color": [
+                242,
+                242,
+                246
+            ],
+            "bottom_right": [
+                111,
+                1340
+            ],
+            "content": "隐私",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.01589495965317267,
+            "font_size": 42,
+            "top_left": [
+                27,
+                1295
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                225,
+                1465
+            ],
+            "content": "好友权限",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 49,
+            "top_left": [
+                29,
+                1403
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                575,
+                1513
+            ],
+            "content": "加好友权限、加群权限、黑名单",
+            "content_id": "12",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013464452326542304,
+            "font_size": 39,
+            "top_left": [
+                29,
+                1469
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                323,
+                1652
+            ],
+            "content": "对外信息权限",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 49,
+            "top_left": [
+                29,
+                1591
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                663,
+                1700
+            ],
+            "content": "企业名称信息、日程信息、登录信息",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013464452326542304,
+            "font_size": 39,
+            "top_left": [
+                39,
+                1656
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                365,
+                1840
+            ],
+            "content": "系统及应用权限",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 48,
+            "top_left": [
+                29,
+                1778
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                572,
+                1894
+            ],
+            "content": "系统权限、应用授权、内容权阳",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013464452326542304,
+            "font_size": 38,
+            "top_left": [
+                40,
+                1840
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                323,
+                2038
+            ],
+            "content": "个人信息查询",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 47,
+            "top_left": [
+                41,
+                1976
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                412,
+                2192
+            ],
+            "content": "共享个人信息清单",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 48,
+            "top_left": [
+                28,
+                2130
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                270,
+                2364
+            ],
+            "content": "帮助与反馈",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.10217937989656202,
+            "font_size": 48,
+            "top_left": [
+                30,
+                2306
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "0119cd4be70286a0fb48e4a120f2f66d73f41ec75887f65d19342266b66da309"
+}

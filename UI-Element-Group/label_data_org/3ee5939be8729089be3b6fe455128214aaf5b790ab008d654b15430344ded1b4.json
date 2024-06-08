@@ -1,0 +1,107 @@
+{
+    "ui_id": "3ee5939be8729089be3b6fe455128214aaf5b790ab008d654b15430344ded1b4",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "修改手机号",
+            "top_left": [
+                396,
+                130
+            ],
+            "bottom_right": [
+                681,
+                196
+            ],
+            "font_size": 57,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                248,
+                248,
+                248
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "请输入账号名/邮箱/原绑定的手机号",
+            "top_left": [
+                110,
+                530
+            ],
+            "bottom_right": [
+                841,
+                591
+            ],
+            "font_size": 43,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.00330719486931279,
+            "bg_color": [
+                157,
+                157,
+                157
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "88888888",
+            "top_left": [
+                88,
+                709
+            ],
+            "bottom_right": [
+                248,
+                751
+            ],
+            "font_size": 20,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0037864197830338427,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "向右滑动验证",
+            "top_left": [
+                428,
+                802
+            ],
+            "bottom_right": [
+                638,
+                845
+            ],
+            "font_size": 35,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.005998829826718299,
+            "bg_color": [
+                175,
+                175,
+                175
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "确认",
+            "top_left": [
+                485,
+                1105
+            ],
+            "bottom_right": [
+                581,
+                1159
+            ],
+            "font_size": 48,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20895875147679466,
+            "bg_color": [
+                255,
+                114,
+                0
+            ]
+        }
+    ]
+}

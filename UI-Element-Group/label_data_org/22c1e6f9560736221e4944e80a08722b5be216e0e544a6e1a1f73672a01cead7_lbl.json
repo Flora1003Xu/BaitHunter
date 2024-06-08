@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "click_id": "14",
+            "click_content": "去绑定",
+            "group": [
+              {
+                "content_id": "13",
+                "content": "绑定微信"
+              },
+              {
+                "content_id": "14",
+                "content": "去绑定"
+              },
+              {
+                "content_id":"15",
+                "content":"+5积分"
+              }
+            ]
+        },
+        {
+            "click_id": "17",
+            "click_content": "去设置",
+            "group": [
+              {
+                "content_id": "16",
+                "content": "设置头像和昵称"
+              },
+              {
+                "content_id": "17",
+                "content": "去设置"
+              },
+              {
+                "content_id":"18",
+                "content":"+5积分"
+              }
+            ]
+        },
+        {
+            "click_id": "21",
+            "click_content": "去记账",
+            "group": [
+              {
+                "content_id": "20",
+                "content": "记账"
+              },
+              {
+                "content_id": "21",
+                "content": "去记账"
+              },
+              {
+                "content_id":"22",
+                "content":"+1积分"
+              }
+            ]
+        },
+        {
+            "click_id": "24",
+            "click_content": "去看看",
+            "group": [
+              {
+                "content_id": "23",
+                "content": "观看广告视频"
+              },
+              {
+                "content_id": "24",
+                "content": "去看看"
+              },
+              {
+                "content_id":"25",
+                "content":"+1积分"
+              }
+            ]
+        }
+    ]
+}

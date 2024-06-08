@@ -1,0 +1,627 @@
+{
+    "ui_id": "7f696de7f97f9f7454a88290c414e4065a4d63ff300b2d97bf258fd950153c93",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "选择国家和地区",
+            "top_left": [
+                368,
+                133
+            ],
+            "bottom_right": [
+                704,
+                194
+            ],
+            "font_size": 48,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "中国大陆",
+            "top_left": [
+                39,
+                273
+            ],
+            "bottom_right": [
+                507,
+                325
+            ],
+            "font_size": 117,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "+86",
+            "top_left": [
+                509,
+                273
+            ],
+            "bottom_right": [
+                860,
+                325
+            ],
+            "font_size": 117,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "中国香道",
+            "top_left": [
+                41,
+                421
+            ],
+            "bottom_right": [
+                457,
+                472
+            ],
+            "font_size": 104,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "+852",
+            "top_left": [
+                458,
+                421
+            ],
+            "bottom_right": [
+                874,
+                472
+            ],
+            "font_size": 104,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "中国澳门",
+            "top_left": [
+                41,
+                564
+            ],
+            "bottom_right": [
+                457,
+                622
+            ],
+            "font_size": 104,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04687269708033406,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "+853",
+            "top_left": [
+                458,
+                564
+            ],
+            "bottom_right": [
+                874,
+                622
+            ],
+            "font_size": 104,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "中国台湾",
+            "top_left": [
+                41,
+                709
+            ],
+            "bottom_right": [
+                457,
+                769
+            ],
+            "font_size": 104,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "+886",
+            "top_left": [
+                458,
+                709
+            ],
+            "bottom_right": [
+                874,
+                769
+            ],
+            "font_size": 104,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "阿尔巴尼亚",
+            "top_left": [
+                41,
+                941
+            ],
+            "bottom_right": [
+                506,
+                988
+            ],
+            "font_size": 93,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "+355",
+            "top_left": [
+                510,
+                941
+            ],
+            "bottom_right": [
+                882,
+                988
+            ],
+            "font_size": 93,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "阿尔及利亚",
+            "top_left": [
+                42,
+                1083
+            ],
+            "bottom_right": [
+                252,
+                1138
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "+213",
+            "top_left": [
+                896,
+                1095
+            ],
+            "bottom_right": [
+                980,
+                1137
+            ],
+            "font_size": 21,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03454497815738908,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "M",
+            "top_left": [
+                1037,
+                1233
+            ],
+            "bottom_right": [
+                1066,
+                1269
+            ],
+            "font_size": 29,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03454497815738908,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "阿根廷",
+            "top_left": [
+                42,
+                1236
+            ],
+            "bottom_right": [
+                444,
+                1283
+            ],
+            "font_size": 134,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "+54",
+            "top_left": [
+                444,
+                1236
+            ],
+            "bottom_right": [
+                846,
+                1283
+            ],
+            "font_size": 134,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "阿拉伯联合酋长国",
+            "top_left": [
+                41,
+                1377
+            ],
+            "bottom_right": [
+                625,
+                1435
+            ],
+            "font_size": 73,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "+971",
+            "top_left": [
+                626,
+                1377
+            ],
+            "bottom_right": [
+                918,
+                1435
+            ],
+            "font_size": 73,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "阿鲁巴岛",
+            "top_left": [
+                41,
+                1528
+            ],
+            "bottom_right": [
+                457,
+                1575
+            ],
+            "font_size": 104,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "+297",
+            "top_left": [
+                458,
+                1528
+            ],
+            "bottom_right": [
+                874,
+                1575
+            ],
+            "font_size": 104,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "21",
+            "content": "V",
+            "top_left": [
+                1037,
+                1575
+            ],
+            "bottom_right": [
+                1066,
+                1611
+            ],
+            "font_size": 29,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03454497815738908,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "22",
+            "content": "阿",
+            "top_left": [
+                42,
+                1679
+            ],
+            "bottom_right": [
+                198,
+                1725
+            ],
+            "font_size": 156,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "23",
+            "content": "+968",
+            "top_left": [
+                198,
+                1679
+            ],
+            "bottom_right": [
+                822,
+                1725
+            ],
+            "font_size": 156,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "24",
+            "content": "阿塞拜疆",
+            "top_left": [
+                42,
+                1824
+            ],
+            "bottom_right": [
+                458,
+                1870
+            ],
+            "font_size": 104,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "25",
+            "content": "+994",
+            "top_left": [
+                458,
+                1824
+            ],
+            "bottom_right": [
+                874,
+                1870
+            ],
+            "font_size": 104,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "26",
+            "content": "阿森松",
+            "top_left": [
+                42,
+                1967
+            ],
+            "bottom_right": [
+                393,
+                2021
+            ],
+            "font_size": 117,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "27",
+            "content": "+247",
+            "top_left": [
+                393,
+                1967
+            ],
+            "bottom_right": [
+                861,
+                2021
+            ],
+            "font_size": 117,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "28",
+            "content": "埃及",
+            "top_left": [
+                42,
+                2111
+            ],
+            "bottom_right": [
+                126,
+                2167
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "29",
+            "content": "+20",
+            "top_left": [
+                910,
+                2124
+            ],
+            "bottom_right": [
+                979,
+                2165
+            ],
+            "font_size": 23,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03454497815738908,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "30",
+            "content": "埃塞俄比亚",
+            "top_left": [
+                41,
+                2264
+            ],
+            "bottom_right": [
+                506,
+                2313
+            ],
+            "font_size": 93,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "31",
+            "content": "+251",
+            "top_left": [
+                510,
+                2264
+            ],
+            "bottom_right": [
+                882,
+                2313
+            ],
+            "font_size": 93,
+            "contrast": "不太强烈",
+            "contrast_dist": 0,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

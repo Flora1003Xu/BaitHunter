@@ -1,0 +1,187 @@
+{
+    "ui_id": "4be172093088f8f01bfe40e9aea60bfa7c6e40ec9475db396947c6815ecca368",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "同城",
+            "top_left": [
+                170,
+                130
+            ],
+            "bottom_right": [
+                280,
+                194
+            ],
+            "font_size": 55,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16296031668961594,
+            "bg_color": [
+                208,
+                208,
+                206
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "关注",
+            "top_left": [
+                280,
+                130
+            ],
+            "bottom_right": [
+                390,
+                194
+            ],
+            "font_size": 55,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16108044868787955,
+            "bg_color": [
+                210,
+                209,
+                208
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "商城",
+            "top_left": [
+                390,
+                130
+            ],
+            "bottom_right": [
+                500,
+                194
+            ],
+            "font_size": 55,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15455953736904296,
+            "bg_color": [
+                212,
+                209,
+                207
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "推荐",
+            "top_left": [
+                500,
+                130
+            ],
+            "bottom_right": [
+                610,
+                194
+            ],
+            "font_size": 55,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1593047917911877,
+            "bg_color": [
+                209,
+                208,
+                208
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "青少年模式",
+            "top_left": [
+                412,
+                1793
+            ],
+            "bottom_right": [
+                652,
+                1852
+            ],
+            "font_size": 48,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "精选自然科普、人文历史、热门动画等有趣有用视",
+            "top_left": [
+                96,
+                1880
+            ],
+            "bottom_right": [
+                954,
+                1927
+            ],
+            "font_size": 39,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03454497815738908,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "频,合理控制观看时长,无广告放心看。",
+            "top_left": [
+                170,
+                1941
+            ],
+            "bottom_right": [
+                854,
+                1990
+            ],
+            "font_size": 38,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03454497815738908,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "开启青少年模式",
+            "top_left": [
+                369,
+                2028
+            ],
+            "bottom_right": [
+                677,
+                2075
+            ],
+            "font_size": 44,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.21339239646919766,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "我知道了",
+            "top_left": [
+                454,
+                2170
+            ],
+            "bottom_right": [
+                610,
+                2218
+            ],
+            "font_size": 39,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

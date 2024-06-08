@@ -1,0 +1,84 @@
+{
+    "data": [
+      {
+        "click_id": "12",
+        "click_content": "了解详情",
+        "group": [
+          {
+            "content_id": "4",
+            "content": "WhatsApp"
+          },
+          {
+            "content_id": "5",
+            "content": "大中华区战略"
+          },
+          {
+            "content_id": "10",
+            "content": "极光提供官方授权的WhatsApp消息通"
+          },
+          {
+            "content_id": "11",
+            "content": "道,快速连接全球20亿WhatsApp用户"
+          },
+          {
+            "content_id": "12",
+            "content": "了解详情"
+          }
+        ]
+      },
+      {
+        "click_id": "15",
+        "click_content": "月狐数据",
+        "group": [
+          {
+            "content_id": "15",
+            "content": "月狐数据"
+          }
+        ]
+      },
+      {
+        "click_id": "16",
+        "click_content": "新人福利",
+        "group": [
+          {
+            "content_id": "16",
+            "content": "新人福利"
+          }
+        ]
+      },
+      {
+        "click_id": "17",
+        "click_content": "新品尝鲜",
+        "group": [
+          {
+            "content_id": "17",
+            "content": "新品尝鲜"
+          }
+        ]
+      },
+      {
+        "click_id": "18",
+        "click_content": "解决方案",
+        "group": [
+          {
+            "content_id": "18",
+            "content": "解决方案"
+          }
+        ]
+      },
+      {
+        "click_id": "20",
+        "click_content": "通知服务",
+        "group": [
+          {
+            "content_id": "20",
+            "content": "通知服务"
+          },
+          {
+            "content_id": "21",
+            "content": "全方位触达您的用户"
+          }
+        ]
+      }
+    ]
+}

@@ -1,0 +1,227 @@
+{
+    "ui_id": "1dc8f82caa99c5e4a0f98d99b8f3f65e0edec95848b74335c2b2e92eded71269",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "了解与管理广告推送",
+            "top_left": [
+                324,
+                143
+            ],
+            "bottom_right": [
+                747,
+                204
+            ],
+            "font_size": 47,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "抖音广告",
+            "top_left": [
+                29,
+                365
+            ],
+            "bottom_right": [
+                241,
+                426
+            ],
+            "font_size": 53,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "我们运用先进的技术,致力于让广告成为对您有用的信",
+            "top_left": [
+                28,
+                495
+            ],
+            "bottom_right": [
+                1012,
+                541
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07205172570749722,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "息,向您提供更好的服务。如果对于这支广告不感兴",
+            "top_left": [
+                38,
+                553
+            ],
+            "bottom_right": [
+                981,
+                599
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07205172570749722,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "趣,您可以通过长按广告内容,点击「不感兴趣,来",
+            "top_left": [
+                38,
+                608
+            ],
+            "bottom_right": [
+                1004,
+                659
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07205172570749722,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "屏蔽不愿看到的广告内容",
+            "top_left": [
+                40,
+                667
+            ],
+            "bottom_right": [
+                491,
+                715
+            ],
+            "font_size": 41,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07205172570749722,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "不感兴趣",
+            "top_left": [
+                185,
+                1161
+            ],
+            "bottom_right": [
+                369,
+                1218
+            ],
+            "font_size": 46,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16129494439387942,
+            "bg_color": [
+                254,
+                254,
+                254
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "程序化广告",
+            "top_left": [
+                41,
+                1438
+            ],
+            "bottom_right": [
+                281,
+                1497
+            ],
+            "font_size": 48,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "为什么意到此广告",
+            "top_left": [
+                296,
+                1812
+            ],
+            "bottom_right": [
+                768,
+                1881
+            ],
+            "font_size": 59,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "为什么我会看到这条广告?",
+            "top_left": [
+                40,
+                2193
+            ],
+            "bottom_right": [
+                508,
+                2241
+            ],
+            "font_size": 39,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16131035571700614,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "您看到的\"由广告主推荐的广告”,是广告主根据您在其",
+            "top_left": [
+                38,
+                2296
+            ],
+            "bottom_right": [
+                988,
+                2344
+            ],
+            "font_size": 38,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07205172570749722,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "data": [
+      {
+        "click_id": "2",
+        "click_content": "全部",
+        "group": [
+          {
+            "content_id": "2",
+            "content": "全部"
+          }
+        ]
+      },
+      {
+        "click_id": "3",
+        "click_content": "图/视频",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "图/视频"
+          }
+        ]
+      },
+      {
+        "click_id": "4",
+        "click_content": "追评",
+        "group": [
+          {
+            "content_id": "4",
+            "content": "追评"
+          }
+        ]
+      },
+      {
+        "click_id": "5",
+        "click_content": "好评",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "好评"
+          }
+        ]
+      },
+      {
+        "click_id": "33",
+        "click_content": "店铺",
+        "group": [
+          {
+            "content_id": "33",
+            "content": "店铺"
+          }
+        ]
+      },
+      {
+        "click_id": "34",
+        "click_content": "客服",
+        "group": [
+          {
+            "content_id": "34",
+            "content": "客服"
+          }
+        ]
+      },
+      {
+        "click_id": "35",
+        "click_content": "购物车",
+        "group": [
+          {
+            "content_id": "35",
+            "content": "购物车"
+          }
+        ]
+      }
+    ]
+}

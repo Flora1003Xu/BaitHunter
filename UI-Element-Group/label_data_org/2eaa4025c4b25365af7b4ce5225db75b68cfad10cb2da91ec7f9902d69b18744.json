@@ -1,0 +1,127 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                250,
+                35,
+                44
+            ],
+            "bottom_right": [
+                650,
+                197
+            ],
+            "content": "消息他",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22647735558591184,
+            "font_size": 56,
+            "top_left": [
+                482,
+                135
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                280,
+                510
+            ],
+            "content": "交易物流",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012856372995027511,
+            "font_size": 45,
+            "top_left": [
+                100,
+                465
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                462,
+                510
+            ],
+            "content": "互动消息",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012856372995027511,
+            "font_size": 45,
+            "top_left": [
+                282,
+                465
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                644,
+                510
+            ],
+            "content": "账户通知",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012856372995027511,
+            "font_size": 45,
+            "top_left": [
+                464,
+                465
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                826,
+                510
+            ],
+            "content": "服务通知",
+            "content_id": "5",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012856372995027511,
+            "font_size": 45,
+            "top_left": [
+                646,
+                465
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                705,
+                1538
+            ],
+            "content": "还没有任何信息哦、",
+            "content_id": "6",
+            "contrast": "不太强烈",
+            "contrast_dist": 0.002107500612056881,
+            "font_size": 39,
+            "top_left": [
+                354,
+                1482
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "2eaa4025c4b25365af7b4ce5225db75b68cfad10cb2da91ec7f9902d69b18744"
+}

@@ -1,0 +1,227 @@
+{
+    "ui_id": "8d35b91c80eed11c51dd0af78a9b09cf51043cd9a323c10e383b471f169e7706",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "消息通知",
+            "top_left": [
+                412,
+                132
+            ],
+            "bottom_right": [
+                652,
+                198
+            ],
+            "font_size": 60,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015306928934318724,
+            "bg_color": [
+                153,
+                153,
+                153
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "通知栏消息",
+            "top_left": [
+                42,
+                309
+            ],
+            "bottom_right": [
+                267,
+                370
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015306928934318724,
+            "bg_color": [
+                153,
+                153,
+                153
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "消息接收个性化设置",
+            "top_left": [
+                41,
+                444
+            ],
+            "bottom_right": [
+                455,
+                506
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015306928934318724,
+            "bg_color": [
+                153,
+                153,
+                153
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "许系统通知栏接收来自QQ浏览器的消息。",
+            "top_left": [
+                42,
+                571
+            ],
+            "bottom_right": [
+                764,
+                617
+            ],
+            "font_size": 38,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006038798874112411,
+            "bg_color": [
+                144,
+                144,
+                144
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "应用内横幅通知",
+            "top_left": [
+                44,
+                702
+            ],
+            "bottom_right": [
+                352,
+                761
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015306928934318724,
+            "bg_color": [
+                153,
+                153,
+                153
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "福利悬浮球",
+            "top_left": [
+                42,
+                831
+            ],
+            "bottom_right": [
+                267,
+                893
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015306928934318724,
+            "bg_color": [
+                153,
+                153,
+                153
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "垃圾过多通知",
+            "top_left": [
+                43,
+                965
+            ],
+            "bottom_right": [
+                313,
+                1021
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015306928934318724,
+            "bg_color": [
+                153,
+                153,
+                153
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "开启通知权限",
+            "top_left": [
+                382,
+                1695
+            ],
+            "bottom_right": [
+                682,
+                1756
+            ],
+            "font_size": 50,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "获取最新热点资讯、互动消息与福利信息",
+            "top_left": [
+                184,
+                1784
+            ],
+            "bottom_right": [
+                868,
+                1832
+            ],
+            "font_size": 38,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "开启",
+            "top_left": [
+                482,
+                1937
+            ],
+            "bottom_right": [
+                582,
+                1999
+            ],
+            "font_size": 50,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19499487884345665,
+            "bg_color": [
+                19,
+                108,
+                233
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "关闭",
+            "top_left": [
+                481,
+                2103
+            ],
+            "bottom_right": [
+                583,
+                2166
+            ],
+            "font_size": 51,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1762512832023628,
+            "bg_color": [
+                242,
+                247,
+                254
+            ]
+        }
+    ]
+}

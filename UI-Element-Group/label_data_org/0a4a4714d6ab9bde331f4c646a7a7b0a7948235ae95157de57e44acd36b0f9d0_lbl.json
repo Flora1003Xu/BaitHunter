@@ -1,0 +1,26 @@
+{
+    "data": [
+      {
+        "click_id": "4",
+        "click_content": "立即创作",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "一键生成心中所想"
+          },
+          {
+            "content_id": "4",
+            "content": "立即创作"
+          },
+          {
+            "content_id": "5",
+            "content": "未来式汽车,机甲跑车,复杂的结构,变形金刚风格,强"
+          },
+          {
+            "content_id": "6",
+            "content": "烈的金属质感,未来城市,科幻城市"
+          }
+        ]
+      }
+    ]
+}

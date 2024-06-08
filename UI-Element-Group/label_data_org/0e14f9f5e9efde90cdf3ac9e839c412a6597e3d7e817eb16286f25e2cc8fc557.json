@@ -1,0 +1,227 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                85,
+                85,
+                85
+            ],
+            "bottom_right": [
+                822,
+                199
+            ],
+            "content": "使用说明",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06491910913765347,
+            "font_size": 99,
+            "top_left": [
+                426,
+                135
+            ]
+        },
+        {
+            "bg_color": [
+                85,
+                85,
+                85
+            ],
+            "bottom_right": [
+                651,
+                355
+            ],
+            "content": "京东京造",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2576428045187804,
+            "font_size": 60,
+            "top_left": [
+                411,
+                293
+            ]
+        },
+        {
+            "bg_color": [
+                85,
+                85,
+                85
+            ],
+            "bottom_right": [
+                733,
+                510
+            ],
+            "content": "TR1观光望远镜测距仪",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2754134447196866,
+            "font_size": 37,
+            "top_left": [
+                326,
+                453
+            ]
+        },
+        {
+            "bg_color": [
+                46,
+                46,
+                46
+            ],
+            "bottom_right": [
+                371,
+                927
+            ],
+            "content": "DUKA",
+            "content_id": "4",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.026765314880652046,
+            "font_size": 29,
+            "top_left": [
+                255,
+                865
+            ]
+        },
+        {
+            "bg_color": [
+                85,
+                85,
+                85
+            ],
+            "bottom_right": [
+                555,
+                1674
+            ],
+            "content": "测量键/开机键",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05933471143574026,
+            "font_size": 47,
+            "top_left": [
+                226,
+                1628
+            ]
+        },
+        {
+            "bg_color": [
+                85,
+                85,
+                85
+            ],
+            "bottom_right": [
+                700,
+                1674
+            ],
+            "content": "功能键",
+            "content_id": "6",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.027570818135894966,
+            "font_size": 47,
+            "top_left": [
+                559,
+                1628
+            ]
+        },
+        {
+            "bg_color": [
+                83,
+                83,
+                83
+            ],
+            "bottom_right": [
+                530,
+                1740
+            ],
+            "content": "观察镜筒(目镜)",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.05543181246389573,
+            "font_size": 38,
+            "top_left": [
+                226,
+                1694
+            ]
+        },
+        {
+            "bg_color": [
+                85,
+                85,
+                85
+            ],
+            "bottom_right": [
+                837,
+                1740
+            ],
+            "content": "望远镜筒(物镜)",
+            "content_id": "8",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04037433564223104,
+            "font_size": 38,
+            "top_left": [
+                533,
+                1694
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                596,
+                1882
+            ],
+            "content": "分享到",
+            "content_id": "9",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012856372995027511,
+            "font_size": 42,
+            "top_left": [
+                470,
+                1837
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                621,
+                2155
+            ],
+            "content": "微信好友",
+            "content_id": "10",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012856372995027511,
+            "font_size": 42,
+            "top_left": [
+                453,
+                2108
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                582,
+                2310
+            ],
+            "content": "取消",
+            "content_id": "11",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.012856372995027511,
+            "font_size": 49,
+            "top_left": [
+                484,
+                2251
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "0e14f9f5e9efde90cdf3ac9e839c412a6597e3d7e817eb16286f25e2cc8fc557"
+}

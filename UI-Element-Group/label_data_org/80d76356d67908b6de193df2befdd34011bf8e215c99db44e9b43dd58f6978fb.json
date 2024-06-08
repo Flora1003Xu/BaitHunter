@@ -1,0 +1,447 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                0,
+                0,
+                0
+            ],
+            "bottom_right": [
+                362,
+                197
+            ],
+            "content": "名快手",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5427159307728429,
+            "font_size": 109,
+            "top_left": [
+                35,
+                127
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                0,
+                0
+            ],
+            "bottom_right": [
+                908,
+                197
+            ],
+            "content": "登录领金币",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5830291060399799,
+            "font_size": 109,
+            "top_left": [
+                363,
+                127
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                65,
+                48
+            ],
+            "bottom_right": [
+                724,
+                905
+            ],
+            "content": "恭喜收到现金红包",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19146409209702767,
+            "font_size": 48,
+            "top_left": [
+                340,
+                843
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                52,
+                41
+            ],
+            "bottom_right": [
+                638,
+                987
+            ],
+            "content": "新用户专属",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1948270320101416,
+            "font_size": 42,
+            "top_left": [
+                428,
+                941
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                219
+            ],
+            "bottom_right": [
+                737,
+                1114
+            ],
+            "content": "最高",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18840427999422235,
+            "font_size": 41,
+            "top_left": [
+                655,
+                1073
+            ]
+        },
+        {
+            "bg_color": [
+                180,
+                180,
+                180
+            ],
+            "bottom_right": [
+                1035,
+                1425
+            ],
+            "content": "7.9万",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.13425178278840275,
+            "font_size": 21,
+            "top_left": [
+                951,
+                1383
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                626,
+                1460
+            ],
+            "content": "立即领取",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20202774099658213,
+            "font_size": 46,
+            "top_left": [
+                442,
+                1408
+            ]
+        },
+        {
+            "bg_color": [
+                173,
+                172,
+                171
+            ],
+            "bottom_right": [
+                1020,
+                1533
+            ],
+            "content": "oo",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0717598618822943,
+            "font_size": 27,
+            "top_left": [
+                966,
+                1511
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                9,
+                5
+            ],
+            "bottom_right": [
+                637,
+                1603
+            ],
+            "content": "可立即提现",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20591139292362143,
+            "font_size": 40,
+            "top_left": [
+                437,
+                1564
+            ]
+        },
+        {
+            "bg_color": [
+                180,
+                180,
+                180
+            ],
+            "bottom_right": [
+                1035,
+                1615
+            ],
+            "content": "1822",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08877722719449044,
+            "font_size": 20,
+            "top_left": [
+                955,
+                1577
+            ]
+        },
+        {
+            "bg_color": [
+                180,
+                180,
+                180
+            ],
+            "bottom_right": [
+                1036,
+                1811
+            ],
+            "content": "1.9万",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08912888611969684,
+            "font_size": 21,
+            "top_left": [
+                952,
+                1769
+            ]
+        },
+        {
+            "bg_color": [
+                51,
+                46,
+                35
+            ],
+            "bottom_right": [
+                174,
+                1952
+            ],
+            "content": "Q小敏",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.12793775735503563,
+            "font_size": 50,
+            "top_left": [
+                24,
+                1901
+            ]
+        },
+        {
+            "bg_color": [
+                180,
+                180,
+                180
+            ],
+            "bottom_right": [
+                1024,
+                2002
+            ],
+            "content": "分鲈",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07296333829480718,
+            "font_size": 30,
+            "top_left": [
+                964,
+                1961
+            ]
+        },
+        {
+            "bg_color": [
+                56,
+                52,
+                40
+            ],
+            "bottom_right": [
+                697,
+                2040
+            ],
+            "content": "贪吃的哥哥偷拿邻居鸡爪,没想到。",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15447880493168256,
+            "font_size": 42,
+            "top_left": [
+                25,
+                1980
+            ]
+        },
+        {
+            "bg_color": [
+                180,
+                180,
+                180
+            ],
+            "bottom_right": [
+                781,
+                2040
+            ],
+            "content": "我的",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11175691495199364,
+            "font_size": 42,
+            "top_left": [
+                697,
+                1980
+            ]
+        },
+        {
+            "bg_color": [
+                180,
+                180,
+                180
+            ],
+            "bottom_right": [
+                579,
+                2108
+            ],
+            "content": "乡村生活美食#乡村守护人",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14161497014973345,
+            "font_size": 47,
+            "top_left": [
+                15,
+                2048
+            ]
+        },
+        {
+            "bg_color": [
+                180,
+                180,
+                180
+            ],
+            "bottom_right": [
+                161,
+                2181
+            ],
+            "content": "门原声",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1252684434146824,
+            "font_size": 45,
+            "top_left": [
+                26,
+                2126
+            ]
+        },
+        {
+            "bg_color": [
+                87,
+                72,
+                58
+            ],
+            "bottom_right": [
+                477,
+                2181
+            ],
+            "content": "小敏的作品原声",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.14094899364798522,
+            "font_size": 45,
+            "top_left": [
+                162,
+                2126
+            ]
+        },
+        {
+            "bg_color": [
+                179,
+                38,
+                72
+            ],
+            "bottom_right": [
+                936,
+                2278
+            ],
+            "content": "至022.5元",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.25013289428235036,
+            "font_size": 18,
+            "top_left": [
+                810,
+                2241
+            ]
+        },
+        {
+            "bg_color": [
+                18,
+                18,
+                20
+            ],
+            "bottom_right": [
+                267,
+                2319
+            ],
+            "content": "首页",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08764170298571598,
+            "font_size": 105,
+            "top_left": [
+                57,
+                2252
+            ]
+        },
+        {
+            "bg_color": [
+                18,
+                18,
+                20
+            ],
+            "bottom_right": [
+                478,
+                2319
+            ],
+            "content": "朋友",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07937292691205733,
+            "font_size": 105,
+            "top_left": [
+                268,
+                2252
+            ]
+        },
+        {
+            "bg_color": [
+                18,
+                18,
+                20
+            ],
+            "bottom_right": [
+                584,
+                2319
+            ],
+            "content": "去",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09522766417019732,
+            "font_size": 105,
+            "top_left": [
+                479,
+                2252
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "80d76356d67908b6de193df2befdd34011bf8e215c99db44e9b43dd58f6978fb"
+}

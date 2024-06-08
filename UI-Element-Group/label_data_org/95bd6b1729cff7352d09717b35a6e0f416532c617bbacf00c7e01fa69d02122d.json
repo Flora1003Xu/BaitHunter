@@ -1,0 +1,307 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                889,
+                195
+            ],
+            "content": "极光推送-中国领先的客户互动和.",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0736394568487019,
+            "font_size": 46,
+            "top_left": [
+                153,
+                129
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                112,
+                473
+            ],
+            "content": "产品",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20201459306573377,
+            "font_size": 35,
+            "top_left": [
+                42,
+                430
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                196,
+                637
+            ],
+            "content": "解决方案",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20201459306573377,
+            "font_size": 39,
+            "top_left": [
+                40,
+                593
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                197,
+                795
+            ],
+            "content": "成功案例",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20201459306573377,
+            "font_size": 39,
+            "top_left": [
+                41,
+                751
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                195,
+                955
+            ],
+            "content": "海外服务",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20201459306573377,
+            "font_size": 41,
+            "top_left": [
+                31,
+                910
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                235,
+                1113
+            ],
+            "content": "开发者支持",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20201459306573377,
+            "font_size": 41,
+            "top_left": [
+                30,
+                1069
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                198,
+                1272
+            ],
+            "content": "关于极光",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1352118015621916,
+            "font_size": 42,
+            "top_left": [
+                30,
+                1225
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                282,
+                1429
+            ],
+            "content": "公司简介",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1505953208658855,
+            "font_size": 48,
+            "top_left": [
+                42,
+                1384
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                284,
+                1586
+            ],
+            "content": "媒体资讯",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1505953208658855,
+            "font_size": 48,
+            "top_left": [
+                44,
+                1539
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                85,
+                1742
+            ],
+            "content": "口",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09185878884622212,
+            "font_size": 40,
+            "top_left": [
+                45,
+                1698
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                285,
+                1742
+            ],
+            "content": "投资者关系",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1505953208658855,
+            "font_size": 40,
+            "top_left": [
+                85,
+                1698
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                283,
+                1901
+            ],
+            "content": "加入我们",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1505953208658855,
+            "font_size": 42,
+            "top_left": [
+                115,
+                1855
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                169,
+                2062
+            ],
+            "content": "语言",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20201459306573377,
+            "font_size": 46,
+            "top_left": [
+                31,
+                2011
+            ]
+        },
+        {
+            "bg_color": [
+                22,
+                53,
+                127
+            ],
+            "bottom_right": [
+                410,
+                2161
+            ],
+            "content": "难知服分",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2179914256718933,
+            "font_size": 53,
+            "top_left": [
+                198,
+                2113
+            ]
+        },
+        {
+            "bg_color": [
+                22,
+                53,
+                127
+            ],
+            "bottom_right": [
+                494,
+                2227
+            ],
+            "content": "全方位触达您的用户",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16412540869387968,
+            "font_size": 33,
+            "top_left": [
+                197,
+                2182
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "95bd6b1729cff7352d09717b35a6e0f416532c617bbacf00c7e01fa69d02122d"
+}

@@ -1,0 +1,487 @@
+{
+    "ui_id": "6c5bbaf2ae07a04e821d8d584d38b782bd78c57f988396272dffc2a0070d06fb",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "我的关注",
+            "top_left": [
+                440,
+                131
+            ],
+            "bottom_right": [
+                636,
+                193
+            ],
+            "font_size": 49,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "你还没有关注的人呢",
+            "top_left": [
+                325,
+                623
+            ],
+            "bottom_right": [
+                748,
+                684
+            ],
+            "font_size": 47,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "去关注有意思的人吧",
+            "top_left": [
+                354,
+                696
+            ],
+            "bottom_right": [
+                723,
+                753
+            ],
+            "font_size": 41,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                163,
+                163,
+                163
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "你可能感兴趣的人",
+            "top_left": [
+                41,
+                929
+            ],
+            "bottom_right": [
+                409,
+                990
+            ],
+            "font_size": 46,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011178253236546889,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "unnan",
+            "top_left": [
+                526,
+                1055
+            ],
+            "bottom_right": [
+                636,
+                1077
+            ],
+            "font_size": 22,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08857693795184655,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "知名生活领域达人",
+            "top_left": [
+                440,
+                1133
+            ],
+            "bottom_right": [
+                560,
+                1155
+            ],
+            "font_size": 15,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.19471448345258008,
+            "bg_color": [
+                247,
+                246,
+                246
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "一个被唠嗜耽误的设计师",
+            "top_left": [
+                440,
+                1155
+            ],
+            "bottom_right": [
+                594,
+                1178
+            ],
+            "font_size": 14,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.021331897369984112,
+            "bg_color": [
+                190,
+                188,
+                188
+            ]
+        },
+        {
+            "content_id": "8",
+            "content": "艺麻信用未搜极10浙",
+            "top_left": [
+                439,
+                1181
+            ],
+            "bottom_right": [
+                579,
+                1203
+            ],
+            "font_size": 14,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16870859768235025,
+            "bg_color": [
+                246,
+                245,
+                247
+            ]
+        },
+        {
+            "content_id": "9",
+            "content": "Thurman猫一杯",
+            "top_left": [
+                56,
+                1227
+            ],
+            "bottom_right": [
+                356,
+                1271
+            ],
+            "font_size": 30,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "10",
+            "content": "时尚玩家",
+            "top_left": [
+                143,
+                1279
+            ],
+            "bottom_right": [
+                267,
+                1321
+            ],
+            "font_size": 31,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "11",
+            "content": "粉丝数55万",
+            "top_left": [
+                128,
+                1319
+            ],
+            "bottom_right": [
+                284,
+                1358
+            ],
+            "font_size": 26,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                163,
+                163,
+                163
+            ]
+        },
+        {
+            "content_id": "12",
+            "content": "宝贝听活动’站子评价。动态”",
+            "top_left": [
+                427,
+                1354
+            ],
+            "bottom_right": [
+                763,
+                1392
+            ],
+            "font_size": 24,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18701045444566503,
+            "bg_color": [
+                247,
+                247,
+                247
+            ]
+        },
+        {
+            "content_id": "13",
+            "content": "+关注",
+            "top_left": [
+                141,
+                1402
+            ],
+            "bottom_right": [
+                270,
+                1445
+            ],
+            "font_size": 43,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5765083675490589,
+            "bg_color": [
+                255,
+                230,
+                15
+            ]
+        },
+        {
+            "content_id": "14",
+            "content": "799919日闲一",
+            "top_left": [
+                427,
+                1410
+            ],
+            "bottom_right": [
+                751,
+                1452
+            ],
+            "font_size": 36,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18220826366164583,
+            "bg_color": [
+                165,
+                103,
+                110
+            ]
+        },
+        {
+            "content_id": "15",
+            "content": "￥8.8",
+            "top_left": [
+                754,
+                1410
+            ],
+            "bottom_right": [
+                898,
+                1452
+            ],
+            "font_size": 36,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.16220854600923507,
+            "bg_color": [
+                160,
+                166,
+                168
+            ]
+        },
+        {
+            "content_id": "16",
+            "content": "小时7分G",
+            "top_left": [
+                539,
+                1443
+            ],
+            "bottom_right": [
+                594,
+                1463
+            ],
+            "font_size": 11,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.0890411936156607,
+            "bg_color": [
+                160,
+                107,
+                110
+            ]
+        },
+        {
+            "content_id": "17",
+            "content": "臭蛋的闲置",
+            "top_left": [
+                101,
+                1745
+            ],
+            "bottom_right": [
+                311,
+                1790
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                210,
+                210,
+                210
+            ]
+        },
+        {
+            "content_id": "18",
+            "content": "时尚玩家",
+            "top_left": [
+                144,
+                1799
+            ],
+            "bottom_right": [
+                268,
+                1840
+            ],
+            "font_size": 31,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0024416139731269436,
+            "bg_color": [
+                226,
+                226,
+                226
+            ]
+        },
+        {
+            "content_id": "19",
+            "content": "粉丝数49.8万",
+            "top_left": [
+                114,
+                1838
+            ],
+            "bottom_right": [
+                298,
+                1880
+            ],
+            "font_size": 23,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "20",
+            "content": "+关注",
+            "top_left": [
+                141,
+                1926
+            ],
+            "bottom_right": [
+                270,
+                1969
+            ],
+            "font_size": 43,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5810823962395497,
+            "bg_color": [
+                255,
+                230,
+                15
+            ]
+        },
+        {
+            "content_id": "21",
+            "content": "linsax",
+            "top_left": [
+                782,
+                2106
+            ],
+            "bottom_right": [
+                866,
+                2143
+            ],
+            "font_size": 14,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.09052482327857038,
+            "bg_color": [
+                176,
+                200,
+                201
+            ]
+        },
+        {
+            "content_id": "22",
+            "content": "mini70",
+            "top_left": [
+                782,
+                2135
+            ],
+            "bottom_right": [
+                848,
+                2160
+            ],
+            "font_size": 11,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.056304210874986924,
+            "bg_color": [
+                203,
+                215,
+                215
+            ]
+        },
+        {
+            "content_id": "23",
+            "content": "奥黛丽厚本",
+            "top_left": [
+                101,
+                2268
+            ],
+            "bottom_right": [
+                311,
+                2314
+            ],
+            "font_size": 42,
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5442790393782945,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "24",
+            "content": "家居玩家",
+            "top_left": [
+                143,
+                2325
+            ],
+            "bottom_right": [
+                267,
+                2361
+            ],
+            "font_size": 31,
+            "contrast": "不太强烈",
+            "contrast_dist": 0.0033051696631697302,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

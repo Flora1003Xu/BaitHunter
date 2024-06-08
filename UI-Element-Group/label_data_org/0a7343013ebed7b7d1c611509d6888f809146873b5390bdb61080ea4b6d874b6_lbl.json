@@ -1,0 +1,44 @@
+{
+    "data": [
+      {
+        "click_id": "3",
+        "click_content": "更换手机号",
+        "group": [
+          {
+            "content_id": "3",
+            "content": "更换手机号"
+          }
+        ]
+      },
+      {
+        "click_id": "4",
+        "click_content": "忘记账号",
+        "group": [
+          {
+            "content_id": "4",
+            "content": "忘记账号"
+          }
+        ]
+      },
+      {
+        "click_id": "5",
+        "click_content": "登录设备",
+        "group": [
+          {
+            "content_id": "5",
+            "content": "登录设备"
+          }
+        ]
+      },
+      {
+        "click_id": "6",
+        "click_content": "投屏问题",
+        "group": [
+          {
+            "content_id": "6",
+            "content": "投屏问题"
+          }
+        ]
+      }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "ui_id": "59dfa221780f2f79b9347998ab7c3459d5c7dce1019ce7bc87fa1489a3287dc7",
+    "imgW": 1080,
+    "imgH": 2400,
+    "content": [
+        {
+            "content_id": "1",
+            "content": "消息通知",
+            "top_left": [
+                412,
+                132
+            ],
+            "bottom_right": [
+                652,
+                198
+            ],
+            "font_size": 60,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "2",
+            "content": "通知栏消息",
+            "top_left": [
+                42,
+                309
+            ],
+            "bottom_right": [
+                267,
+                370
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "3",
+            "content": "消息接收个性化设着",
+            "top_left": [
+                42,
+                445
+            ],
+            "bottom_right": [
+                438,
+                506
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "4",
+            "content": "桌面图标红点",
+            "top_left": [
+                43,
+                578
+            ],
+            "bottom_right": [
+                313,
+                636
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "5",
+            "content": "应用内横幅通知",
+            "top_left": [
+                44,
+                751
+            ],
+            "bottom_right": [
+                352,
+                811
+            ],
+            "font_size": 44,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "6",
+            "content": "福利悬浮婢",
+            "top_left": [
+                42,
+                884
+            ],
+            "bottom_right": [
+                267,
+                946
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        },
+        {
+            "content_id": "7",
+            "content": "垃圾过多通知",
+            "top_left": [
+                43,
+                1017
+            ],
+            "bottom_right": [
+                313,
+                1075
+            ],
+            "font_size": 45,
+            "contrast": "比较强烈",
+            "contrast_dist": 0.013193640238535479,
+            "bg_color": [
+                255,
+                255,
+                255
+            ]
+        }
+    ]
+}

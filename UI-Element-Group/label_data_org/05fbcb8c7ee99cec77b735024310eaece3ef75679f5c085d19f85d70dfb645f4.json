@@ -1,0 +1,647 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                250,
+                250,
+                250
+            ],
+            "bottom_right": [
+                222,
+                193
+            ],
+            "content": "<返回",
+            "content_id": "1",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.011045149038946888,
+            "font_size": 65,
+            "top_left": [
+                27,
+                131
+            ]
+        },
+        {
+            "bg_color": [
+                250,
+                250,
+                250
+            ],
+            "bottom_right": [
+                613,
+                193
+            ],
+            "content": "微博积分乐园",
+            "content_id": "2",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.008177060396735103,
+            "font_size": 65,
+            "top_left": [
+                223,
+                131
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                95,
+                88
+            ],
+            "bottom_right": [
+                818,
+                290
+            ],
+            "content": "女足世界杯#,做任务抽手机等好礼",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1702593154578733,
+            "font_size": 36,
+            "top_left": [
+                242,
+                247
+            ]
+        },
+        {
+            "bg_color": [
+                98,
+                37,
+                8
+            ],
+            "bottom_right": [
+                182,
+                433
+            ],
+            "content": "当前积分",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24592095497051478,
+            "font_size": 35,
+            "top_left": [
+                42,
+                388
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                10,
+                42
+            ],
+            "bottom_right": [
+                1008,
+                479
+            ],
+            "content": "领领",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.25878785385657394,
+            "font_size": 20,
+            "top_left": [
+                968,
+                442
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                773,
+                518
+            ],
+            "content": "自记录",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23281735342280604,
+            "font_size": 58,
+            "top_left": [
+                599,
+                473
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                947,
+                518
+            ],
+            "content": "赚积分",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23281735342280604,
+            "font_size": 58,
+            "top_left": [
+                773,
+                473
+            ]
+        },
+        {
+            "bg_color": [
+                254,
+                246,
+                245
+            ],
+            "bottom_right": [
+                822,
+                899
+            ],
+            "content": "积分天天抽奖",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08445779802841552,
+            "font_size": 14,
+            "top_left": [
+                780,
+                878
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                89,
+                26
+            ],
+            "bottom_right": [
+                356,
+                975
+            ],
+            "content": "1积分",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22880223607916186,
+            "font_size": 48,
+            "top_left": [
+                212,
+                930
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                241
+            ],
+            "bottom_right": [
+                502,
+                975
+            ],
+            "content": "2积分",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2090640890478577,
+            "font_size": 48,
+            "top_left": [
+                358,
+                930
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                243
+            ],
+            "bottom_right": [
+                792,
+                975
+            ],
+            "content": "SK2神仙水",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2301094080741771,
+            "font_size": 48,
+            "top_left": [
+                504,
+                930
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                243
+            ],
+            "bottom_right": [
+                893,
+                1015
+            ],
+            "content": "参与1次可抽",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2230234929457892,
+            "font_size": 30,
+            "top_left": [
+                713,
+                972
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                243
+            ],
+            "bottom_right": [
+                381,
+                1218
+            ],
+            "content": "游戏机",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.08792140589039191,
+            "font_size": 60,
+            "top_left": [
+                201,
+                1171
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                242
+            ],
+            "bottom_right": [
+                561,
+                1218
+            ],
+            "content": "5积分",
+            "content_id": "14",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22741452210964982,
+            "font_size": 60,
+            "top_left": [
+                381,
+                1171
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                242,
+                242
+            ],
+            "bottom_right": [
+                741,
+                1218
+            ],
+            "content": "8积分",
+            "content_id": "15",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.20999074746871646,
+            "font_size": 60,
+            "top_left": [
+                561,
+                1171
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                243
+            ],
+            "bottom_right": [
+                351,
+                1257
+            ],
+            "content": "参与2次可抽",
+            "content_id": "16",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2230234929457892,
+            "font_size": 30,
+            "top_left": [
+                171,
+                1214
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                93,
+                28
+            ],
+            "bottom_right": [
+                391,
+                1461
+            ],
+            "content": "10积分",
+            "content_id": "17",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22978758082971806,
+            "font_size": 48,
+            "top_left": [
+                199,
+                1414
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                70,
+                14
+            ],
+            "bottom_right": [
+                585,
+                1461
+            ],
+            "content": "88积分",
+            "content_id": "18",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22978758082971806,
+            "font_size": 48,
+            "top_left": [
+                393,
+                1414
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                238,
+                237
+            ],
+            "bottom_right": [
+                779,
+                1461
+            ],
+            "content": "神秘大礼",
+            "content_id": "19",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1989412584013313,
+            "font_size": 48,
+            "top_left": [
+                587,
+                1414
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                243,
+                243
+            ],
+            "bottom_right": [
+                904,
+                1500
+            ],
+            "content": "参与3次可抽",
+            "content_id": "20",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2230234929457892,
+            "font_size": 32,
+            "top_left": [
+                712,
+                1457
+            ]
+        },
+        {
+            "bg_color": [
+                253,
+                74,
+                49
+            ],
+            "bottom_right": [
+                788,
+                1588
+            ],
+            "content": "参与3次,即可解锁神秘大奖",
+            "content_id": "21",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17492828655820866,
+            "font_size": 40,
+            "top_left": [
+                268,
+                1543
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                225,
+                84
+            ],
+            "bottom_right": [
+                755,
+                1715
+            ],
+            "content": "参与抽奖3积分1次",
+            "content_id": "22",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.18570885839581297,
+            "font_size": 43,
+            "top_left": [
+                368,
+                1656
+            ]
+        },
+        {
+            "bg_color": [
+                99,
+                99,
+                99
+            ],
+            "bottom_right": [
+                188,
+                1841
+            ],
+            "content": "1山以,",
+            "content_id": "23",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.24153174857847357,
+            "font_size": 29,
+            "top_left": [
+                72,
+                1788
+            ]
+        },
+        {
+            "bg_color": [
+                99,
+                99,
+                99
+            ],
+            "bottom_right": [
+                217,
+                1841
+            ],
+            "content": "1",
+            "content_id": "24",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23869546568093608,
+            "font_size": 29,
+            "top_left": [
+                188,
+                1788
+            ]
+        },
+        {
+            "bg_color": [
+                99,
+                99,
+                99
+            ],
+            "bottom_right": [
+                275,
+                1841
+            ],
+            "content": "Lu",
+            "content_id": "25",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2419799928183873,
+            "font_size": 29,
+            "top_left": [
+                217,
+                1788
+            ]
+        },
+        {
+            "bg_color": [
+                245,
+                55,
+                37
+            ],
+            "bottom_right": [
+                362,
+                1841
+            ],
+            "content": "1一国",
+            "content_id": "26",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2329043641683466,
+            "font_size": 29,
+            "top_left": [
+                275,
+                1788
+            ]
+        },
+        {
+            "bg_color": [
+                245,
+                55,
+                37
+            ],
+            "bottom_right": [
+                536,
+                1841
+            ],
+            "content": "UJ心ULI",
+            "content_id": "27",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23225498780431741,
+            "font_size": 29,
+            "top_left": [
+                362,
+                1788
+            ]
+        },
+        {
+            "bg_color": [
+                99,
+                99,
+                99
+            ],
+            "bottom_right": [
+                182,
+                1886
+            ],
+            "content": "数是?",
+            "content_id": "28",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.015036966548616899,
+            "font_size": 36,
+            "top_left": [
+                74,
+                1840
+            ]
+        },
+        {
+            "bg_color": [
+                99,
+                99,
+                99
+            ],
+            "bottom_right": [
+                694,
+                1917
+            ],
+            "content": "关注微博积分",
+            "content_id": "29",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.15860815968655978,
+            "font_size": 52,
+            "top_left": [
+                382,
+                1868
+            ]
+        },
+        {
+            "bg_color": [
+                101,
+                42,
+                22
+            ],
+            "bottom_right": [
+                766,
+                2177
+            ],
+            "content": "为世界杯助威礼品等你来抽",
+            "content_id": "30",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.257473667215315,
+            "font_size": 38,
+            "top_left": [
+                310,
+                2130
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                797,
+                2357
+            ],
+            "content": "图限量抽大奖",
+            "content_id": "31",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2528773744844258,
+            "font_size": 69,
+            "top_left": [
+                383,
+                2303
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                102,
+                102
+            ],
+            "bottom_right": [
+                938,
+                2357
+            ],
+            "content": "全部",
+            "content_id": "32",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.006807431863384081,
+            "font_size": 69,
+            "top_left": [
+                800,
+                2303
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "05fbcb8c7ee99cec77b735024310eaece3ef75679f5c085d19f85d70dfb645f4"
+}

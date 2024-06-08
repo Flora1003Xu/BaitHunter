@@ -1,0 +1,447 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                95,
+                79,
+                57
+            ],
+            "bottom_right": [
+                935,
+                138
+            ],
+            "content": "VIP",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5752666436233889,
+            "font_size": 18,
+            "top_left": [
+                881,
+                100
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                0,
+                0
+            ],
+            "bottom_right": [
+                680,
+                315
+            ],
+            "content": "这个节目挺真实的",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5421391913735716,
+            "font_size": 55,
+            "top_left": [
+                240,
+                256
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                0,
+                0
+            ],
+            "bottom_right": [
+                1011,
+                315
+            ],
+            "content": "首播这个热闹",
+            "content_id": "3",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.5421391913735716,
+            "font_size": 55,
+            "top_left": [
+                681,
+                256
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                10,
+                8
+            ],
+            "bottom_right": [
+                861,
+                489
+            ],
+            "content": "我的现金",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11510679934423876,
+            "font_size": 34,
+            "top_left": [
+                725,
+                444
+            ]
+        },
+        {
+            "bg_color": [
+                12,
+                10,
+                8
+            ],
+            "bottom_right": [
+                867,
+                557
+            ],
+            "content": "0.01元",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.11515049659004578,
+            "font_size": 29,
+            "top_left": [
+                722,
+                492
+            ]
+        },
+        {
+            "bg_color": [
+                16,
+                16,
+                16
+            ],
+            "bottom_right": [
+                1019,
+                624
+            ],
+            "content": "01/6",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.23245071243792317,
+            "font_size": 27,
+            "top_left": [
+                911,
+                582
+            ]
+        },
+        {
+            "bg_color": [
+                102,
+                92,
+                59
+            ],
+            "bottom_right": [
+                1005,
+                740
+            ],
+            "content": "基础会员超低价",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.2725133748551361,
+            "font_size": 38,
+            "top_left": [
+                739,
+                694
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                638,
+                932
+            ],
+            "content": "活动规则",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 53,
+            "top_left": [
+                426,
+                871
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                827,
+                1096
+            ],
+            "content": "完成邀请人数的要求,您与好友",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07410669710844493,
+            "font_size": 44,
+            "top_left": [
+                211,
+                1034
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                828,
+                1168
+            ],
+            "content": "均可获得极速版会员卡,激活后",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07410669710844493,
+            "font_size": 44,
+            "top_left": [
+                212,
+                1107
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                863,
+                1239
+            ],
+            "content": "可免费观看VIP视频。活动细则详",
+            "content_id": "11",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07410669710844493,
+            "font_size": 40,
+            "top_left": [
+                223,
+                1179
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                455,
+                1312
+            ],
+            "content": "见活动页面",
+            "content_id": "12",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.07410669710844493,
+            "font_size": 46,
+            "top_left": [
+                225,
+                1250
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                610,
+                1613
+            ],
+            "content": "知道了",
+            "content_id": "13",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.22261577610163946,
+            "font_size": 52,
+            "top_left": [
+                454,
+                1550
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                10,
+                10
+            ],
+            "bottom_right": [
+                199,
+                1778
+            ],
+            "content": "分享至",
+            "content_id": "14",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03615699912941106,
+            "font_size": 52,
+            "top_left": [
+                43,
+                1722
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                10,
+                10
+            ],
+            "bottom_right": [
+                212,
+                2039
+            ],
+            "content": "微信好友",
+            "content_id": "15",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03615699912941106,
+            "font_size": 39,
+            "top_left": [
+                56,
+                1995
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                10,
+                10
+            ],
+            "bottom_right": [
+                330,
+                2039
+            ],
+            "content": "朋友圈",
+            "content_id": "16",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03615699912941106,
+            "font_size": 39,
+            "top_left": [
+                213,
+                1995
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                10,
+                10
+            ],
+            "bottom_right": [
+                486,
+                2039
+            ],
+            "content": "复制链接",
+            "content_id": "17",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03615699912941106,
+            "font_size": 39,
+            "top_left": [
+                330,
+                1995
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                10,
+                10
+            ],
+            "bottom_right": [
+                240,
+                2298
+            ],
+            "content": "清屏模式",
+            "content_id": "18",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03615699912941106,
+            "font_size": 46,
+            "top_left": [
+                56,
+                2245
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                10,
+                10
+            ],
+            "bottom_right": [
+                333,
+                2298
+            ],
+            "content": "收瘤",
+            "content_id": "19",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03615699912941106,
+            "font_size": 46,
+            "top_left": [
+                241,
+                2245
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                10,
+                10
+            ],
+            "bottom_right": [
+                471,
+                2298
+            ],
+            "content": "不喜欢",
+            "content_id": "20",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03451838412493328,
+            "font_size": 46,
+            "top_left": [
+                333,
+                2245
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                10,
+                10
+            ],
+            "bottom_right": [
+                564,
+                2298
+            ],
+            "content": "举报",
+            "content_id": "21",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03615699912941106,
+            "font_size": 46,
+            "top_left": [
+                472,
+                2245
+            ]
+        },
+        {
+            "bg_color": [
+                10,
+                10,
+                10
+            ],
+            "bottom_right": [
+                748,
+                2298
+            ],
+            "content": "问题反馈",
+            "content_id": "22",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.03615699912941106,
+            "font_size": 46,
+            "top_left": [
+                564,
+                2245
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "2ee72a7530acb29f08c7a99ca3d03dc549370ad2a099f44c357bc42a60db43a8"
+}

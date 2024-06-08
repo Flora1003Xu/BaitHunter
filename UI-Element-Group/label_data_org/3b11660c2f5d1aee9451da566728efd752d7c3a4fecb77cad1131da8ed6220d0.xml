@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sinacare</folder>
+	<filename>3b11660c2f5d1aee9451da566728efd752d7c3a4fecb77cad1131da8ed6220d0.png</filename>
+	<path>C:\Users\86136\PycharmProjects\pythonProject\result_final\sinacare\3b11660c2f5d1aee9451da566728efd752d7c3a4fecb77cad1131da8ed6220d0.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui_group</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>706</ymin>
+			<xmax>969</xmax>
+			<ymax>1365</ymax>
+		</bndbox>
+	</object>
+</annotation>

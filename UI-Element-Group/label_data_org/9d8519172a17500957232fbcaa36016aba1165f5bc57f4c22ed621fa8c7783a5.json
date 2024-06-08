@@ -1,0 +1,207 @@
+{
+    "content": [
+        {
+            "bg_color": [
+                0,
+                136,
+                255
+            ],
+            "bottom_right": [
+                403,
+                375
+            ],
+            "content": "欢",
+            "content_id": "1",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1798260266868281,
+            "font_size": 55,
+            "top_left": [
+                348,
+                302
+            ]
+        },
+        {
+            "bg_color": [
+                1,
+                136,
+                255
+            ],
+            "bottom_right": [
+                663,
+                375
+            ],
+            "content": "迎登录",
+            "content_id": "2",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.17982569014432967,
+            "font_size": 55,
+            "top_left": [
+                403,
+                302
+            ]
+        },
+        {
+            "bg_color": [
+                224,
+                239,
+                255
+            ],
+            "bottom_right": [
+                449,
+                485
+            ],
+            "content": "陪伴生活每一天",
+            "content_id": "3",
+            "contrast": "比较强烈",
+            "contrast_dist": 0.04693954449907665,
+            "font_size": 50,
+            "top_left": [
+                99,
+                421
+            ]
+        },
+        {
+            "bg_color": [
+                240,
+                243,
+                245
+            ],
+            "bottom_right": [
+                685,
+                783
+            ],
+            "content": "178****6438",
+            "content_id": "4",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06479880495293822,
+            "font_size": 52,
+            "top_left": [
+                113,
+                721
+            ]
+        },
+        {
+            "bg_color": [
+                240,
+                243,
+                245
+            ],
+            "bottom_right": [
+                897,
+                783
+            ],
+            "content": "切换号码",
+            "content_id": "5",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.170936678736863,
+            "font_size": 52,
+            "top_left": [
+                689,
+                721
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                964,
+                973
+            ],
+            "content": "同意《中国移动认证服务条款》《法律条款与隐私政策》",
+            "content_id": "6",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1798260266868281,
+            "font_size": 33,
+            "top_left": [
+                139,
+                926
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                522,
+                1012
+            ],
+            "content": "并授权哈啰获取本机号码",
+            "content_id": "7",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.053921063825018364,
+            "font_size": 38,
+            "top_left": [
+                142,
+                967
+            ]
+        },
+        {
+            "bg_color": [
+                0,
+                136,
+                255
+            ],
+            "bottom_right": [
+                638,
+                1163
+            ],
+            "content": "一键登录",
+            "content_id": "8",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.1798260266868281,
+            "font_size": 52,
+            "top_left": [
+                482,
+                1100
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                653,
+                1318
+            ],
+            "content": "登录遇到问题",
+            "content_id": "9",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.06293086042517153,
+            "font_size": 40,
+            "top_left": [
+                413,
+                1273
+            ]
+        },
+        {
+            "bg_color": [
+                255,
+                255,
+                255
+            ],
+            "bottom_right": [
+                638,
+                1979
+            ],
+            "content": "其他登录方式",
+            "content_id": "10",
+            "contrast": "十分强烈",
+            "contrast_dist": 0.053921063825018364,
+            "font_size": 35,
+            "top_left": [
+                428,
+                1931
+            ]
+        }
+    ],
+    "imgH": 2400,
+    "imgW": 1080,
+    "ui_id": "9d8519172a17500957232fbcaa36016aba1165f5bc57f4c22ed621fa8c7783a5"
+}
